@@ -1,0 +1,11 @@
+/* 
+  Localization.strings
+  YaohuaCamera
+
+ //  Created by Luhongbin on 2017/6/22.
+ //  Copyright © 2017年 com.cnymec.Camera. All rights reserved.
+ //
+*/
+"ADD_NEW_DEVICE" = "Add camera";
+"MANUAL_INPUT" = "Manual Input";
+"RAPID_CONFIGURATION"= "Rapid Configuration";

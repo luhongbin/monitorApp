@@ -1,0 +1,1065 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 48;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		3E3D68B51E6ABA44003E2F13 /* AudioToolbox.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3EF425F41E63F792005E5CC9 /* AudioToolbox.framework */; };
+		3EF424F11E63CB5D005E5CC9 /* VideoToolbox.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3EF424F01E63CB5D005E5CC9 /* VideoToolbox.framework */; };
+		3EF424F31E63CB62005E5CC9 /* GLKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3EF424F21E63CB62005E5CC9 /* GLKit.framework */; };
+		3EF424F51E63CB69005E5CC9 /* OpenGLES.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3EF424F41E63CB69005E5CC9 /* OpenGLES.framework */; };
+		3EF424F71E63CB6F005E5CC9 /* AVFoundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3EF424F61E63CB6F005E5CC9 /* AVFoundation.framework */; };
+		3EF424F91E63CB75005E5CC9 /* MediaPlayer.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3EF424F81E63CB75005E5CC9 /* MediaPlayer.framework */; };
+		3EF424FB1E63CB82005E5CC9 /* OpenAL.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3EF424FA1E63CB82005E5CC9 /* OpenAL.framework */; };
+		3EF424FD1E63CB89005E5CC9 /* libresolv.tbd in Frameworks */ = {isa = PBXBuildFile; fileRef = 3EF424FC1E63CB89005E5CC9 /* libresolv.tbd */; };
+		3EF424FF1E63CB8F005E5CC9 /* libiconv.tbd in Frameworks */ = {isa = PBXBuildFile; fileRef = 3EF424FE1E63CB8F005E5CC9 /* libiconv.tbd */; };
+		3EF425011E63CB95005E5CC9 /* libbz2.tbd in Frameworks */ = {isa = PBXBuildFile; fileRef = 3EF425001E63CB95005E5CC9 /* libbz2.tbd */; };
+		3EF425031E63CB9D005E5CC9 /* libstdc++.6.0.9.tbd in Frameworks */ = {isa = PBXBuildFile; fileRef = 3EF425021E63CB9D005E5CC9 /* libstdc++.6.0.9.tbd */; };
+		3EF425F71E63F7C3005E5CC9 /* libz.tbd in Frameworks */ = {isa = PBXBuildFile; fileRef = 3EF425F61E63F7C3005E5CC9 /* libz.tbd */; };
+		3EF425F81E63F95C005E5CC9 /* CoreMedia.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3EF425F11E63F730005E5CC9 /* CoreMedia.framework */; };
+		430FD12D20FFC76E00775589 /* PasswordView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 430FD12B20FFC76E00775589 /* PasswordView.swift */; };
+		430FD12E20FFC76E00775589 /* PasswordView.xib in Resources */ = {isa = PBXBuildFile; fileRef = 430FD12C20FFC76E00775589 /* PasswordView.xib */; };
+		43182B32202FC1C100186746 /* Assets.xcassets in Sources */ = {isa = PBXBuildFile; fileRef = EF09655B1EFBB26C0047E5A9 /* Assets.xcassets */; };
+		4323FED920FBA2610007A32A /* SwiftyJSON.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 4323FED820FBA2610007A32A /* SwiftyJSON.framework */; };
+		4349652420FB108600293428 /* MBProgressHUD.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 4349652020FB108400293428 /* MBProgressHUD.framework */; };
+		434C93F520F5A352008B418D /* UIAlertAction+Extensions.swift in Sources */ = {isa = PBXBuildFile; fileRef = 434C93F420F5A352008B418D /* UIAlertAction+Extensions.swift */; };
+		434C93F720F5A3CD008B418D /* AlertViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 434C93F620F5A3CD008B418D /* AlertViewController.swift */; };
+		436B1F262102D9DA00BD3999 /* OKViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 436B1F242102D9D900BD3999 /* OKViewController.xib */; };
+		436B1F272102D9DA00BD3999 /* OKViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 436B1F252102D9D900BD3999 /* OKViewController.swift */; };
+		4372FC6120FB7452001D9F09 /* CustomAlertView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4372FC6020FB7452001D9F09 /* CustomAlertView.swift */; };
+		4393DC552079E8BB00D69F62 /* timezones.plist in Resources */ = {isa = PBXBuildFile; fileRef = 4393DC542079E8BB00D69F62 /* timezones.plist */; };
+		43B0A01E20AEC1140061E05B /* MainViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 43B0A01D20AEC1130061E05B /* MainViewCell.swift */; };
+		43B0A02020AEC2630061E05B /* MainViewCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = 43B0A01F20AEC2630061E05B /* MainViewCell.xib */; };
+		43BF410C203FCF15001EE8F0 /* ProcessViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 43BF410A203FCF15001EE8F0 /* ProcessViewController.swift */; };
+		43BF4111204006CB001EE8F0 /* ProcessViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 43BF4110204005B1001EE8F0 /* ProcessViewController.xib */; };
+		43DEFC4720FDD8AA003A0413 /* PasswordTextField.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 43DEFC4620FDD8AA003A0413 /* PasswordTextField.framework */; };
+		43DEFC4920FDDE5C003A0413 /* IQKeyboardManagerSwift.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 43DEFC4820FDDE5C003A0413 /* IQKeyboardManagerSwift.framework */; };
+		A128F97F1E7669BA00DDEB3B /* UserNotifications.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = A128F97E1E7669BA00DDEB3B /* UserNotifications.framework */; settings = {ATTRIBUTES = (Weak, ); }; };
+		A185A22C1EB2EE290015617C /* AVKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = A185A22B1EB2EE290015617C /* AVKit.framework */; };
+		A1F19DA51EAF7B6D0011DC60 /* AssetsLibrary.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = A1F19DA41EAF7B6D0011DC60 /* AssetsLibrary.framework */; };
+		EF09657F1EFBB26C0047E5A9 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = EF09655A1EFBB26C0047E5A9 /* AppDelegate.swift */; };
+		EF0965801EFBB26C0047E5A9 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = EF09655B1EFBB26C0047E5A9 /* Assets.xcassets */; };
+		EF0965821EFBB26C0047E5A9 /* Device.swift in Sources */ = {isa = PBXBuildFile; fileRef = EF09655D1EFBB26C0047E5A9 /* Device.swift */; };
+		EF0965831EFBB26C0047E5A9 /* DeviceNameControllerViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = EF09655E1EFBB26C0047E5A9 /* DeviceNameControllerViewController.swift */; };
+		EF0965841EFBB26C0047E5A9 /* DeviceNameControllerViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = EF09655F1EFBB26C0047E5A9 /* DeviceNameControllerViewController.xib */; };
+		EF0965861EFBB26C0047E5A9 /* Extention.swift in Sources */ = {isa = PBXBuildFile; fileRef = EF0965611EFBB26C0047E5A9 /* Extention.swift */; };
+		EF0965871EFBB26C0047E5A9 /* GuideViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = EF0965621EFBB26C0047E5A9 /* GuideViewController.swift */; };
+		EF0965881EFBB26C0047E5A9 /* GuideViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = EF0965631EFBB26C0047E5A9 /* GuideViewController.xib */; };
+		EF0965891EFBB26C0047E5A9 /* InductionModelCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = EF0965641EFBB26C0047E5A9 /* InductionModelCell.swift */; };
+		EF09658A1EFBB26C0047E5A9 /* InductionModelCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = EF0965651EFBB26C0047E5A9 /* InductionModelCell.xib */; };
+		EF09658B1EFBB26C0047E5A9 /* InductionSettingController.swift in Sources */ = {isa = PBXBuildFile; fileRef = EF0965661EFBB26C0047E5A9 /* InductionSettingController.swift */; };
+		EF09658C1EFBB26C0047E5A9 /* InductionSettingController.xib in Resources */ = {isa = PBXBuildFile; fileRef = EF0965671EFBB26C0047E5A9 /* InductionSettingController.xib */; };
+		EF09658E1EFBB26C0047E5A9 /* LAMP.swift in Sources */ = {isa = PBXBuildFile; fileRef = EF0965691EFBB26C0047E5A9 /* LAMP.swift */; };
+		EF0965901EFBB26C0047E5A9 /* MainController.swift in Sources */ = {isa = PBXBuildFile; fileRef = EF09656B1EFBB26C0047E5A9 /* MainController.swift */; };
+		EF0965961EFBB26C0047E5A9 /* MoreViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = EF0965711EFBB26C0047E5A9 /* MoreViewController.swift */; };
+		EF0965971EFBB26C0047E5A9 /* MoreViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = EF0965721EFBB26C0047E5A9 /* MoreViewController.xib */; };
+		EF0965981EFBB26C0047E5A9 /* NewCameraController.swift in Sources */ = {isa = PBXBuildFile; fileRef = EF0965731EFBB26C0047E5A9 /* NewCameraController.swift */; };
+		EF09659A1EFBB26C0047E5A9 /* QuickConfigController.swift in Sources */ = {isa = PBXBuildFile; fileRef = EF0965751EFBB26C0047E5A9 /* QuickConfigController.swift */; };
+		EF09659B1EFBB26C0047E5A9 /* QuickConfigController.xib in Resources */ = {isa = PBXBuildFile; fileRef = EF0965761EFBB26C0047E5A9 /* QuickConfigController.xib */; };
+		EF09659C1EFBB26C0047E5A9 /* SettingViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = EF0965771EFBB26C0047E5A9 /* SettingViewCell.swift */; };
+		EF09659D1EFBB26C0047E5A9 /* SettingViewCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = EF0965781EFBB26C0047E5A9 /* SettingViewCell.xib */; };
+		EF09659F1EFBB26C0047E5A9 /* UIDeviceExtension.swift in Sources */ = {isa = PBXBuildFile; fileRef = EF09657A1EFBB26C0047E5A9 /* UIDeviceExtension.swift */; };
+		EF1426371F21FB0500250833 /* ControlPlist.m in Sources */ = {isa = PBXBuildFile; fileRef = EF1426361F21FB0500250833 /* ControlPlist.m */; };
+		EF15CF881F2F2DA600C6A834 /* ChkVersionMgr.swift in Sources */ = {isa = PBXBuildFile; fileRef = EF15CF871F2F2DA600C6A834 /* ChkVersionMgr.swift */; };
+		EF1A1F121F4A0E80000DC394 /* webservice.m in Sources */ = {isa = PBXBuildFile; fileRef = EF1A1F111F4A0E80000DC394 /* webservice.m */; };
+		EF2779701F3C5959000EC1DF /* NotificationCenter.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = EF27796F1F3C5959000EC1DF /* NotificationCenter.framework */; };
+		EF303CF41FC2C67400A80859 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = EF4271361F082A4C00BF6424 /* LaunchScreen.storyboard */; };
+		EF32ED981EFE52F300C72D48 /* Photos.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = EF32ED971EFE52F300C72D48 /* Photos.framework */; };
+		EF32ED9A1EFE530E00C72D48 /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = EF32ED991EFE530E00C72D48 /* CoreGraphics.framework */; };
+		EF32ED9C1EFE532D00C72D48 /* QuartzCore.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = EF32ED9B1EFE532D00C72D48 /* QuartzCore.framework */; };
+		EF32ED9E1EFE537400C72D48 /* SystemConfiguration.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = EF32ED9D1EFE537400C72D48 /* SystemConfiguration.framework */; };
+		EF4271231F08293500BF6424 /* TimeSelectCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = EF42711C1F08293500BF6424 /* TimeSelectCell.swift */; };
+		EF4271241F08293500BF6424 /* TimeSelectCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = EF42711D1F08293500BF6424 /* TimeSelectCell.xib */; };
+		EF4271251F08293500BF6424 /* TimeSelectCollectonView.swift in Sources */ = {isa = PBXBuildFile; fileRef = EF42711E1F08293500BF6424 /* TimeSelectCollectonView.swift */; };
+		EF4271261F08293500BF6424 /* TimeSelectCollectonView.xib in Resources */ = {isa = PBXBuildFile; fileRef = EF42711F1F08293500BF6424 /* TimeSelectCollectonView.xib */; };
+		EF4271271F08293500BF6424 /* TimeSelectionBar.swift in Sources */ = {isa = PBXBuildFile; fileRef = EF4271201F08293500BF6424 /* TimeSelectionBar.swift */; };
+		EF4271281F08293500BF6424 /* TimeSelectionBar.xib in Resources */ = {isa = PBXBuildFile; fileRef = EF4271211F08293500BF6424 /* TimeSelectionBar.xib */; };
+		EF42712E1F08295300BF6424 /* CustomCollectionView.swift in Sources */ = {isa = PBXBuildFile; fileRef = EF4271291F08295300BF6424 /* CustomCollectionView.swift */; };
+		EF42712F1F08295300BF6424 /* DisplayView.mm in Sources */ = {isa = PBXBuildFile; fileRef = EF42712B1F08295300BF6424 /* DisplayView.mm */; };
+		EF4271301F08295300BF6424 /* GreenProgress.swift in Sources */ = {isa = PBXBuildFile; fileRef = EF42712C1F08295300BF6424 /* GreenProgress.swift */; };
+		EF4271311F08295300BF6424 /* ProgressView.swift in Sources */ = {isa = PBXBuildFile; fileRef = EF42712D1F08295300BF6424 /* ProgressView.swift */; };
+		EF4271331F08299700BF6424 /* WebViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = EF4271321F08299700BF6424 /* WebViewController.swift */; };
+		EF4271551F0843FB00BF6424 /* NewCameraController.xib in Resources */ = {isa = PBXBuildFile; fileRef = EF4271541F0843FB00BF6424 /* NewCameraController.xib */; };
+		EF4271571F084C9F00BF6424 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = EF4271561F084C9F00BF6424 /* Foundation.framework */; };
+		EF4271591F084CC900BF6424 /* CoreVideo.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = EF4271581F084CC900BF6424 /* CoreVideo.framework */; };
+		EF4271631F085A7A00BF6424 /* ManualController.swift in Sources */ = {isa = PBXBuildFile; fileRef = EF4271621F085A7A00BF6424 /* ManualController.swift */; };
+		EF50A6DC1F1545EF00C6DBEF /* DeviceChangePwd.xib in Resources */ = {isa = PBXBuildFile; fileRef = EF50A6DB1F1545EF00C6DBEF /* DeviceChangePwd.xib */; };
+		EF50A6DE1F15460600C6DBEF /* DeviceChangePwd.swift in Sources */ = {isa = PBXBuildFile; fileRef = EF50A6DD1F15460600C6DBEF /* DeviceChangePwd.swift */; };
+		EF8164951F72716400E5DB2C /* MapKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = EF8164941F72716400E5DB2C /* MapKit.framework */; };
+		EF824A6B1FBDC8840086827E /* UIViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = EF824A6A1FBDC8840086827E /* UIViewController.swift */; };
+		EF8FFCFB1F783F6F0000B7AD /* CoreLocation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = EF8FFCFA1F783F6F0000B7AD /* CoreLocation.framework */; };
+		EF9C863C1F08053900F9F981 /* Localizable.strings in Resources */ = {isa = PBXBuildFile; fileRef = EFA69E901F07906100E777B6 /* Localizable.strings */; };
+		EFA1C38A1F14938700E93091 /* BasicFun.cpp in Sources */ = {isa = PBXBuildFile; fileRef = EFA1C3771F14938700E93091 /* BasicFun.cpp */; };
+		EFA1C38B1F14938700E93091 /* CallBackHandle.mm in Sources */ = {isa = PBXBuildFile; fileRef = EFA1C37A1F14938700E93091 /* CallBackHandle.mm */; };
+		EFA1C38C1F14938700E93091 /* FileData.m in Sources */ = {isa = PBXBuildFile; fileRef = EFA1C37C1F14938700E93091 /* FileData.m */; };
+		EFA1C38D1F14938700E93091 /* getgateway.mm in Sources */ = {isa = PBXBuildFile; fileRef = EFA1C37E1F14938700E93091 /* getgateway.mm */; };
+		EFA1C38E1F14938700E93091 /* Global.mm in Sources */ = {isa = PBXBuildFile; fileRef = EFA1C3801F14938700E93091 /* Global.mm */; };
+		EFA1C38F1F14938700E93091 /* LanguageTools.m in Sources */ = {isa = PBXBuildFile; fileRef = EFA1C3821F14938700E93091 /* LanguageTools.m */; };
+		EFA1C3911F14938700E93091 /* Recode.mm in Sources */ = {isa = PBXBuildFile; fileRef = EFA1C3851F14938700E93091 /* Recode.mm */; };
+		EFA1C3921F14938700E93091 /* SDK.mm in Sources */ = {isa = PBXBuildFile; fileRef = EFA1C3891F14938700E93091 /* SDK.mm */; };
+		EFB075751F74960D00097DB5 /* MyLocation.swift in Sources */ = {isa = PBXBuildFile; fileRef = EFB075741F74960D00097DB5 /* MyLocation.swift */; };
+		EFCE254E1FEA3CCF00BE19B7 /* MainController.xib in Resources */ = {isa = PBXBuildFile; fileRef = EFCE254D1FEA3CCF00BE19B7 /* MainController.xib */; };
+		EFD4426D1F03E75C00661B6D /* FunSDK.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3EF422881E6030FF005E5CC9 /* FunSDK.framework */; settings = {ATTRIBUTES = (Required, ); }; };
+		EFD83D5D1F085D0B00E5A0E7 /* ManualController.xib in Resources */ = {isa = PBXBuildFile; fileRef = EFD83D5C1F085D0B00E5A0E7 /* ManualController.xib */; };
+		F711D2F84BB22E6FB1964D80 /* Pods_CAM_light.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = D66AA8D913F652533ADC4DA2 /* Pods_CAM_light.framework */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		33AED65C09AAFD230C336F1F /* Pods-CAM light.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-CAM light.release.xcconfig"; path = "Pods/Target Support Files/Pods-CAM light/Pods-CAM light.release.xcconfig"; sourceTree = "<group>"; };
+		3E4001AE1E601D2500C73CBB /* CAM light.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "CAM light.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		3EF422881E6030FF005E5CC9 /* FunSDK.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; path = FunSDK.framework; sourceTree = "<group>"; };
+		3EF424F01E63CB5D005E5CC9 /* VideoToolbox.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = VideoToolbox.framework; path = System/Library/Frameworks/VideoToolbox.framework; sourceTree = SDKROOT; };
+		3EF424F21E63CB62005E5CC9 /* GLKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = GLKit.framework; path = System/Library/Frameworks/GLKit.framework; sourceTree = SDKROOT; };
+		3EF424F41E63CB69005E5CC9 /* OpenGLES.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = OpenGLES.framework; path = System/Library/Frameworks/OpenGLES.framework; sourceTree = SDKROOT; };
+		3EF424F61E63CB6F005E5CC9 /* AVFoundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = AVFoundation.framework; path = System/Library/Frameworks/AVFoundation.framework; sourceTree = SDKROOT; };
+		3EF424F81E63CB75005E5CC9 /* MediaPlayer.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = MediaPlayer.framework; path = System/Library/Frameworks/MediaPlayer.framework; sourceTree = SDKROOT; };
+		3EF424FA1E63CB82005E5CC9 /* OpenAL.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = OpenAL.framework; path = System/Library/Frameworks/OpenAL.framework; sourceTree = SDKROOT; };
+		3EF424FC1E63CB89005E5CC9 /* libresolv.tbd */ = {isa = PBXFileReference; lastKnownFileType = "sourcecode.text-based-dylib-definition"; name = libresolv.tbd; path = usr/lib/libresolv.tbd; sourceTree = SDKROOT; };
+		3EF424FE1E63CB8F005E5CC9 /* libiconv.tbd */ = {isa = PBXFileReference; lastKnownFileType = "sourcecode.text-based-dylib-definition"; name = libiconv.tbd; path = usr/lib/libiconv.tbd; sourceTree = SDKROOT; };
+		3EF425001E63CB95005E5CC9 /* libbz2.tbd */ = {isa = PBXFileReference; lastKnownFileType = "sourcecode.text-based-dylib-definition"; name = libbz2.tbd; path = usr/lib/libbz2.tbd; sourceTree = SDKROOT; };
+		3EF425021E63CB9D005E5CC9 /* libstdc++.6.0.9.tbd */ = {isa = PBXFileReference; lastKnownFileType = "sourcecode.text-based-dylib-definition"; name = "libstdc++.6.0.9.tbd"; path = "usr/lib/libstdc++.6.0.9.tbd"; sourceTree = SDKROOT; };
+		3EF425F11E63F730005E5CC9 /* CoreMedia.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreMedia.framework; path = System/Library/Frameworks/CoreMedia.framework; sourceTree = SDKROOT; };
+		3EF425F41E63F792005E5CC9 /* AudioToolbox.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = AudioToolbox.framework; path = System/Library/Frameworks/AudioToolbox.framework; sourceTree = SDKROOT; };
+		3EF425F61E63F7C3005E5CC9 /* libz.tbd */ = {isa = PBXFileReference; lastKnownFileType = "sourcecode.text-based-dylib-definition"; name = libz.tbd; path = usr/lib/libz.tbd; sourceTree = SDKROOT; };
+		430FD12620FFA61300775589 /* pl */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = pl; path = pl.lproj/Localizable.strings; sourceTree = "<group>"; };
+		430FD12820FFA63600775589 /* hr */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = hr; path = hr.lproj/Localizable.strings; sourceTree = "<group>"; };
+		430FD12A20FFA6BA00775589 /* sl */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = sl; path = sl.lproj/Localizable.strings; sourceTree = "<group>"; };
+		430FD12B20FFC76E00775589 /* PasswordView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = PasswordView.swift; path = YaohuaCamera/PasswordView.swift; sourceTree = SOURCE_ROOT; };
+		430FD12C20FFC76E00775589 /* PasswordView.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = PasswordView.xib; path = ../YaohuaCamera/PasswordView.xib; sourceTree = "<group>"; };
+		4323FED820FBA2610007A32A /* SwiftyJSON.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; path = SwiftyJSON.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		4349651D20FB101300293428 /* QuickLayout.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = QuickLayout.framework; path = Carthage/Build/iOS/QuickLayout.framework; sourceTree = "<group>"; };
+		4349651F20FB108400293428 /* SwiftyJSON.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = SwiftyJSON.framework; path = Carthage/Build/iOS/SwiftyJSON.framework; sourceTree = "<group>"; };
+		4349652020FB108400293428 /* MBProgressHUD.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = MBProgressHUD.framework; path = Carthage/Build/iOS/MBProgressHUD.framework; sourceTree = "<group>"; };
+		4349652120FB108500293428 /* SwiftEntryKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = SwiftEntryKit.framework; path = Carthage/Build/iOS/SwiftEntryKit.framework; sourceTree = "<group>"; };
+		434C93F420F5A352008B418D /* UIAlertAction+Extensions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = "UIAlertAction+Extensions.swift"; path = "YaohuaCamera/UIAlertAction+Extensions.swift"; sourceTree = SOURCE_ROOT; };
+		434C93F620F5A3CD008B418D /* AlertViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AlertViewController.swift; sourceTree = "<group>"; };
+		436B1F242102D9D900BD3999 /* OKViewController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; name = OKViewController.xib; path = YaohuaCamera/OKViewController.xib; sourceTree = SOURCE_ROOT; };
+		436B1F252102D9D900BD3999 /* OKViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = OKViewController.swift; path = YaohuaCamera/OKViewController.swift; sourceTree = SOURCE_ROOT; };
+		4372FC6020FB7452001D9F09 /* CustomAlertView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustomAlertView.swift; sourceTree = "<group>"; };
+		4393DC542079E8BB00D69F62 /* timezones.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = timezones.plist; sourceTree = "<group>"; };
+		43B0A01D20AEC1130061E05B /* MainViewCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = MainViewCell.swift; path = YaohuaCamera/MainViewCell.swift; sourceTree = SOURCE_ROOT; };
+		43B0A01F20AEC2630061E05B /* MainViewCell.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; name = MainViewCell.xib; path = YaohuaCamera/MainViewCell.xib; sourceTree = SOURCE_ROOT; };
+		43BF410A203FCF15001EE8F0 /* ProcessViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProcessViewController.swift; sourceTree = "<group>"; };
+		43BF4110204005B1001EE8F0 /* ProcessViewController.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = ProcessViewController.xib; sourceTree = "<group>"; };
+		43DEFC4620FDD8AA003A0413 /* PasswordTextField.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; path = PasswordTextField.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		43DEFC4820FDDE5C003A0413 /* IQKeyboardManagerSwift.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; path = IQKeyboardManagerSwift.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		A128F97E1E7669BA00DDEB3B /* UserNotifications.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UserNotifications.framework; path = System/Library/Frameworks/UserNotifications.framework; sourceTree = SDKROOT; };
+		A185A22B1EB2EE290015617C /* AVKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = AVKit.framework; path = System/Library/Frameworks/AVKit.framework; sourceTree = SDKROOT; };
+		A1F19DA41EAF7B6D0011DC60 /* AssetsLibrary.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = AssetsLibrary.framework; path = System/Library/Frameworks/AssetsLibrary.framework; sourceTree = SDKROOT; };
+		B1AD554BB62088059AD4B1B5 /* Pods-CAM light.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-CAM light.debug.xcconfig"; path = "Pods/Target Support Files/Pods-CAM light/Pods-CAM light.debug.xcconfig"; sourceTree = "<group>"; };
+		C0A74467798C1BBB5BAD265C /* Pods-FunSDKDemo.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-FunSDKDemo.debug.xcconfig"; path = "Pods/Target Support Files/Pods-FunSDKDemo/Pods-FunSDKDemo.debug.xcconfig"; sourceTree = "<group>"; };
+		D3CFA03441DA334B08140A24 /* Pods-FunSDKDemo.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-FunSDKDemo.release.xcconfig"; path = "Pods/Target Support Files/Pods-FunSDKDemo/Pods-FunSDKDemo.release.xcconfig"; sourceTree = "<group>"; };
+		D66AA8D913F652533ADC4DA2 /* Pods_CAM_light.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_CAM_light.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		EF0965571EFB9A7F0047E5A9 /* LutecCamera-Bridging-Header.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "LutecCamera-Bridging-Header.h"; sourceTree = SOURCE_ROOT; };
+		EF09655A1EFBB26C0047E5A9 /* AppDelegate.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = SOURCE_ROOT; };
+		EF09655B1EFBB26C0047E5A9 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; name = Assets.xcassets; path = YaohuaCamera/Assets.xcassets; sourceTree = SOURCE_ROOT; };
+		EF09655D1EFBB26C0047E5A9 /* Device.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = Device.swift; path = YaohuaCamera/Device.swift; sourceTree = SOURCE_ROOT; };
+		EF09655E1EFBB26C0047E5A9 /* DeviceNameControllerViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = DeviceNameControllerViewController.swift; path = YaohuaCamera/DeviceNameControllerViewController.swift; sourceTree = SOURCE_ROOT; };
+		EF09655F1EFBB26C0047E5A9 /* DeviceNameControllerViewController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; name = DeviceNameControllerViewController.xib; path = YaohuaCamera/DeviceNameControllerViewController.xib; sourceTree = SOURCE_ROOT; };
+		EF0965611EFBB26C0047E5A9 /* Extention.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = Extention.swift; path = FunSDKDemo/Extention.swift; sourceTree = SOURCE_ROOT; };
+		EF0965621EFBB26C0047E5A9 /* GuideViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = GuideViewController.swift; path = YaohuaCamera/GuideViewController.swift; sourceTree = SOURCE_ROOT; };
+		EF0965631EFBB26C0047E5A9 /* GuideViewController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; name = GuideViewController.xib; path = YaohuaCamera/GuideViewController.xib; sourceTree = SOURCE_ROOT; };
+		EF0965641EFBB26C0047E5A9 /* InductionModelCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = InductionModelCell.swift; path = YaohuaCamera/InductionModelCell.swift; sourceTree = SOURCE_ROOT; };
+		EF0965651EFBB26C0047E5A9 /* InductionModelCell.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; name = InductionModelCell.xib; path = YaohuaCamera/InductionModelCell.xib; sourceTree = SOURCE_ROOT; };
+		EF0965661EFBB26C0047E5A9 /* InductionSettingController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = InductionSettingController.swift; path = YaohuaCamera/InductionSettingController.swift; sourceTree = SOURCE_ROOT; };
+		EF0965671EFBB26C0047E5A9 /* InductionSettingController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; name = InductionSettingController.xib; path = YaohuaCamera/InductionSettingController.xib; sourceTree = SOURCE_ROOT; };
+		EF0965681EFBB26C0047E5A9 /* Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; name = Info.plist; path = YaohuaCamera/Info.plist; sourceTree = SOURCE_ROOT; };
+		EF0965691EFBB26C0047E5A9 /* LAMP.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = LAMP.swift; path = YaohuaCamera/LAMP.swift; sourceTree = SOURCE_ROOT; };
+		EF09656B1EFBB26C0047E5A9 /* MainController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = MainController.swift; path = YaohuaCamera/MainController.swift; sourceTree = SOURCE_ROOT; };
+		EF0965711EFBB26C0047E5A9 /* MoreViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = MoreViewController.swift; path = YaohuaCamera/MoreViewController.swift; sourceTree = SOURCE_ROOT; };
+		EF0965721EFBB26C0047E5A9 /* MoreViewController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; name = MoreViewController.xib; path = YaohuaCamera/MoreViewController.xib; sourceTree = SOURCE_ROOT; };
+		EF0965731EFBB26C0047E5A9 /* NewCameraController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = NewCameraController.swift; path = YaohuaCamera/NewCameraController.swift; sourceTree = SOURCE_ROOT; };
+		EF0965751EFBB26C0047E5A9 /* QuickConfigController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = QuickConfigController.swift; path = YaohuaCamera/QuickConfigController.swift; sourceTree = SOURCE_ROOT; };
+		EF0965761EFBB26C0047E5A9 /* QuickConfigController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; name = QuickConfigController.xib; path = YaohuaCamera/QuickConfigController.xib; sourceTree = SOURCE_ROOT; };
+		EF0965771EFBB26C0047E5A9 /* SettingViewCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = SettingViewCell.swift; path = YaohuaCamera/SettingViewCell.swift; sourceTree = SOURCE_ROOT; };
+		EF0965781EFBB26C0047E5A9 /* SettingViewCell.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; name = SettingViewCell.xib; path = YaohuaCamera/SettingViewCell.xib; sourceTree = SOURCE_ROOT; };
+		EF09657A1EFBB26C0047E5A9 /* UIDeviceExtension.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = UIDeviceExtension.swift; path = YaohuaCamera/UIDeviceExtension.swift; sourceTree = SOURCE_ROOT; };
+		EF1426361F21FB0500250833 /* ControlPlist.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = ControlPlist.m; path = YaohuaCamera/Tools/ControlPlist.m; sourceTree = SOURCE_ROOT; };
+		EF1426381F21FB9900250833 /* ControlPlist.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; name = ControlPlist.h; path = YaohuaCamera/Tools/ControlPlist.h; sourceTree = SOURCE_ROOT; };
+		EF15CF871F2F2DA600C6A834 /* ChkVersionMgr.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = ChkVersionMgr.swift; path = FunSDKDemo/ChkVersionMgr.swift; sourceTree = SOURCE_ROOT; };
+		EF1A1F0E1F4A0D59000DC394 /* webservice.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; name = webservice.h; path = YaohuaCamera/Tools/webservice.h; sourceTree = SOURCE_ROOT; };
+		EF1A1F111F4A0E80000DC394 /* webservice.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = webservice.m; path = YaohuaCamera/Tools/webservice.m; sourceTree = SOURCE_ROOT; };
+		EF27796F1F3C5959000EC1DF /* NotificationCenter.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = NotificationCenter.framework; path = System/Library/Frameworks/NotificationCenter.framework; sourceTree = SDKROOT; };
+		EF32ED971EFE52F300C72D48 /* Photos.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Photos.framework; path = System/Library/Frameworks/Photos.framework; sourceTree = SDKROOT; };
+		EF32ED991EFE530E00C72D48 /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
+		EF32ED9B1EFE532D00C72D48 /* QuartzCore.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = QuartzCore.framework; path = System/Library/Frameworks/QuartzCore.framework; sourceTree = SDKROOT; };
+		EF32ED9D1EFE537400C72D48 /* SystemConfiguration.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = SystemConfiguration.framework; path = System/Library/Frameworks/SystemConfiguration.framework; sourceTree = SDKROOT; };
+		EF42711A1F08293500BF6424 /* NSDate+Utils.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = "NSDate+Utils.h"; path = "YaohuaCamera/view/TimeSelectView/NSDate+Utils.h"; sourceTree = SOURCE_ROOT; };
+		EF42711B1F08293500BF6424 /* NSDate+Utils.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = "NSDate+Utils.m"; path = "YaohuaCamera/view/TimeSelectView/NSDate+Utils.m"; sourceTree = SOURCE_ROOT; };
+		EF42711C1F08293500BF6424 /* TimeSelectCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = TimeSelectCell.swift; path = YaohuaCamera/view/TimeSelectView/TimeSelectCell.swift; sourceTree = SOURCE_ROOT; };
+		EF42711D1F08293500BF6424 /* TimeSelectCell.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; name = TimeSelectCell.xib; path = YaohuaCamera/view/TimeSelectView/TimeSelectCell.xib; sourceTree = SOURCE_ROOT; };
+		EF42711E1F08293500BF6424 /* TimeSelectCollectonView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = TimeSelectCollectonView.swift; path = YaohuaCamera/view/TimeSelectView/TimeSelectCollectonView.swift; sourceTree = SOURCE_ROOT; };
+		EF42711F1F08293500BF6424 /* TimeSelectCollectonView.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; name = TimeSelectCollectonView.xib; path = YaohuaCamera/view/TimeSelectView/TimeSelectCollectonView.xib; sourceTree = SOURCE_ROOT; };
+		EF4271201F08293500BF6424 /* TimeSelectionBar.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = TimeSelectionBar.swift; path = YaohuaCamera/view/TimeSelectView/TimeSelectionBar.swift; sourceTree = SOURCE_ROOT; };
+		EF4271211F08293500BF6424 /* TimeSelectionBar.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; name = TimeSelectionBar.xib; path = YaohuaCamera/view/TimeSelectView/TimeSelectionBar.xib; sourceTree = SOURCE_ROOT; };
+		EF4271291F08295300BF6424 /* CustomCollectionView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = CustomCollectionView.swift; path = YaohuaCamera/view/CustomCollectionView.swift; sourceTree = SOURCE_ROOT; };
+		EF42712A1F08295300BF6424 /* DisplayView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = DisplayView.h; path = YaohuaCamera/view/DisplayView.h; sourceTree = SOURCE_ROOT; };
+		EF42712B1F08295300BF6424 /* DisplayView.mm */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.objcpp; name = DisplayView.mm; path = YaohuaCamera/view/DisplayView.mm; sourceTree = SOURCE_ROOT; };
+		EF42712C1F08295300BF6424 /* GreenProgress.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = GreenProgress.swift; path = YaohuaCamera/view/GreenProgress.swift; sourceTree = SOURCE_ROOT; };
+		EF42712D1F08295300BF6424 /* ProgressView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = ProgressView.swift; path = YaohuaCamera/view/ProgressView.swift; sourceTree = SOURCE_ROOT; };
+		EF4271321F08299700BF6424 /* WebViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = WebViewController.swift; path = YaohuaCamera/WebViewController.swift; sourceTree = SOURCE_ROOT; };
+		EF4271371F082A4C00BF6424 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = YaohuaCamera/Base.lproj/LaunchScreen.storyboard; sourceTree = SOURCE_ROOT; };
+		EF4271541F0843FB00BF6424 /* NewCameraController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; name = NewCameraController.xib; path = YaohuaCamera/NewCameraController.xib; sourceTree = SOURCE_ROOT; };
+		EF4271561F084C9F00BF6424 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
+		EF4271581F084CC900BF6424 /* CoreVideo.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreVideo.framework; path = System/Library/Frameworks/CoreVideo.framework; sourceTree = SDKROOT; };
+		EF4271621F085A7A00BF6424 /* ManualController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = ManualController.swift; path = YaohuaCamera/ManualController.swift; sourceTree = SOURCE_ROOT; };
+		EF50A6DB1F1545EF00C6DBEF /* DeviceChangePwd.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; name = DeviceChangePwd.xib; path = YaohuaCamera/DeviceChangePwd.xib; sourceTree = SOURCE_ROOT; };
+		EF50A6DD1F15460600C6DBEF /* DeviceChangePwd.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = DeviceChangePwd.swift; sourceTree = SOURCE_ROOT; };
+		EF5CE3EB1F2B4B7C00CE13B8 /* Base */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = Base; path = Base.lproj/Localizable.strings; sourceTree = "<group>"; };
+		EF5CE3ED1F2B532800CE13B8 /* de */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = de; path = de.lproj/Localizable.strings; sourceTree = "<group>"; };
+		EF5CE3F01F2B533D00CE13B8 /* es */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = es; path = es.lproj/Localizable.strings; sourceTree = "<group>"; };
+		EF5CE3F41F2B536400CE13B8 /* it */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = it; path = it.lproj/Localizable.strings; sourceTree = "<group>"; };
+		EF5CE3F71F2B538F00CE13B8 /* hu */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = hu; path = hu.lproj/Localizable.strings; sourceTree = "<group>"; };
+		EF5CE3FA1F2B61CC00CE13B8 /* nl */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = nl; path = nl.lproj/Localizable.strings; sourceTree = "<group>"; };
+		EF5CE3FC1F2B62A700CE13B8 /* fr */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = fr; path = fr.lproj/Localizable.strings; sourceTree = "<group>"; };
+		EF8164941F72716400E5DB2C /* MapKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = MapKit.framework; path = System/Library/Frameworks/MapKit.framework; sourceTree = SDKROOT; };
+		EF824A6A1FBDC8840086827E /* UIViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = UIViewController.swift; path = FunSDKDemo/UIViewController.swift; sourceTree = SOURCE_ROOT; };
+		EF8D012D1F10AE0A00D398B3 /* Lutec.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = Lutec.entitlements; sourceTree = "<group>"; };
+		EF8FFCFA1F783F6F0000B7AD /* CoreLocation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreLocation.framework; path = System/Library/Frameworks/CoreLocation.framework; sourceTree = SDKROOT; };
+		EF9C863D1F081BC800F9F981 /* zh-Hans */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = "zh-Hans"; path = "zh-Hans.lproj/Localizable.strings"; sourceTree = "<group>"; };
+		EF9C86421F081F4D00F9F981 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/Localizable.strings; sourceTree = "<group>"; };
+		EFA1C3771F14938700E93091 /* BasicFun.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; name = BasicFun.cpp; path = YaohuaCamera/Tools/BasicFun.cpp; sourceTree = SOURCE_ROOT; };
+		EFA1C3781F14938700E93091 /* BasicFun.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = BasicFun.h; path = YaohuaCamera/Tools/BasicFun.h; sourceTree = SOURCE_ROOT; };
+		EFA1C3791F14938700E93091 /* CallBackHandle.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = CallBackHandle.h; path = YaohuaCamera/Tools/CallBackHandle.h; sourceTree = SOURCE_ROOT; };
+		EFA1C37A1F14938700E93091 /* CallBackHandle.mm */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.objcpp; name = CallBackHandle.mm; path = YaohuaCamera/Tools/CallBackHandle.mm; sourceTree = SOURCE_ROOT; };
+		EFA1C37B1F14938700E93091 /* FileData.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = FileData.h; path = YaohuaCamera/Tools/FileData.h; sourceTree = SOURCE_ROOT; };
+		EFA1C37C1F14938700E93091 /* FileData.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = FileData.m; path = YaohuaCamera/Tools/FileData.m; sourceTree = SOURCE_ROOT; };
+		EFA1C37D1F14938700E93091 /* getgateway.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = getgateway.h; path = YaohuaCamera/Tools/getgateway.h; sourceTree = SOURCE_ROOT; };
+		EFA1C37E1F14938700E93091 /* getgateway.mm */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.objcpp; name = getgateway.mm; path = YaohuaCamera/Tools/getgateway.mm; sourceTree = SOURCE_ROOT; };
+		EFA1C37F1F14938700E93091 /* Global.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = Global.h; path = YaohuaCamera/Tools/Global.h; sourceTree = SOURCE_ROOT; };
+		EFA1C3801F14938700E93091 /* Global.mm */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.objcpp; name = Global.mm; path = YaohuaCamera/Tools/Global.mm; sourceTree = SOURCE_ROOT; };
+		EFA1C3811F14938700E93091 /* LanguageTools.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = LanguageTools.h; path = YaohuaCamera/Tools/LanguageTools.h; sourceTree = SOURCE_ROOT; };
+		EFA1C3821F14938700E93091 /* LanguageTools.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = LanguageTools.m; path = YaohuaCamera/Tools/LanguageTools.m; sourceTree = SOURCE_ROOT; };
+		EFA1C3841F14938700E93091 /* Recode.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = Recode.h; path = YaohuaCamera/Tools/Recode.h; sourceTree = SOURCE_ROOT; };
+		EFA1C3851F14938700E93091 /* Recode.mm */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.objcpp; name = Recode.mm; path = YaohuaCamera/Tools/Recode.mm; sourceTree = SOURCE_ROOT; };
+		EFA1C3861F14938700E93091 /* RET.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = RET.h; path = YaohuaCamera/Tools/RET.h; sourceTree = SOURCE_ROOT; };
+		EFA1C3871F14938700E93091 /* route.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = route.h; path = YaohuaCamera/Tools/route.h; sourceTree = SOURCE_ROOT; };
+		EFA1C3881F14938700E93091 /* SDK.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = SDK.h; path = YaohuaCamera/Tools/SDK.h; sourceTree = SOURCE_ROOT; };
+		EFA1C3891F14938700E93091 /* SDK.mm */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.objcpp; name = SDK.mm; path = YaohuaCamera/Tools/SDK.mm; sourceTree = SOURCE_ROOT; };
+		EFB075741F74960D00097DB5 /* MyLocation.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = MyLocation.swift; path = YaohuaCamera/MyLocation.swift; sourceTree = SOURCE_ROOT; };
+		EFCE254D1FEA3CCF00BE19B7 /* MainController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; name = MainController.xib; path = YaohuaCamera/MainController.xib; sourceTree = SOURCE_ROOT; };
+		EFD83D5C1F085D0B00E5A0E7 /* ManualController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; name = ManualController.xib; path = YaohuaCamera/ManualController.xib; sourceTree = SOURCE_ROOT; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		3E4001AB1E601D2500C73CBB /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				43DEFC4920FDDE5C003A0413 /* IQKeyboardManagerSwift.framework in Frameworks */,
+				43DEFC4720FDD8AA003A0413 /* PasswordTextField.framework in Frameworks */,
+				4323FED920FBA2610007A32A /* SwiftyJSON.framework in Frameworks */,
+				4349652420FB108600293428 /* MBProgressHUD.framework in Frameworks */,
+				EF8FFCFB1F783F6F0000B7AD /* CoreLocation.framework in Frameworks */,
+				EF8164951F72716400E5DB2C /* MapKit.framework in Frameworks */,
+				EF2779701F3C5959000EC1DF /* NotificationCenter.framework in Frameworks */,
+				EF4271591F084CC900BF6424 /* CoreVideo.framework in Frameworks */,
+				EF4271571F084C9F00BF6424 /* Foundation.framework in Frameworks */,
+				A128F97F1E7669BA00DDEB3B /* UserNotifications.framework in Frameworks */,
+				EFD4426D1F03E75C00661B6D /* FunSDK.framework in Frameworks */,
+				EF32ED9E1EFE537400C72D48 /* SystemConfiguration.framework in Frameworks */,
+				A1F19DA51EAF7B6D0011DC60 /* AssetsLibrary.framework in Frameworks */,
+				EF32ED9C1EFE532D00C72D48 /* QuartzCore.framework in Frameworks */,
+				EF32ED9A1EFE530E00C72D48 /* CoreGraphics.framework in Frameworks */,
+				EF32ED981EFE52F300C72D48 /* Photos.framework in Frameworks */,
+				3EF424F11E63CB5D005E5CC9 /* VideoToolbox.framework in Frameworks */,
+				A185A22C1EB2EE290015617C /* AVKit.framework in Frameworks */,
+				3EF425F71E63F7C3005E5CC9 /* libz.tbd in Frameworks */,
+				3EF425031E63CB9D005E5CC9 /* libstdc++.6.0.9.tbd in Frameworks */,
+				3EF425011E63CB95005E5CC9 /* libbz2.tbd in Frameworks */,
+				3EF424FF1E63CB8F005E5CC9 /* libiconv.tbd in Frameworks */,
+				3EF424FD1E63CB89005E5CC9 /* libresolv.tbd in Frameworks */,
+				3E3D68B51E6ABA44003E2F13 /* AudioToolbox.framework in Frameworks */,
+				3EF425F81E63F95C005E5CC9 /* CoreMedia.framework in Frameworks */,
+				3EF424FB1E63CB82005E5CC9 /* OpenAL.framework in Frameworks */,
+				3EF424F91E63CB75005E5CC9 /* MediaPlayer.framework in Frameworks */,
+				3EF424F71E63CB6F005E5CC9 /* AVFoundation.framework in Frameworks */,
+				3EF424F51E63CB69005E5CC9 /* OpenGLES.framework in Frameworks */,
+				3EF424F31E63CB62005E5CC9 /* GLKit.framework in Frameworks */,
+				F711D2F84BB22E6FB1964D80 /* Pods_CAM_light.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		3E4001A51E601D2500C73CBB = {
+			isa = PBXGroup;
+			children = (
+				EF8D012D1F10AE0A00D398B3 /* Lutec.entitlements */,
+				EFA69E901F07906100E777B6 /* Localizable.strings */,
+				3E4001B01E601D2500C73CBB /* LutecCamera */,
+				3EF422871E6030CD005E5CC9 /* Framework */,
+				3E4001AF1E601D2500C73CBB /* Products */,
+				3EF424EF1E63CB5D005E5CC9 /* Frameworks */,
+				FCADD15516E7E2AE2F8395D2 /* Pods */,
+			);
+			sourceTree = "<group>";
+		};
+		3E4001AF1E601D2500C73CBB /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				3E4001AE1E601D2500C73CBB /* CAM light.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		3E4001B01E601D2500C73CBB /* LutecCamera */ = {
+			isa = PBXGroup;
+			children = (
+				EF09655B1EFBB26C0047E5A9 /* Assets.xcassets */,
+				EF0965571EFB9A7F0047E5A9 /* LutecCamera-Bridging-Header.h */,
+				4393DC542079E8BB00D69F62 /* timezones.plist */,
+				EF0965681EFBB26C0047E5A9 /* Info.plist */,
+				EFA69EA31F07979500E777B6 /* main */,
+				EFA69EA11F07965D00E777B6 /* left */,
+				EFA69EA21F0796EC00E777B6 /* right */,
+				EFA69E941F07913900E777B6 /* include */,
+				EFA69E981F07929300E777B6 /* view */,
+			);
+			name = LutecCamera;
+			path = FunSDKDemo;
+			sourceTree = "<group>";
+		};
+		3EF422871E6030CD005E5CC9 /* Framework */ = {
+			isa = PBXGroup;
+			children = (
+				3EF422881E6030FF005E5CC9 /* FunSDK.framework */,
+			);
+			name = Framework;
+			sourceTree = "<group>";
+		};
+		3EF424EF1E63CB5D005E5CC9 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				43DEFC4820FDDE5C003A0413 /* IQKeyboardManagerSwift.framework */,
+				43DEFC4620FDD8AA003A0413 /* PasswordTextField.framework */,
+				4323FED820FBA2610007A32A /* SwiftyJSON.framework */,
+				4349652020FB108400293428 /* MBProgressHUD.framework */,
+				4349652120FB108500293428 /* SwiftEntryKit.framework */,
+				4349651F20FB108400293428 /* SwiftyJSON.framework */,
+				4349651D20FB101300293428 /* QuickLayout.framework */,
+				EF8FFCFA1F783F6F0000B7AD /* CoreLocation.framework */,
+				EF8164941F72716400E5DB2C /* MapKit.framework */,
+				EF27796F1F3C5959000EC1DF /* NotificationCenter.framework */,
+				EF4271581F084CC900BF6424 /* CoreVideo.framework */,
+				EF4271561F084C9F00BF6424 /* Foundation.framework */,
+				EF32ED9D1EFE537400C72D48 /* SystemConfiguration.framework */,
+				EF32ED9B1EFE532D00C72D48 /* QuartzCore.framework */,
+				EF32ED991EFE530E00C72D48 /* CoreGraphics.framework */,
+				EF32ED971EFE52F300C72D48 /* Photos.framework */,
+				A185A22B1EB2EE290015617C /* AVKit.framework */,
+				A1F19DA41EAF7B6D0011DC60 /* AssetsLibrary.framework */,
+				A128F97E1E7669BA00DDEB3B /* UserNotifications.framework */,
+				3EF425F61E63F7C3005E5CC9 /* libz.tbd */,
+				3EF425F41E63F792005E5CC9 /* AudioToolbox.framework */,
+				3EF425F11E63F730005E5CC9 /* CoreMedia.framework */,
+				3EF425021E63CB9D005E5CC9 /* libstdc++.6.0.9.tbd */,
+				3EF425001E63CB95005E5CC9 /* libbz2.tbd */,
+				3EF424FE1E63CB8F005E5CC9 /* libiconv.tbd */,
+				3EF424FC1E63CB89005E5CC9 /* libresolv.tbd */,
+				3EF424FA1E63CB82005E5CC9 /* OpenAL.framework */,
+				3EF424F81E63CB75005E5CC9 /* MediaPlayer.framework */,
+				3EF424F61E63CB6F005E5CC9 /* AVFoundation.framework */,
+				3EF424F41E63CB69005E5CC9 /* OpenGLES.framework */,
+				3EF424F21E63CB62005E5CC9 /* GLKit.framework */,
+				3EF424F01E63CB5D005E5CC9 /* VideoToolbox.framework */,
+				D66AA8D913F652533ADC4DA2 /* Pods_CAM_light.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		EFA69E941F07913900E777B6 /* include */ = {
+			isa = PBXGroup;
+			children = (
+				EFA1C3771F14938700E93091 /* BasicFun.cpp */,
+				EFA1C3781F14938700E93091 /* BasicFun.h */,
+				EFA1C3791F14938700E93091 /* CallBackHandle.h */,
+				EFA1C37A1F14938700E93091 /* CallBackHandle.mm */,
+				EFA1C37B1F14938700E93091 /* FileData.h */,
+				EFA1C37C1F14938700E93091 /* FileData.m */,
+				EFA1C37D1F14938700E93091 /* getgateway.h */,
+				EFA1C37E1F14938700E93091 /* getgateway.mm */,
+				EFA1C37F1F14938700E93091 /* Global.h */,
+				EFA1C3801F14938700E93091 /* Global.mm */,
+				EFA1C3811F14938700E93091 /* LanguageTools.h */,
+				EFA1C3821F14938700E93091 /* LanguageTools.m */,
+				EFA1C3841F14938700E93091 /* Recode.h */,
+				EFA1C3851F14938700E93091 /* Recode.mm */,
+				EFA1C3861F14938700E93091 /* RET.h */,
+				EFA1C3871F14938700E93091 /* route.h */,
+				EFA1C3881F14938700E93091 /* SDK.h */,
+				EFA1C3891F14938700E93091 /* SDK.mm */,
+				EF1426381F21FB9900250833 /* ControlPlist.h */,
+				EF1426361F21FB0500250833 /* ControlPlist.m */,
+				EF09655D1EFBB26C0047E5A9 /* Device.swift */,
+				EF0965691EFBB26C0047E5A9 /* LAMP.swift */,
+				EF15CF871F2F2DA600C6A834 /* ChkVersionMgr.swift */,
+				EF0965611EFBB26C0047E5A9 /* Extention.swift */,
+				EFB075741F74960D00097DB5 /* MyLocation.swift */,
+				EF1A1F0E1F4A0D59000DC394 /* webservice.h */,
+				EF1A1F111F4A0E80000DC394 /* webservice.m */,
+			);
+			name = include;
+			sourceTree = "<group>";
+		};
+		EFA69E981F07929300E777B6 /* view */ = {
+			isa = PBXGroup;
+			children = (
+				434C93F420F5A352008B418D /* UIAlertAction+Extensions.swift */,
+				434C93F620F5A3CD008B418D /* AlertViewController.swift */,
+				EF4271291F08295300BF6424 /* CustomCollectionView.swift */,
+				EF824A6A1FBDC8840086827E /* UIViewController.swift */,
+				EF42712A1F08295300BF6424 /* DisplayView.h */,
+				EF42712B1F08295300BF6424 /* DisplayView.mm */,
+				EF42712C1F08295300BF6424 /* GreenProgress.swift */,
+				EF42712D1F08295300BF6424 /* ProgressView.swift */,
+				EFA69E9B1F07934300E777B6 /* TimeSelectView */,
+			);
+			name = view;
+			sourceTree = "<group>";
+		};
+		EFA69E9B1F07934300E777B6 /* TimeSelectView */ = {
+			isa = PBXGroup;
+			children = (
+				EF42711A1F08293500BF6424 /* NSDate+Utils.h */,
+				EF42711B1F08293500BF6424 /* NSDate+Utils.m */,
+				EF42711C1F08293500BF6424 /* TimeSelectCell.swift */,
+				EF42711D1F08293500BF6424 /* TimeSelectCell.xib */,
+				EF42711E1F08293500BF6424 /* TimeSelectCollectonView.swift */,
+				EF42711F1F08293500BF6424 /* TimeSelectCollectonView.xib */,
+				EF4271201F08293500BF6424 /* TimeSelectionBar.swift */,
+				EF4271211F08293500BF6424 /* TimeSelectionBar.xib */,
+			);
+			name = TimeSelectView;
+			sourceTree = "<group>";
+		};
+		EFA69EA11F07965D00E777B6 /* left */ = {
+			isa = PBXGroup;
+			children = (
+				436B1F252102D9D900BD3999 /* OKViewController.swift */,
+				436B1F242102D9D900BD3999 /* OKViewController.xib */,
+				EF4271621F085A7A00BF6424 /* ManualController.swift */,
+				EFD83D5C1F085D0B00E5A0E7 /* ManualController.xib */,
+				EF0965731EFBB26C0047E5A9 /* NewCameraController.swift */,
+				EF4271541F0843FB00BF6424 /* NewCameraController.xib */,
+				EF0965751EFBB26C0047E5A9 /* QuickConfigController.swift */,
+				EF0965761EFBB26C0047E5A9 /* QuickConfigController.xib */,
+				4372FC6020FB7452001D9F09 /* CustomAlertView.swift */,
+				EF09657A1EFBB26C0047E5A9 /* UIDeviceExtension.swift */,
+			);
+			name = left;
+			sourceTree = "<group>";
+		};
+		EFA69EA21F0796EC00E777B6 /* right */ = {
+			isa = PBXGroup;
+			children = (
+				EF4271321F08299700BF6424 /* WebViewController.swift */,
+				EF0965671EFBB26C0047E5A9 /* InductionSettingController.xib */,
+				EF0965661EFBB26C0047E5A9 /* InductionSettingController.swift */,
+				EF0965651EFBB26C0047E5A9 /* InductionModelCell.xib */,
+				EF0965641EFBB26C0047E5A9 /* InductionModelCell.swift */,
+				EF0965781EFBB26C0047E5A9 /* SettingViewCell.xib */,
+				EF0965771EFBB26C0047E5A9 /* SettingViewCell.swift */,
+				EF0965711EFBB26C0047E5A9 /* MoreViewController.swift */,
+				EF0965721EFBB26C0047E5A9 /* MoreViewController.xib */,
+				EF09655F1EFBB26C0047E5A9 /* DeviceNameControllerViewController.xib */,
+				EF09655E1EFBB26C0047E5A9 /* DeviceNameControllerViewController.swift */,
+				EF50A6DB1F1545EF00C6DBEF /* DeviceChangePwd.xib */,
+				EF50A6DD1F15460600C6DBEF /* DeviceChangePwd.swift */,
+			);
+			name = right;
+			sourceTree = "<group>";
+		};
+		EFA69EA31F07979500E777B6 /* main */ = {
+			isa = PBXGroup;
+			children = (
+				43B0A01F20AEC2630061E05B /* MainViewCell.xib */,
+				43B0A01D20AEC1130061E05B /* MainViewCell.swift */,
+				EF4271361F082A4C00BF6424 /* LaunchScreen.storyboard */,
+				EF09655A1EFBB26C0047E5A9 /* AppDelegate.swift */,
+				EFCE254D1FEA3CCF00BE19B7 /* MainController.xib */,
+				EF09656B1EFBB26C0047E5A9 /* MainController.swift */,
+				EF0965621EFBB26C0047E5A9 /* GuideViewController.swift */,
+				EF0965631EFBB26C0047E5A9 /* GuideViewController.xib */,
+				43BF410A203FCF15001EE8F0 /* ProcessViewController.swift */,
+				43BF4110204005B1001EE8F0 /* ProcessViewController.xib */,
+				430FD12B20FFC76E00775589 /* PasswordView.swift */,
+				430FD12C20FFC76E00775589 /* PasswordView.xib */,
+			);
+			name = main;
+			sourceTree = "<group>";
+		};
+		FCADD15516E7E2AE2F8395D2 /* Pods */ = {
+			isa = PBXGroup;
+			children = (
+				C0A74467798C1BBB5BAD265C /* Pods-FunSDKDemo.debug.xcconfig */,
+				D3CFA03441DA334B08140A24 /* Pods-FunSDKDemo.release.xcconfig */,
+				B1AD554BB62088059AD4B1B5 /* Pods-CAM light.debug.xcconfig */,
+				33AED65C09AAFD230C336F1F /* Pods-CAM light.release.xcconfig */,
+			);
+			name = Pods;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		3E4001AD1E601D2500C73CBB /* CAM light */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 3E4001C51E601D2500C73CBB /* Build configuration list for PBXNativeTarget "CAM light" */;
+			buildPhases = (
+				58FFA22A7AEE7139309D2D08 /* [CP] Check Pods Manifest.lock */,
+				3E4001AA1E601D2500C73CBB /* Sources */,
+				3E4001AB1E601D2500C73CBB /* Frameworks */,
+				3E4001AC1E601D2500C73CBB /* Resources */,
+				A70F7DE81C4F830A233DE233 /* [CP] Embed Pods Frameworks */,
+				AD8D9E4F28118CE814C144F5 /* [CP] Copy Pods Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "CAM light";
+			productName = FunSDKDemo;
+			productReference = 3E4001AE1E601D2500C73CBB /* CAM light.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		3E4001A61E601D2500C73CBB /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastUpgradeCheck = 0930;
+				ORGANIZATIONNAME = lutec;
+				TargetAttributes = {
+					3E4001AD1E601D2500C73CBB = {
+						CreatedOnToolsVersion = 8.1;
+						LastSwiftMigration = 0900;
+						ProvisioningStyle = Automatic;
+						SystemCapabilities = {
+							com.apple.BackgroundModes = {
+								enabled = 1;
+							};
+							com.apple.Maps.iOS = {
+								enabled = 0;
+							};
+							com.apple.Push = {
+								enabled = 1;
+							};
+						};
+					};
+				};
+			};
+			buildConfigurationList = 3E4001A91E601D2500C73CBB /* Build configuration list for PBXProject "LutecCamera" */;
+			compatibilityVersion = "Xcode 8.0";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+				"zh-Hans",
+				de,
+				es,
+				fr,
+				it,
+				hu,
+				nl,
+				pl,
+				hr,
+				sl,
+			);
+			mainGroup = 3E4001A51E601D2500C73CBB;
+			productRefGroup = 3E4001AF1E601D2500C73CBB /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				3E4001AD1E601D2500C73CBB /* CAM light */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		3E4001AC1E601D2500C73CBB /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				43BF4111204006CB001EE8F0 /* ProcessViewController.xib in Resources */,
+				43B0A02020AEC2630061E05B /* MainViewCell.xib in Resources */,
+				EF9C863C1F08053900F9F981 /* Localizable.strings in Resources */,
+				436B1F262102D9DA00BD3999 /* OKViewController.xib in Resources */,
+				4393DC552079E8BB00D69F62 /* timezones.plist in Resources */,
+				EFD83D5D1F085D0B00E5A0E7 /* ManualController.xib in Resources */,
+				EF50A6DC1F1545EF00C6DBEF /* DeviceChangePwd.xib in Resources */,
+				EF4271241F08293500BF6424 /* TimeSelectCell.xib in Resources */,
+				EF0965971EFBB26C0047E5A9 /* MoreViewController.xib in Resources */,
+				EF303CF41FC2C67400A80859 /* LaunchScreen.storyboard in Resources */,
+				EF4271551F0843FB00BF6424 /* NewCameraController.xib in Resources */,
+				EF09658C1EFBB26C0047E5A9 /* InductionSettingController.xib in Resources */,
+				EF09659D1EFBB26C0047E5A9 /* SettingViewCell.xib in Resources */,
+				EF0965881EFBB26C0047E5A9 /* GuideViewController.xib in Resources */,
+				EF4271281F08293500BF6424 /* TimeSelectionBar.xib in Resources */,
+				EF4271261F08293500BF6424 /* TimeSelectCollectonView.xib in Resources */,
+				EF09659B1EFBB26C0047E5A9 /* QuickConfigController.xib in Resources */,
+				EF09658A1EFBB26C0047E5A9 /* InductionModelCell.xib in Resources */,
+				EFCE254E1FEA3CCF00BE19B7 /* MainController.xib in Resources */,
+				EF0965801EFBB26C0047E5A9 /* Assets.xcassets in Resources */,
+				EF0965841EFBB26C0047E5A9 /* DeviceNameControllerViewController.xib in Resources */,
+				430FD12E20FFC76E00775589 /* PasswordView.xib in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXShellScriptBuildPhase section */
+		58FFA22A7AEE7139309D2D08 /* [CP] Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+				"${PODS_PODFILE_DIR_PATH}/Podfile.lock",
+				"${PODS_ROOT}/Manifest.lock",
+			);
+			name = "[CP] Check Pods Manifest.lock";
+			outputPaths = (
+				"$(DERIVED_FILE_DIR)/Pods-CAM light-checkManifestLockResult.txt",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
+			showEnvVarsInLog = 0;
+		};
+		A70F7DE81C4F830A233DE233 /* [CP] Embed Pods Frameworks */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+				"${SRCROOT}/Pods/Target Support Files/Pods-CAM light/Pods-CAM light-frameworks.sh",
+				"${BUILT_PRODUCTS_DIR}/DynamicBlurView/DynamicBlurView.framework",
+				"${BUILT_PRODUCTS_DIR}/IQKeyboardManagerSwift/IQKeyboardManagerSwift.framework",
+				"${BUILT_PRODUCTS_DIR}/MBProgressHUD/MBProgressHUD.framework",
+				"${BUILT_PRODUCTS_DIR}/PasswordTextField/PasswordTextField.framework",
+				"${BUILT_PRODUCTS_DIR}/PopupDialog/PopupDialog.framework",
+				"${BUILT_PRODUCTS_DIR}/SnapKit/SnapKit.framework",
+				"${BUILT_PRODUCTS_DIR}/SwiftyJSON/SwiftyJSON.framework",
+			);
+			name = "[CP] Embed Pods Frameworks";
+			outputPaths = (
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/DynamicBlurView.framework",
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/IQKeyboardManagerSwift.framework",
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/MBProgressHUD.framework",
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/PasswordTextField.framework",
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/PopupDialog.framework",
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/SnapKit.framework",
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/SwiftyJSON.framework",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-CAM light/Pods-CAM light-frameworks.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+		AD8D9E4F28118CE814C144F5 /* [CP] Copy Pods Resources */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "[CP] Copy Pods Resources";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-CAM light/Pods-CAM light-resources.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+/* End PBXShellScriptBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		3E4001AA1E601D2500C73CBB /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				43BF410C203FCF15001EE8F0 /* ProcessViewController.swift in Sources */,
+				434C93F720F5A3CD008B418D /* AlertViewController.swift in Sources */,
+				43182B32202FC1C100186746 /* Assets.xcassets in Sources */,
+				EF4271331F08299700BF6424 /* WebViewController.swift in Sources */,
+				EF50A6DE1F15460600C6DBEF /* DeviceChangePwd.swift in Sources */,
+				4372FC6120FB7452001D9F09 /* CustomAlertView.swift in Sources */,
+				EF1426371F21FB0500250833 /* ControlPlist.m in Sources */,
+				43B0A01E20AEC1140061E05B /* MainViewCell.swift in Sources */,
+				EFA1C3921F14938700E93091 /* SDK.mm in Sources */,
+				EF4271251F08293500BF6424 /* TimeSelectCollectonView.swift in Sources */,
+				430FD12D20FFC76E00775589 /* PasswordView.swift in Sources */,
+				EFA1C38E1F14938700E93091 /* Global.mm in Sources */,
+				EF0965861EFBB26C0047E5A9 /* Extention.swift in Sources */,
+				EF09659A1EFBB26C0047E5A9 /* QuickConfigController.swift in Sources */,
+				434C93F520F5A352008B418D /* UIAlertAction+Extensions.swift in Sources */,
+				EFA1C38B1F14938700E93091 /* CallBackHandle.mm in Sources */,
+				EF15CF881F2F2DA600C6A834 /* ChkVersionMgr.swift in Sources */,
+				EF0965891EFBB26C0047E5A9 /* InductionModelCell.swift in Sources */,
+				EFA1C38C1F14938700E93091 /* FileData.m in Sources */,
+				EF09658B1EFBB26C0047E5A9 /* InductionSettingController.swift in Sources */,
+				EF4271231F08293500BF6424 /* TimeSelectCell.swift in Sources */,
+				EF42712F1F08295300BF6424 /* DisplayView.mm in Sources */,
+				EF42712E1F08295300BF6424 /* CustomCollectionView.swift in Sources */,
+				EFA1C3911F14938700E93091 /* Recode.mm in Sources */,
+				EF09657F1EFBB26C0047E5A9 /* AppDelegate.swift in Sources */,
+				EF0965901EFBB26C0047E5A9 /* MainController.swift in Sources */,
+				EF4271301F08295300BF6424 /* GreenProgress.swift in Sources */,
+				436B1F272102D9DA00BD3999 /* OKViewController.swift in Sources */,
+				EFA1C38D1F14938700E93091 /* getgateway.mm in Sources */,
+				EF824A6B1FBDC8840086827E /* UIViewController.swift in Sources */,
+				EF0965831EFBB26C0047E5A9 /* DeviceNameControllerViewController.swift in Sources */,
+				EFA1C38F1F14938700E93091 /* LanguageTools.m in Sources */,
+				EF09659C1EFBB26C0047E5A9 /* SettingViewCell.swift in Sources */,
+				EF0965871EFBB26C0047E5A9 /* GuideViewController.swift in Sources */,
+				EF4271631F085A7A00BF6424 /* ManualController.swift in Sources */,
+				EF0965961EFBB26C0047E5A9 /* MoreViewController.swift in Sources */,
+				EF4271271F08293500BF6424 /* TimeSelectionBar.swift in Sources */,
+				EFA1C38A1F14938700E93091 /* BasicFun.cpp in Sources */,
+				EF0965821EFBB26C0047E5A9 /* Device.swift in Sources */,
+				EF09659F1EFBB26C0047E5A9 /* UIDeviceExtension.swift in Sources */,
+				EF09658E1EFBB26C0047E5A9 /* LAMP.swift in Sources */,
+				EF0965981EFBB26C0047E5A9 /* NewCameraController.swift in Sources */,
+				EF1A1F121F4A0E80000DC394 /* webservice.m in Sources */,
+				EFB075751F74960D00097DB5 /* MyLocation.swift in Sources */,
+				EF4271311F08295300BF6424 /* ProgressView.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXVariantGroup section */
+		EF4271361F082A4C00BF6424 /* LaunchScreen.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				EF4271371F082A4C00BF6424 /* Base */,
+			);
+			name = LaunchScreen.storyboard;
+			sourceTree = "<group>";
+		};
+		EFA69E901F07906100E777B6 /* Localizable.strings */ = {
+			isa = PBXVariantGroup;
+			children = (
+				EF9C863D1F081BC800F9F981 /* zh-Hans */,
+				EF9C86421F081F4D00F9F981 /* en */,
+				EF5CE3EB1F2B4B7C00CE13B8 /* Base */,
+				EF5CE3ED1F2B532800CE13B8 /* de */,
+				EF5CE3F01F2B533D00CE13B8 /* es */,
+				EF5CE3F41F2B536400CE13B8 /* it */,
+				EF5CE3F71F2B538F00CE13B8 /* hu */,
+				EF5CE3FA1F2B61CC00CE13B8 /* nl */,
+				EF5CE3FC1F2B62A700CE13B8 /* fr */,
+				430FD12620FFA61300775589 /* pl */,
+				430FD12820FFA63600775589 /* hr */,
+				430FD12A20FFA6BA00775589 /* sl */,
+			);
+			name = Localizable.strings;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		3E4001C31E601D2500C73CBB /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_LOCALIZABILITY_NONLOCALIZED = YES;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_CXX_LANGUAGE_STANDARD = "compiler-default";
+				CLANG_CXX_LIBRARY = "compiler-default";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_SUSPICIOUS_MOVES = YES;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_BITCODE = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = "compiler-default";
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+					"OS_IOS=1",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 9.1;
+				MACH_O_TYPE = mh_execute;
+				MTL_ENABLE_DEBUG_INFO = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		3E4001C41E601D2500C73CBB /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_LOCALIZABILITY_NONLOCALIZED = YES;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_CXX_LANGUAGE_STANDARD = "compiler-default";
+				CLANG_CXX_LIBRARY = "compiler-default";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_SUSPICIOUS_MOVES = YES;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_BITCODE = NO;
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = NO;
+				GCC_C_LANGUAGE_STANDARD = "compiler-default";
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = "OS_IOS=1";
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 9.1;
+				MACH_O_TYPE = mh_execute;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				SDKROOT = iphoneos;
+				SWIFT_COMPILATION_MODE = wholemodule;
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		3E4001C61E601D2500C73CBB /* Debug */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = B1AD554BB62088059AD4B1B5 /* Pods-CAM light.debug.xcconfig */;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
+				CLANG_CXX_LANGUAGE_STANDARD = "compiler-default";
+				CLANG_CXX_LIBRARY = "compiler-default";
+				CLANG_OPTIMIZATION_PROFILE_FILE = "";
+				CLANG_USE_OPTIMIZATION_PROFILE = YES;
+				CODE_SIGN_ENTITLEMENTS = Lutec.entitlements;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = PV5U2Y9BUT;
+				ENABLE_BITCODE = NO;
+				ENABLE_TESTABILITY = NO;
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(inherited)",
+					"$(PROJECT_DIR)",
+					"$(PROJECT_DIR)/Carthage/Build/iOS",
+				);
+				GCC_C_LANGUAGE_STANDARD = "compiler-default";
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "$(PROJECT_DIR)/Supporting Files/PrefixHeader.pch";
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"OS_IOS=1",
+				);
+				HEADER_SEARCH_PATHS = (
+					"$(inherited)",
+					"$(PROJECT_DIR)/YaohuaCamera/Tools",
+					"$(PROJECT_DIR)/YaohuaCamera/view",
+					"$(PROJECT_DIR)/YaohuaCamera/view/TimeSelectView",
+				);
+				INFOPLIST_FILE = YaohuaCamera/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 9.3;
+				LD_NO_PIE = YES;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				LIBRARY_SEARCH_PATHS = "$(inherited)";
+				ONLY_ACTIVE_ARCH = YES;
+				OTHER_LDFLAGS = (
+					"$(inherited)",
+					"-framework",
+					"\"MBProgressHUD\"",
+					"-framework",
+					"\"CoreGraphics\"",
+					"-framework",
+					"\"Foundation\"",
+					"-framework",
+					"\"UIKit\"",
+					"-framework",
+					"\"SwiftyJSON\"",
+					"-framework",
+					"\"IQKeyboardManagerSwift\"",
+					"-framework",
+					"\"SnapKit\"",
+					"-framework",
+					PopupDialog,
+					"-framework",
+					"\"PasswordTextField\"",
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = de.steinel.camlight;
+				PRODUCT_NAME = "CAM light";
+				PROVISIONING_PROFILE = "";
+				PROVISIONING_PROFILE_SPECIFIER = "";
+				SWIFT_OBJC_BRIDGING_HEADER = "LutecCamera-Bridging-Header.h";
+				SWIFT_SWIFT3_OBJC_INFERENCE = Default;
+				SWIFT_VERSION = 4.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				WARNING_CFLAGS = " -w";
+				wewew = "";
+			};
+			name = Debug;
+		};
+		3E4001C71E601D2500C73CBB /* Release */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 33AED65C09AAFD230C336F1F /* Pods-CAM light.release.xcconfig */;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
+				CLANG_CXX_LANGUAGE_STANDARD = "compiler-default";
+				CLANG_CXX_LIBRARY = "compiler-default";
+				CLANG_OPTIMIZATION_PROFILE_FILE = "";
+				CLANG_USE_OPTIMIZATION_PROFILE = YES;
+				CODE_SIGN_ENTITLEMENTS = Lutec.entitlements;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = PV5U2Y9BUT;
+				ENABLE_BITCODE = NO;
+				ENABLE_TESTABILITY = NO;
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(inherited)",
+					"$(PROJECT_DIR)",
+					"$(PROJECT_DIR)/Carthage/Build/iOS",
+				);
+				GCC_C_LANGUAGE_STANDARD = "compiler-default";
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "$(PROJECT_DIR)/Supporting Files/PrefixHeader.pch";
+				GCC_PREPROCESSOR_DEFINITIONS = "OS_IOS=1";
+				HEADER_SEARCH_PATHS = (
+					"$(inherited)",
+					"$(PROJECT_DIR)/YaohuaCamera/Tools",
+					"$(PROJECT_DIR)/YaohuaCamera/view",
+					"$(PROJECT_DIR)/YaohuaCamera/view/TimeSelectView",
+				);
+				INFOPLIST_FILE = YaohuaCamera/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 9.3;
+				LD_NO_PIE = YES;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				LIBRARY_SEARCH_PATHS = "$(inherited)";
+				ONLY_ACTIVE_ARCH = YES;
+				OTHER_LDFLAGS = (
+					"$(inherited)",
+					"-framework",
+					"\"MBProgressHUD\"",
+					"-framework",
+					"\"CoreGraphics\"",
+					"-framework",
+					"\"Foundation\"",
+					"-framework",
+					"\"UIKit\"",
+					"-framework",
+					"\"SwiftyJSON\"",
+					"-framework",
+					"\"IQKeyboardManagerSwift\"",
+					"-framework",
+					"\"SnapKit\"",
+					"-framework",
+					PopupDialog,
+					"-framework",
+					"\"PasswordTextField\"",
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = de.steinel.camlight;
+				PRODUCT_NAME = "CAM light";
+				PROVISIONING_PROFILE = "";
+				PROVISIONING_PROFILE_SPECIFIER = "";
+				SWIFT_COMPILATION_MODE = wholemodule;
+				SWIFT_OBJC_BRIDGING_HEADER = "LutecCamera-Bridging-Header.h";
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+				SWIFT_SWIFT3_OBJC_INFERENCE = Default;
+				SWIFT_VERSION = 4.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				WARNING_CFLAGS = " -w";
+				wewew = "";
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		3E4001A91E601D2500C73CBB /* Build configuration list for PBXProject "LutecCamera" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				3E4001C31E601D2500C73CBB /* Debug */,
+				3E4001C41E601D2500C73CBB /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		3E4001C51E601D2500C73CBB /* Build configuration list for PBXNativeTarget "CAM light" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				3E4001C61E601D2500C73CBB /* Debug */,
+				3E4001C71E601D2500C73CBB /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 3E4001A61E601D2500C73CBB /* Project object */;
+}

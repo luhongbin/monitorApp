@@ -1,0 +1,15 @@
+# Uncomment the next line to define a global platform for your project
+#project ‘LutecCamera.xcodeproj'
+platform :ios, ’10.3’
+
+target ‘LutecCamera’ do
+  # Comment the next line if you're not using Swift and don't want to use dynamic frameworks
+use_frameworks!
+
+
+pod 'MBProgressHUD’
+pod 'SwiftyJSON'
+pod 'IQKeyboardManagerSwift'
+end
+
+

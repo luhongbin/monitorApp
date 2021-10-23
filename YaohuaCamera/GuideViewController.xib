@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="13771" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" colorMatched="YES">
+    <device id="retina4_7" orientation="portrait">
+        <adaptation id="fullscreen"/>
+    </device>
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="13772"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner" customClass="GuideViewController" customModule="LUTEC" customModuleProvider="target">
+            <connections>
+                <outlet property="pageControl" destination="Xcr-ba-6jJ" id="hdH-j7-Vpd"/>
+                <outlet property="scrollView" destination="MrT-B9-X9E" id="AFU-5e-DHp"/>
+                <outlet property="startButton" destination="L1E-9r-LhQ" id="4v4-J0-1ag"/>
+                <outlet property="view" destination="i5M-Pr-FkT" id="bMp-7T-dVj"/>
+            </connections>
+        </placeholder>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <view clearsContextBeforeDrawing="NO" contentMode="scaleToFill" id="i5M-Pr-FkT">
+            <rect key="frame" x="0.0" y="0.0" width="375" height="667"/>
+            <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+            <subviews>
+                <scrollView clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="MrT-B9-X9E">
+                    <rect key="frame" x="0.0" y="0.0" width="375" height="667"/>
+                </scrollView>
+                <pageControl opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" numberOfPages="3" translatesAutoresizingMaskIntoConstraints="NO" id="Xcr-ba-6jJ">
+                    <rect key="frame" x="167.5" y="617" width="39" height="37"/>
+                </pageControl>
+                <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="L1E-9r-LhQ">
+                    <rect key="frame" x="155.5" y="534" width="94" height="74"/>
+                    <constraints>
+                        <constraint firstAttribute="height" constant="74" id="PKe-N2-gh0"/>
+                        <constraint firstAttribute="width" constant="94" id="ipe-Jr-TyE"/>
+                    </constraints>
+                    <state key="normal" title="           " image="start"/>
+                </button>
+            </subviews>
+            <color key="backgroundColor" red="1" green="1" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+            <constraints>
+                <constraint firstAttribute="trailing" secondItem="MrT-B9-X9E" secondAttribute="trailing" id="Kuq-bW-txE"/>
+                <constraint firstAttribute="bottom" secondItem="Xcr-ba-6jJ" secondAttribute="bottom" constant="13" id="QPY-Hh-a7K"/>
+                <constraint firstAttribute="bottom" secondItem="MrT-B9-X9E" secondAttribute="bottom" id="TBf-cn-aWH"/>
+                <constraint firstItem="MrT-B9-X9E" firstAttribute="top" secondItem="i5M-Pr-FkT" secondAttribute="top" id="XWJ-eW-4r8"/>
+                <constraint firstItem="Xcr-ba-6jJ" firstAttribute="top" secondItem="L1E-9r-LhQ" secondAttribute="bottom" constant="9" id="fSr-e0-33Q"/>
+                <constraint firstItem="Xcr-ba-6jJ" firstAttribute="centerX" secondItem="MrT-B9-X9E" secondAttribute="centerX" id="g9d-r1-fIX"/>
+                <constraint firstItem="MrT-B9-X9E" firstAttribute="leading" secondItem="i5M-Pr-FkT" secondAttribute="leading" id="hsv-kj-FwX"/>
+                <constraint firstItem="L1E-9r-LhQ" firstAttribute="centerX" secondItem="i5M-Pr-FkT" secondAttribute="centerX" constant="15" id="rBa-v0-EV3"/>
+            </constraints>
+        </view>
+    </objects>
+    <resources>
+        <image name="start" width="1517" height="1200"/>
+    </resources>
+</document>

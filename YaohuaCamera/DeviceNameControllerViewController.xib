@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="13771" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" colorMatched="YES">
+    <device id="retina4_7" orientation="portrait">
+        <adaptation id="fullscreen"/>
+    </device>
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="13772"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <customFonts key="customFonts">
+        <array key="HelveticaNeue.ttc">
+            <string>HelveticaNeue</string>
+        </array>
+    </customFonts>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner" customClass="DeviceNameControllerViewController" customModule="LUTEC" customModuleProvider="target">
+            <connections>
+                <outlet property="confirmlabel" destination="Gl5-wH-u6v" id="FMG-i2-CRV"/>
+                <outlet property="leftBarView" destination="wVZ-HJ-t1E" id="3qF-uj-ehj"/>
+                <outlet property="textField" destination="LAr-Nf-1G2" id="APo-sG-Ahd"/>
+                <outlet property="view" destination="xyb-6V-Acm" id="zXJ-DQ-qYp"/>
+            </connections>
+        </placeholder>
+        <view clearsContextBeforeDrawing="NO" contentMode="scaleToFill" id="xyb-6V-Acm">
+            <rect key="frame" x="0.0" y="0.0" width="375" height="603"/>
+            <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+            <subviews>
+                <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="DlJ-Xg-lPE">
+                    <rect key="frame" x="0.0" y="36" width="375" height="21"/>
+                    <constraints>
+                        <constraint firstAttribute="height" constant="21" id="VID-gE-lyt"/>
+                    </constraints>
+                    <fontDescription key="fontDescription" type="system" pointSize="14"/>
+                    <color key="textColor" red="0.65098039220000004" green="0.67843137249999996" blue="0.69411764710000001" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                    <nil key="highlightedColor"/>
+                </label>
+                <textField opaque="NO" clipsSubviews="YES" contentMode="scaleToFill" contentHorizontalAlignment="left" contentVerticalAlignment="center" borderStyle="roundedRect" textAlignment="natural" minimumFontSize="17" translatesAutoresizingMaskIntoConstraints="NO" id="LAr-Nf-1G2" userLabel="MyTextField">
+                    <rect key="frame" x="36" y="78" width="304" height="58"/>
+                    <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                    <constraints>
+                        <constraint firstAttribute="height" constant="58" id="f6p-Ob-7nQ"/>
+                    </constraints>
+                    <fontDescription key="fontDescription" type="system" pointSize="24"/>
+                    <textInputTraits key="textInputTraits"/>
+                </textField>
+                <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="Gl5-wH-u6v">
+                    <rect key="frame" x="36" y="153" width="304" height="60"/>
+                    <constraints>
+                        <constraint firstAttribute="height" constant="60" id="05o-n6-nHE"/>
+                    </constraints>
+                    <fontDescription key="fontDescription" type="system" pointSize="17"/>
+                    <size key="titleShadowOffset" width="2.2250738585072014e-308" height="2.2250738585072014e-308"/>
+                    <state key="normal" title="Confirm" backgroundImage="confirm_bg">
+                        <color key="titleShadowColor" red="0.64705882349999999" green="0.67450980390000004" blue="0.74901960779999999" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                    </state>
+                    <userDefinedRuntimeAttributes>
+                        <userDefinedRuntimeAttribute type="color" keyPath="layer.borderColor">
+                            <color key="value" red="0.0" green="0.0" blue="0.0" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                        </userDefinedRuntimeAttribute>
+                        <userDefinedRuntimeAttribute type="number" keyPath="layer.borderWidth">
+                            <real key="value" value="0.5"/>
+                        </userDefinedRuntimeAttribute>
+                        <userDefinedRuntimeAttribute type="number" keyPath="layer.cornerRadius">
+                            <real key="value" value="1.6899999999999999"/>
+                        </userDefinedRuntimeAttribute>
+                    </userDefinedRuntimeAttributes>
+                    <connections>
+                        <action selector="confirm:" destination="-1" eventType="touchUpInside" id="AAN-hg-Y41"/>
+                    </connections>
+                </button>
+            </subviews>
+            <color key="backgroundColor" white="0.0" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+            <constraints>
+                <constraint firstItem="DlJ-Xg-lPE" firstAttribute="leading" secondItem="xyb-6V-Acm" secondAttribute="leading" id="4z6-1W-k7r"/>
+                <constraint firstItem="LAr-Nf-1G2" firstAttribute="top" secondItem="DlJ-Xg-lPE" secondAttribute="bottom" constant="21" id="AZL-DI-0pa"/>
+                <constraint firstItem="LAr-Nf-1G2" firstAttribute="leading" secondItem="xyb-6V-Acm" secondAttribute="leading" constant="36" id="JDP-9h-PGN"/>
+                <constraint firstItem="DlJ-Xg-lPE" firstAttribute="top" secondItem="xyb-6V-Acm" secondAttribute="top" constant="36" id="PQ3-7L-USy"/>
+                <constraint firstItem="Gl5-wH-u6v" firstAttribute="top" secondItem="LAr-Nf-1G2" secondAttribute="bottom" constant="17" id="fl6-ZY-57G"/>
+                <constraint firstAttribute="trailing" secondItem="DlJ-Xg-lPE" secondAttribute="trailing" id="laL-0p-Mbg"/>
+                <constraint firstItem="Gl5-wH-u6v" firstAttribute="leading" secondItem="xyb-6V-Acm" secondAttribute="leading" constant="36" id="mqe-Ev-ypb"/>
+                <constraint firstAttribute="trailing" secondItem="Gl5-wH-u6v" secondAttribute="trailing" constant="35" id="uzy-zp-VZO"/>
+                <constraint firstAttribute="trailing" secondItem="LAr-Nf-1G2" secondAttribute="trailing" constant="35" id="vYk-lT-Fgz"/>
+            </constraints>
+            <nil key="simulatedStatusBarMetrics"/>
+            <freeformSimulatedSizeMetrics key="simulatedDestinationMetrics"/>
+            <point key="canvasLocation" x="222.5" y="192.5"/>
+        </view>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <view contentMode="scaleToFill" id="wVZ-HJ-t1E" userLabel="left Bar View">
+            <rect key="frame" x="0.0" y="0.0" width="44" height="44"/>
+            <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+            <subviews>
+                <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="QTY-zU-irH">
+                    <rect key="frame" x="0.0" y="8" width="36" height="36"/>
+                    <constraints>
+                        <constraint firstAttribute="height" constant="36" id="afp-fy-9gK"/>
+                        <constraint firstAttribute="width" constant="36" id="zcI-DM-Xbu"/>
+                    </constraints>
+                    <fontDescription key="fontDescription" name="HelveticaNeue" family="Helvetica Neue" pointSize="18"/>
+                    <state key="normal" image="reback_icon">
+                        <color key="titleShadowColor" red="0.5" green="0.5" blue="0.5" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                    </state>
+                    <connections>
+                        <action selector="onBackClick:" destination="-1" eventType="touchUpInside" id="NDR-TT-9pR"/>
+                    </connections>
+                </button>
+            </subviews>
+            <color key="backgroundColor" red="0.0" green="0.0" blue="0.0" alpha="0.0" colorSpace="custom" customColorSpace="sRGB"/>
+            <constraints>
+                <constraint firstItem="QTY-zU-irH" firstAttribute="leading" secondItem="wVZ-HJ-t1E" secondAttribute="leading" id="Byn-Cs-IA6"/>
+                <constraint firstItem="QTY-zU-irH" firstAttribute="top" secondItem="wVZ-HJ-t1E" secondAttribute="top" constant="8" id="FNg-Fo-o9K"/>
+                <constraint firstAttribute="trailing" secondItem="QTY-zU-irH" secondAttribute="trailing" constant="8" id="dCN-q0-ci7"/>
+                <constraint firstAttribute="bottom" secondItem="QTY-zU-irH" secondAttribute="bottom" id="nuW-bs-jDv"/>
+            </constraints>
+            <nil key="simulatedStatusBarMetrics"/>
+            <freeformSimulatedSizeMetrics key="simulatedDestinationMetrics"/>
+            <point key="canvasLocation" x="-16" y="198"/>
+        </view>
+        <view contentMode="scaleToFill" id="H4K-UD-rMa" userLabel="Nav Button Right">
+            <rect key="frame" x="0.0" y="0.0" width="44" height="44"/>
+            <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+            <subviews>
+                <button opaque="NO" contentMode="center" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="knf-6x-4gW">
+                    <rect key="frame" x="2" y="2" width="36" height="36"/>
+                    <constraints>
+                        <constraint firstAttribute="width" relation="lessThanOrEqual" constant="36" id="F9P-nb-MUv"/>
+                        <constraint firstAttribute="height" relation="lessThanOrEqual" constant="36" id="Iev-iX-qbB"/>
+                        <constraint firstAttribute="height" constant="36" id="N58-Hc-zBA"/>
+                        <constraint firstAttribute="height" relation="greaterThanOrEqual" constant="36" id="PY1-CT-X3k"/>
+                        <constraint firstAttribute="width" relation="greaterThanOrEqual" constant="36" id="kkO-In-frX"/>
+                        <constraint firstAttribute="width" constant="36" id="mns-Jn-qgr"/>
+                    </constraints>
+                    <state key="normal" image="ic_middle_small">
+                        <color key="titleShadowColor" red="0.5" green="0.5" blue="0.5" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                    </state>
+                </button>
+            </subviews>
+            <constraints>
+                <constraint firstItem="knf-6x-4gW" firstAttribute="centerX" secondItem="H4K-UD-rMa" secondAttribute="centerX" constant="-2" id="dR1-Hm-ej6"/>
+                <constraint firstItem="knf-6x-4gW" firstAttribute="centerY" secondItem="H4K-UD-rMa" secondAttribute="centerY" constant="-2" id="tKg-Em-RCC"/>
+            </constraints>
+            <nil key="simulatedStatusBarMetrics"/>
+            <freeformSimulatedSizeMetrics key="simulatedDestinationMetrics"/>
+            <point key="canvasLocation" x="951" y="57"/>
+        </view>
+    </objects>
+    <resources>
+        <image name="confirm_bg" width="984" height="151"/>
+        <image name="ic_middle_small" width="54" height="54"/>
+        <image name="reback_icon" width="109" height="107"/>
+    </resources>
+</document>

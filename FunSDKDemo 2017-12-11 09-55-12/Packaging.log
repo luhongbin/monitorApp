@@ -1,0 +1,1705 @@
+2017-12-11 01:54:26 +0000  Initial pipeline context: <IDEDistributionProcessingPipelineContext: 0x7fc3b743e580; archive(resolved)='<IDEArchive: 0x7fc3cf589740>', distributionTask(resolved)='2', distributionMethod(resolved)='<IDEDistributionMethodAdHoc: 0x7fc3c9f283a0>', team(resolved)='<IDEProvisioningBasicTeam 0x7fc3d1262f50: teamID: FN8VZD49EJ, teamName: NINGBO UTEC ELECTRIC CO.,LTD>'>
+	Chain (11, self inclusive):
+	<IDEDistributionProcessingPipelineContext: 0x7fc3b743e580; archive = '<IDEArchive: 0x7fc3cf589740>', distributionMethod='<IDEDistributionMethodAdHoc: 0x7fc3c9f283a0>', team='<IDEProvisioningBasicTeam 0x7fc3d1262f50: teamID: FN8VZD49EJ, teamName: NINGBO UTEC ELECTRIC CO.,LTD>'>
+	<IDEDistributionProcessingPipelineContext: 0x7fc3d2860520; archive = '<IDEArchive: 0x7fc3cf589740>', distributionMethod='<IDEDistributionMethodAdHoc: 0x7fc3c9f283a0>', team='<IDEProvisioningBasicTeam 0x7fc3d1262f50: teamID: FN8VZD49EJ, teamName: NINGBO UTEC ELECTRIC CO.,LTD>'>
+	<IDEDistributionContext: 0x7fc3b7ed46a0; archive = '<IDEArchive: 0x7fc3cf589740>', distributionMethod='<IDEDistributionMethodAdHoc: 0x7fc3c9f283a0>', team='<IDEProvisioningBasicTeam 0x7fc3d1262f50: teamID: FN8VZD49EJ, teamName: NINGBO UTEC ELECTRIC CO.,LTD>'>
+	<IDEDistributionContext: 0x7fc3b76cac00; archive = '<IDEArchive: 0x7fc3cf589740>', distributionMethod='<IDEDistributionMethodAdHoc: 0x7fc3c9f283a0>', team='<IDEProvisioningBasicTeam 0x7fc3d1262f50: teamID: FN8VZD49EJ, teamName: NINGBO UTEC ELECTRIC CO.,LTD>'>
+	<IDEDistributionContext: 0x7fc3d140e1b0; archive = '<IDEArchive: 0x7fc3cf589740>', distributionMethod='<IDEDistributionMethodAdHoc: 0x7fc3c9f283a0>', team='<IDEProvisioningBasicTeam 0x7fc3d1262f50: teamID: FN8VZD49EJ, teamName: NINGBO UTEC ELECTRIC CO.,LTD>'>
+	<IDEDistributionContext: 0x7fc3d1428970; archive = '<IDEArchive: 0x7fc3cf589740>', distributionMethod='<IDEDistributionMethodAdHoc: 0x7fc3c9f283a0>', team='<IDEProvisioningBasicTeam 0x7fc3d1262f50: teamID: FN8VZD49EJ, teamName: NINGBO UTEC ELECTRIC CO.,LTD>'>
+	<IDEDistributionContext: 0x7fc3d1065310; archive = '<IDEArchive: 0x7fc3cf589740>', distributionMethod='<IDEDistributionMethodAdHoc: 0x7fc3c9f283a0>', team='<IDEProvisioningBasicTeam 0x7fc3d1262f50: teamID: FN8VZD49EJ, teamName: NINGBO UTEC ELECTRIC CO.,LTD>'>
+	<IDEDistributionContext: 0x7fc3ce6aa610; archive = '<IDEArchive: 0x7fc3cf589740>', distributionMethod='<IDEDistributionMethodAdHoc: 0x7fc3c9f283a0>', team='<IDEProvisioningBasicTeam 0x7fc3d1262f50: teamID: FN8VZD49EJ, teamName: NINGBO UTEC ELECTRIC CO.,LTD>'>
+	<IDEDistributionContext: 0x7fc3b7e5bab0; archive = '<IDEArchive: 0x7fc3cf589740>', distributionMethod='<IDEDistributionMethodAdHoc: 0x7fc3c9f283a0>', team='<IDEProvisioningBasicTeam 0x7fc3d1262f50: teamID: FN8VZD49EJ, teamName: NINGBO UTEC ELECTRIC CO.,LTD>'>
+	<IDEDistributionContext: 0x7fc3d10fb310; archive = '<IDEArchive: 0x7fc3cf589740>', distributionMethod='<IDEDistributionMethodAdHoc: 0x7fc3c9f283a0>', team='(null)'>
+	<IDEDistributionContext: 0x7fc3b6897160; archive = '<IDEArchive: 0x7fc3cf589740>', distributionMethod='(null)', team='(null)'>
+</IDEDistributionProcessingPipelineContext: 0x7fc3b743e580>
+2017-12-11 01:54:26 +0000  Processing step: IDEDistributionCreateDestRootStep
+2017-12-11 01:54:26 +0000  Processing step: IDEDistributionCopyItemStep
+2017-12-11 01:54:26 +0000  Running /usr/bin/ditto '-V' '/Users/lhb/Library/Developer/Xcode/Archives/2017-12-11/FunSDKDemo 2017-12-11 上午9.54.xcarchive/Products/Applications/LUTEC.app' '/var/folders/rz/8jbnfm5d1bn2mqs7c842w8240000gn/T/XcodeDistPipeline.qDu/Root/Payload/LUTEC.app'
+2017-12-11 01:54:26 +0000  >>> Copying /Users/lhb/Library/Developer/Xcode/Archives/2017-12-11/FunSDKDemo 2017-12-11 上午9.54.xcarchive/Products/Applications/LUTEC.app 
+2017-12-11 01:54:26 +0000  copying file ./_CodeSignature/CodeResources ... 
+2017-12-11 01:54:26 +0000  31011 bytes for ./_CodeSignature/CodeResources
+2017-12-11 01:54:26 +0000  copying file ./AppIcon60x60@2x.png ... 
+2017-12-11 01:54:26 +0000  26559 bytes for ./AppIcon60x60@2x.png
+copying file ./AppIcon60x60@3x.png ... 
+2017-12-11 01:54:26 +0000  50818 bytes for ./AppIcon60x60@3x.png
+copying file ./AppIcon76x76~ipad.png ... 
+2017-12-11 01:54:26 +0000  9880 bytes for ./AppIcon76x76~ipad.png
+copying file ./archived-expanded-entitlements.xcent ... 
+2017-12-11 01:54:26 +0000  246 bytes for ./archived-expanded-entitlements.xcent
+2017-12-11 01:54:26 +0000  copying file ./Assets.car ... 
+2017-12-11 01:54:26 +0000  7227672 bytes for ./Assets.car
+2017-12-11 01:54:26 +0000  copying file ./Base.lproj/LaunchScreen.storyboardc/01J-lp-oVM-view-Ze5-6b-2t3.nib ... 
+2017-12-11 01:54:26 +0000  3219 bytes for ./Base.lproj/LaunchScreen.storyboardc/01J-lp-oVM-view-Ze5-6b-2t3.nib
+2017-12-11 01:54:26 +0000  copying file ./Base.lproj/LaunchScreen.storyboardc/Info.plist ... 
+258 bytes for ./Base.lproj/LaunchScreen.storyboardc/Info.plist
+copying file ./Base.lproj/LaunchScreen.storyboardc/UIViewController-01J-lp-oVM.nib ... 
+2017-12-11 01:54:26 +0000  832 bytes for ./Base.lproj/LaunchScreen.storyboardc/UIViewController-01J-lp-oVM.nib
+copying file ./Base.lproj/Localizable.strings ... 
+2017-12-11 01:54:26 +0000  18168 bytes for ./Base.lproj/Localizable.strings
+2017-12-11 01:54:26 +0000  copying file ./de.lproj/Localizable.strings ... 
+2017-12-11 01:54:26 +0000  23242 bytes for ./de.lproj/Localizable.strings
+copying file ./DeviceChangePwd.nib ... 
+2017-12-11 01:54:26 +0000  5559 bytes for ./DeviceChangePwd.nib
+copying file ./DeviceNameControllerViewController.nib ... 
+2017-12-11 01:54:26 +0000  5388 bytes for ./DeviceNameControllerViewController.nib
+copying file ./embedded.mobileprovision ... 
+2017-12-11 01:54:26 +0000  16047 bytes for ./embedded.mobileprovision
+2017-12-11 01:54:26 +0000  copying file ./en.lproj/Localizable.strings ... 
+2017-12-11 01:54:26 +0000  22553 bytes for ./en.lproj/Localizable.strings
+2017-12-11 01:54:26 +0000  copying file ./es.lproj/Localizable.strings ... 
+2017-12-11 01:54:26 +0000  23396 bytes for ./es.lproj/Localizable.strings
+2017-12-11 01:54:26 +0000  copying file ./fr.lproj/Localizable.strings ... 
+23320 bytes for ./fr.lproj/Localizable.strings
+2017-12-11 01:54:26 +0000  copying file ./Frameworks/IQKeyboardManagerSwift.framework/_CodeSignature/CodeResources ... 
+2017-12-11 01:54:26 +0000  5102 bytes for ./Frameworks/IQKeyboardManagerSwift.framework/_CodeSignature/CodeResources
+copying file ./Frameworks/IQKeyboardManagerSwift.framework/Info.plist ... 
+2017-12-11 01:54:26 +0000  769 bytes for ./Frameworks/IQKeyboardManagerSwift.framework/Info.plist
+copying file ./Frameworks/IQKeyboardManagerSwift.framework/IQKeyboardManager.bundle/IQButtonBarArrowDown@2x.png ... 
+2017-12-11 01:54:26 +0000  1764 bytes for ./Frameworks/IQKeyboardManagerSwift.framework/IQKeyboardManager.bundle/IQButtonBarArrowDown@2x.png
+copying file ./Frameworks/IQKeyboardManagerSwift.framework/IQKeyboardManager.bundle/IQButtonBarArrowDown@3x.png ... 
+2017-12-11 01:54:26 +0000  2177 bytes for ./Frameworks/IQKeyboardManagerSwift.framework/IQKeyboardManager.bundle/IQButtonBarArrowDown@3x.png
+copying file ./Frameworks/IQKeyboardManagerSwift.framework/IQKeyboardManager.bundle/IQButtonBarArrowLeft@2x.png ... 
+2017-12-11 01:54:26 +0000  1793 bytes for ./Frameworks/IQKeyboardManagerSwift.framework/IQKeyboardManager.bundle/IQButtonBarArrowLeft@2x.png
+copying file ./Frameworks/IQKeyboardManagerSwift.framework/IQKeyboardManager.bundle/IQButtonBarArrowLeft@3x.png ... 
+2017-12-11 01:54:26 +0000  1815 bytes for ./Frameworks/IQKeyboardManagerSwift.framework/IQKeyboardManager.bundle/IQButtonBarArrowLeft@3x.png
+copying file ./Frameworks/IQKeyboardManagerSwift.framework/IQKeyboardManager.bundle/IQButtonBarArrowRight@2x.png ... 
+2017-12-11 01:54:26 +0000  1786 bytes for ./Frameworks/IQKeyboardManagerSwift.framework/IQKeyboardManager.bundle/IQButtonBarArrowRight@2x.png
+copying file ./Frameworks/IQKeyboardManagerSwift.framework/IQKeyboardManager.bundle/IQButtonBarArrowRight@3x.png ... 
+2017-12-11 01:54:26 +0000  1844 bytes for ./Frameworks/IQKeyboardManagerSwift.framework/IQKeyboardManager.bundle/IQButtonBarArrowRight@3x.png
+copying file ./Frameworks/IQKeyboardManagerSwift.framework/IQKeyboardManager.bundle/IQButtonBarArrowUp@2x.png ... 
+2017-12-11 01:54:26 +0000  1769 bytes for ./Frameworks/IQKeyboardManagerSwift.framework/IQKeyboardManager.bundle/IQButtonBarArrowUp@2x.png
+copying file ./Frameworks/IQKeyboardManagerSwift.framework/IQKeyboardManager.bundle/IQButtonBarArrowUp@3x.png ... 
+2164 bytes for ./Frameworks/IQKeyboardManagerSwift.framework/IQKeyboardManager.bundle/IQButtonBarArrowUp@3x.png
+copying file ./Frameworks/IQKeyboardManagerSwift.framework/IQKeyboardManagerSwift ... 
+2017-12-11 01:54:26 +0000  4052304 bytes for ./Frameworks/IQKeyboardManagerSwift.framework/IQKeyboardManagerSwift
+2017-12-11 01:54:26 +0000  copying file ./Frameworks/libswiftAVFoundation.dylib ... 
+2017-12-11 01:54:26 +0000  504384 bytes for ./Frameworks/libswiftAVFoundation.dylib
+copying file ./Frameworks/libswiftCore.dylib ... 
+2017-12-11 01:54:26 +0000  21079584 bytes for ./Frameworks/libswiftCore.dylib
+2017-12-11 01:54:26 +0000  copying file ./Frameworks/libswiftCoreAudio.dylib ... 
+2017-12-11 01:54:26 +0000  353856 bytes for ./Frameworks/libswiftCoreAudio.dylib
+copying file ./Frameworks/libswiftCoreFoundation.dylib ... 
+2017-12-11 01:54:26 +0000  208288 bytes for ./Frameworks/libswiftCoreFoundation.dylib
+copying file ./Frameworks/libswiftCoreGraphics.dylib ... 
+577760 bytes for ./Frameworks/libswiftCoreGraphics.dylib
+copying file ./Frameworks/libswiftCoreImage.dylib ... 
+2017-12-11 01:54:26 +0000  208864 bytes for ./Frameworks/libswiftCoreImage.dylib
+copying file ./Frameworks/libswiftCoreLocation.dylib ... 
+253296 bytes for ./Frameworks/libswiftCoreLocation.dylib
+copying file ./Frameworks/libswiftCoreMedia.dylib ... 
+253648 bytes for ./Frameworks/libswiftCoreMedia.dylib
+copying file ./Frameworks/libswiftDarwin.dylib ... 
+303072 bytes for ./Frameworks/libswiftDarwin.dylib
+copying file ./Frameworks/libswiftDispatch.dylib ... 
+1009248 bytes for ./Frameworks/libswiftDispatch.dylib
+copying file ./Frameworks/libswiftFoundation.dylib ... 
+2017-12-11 01:54:26 +0000  8413280 bytes for ./Frameworks/libswiftFoundation.dylib
+copying file ./Frameworks/libswiftMetal.dylib ... 
+2017-12-11 01:54:26 +0000  251248 bytes for ./Frameworks/libswiftMetal.dylib
+copying file ./Frameworks/libswiftObjectiveC.dylib ... 
+258944 bytes for ./Frameworks/libswiftObjectiveC.dylib
+copying file ./Frameworks/libswiftos.dylib ... 
+2017-12-11 01:54:26 +0000  248912 bytes for ./Frameworks/libswiftos.dylib
+copying file ./Frameworks/libswiftQuartzCore.dylib ... 
+212208 bytes for ./Frameworks/libswiftQuartzCore.dylib
+copying file ./Frameworks/libswiftsimd.dylib ... 
+2017-12-11 01:54:26 +0000  1361248 bytes for ./Frameworks/libswiftsimd.dylib
+copying file ./Frameworks/libswiftUIKit.dylib ... 
+361488 bytes for ./Frameworks/libswiftUIKit.dylib
+2017-12-11 01:54:26 +0000  copying file ./Frameworks/MBProgressHUD.framework/_CodeSignature/CodeResources ... 
+2017-12-11 01:54:26 +0000  2202 bytes for ./Frameworks/MBProgressHUD.framework/_CodeSignature/CodeResources
+copying file ./Frameworks/MBProgressHUD.framework/Info.plist ... 
+2017-12-11 01:54:26 +0000  749 bytes for ./Frameworks/MBProgressHUD.framework/Info.plist
+copying file ./Frameworks/MBProgressHUD.framework/MBProgressHUD ... 
+2017-12-11 01:54:26 +0000  797696 bytes for ./Frameworks/MBProgressHUD.framework/MBProgressHUD
+2017-12-11 01:54:26 +0000  copying file ./Frameworks/SnapKit.framework/_CodeSignature/CodeResources ... 
+2017-12-11 01:54:26 +0000  2202 bytes for ./Frameworks/SnapKit.framework/_CodeSignature/CodeResources
+2017-12-11 01:54:26 +0000  copying file ./Frameworks/SnapKit.framework/Info.plist ... 
+2017-12-11 01:54:26 +0000  737 bytes for ./Frameworks/SnapKit.framework/Info.plist
+copying file ./Frameworks/SnapKit.framework/SnapKit ... 
+2017-12-11 01:54:26 +0000  1977984 bytes for ./Frameworks/SnapKit.framework/SnapKit
+2017-12-11 01:54:26 +0000  copying file ./Frameworks/SwiftyJSON.framework/_CodeSignature/CodeResources ... 
+2017-12-11 01:54:26 +0000  2202 bytes for ./Frameworks/SwiftyJSON.framework/_CodeSignature/CodeResources
+copying file ./Frameworks/SwiftyJSON.framework/Info.plist ... 
+2017-12-11 01:54:26 +0000  743 bytes for ./Frameworks/SwiftyJSON.framework/Info.plist
+copying file ./Frameworks/SwiftyJSON.framework/SwiftyJSON ... 
+2017-12-11 01:54:26 +0000  2441696 bytes for ./Frameworks/SwiftyJSON.framework/SwiftyJSON
+2017-12-11 01:54:26 +0000  copying file ./GuideViewController.nib ... 
+2017-12-11 01:54:26 +0000  2698 bytes for ./GuideViewController.nib
+2017-12-11 01:54:26 +0000  copying file ./hu.lproj/Localizable.strings ... 
+23794 bytes for ./hu.lproj/Localizable.strings
+2017-12-11 01:54:26 +0000  copying file ./InductionModelCell.nib ... 
+4027 bytes for ./InductionModelCell.nib
+copying file ./InductionSettingController.nib ... 
+2017-12-11 01:54:26 +0000  9949 bytes for ./InductionSettingController.nib
+2017-12-11 01:54:26 +0000  copying file ./Info.plist ... 
+2017-12-11 01:54:27 +0000  2321 bytes for ./Info.plist
+copying file ./it.lproj/Localizable.strings ... 
+23050 bytes for ./it.lproj/Localizable.strings
+2017-12-11 01:54:27 +0000  copying file ./LaunchImage-568h@2x.png ... 
+2017-12-11 01:54:27 +0000  48933 bytes for ./LaunchImage-568h@2x.png
+copying file ./LaunchImage-700-568h@2x.png ... 
+2017-12-11 01:54:27 +0000  48933 bytes for ./LaunchImage-700-568h@2x.png
+2017-12-11 01:54:27 +0000  copying file ./LaunchImage-700-Portrait@2x~ipad.png ... 
+2017-12-11 01:54:27 +0000  99219 bytes for ./LaunchImage-700-Portrait@2x~ipad.png
+copying file ./LaunchImage-700-Portrait~ipad.png ... 
+2017-12-11 01:54:27 +0000  48632 bytes for ./LaunchImage-700-Portrait~ipad.png
+copying file ./LaunchImage-700@2x.png ... 
+2017-12-11 01:54:27 +0000  49219 bytes for ./LaunchImage-700@2x.png
+2017-12-11 01:54:27 +0000  copying file ./LaunchImage-800-667h@2x.png ... 
+2017-12-11 01:54:27 +0000  49941 bytes for ./LaunchImage-800-667h@2x.png
+copying file ./LaunchImage-800-Portrait-736h@3x.png ... 
+2017-12-11 01:54:27 +0000  108453 bytes for ./LaunchImage-800-Portrait-736h@3x.png
+2017-12-11 01:54:27 +0000  copying file ./LaunchImage.png ... 
+2017-12-11 01:54:27 +0000  28736 bytes for ./LaunchImage.png
+copying file ./LaunchImage@2x.png ... 
+2017-12-11 01:54:27 +0000  49219 bytes for ./LaunchImage@2x.png
+2017-12-11 01:54:27 +0000  copying file ./LUTEC ... 
+2017-12-11 01:54:27 +0000  29325264 bytes for ./LUTEC
+2017-12-11 01:54:27 +0000  copying file ./Main.storyboardc/BYZ-38-t0r-view-8bC-Xf-vdC.nib ... 
+2017-12-11 01:54:27 +0000  1790 bytes for ./Main.storyboardc/BYZ-38-t0r-view-8bC-Xf-vdC.nib
+copying file ./Main.storyboardc/Info.plist ... 
+2017-12-11 01:54:27 +0000  197 bytes for ./Main.storyboardc/Info.plist
+copying file ./Main.storyboardc/ViewController.nib ... 
+977 bytes for ./Main.storyboardc/ViewController.nib
+2017-12-11 01:54:27 +0000  copying file ./MainController.nib ... 
+2017-12-11 01:54:27 +0000  5998 bytes for ./MainController.nib
+copying file ./MainViewCell.nib ... 
+2017-12-11 01:54:27 +0000  15446 bytes for ./MainViewCell.nib
+copying file ./ManualController.nib ... 
+2017-12-11 01:54:27 +0000  7661 bytes for ./ManualController.nib
+copying file ./MoreViewController.nib ... 
+2017-12-11 01:54:27 +0000  5300 bytes for ./MoreViewController.nib
+2017-12-11 01:54:27 +0000  copying file ./NewCameraController.nib ... 
+2017-12-11 01:54:27 +0000  11946 bytes for ./NewCameraController.nib
+copying file ./nl.lproj/Localizable.strings ... 
+2017-12-11 01:54:27 +0000  22682 bytes for ./nl.lproj/Localizable.strings
+2017-12-11 01:54:27 +0000  copying file ./PkgInfo ... 
+8 bytes for ./PkgInfo
+copying file ./QuickConfigController.nib ... 
+6619 bytes for ./QuickConfigController.nib
+2017-12-11 01:54:27 +0000  copying file ./SettingViewCell.nib ... 
+2017-12-11 01:54:27 +0000  4306 bytes for ./SettingViewCell.nib
+2017-12-11 01:54:27 +0000  copying file ./startview.nib ... 
+2017-12-11 01:54:27 +0000  1227 bytes for ./startview.nib
+copying file ./TimeSelectCell.nib ... 
+3732 bytes for ./TimeSelectCell.nib
+2017-12-11 01:54:27 +0000  copying file ./TimeSelectCollectonView.nib ... 
+2017-12-11 01:54:27 +0000  4112 bytes for ./TimeSelectCollectonView.nib
+copying file ./TimeSelectionBar.nib ... 
+2017-12-11 01:54:27 +0000  4709 bytes for ./TimeSelectionBar.nib
+copying file ./zh-Hans.lproj/Localizable.strings ... 
+2017-12-11 01:54:27 +0000  2763 bytes for ./zh-Hans.lproj/Localizable.strings
+2017-12-11 01:54:27 +0000  /usr/bin/ditto exited with 0
+2017-12-11 01:54:27 +0000  Processing step: IDEDistributionEmbedProfileStep
+2017-12-11 01:54:27 +0000  Skipping profile for item: <IDEDistributionItem: 0x7fc3b68aa550 'org.cocoapods.IQKeyboardManagerSwift' '<DVTFilePath:0x7fc3b4d3a000:'/Users/lhb/Library/Developer/Xcode/Archives/2017-12-11/FunSDKDemo 2017-12-11 上午9.54.xcarchive/Products/Applications/LUTEC.app/Frameworks/IQKeyboardManagerSwift.framework'>'>
+2017-12-11 01:54:27 +0000  Skipping profile for item: <IDEDistributionItem: 0x7fc3cf76e360 'org.cocoapods.MBProgressHUD' '<DVTFilePath:0x7fc3d1011190:'/Users/lhb/Library/Developer/Xcode/Archives/2017-12-11/FunSDKDemo 2017-12-11 上午9.54.xcarchive/Products/Applications/LUTEC.app/Frameworks/MBProgressHUD.framework'>'>
+2017-12-11 01:54:27 +0000  Skipping profile for item: <IDEDistributionItem: 0x7fc3d1149cb0 'org.cocoapods.SnapKit' '<DVTFilePath:0x7fc3cf75a710:'/Users/lhb/Library/Developer/Xcode/Archives/2017-12-11/FunSDKDemo 2017-12-11 上午9.54.xcarchive/Products/Applications/LUTEC.app/Frameworks/SnapKit.framework'>'>
+2017-12-11 01:54:27 +0000  Skipping profile for item: <IDEDistributionItem: 0x7fc3ce3c9690 'org.cocoapods.SwiftyJSON' '<DVTFilePath:0x7fc3d1070740:'/Users/lhb/Library/Developer/Xcode/Archives/2017-12-11/FunSDKDemo 2017-12-11 上午9.54.xcarchive/Products/Applications/LUTEC.app/Frameworks/SwiftyJSON.framework'>'>
+2017-12-11 01:54:27 +0000  Skipping profile for item: <IDEDistributionItem: 0x7fc3b7b80980 'com.apple.dt.runtime.swiftAVFoundation' '<DVTFilePath:0x7fc3b776a030:'/Users/lhb/Library/Developer/Xcode/Archives/2017-12-11/FunSDKDemo 2017-12-11 上午9.54.xcarchive/Products/Applications/LUTEC.app/Frameworks/libswiftAVFoundation.dylib'>'>
+2017-12-11 01:54:27 +0000  Skipping profile for item: <IDEDistributionItem: 0x7fc3cf5b5bf0 'com.apple.dt.runtime.swiftCore' '<DVTFilePath:0x7fc3b78284b0:'/Users/lhb/Library/Developer/Xcode/Archives/2017-12-11/FunSDKDemo 2017-12-11 上午9.54.xcarchive/Products/Applications/LUTEC.app/Frameworks/libswiftCore.dylib'>'>
+2017-12-11 01:54:27 +0000  Skipping profile for item: <IDEDistributionItem: 0x7fc3cf410470 'com.apple.dt.runtime.swiftCoreAudio' '<DVTFilePath:0x7fc3d1387aa0:'/Users/lhb/Library/Developer/Xcode/Archives/2017-12-11/FunSDKDemo 2017-12-11 上午9.54.xcarchive/Products/Applications/LUTEC.app/Frameworks/libswiftCoreAudio.dylib'>'>
+2017-12-11 01:54:27 +0000  Skipping profile for item: <IDEDistributionItem: 0x7fc3d2e73a30 'com.apple.dt.runtime.swiftCoreFoundation' '<DVTFilePath:0x7fc3cf26adc0:'/Users/lhb/Library/Developer/Xcode/Archives/2017-12-11/FunSDKDemo 2017-12-11 上午9.54.xcarchive/Products/Applications/LUTEC.app/Frameworks/libswiftCoreFoundation.dylib'>'>
+2017-12-11 01:54:27 +0000  Skipping profile for item: <IDEDistributionItem: 0x7fc3b7229880 'com.apple.dt.runtime.swiftCoreGraphics' '<DVTFilePath:0x7fc3b76b4510:'/Users/lhb/Library/Developer/Xcode/Archives/2017-12-11/FunSDKDemo 2017-12-11 上午9.54.xcarchive/Products/Applications/LUTEC.app/Frameworks/libswiftCoreGraphics.dylib'>'>
+2017-12-11 01:54:27 +0000  Skipping profile for item: <IDEDistributionItem: 0x7fc3b7e81f20 'com.apple.dt.runtime.swiftCoreImage' '<DVTFilePath:0x7fc3b77e40d0:'/Users/lhb/Library/Developer/Xcode/Archives/2017-12-11/FunSDKDemo 2017-12-11 上午9.54.xcarchive/Products/Applications/LUTEC.app/Frameworks/libswiftCoreImage.dylib'>'>
+2017-12-11 01:54:27 +0000  Skipping profile for item: <IDEDistributionItem: 0x7fc3b767be60 'com.apple.dt.runtime.swiftCoreLocation' '<DVTFilePath:0x7fc3d10cf0f0:'/Users/lhb/Library/Developer/Xcode/Archives/2017-12-11/FunSDKDemo 2017-12-11 上午9.54.xcarchive/Products/Applications/LUTEC.app/Frameworks/libswiftCoreLocation.dylib'>'>
+2017-12-11 01:54:27 +0000  Skipping profile for item: <IDEDistributionItem: 0x7fc3d124f860 'com.apple.dt.runtime.swiftCoreMedia' '<DVTFilePath:0x7fc3b7d6aa40:'/Users/lhb/Library/Developer/Xcode/Archives/2017-12-11/FunSDKDemo 2017-12-11 上午9.54.xcarchive/Products/Applications/LUTEC.app/Frameworks/libswiftCoreMedia.dylib'>'>
+2017-12-11 01:54:27 +0000  Skipping profile for item: <IDEDistributionItem: 0x7fc3d2b90980 'com.apple.dt.runtime.swiftDarwin' '<DVTFilePath:0x7fc3d10dc270:'/Users/lhb/Library/Developer/Xcode/Archives/2017-12-11/FunSDKDemo 2017-12-11 上午9.54.xcarchive/Products/Applications/LUTEC.app/Frameworks/libswiftDarwin.dylib'>'>
+2017-12-11 01:54:27 +0000  Skipping profile for item: <IDEDistributionItem: 0x7fc3b79c8a70 'com.apple.dt.runtime.swiftDispatch' '<DVTFilePath:0x7fc3d106bbf0:'/Users/lhb/Library/Developer/Xcode/Archives/2017-12-11/FunSDKDemo 2017-12-11 上午9.54.xcarchive/Products/Applications/LUTEC.app/Frameworks/libswiftDispatch.dylib'>'>
+2017-12-11 01:54:27 +0000  Skipping profile for item: <IDEDistributionItem: 0x7fc3cf060210 'com.apple.dt.runtime.swiftFoundation' '<DVTFilePath:0x7fc3b73de5f0:'/Users/lhb/Library/Developer/Xcode/Archives/2017-12-11/FunSDKDemo 2017-12-11 上午9.54.xcarchive/Products/Applications/LUTEC.app/Frameworks/libswiftFoundation.dylib'>'>
+2017-12-11 01:54:27 +0000  Skipping profile for item: <IDEDistributionItem: 0x7fc3d1025190 'com.apple.dt.runtime.swiftMetal' '<DVTFilePath:0x7fc3b6ef39d0:'/Users/lhb/Library/Developer/Xcode/Archives/2017-12-11/FunSDKDemo 2017-12-11 上午9.54.xcarchive/Products/Applications/LUTEC.app/Frameworks/libswiftMetal.dylib'>'>
+2017-12-11 01:54:27 +0000  Skipping profile for item: <IDEDistributionItem: 0x7fc3b7e809b0 'com.apple.dt.runtime.swiftObjectiveC' '<DVTFilePath:0x7fc3b73c2b30:'/Users/lhb/Library/Developer/Xcode/Archives/2017-12-11/FunSDKDemo 2017-12-11 上午9.54.xcarchive/Products/Applications/LUTEC.app/Frameworks/libswiftObjectiveC.dylib'>'>
+2017-12-11 01:54:27 +0000  Skipping profile for item: <IDEDistributionItem: 0x7fc3b75ade70 'com.apple.dt.runtime.swiftQuartzCore' '<DVTFilePath:0x7fc3b7db2640:'/Users/lhb/Library/Developer/Xcode/Archives/2017-12-11/FunSDKDemo 2017-12-11 上午9.54.xcarchive/Products/Applications/LUTEC.app/Frameworks/libswiftQuartzCore.dylib'>'>
+2017-12-11 01:54:27 +0000  Skipping profile for item: <IDEDistributionItem: 0x7fc3b69c0a50 'com.apple.dt.runtime.swiftUIKit' '<DVTFilePath:0x7fc3b6e84ea0:'/Users/lhb/Library/Developer/Xcode/Archives/2017-12-11/FunSDKDemo 2017-12-11 上午9.54.xcarchive/Products/Applications/LUTEC.app/Frameworks/libswiftUIKit.dylib'>'>
+2017-12-11 01:54:27 +0000  Skipping profile for item: <IDEDistributionItem: 0x7fc3d2e07310 'com.apple.dt.runtime.swiftos' '<DVTFilePath:0x7fc3b7d989a0:'/Users/lhb/Library/Developer/Xcode/Archives/2017-12-11/FunSDKDemo 2017-12-11 上午9.54.xcarchive/Products/Applications/LUTEC.app/Frameworks/libswiftos.dylib'>'>
+2017-12-11 01:54:27 +0000  Skipping profile for item: <IDEDistributionItem: 0x7fc3cf2ca520 'com.apple.dt.runtime.swiftsimd' '<DVTFilePath:0x7fc3b4d9fe80:'/Users/lhb/Library/Developer/Xcode/Archives/2017-12-11/FunSDKDemo 2017-12-11 上午9.54.xcarchive/Products/Applications/LUTEC.app/Frameworks/libswiftsimd.dylib'>'>
+2017-12-11 01:54:27 +0000  Processing step: IDEDistributionAppThinningPlistStep
+2017-12-11 01:54:27 +0000  Skipping step: IDEDistributionAppThinningPlistStep because it said so
+2017-12-11 01:54:27 +0000  Processing step: IDEDistributionCompileBitcodeStep
+2017-12-11 01:54:27 +0000  Running /Applications/Xcode.app/Contents/Developer/usr/bin/ipatool '/var/folders/rz/8jbnfm5d1bn2mqs7c842w8240000gn/T/XcodeDistPipeline.qDu/Root' '--json' '/var/folders/rz/8jbnfm5d1bn2mqs7c842w8240000gn/T/ipatool-json-filepath-FlnR6H' '--compile-bitcode' '--output' '/var/folders/rz/8jbnfm5d1bn2mqs7c842w8240000gn/T/IDEIPAProcessor.AppThinning.0Wn' '--toolchain' '/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr' '--platforms' '/Applications/Xcode.app/Contents/Developer/Platforms'
+2017-12-11 01:54:27 +0000  ruby 2.0.0p648 (2015-12-16 revision 53162) [universal.x86_64-darwin16]
+2017-12-11 01:54:27 +0000  /Applications/Xcode.app/Contents/Developer/usr/bin/ipatool:1593: warning: assigned but unused variable - minVersion
+/Applications/Xcode.app/Contents/Developer/usr/bin/ipatool:1593: warning: assigned but unused variable - sdkVersion
+/Applications/Xcode.app/Contents/Developer/usr/bin/ipatool:1602: warning: assigned but unused variable - sourceVersion
+2017-12-11 01:54:27 +0000  /Applications/Xcode.app/Contents/Developer/usr/bin/ipatool:1703: warning: shadowing outer local variable - node
+2017-12-11 01:54:27 +0000  /Applications/Xcode.app/Contents/Developer/usr/bin/ipatool:2470: warning: shadowing outer local variable - machoFile
+/Applications/Xcode.app/Contents/Developer/usr/bin/ipatool:2470: warning: shadowing outer local variable - machoImage
+2017-12-11 01:54:27 +0000  /Applications/Xcode.app/Contents/Developer/usr/bin/ipatool:2662: warning: assigned but unused variable - flag
+/Applications/Xcode.app/Contents/Developer/usr/bin/ipatool:2662: warning: assigned but unused variable - transformer
+2017-12-11 01:54:27 +0000  /Applications/Xcode.app/Contents/Developer/usr/bin/ipatool:2912: warning: assigned but unused variable - exc
+2017-12-11 01:54:27 +0000  /Applications/Xcode.app/Contents/Developer/usr/bin/ipatool:738: warning: assigned but unused variable - output
+2017-12-11 01:54:27 +0000  /System/Library/Frameworks/Ruby.framework/Versions/2.0/usr/lib/ruby/gems/2.0.0/gems/libxml-ruby-2.6.0/lib/libxml/schema/type.rb:8: warning: method redefined; discarding old annotation
+2017-12-11 01:54:27 +0000  /System/Library/Frameworks/Ruby.framework/Versions/2.0/usr/lib/ruby/gems/2.0.0/gems/libxml-ruby-2.6.0/lib/libxml/schema/element.rb:18: warning: method redefined; discarding old annotation
+2017-12-11 01:54:27 +0000  OS X 10.12.6 16G1036
+2017-12-11 01:54:27 +0000  
+ENV: {"PATH"=>"/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin:/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/local/bin:/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/libexec:/Applications/Xcode.app/Contents/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/local/bin:/Applications/Xcode.app/Contents/Developer/Tools:/usr/bin:/bin:/usr/sbin:/sbin", "MallocNanoZone"=>"0", "TMPDIR"=>"/var/folders/rz/8jbnfm5d1bn2mqs7c842w8240000gn/T/", "LOGNAME"=>"lhb", "XPC_FLAGS"=>"0x0", "HOME"=>"/Users/lhb", "Apple_PubSub_Socket_Render"=>"/private/tmp/com.apple.launchd.QWLLoDSDJ6/Render", "USER"=>"lhb", "SSH_AUTH_SOCK"=>"/private/tmp/com.apple.launchd.rQqGXOorM2/Listeners", "XPC_SERVICE_NAME"=>"com.apple.dt.Xcode.48412", "SHELL"=>"/bin/bash", "__CF_USER_TEXT_ENCODING"=>"0x1F5:0x19:0x34"}
+ARGV: ["/var/folders/rz/8jbnfm5d1bn2mqs7c842w8240000gn/T/XcodeDistPipeline.qDu/Root", "--json", "/var/folders/rz/8jbnfm5d1bn2mqs7c842w8240000gn/T/ipatool-json-filepath-FlnR6H", "--compile-bitcode", "--output", "/var/folders/rz/8jbnfm5d1bn2mqs7c842w8240000gn/T/IDEIPAProcessor.AppThinning.0Wn", "--toolchain", "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr", "--platforms", "/Applications/Xcode.app/Contents/Developer/Platforms"]
+2017-12-11 01:54:28 +0000  warning: Configuration issue: platform AppleTVSimulator.platform doesn't have any non-simulator SDKs; ignoring it
+2017-12-11 01:54:28 +0000  warning: Configuration issue: platform iPhoneSimulator.platform doesn't have any non-simulator SDKs; ignoring it
+2017-12-11 01:54:28 +0000  warning: Configuration issue: platform WatchSimulator.platform doesn't have any non-simulator SDKs; ignoring it
+2017-12-11 01:54:28 +0000  Scanning IPA...
+2017-12-11 01:54:29 +0000  /usr/bin/python -c import\ sys\;\ import\ unicodedata\;\ print\(unicodedata.normalize\(\'NFC\',\ sys.argv\[1\].decode\(\'utf-8\'\)\)\ \=\=\ unicodedata.normalize\(\'NFC\',\ sys.argv\[2\].decode\(\'utf-8\'\)\)\) _CodeSignature IQKeyboardManagerSwift
+2017-12-11 01:54:29 +0000      /usr/bin/python exited with pid 37450 exit 0
+    Stdout:
+        False
+    
+    Stderr:
+2017-12-11 01:54:29 +0000  /usr/bin/python -c import\ sys\;\ import\ unicodedata\;\ print\(unicodedata.normalize\(\'NFC\',\ sys.argv\[1\].decode\(\'utf-8\'\)\)\ \=\=\ unicodedata.normalize\(\'NFC\',\ sys.argv\[2\].decode\(\'utf-8\'\)\)\) Info.plist IQKeyboardManagerSwift
+2017-12-11 01:54:29 +0000      /usr/bin/python exited with pid 37452 exit 0
+    Stdout:
+        False
+    
+    Stderr:
+2017-12-11 01:54:29 +0000  /usr/bin/python -c import\ sys\;\ import\ unicodedata\;\ print\(unicodedata.normalize\(\'NFC\',\ sys.argv\[1\].decode\(\'utf-8\'\)\)\ \=\=\ unicodedata.normalize\(\'NFC\',\ sys.argv\[2\].decode\(\'utf-8\'\)\)\) IQKeyboardManager.bundle IQKeyboardManagerSwift
+2017-12-11 01:54:29 +0000      /usr/bin/python exited with pid 37455 exit 0
+    Stdout:
+        False
+    
+    Stderr:
+2017-12-11 01:54:29 +0000  /usr/bin/python -c import\ sys\;\ import\ unicodedata\;\ print\(unicodedata.normalize\(\'NFC\',\ sys.argv\[1\].decode\(\'utf-8\'\)\)\ \=\=\ unicodedata.normalize\(\'NFC\',\ sys.argv\[2\].decode\(\'utf-8\'\)\)\) IQKeyboardManagerSwift IQKeyboardManagerSwift
+2017-12-11 01:54:29 +0000      /usr/bin/python exited with pid 37459 exit 0
+    Stdout:
+        True
+    
+    Stderr:
+2017-12-11 01:54:33 +0000  /usr/bin/python -c import\ sys\;\ import\ unicodedata\;\ print\(unicodedata.normalize\(\'NFC\',\ sys.argv\[1\].decode\(\'utf-8\'\)\)\ \=\=\ unicodedata.normalize\(\'NFC\',\ sys.argv\[2\].decode\(\'utf-8\'\)\)\) _CodeSignature MBProgressHUD
+2017-12-11 01:54:33 +0000      /usr/bin/python exited with pid 37770 exit 0
+    Stdout:
+        False
+    
+    Stderr:
+2017-12-11 01:54:33 +0000  /usr/bin/python -c import\ sys\;\ import\ unicodedata\;\ print\(unicodedata.normalize\(\'NFC\',\ sys.argv\[1\].decode\(\'utf-8\'\)\)\ \=\=\ unicodedata.normalize\(\'NFC\',\ sys.argv\[2\].decode\(\'utf-8\'\)\)\) Info.plist MBProgressHUD
+2017-12-11 01:54:33 +0000      /usr/bin/python exited with pid 37776 exit 0
+    Stdout:
+        False
+    
+    Stderr:
+2017-12-11 01:54:33 +0000  /usr/bin/python -c import\ sys\;\ import\ unicodedata\;\ print\(unicodedata.normalize\(\'NFC\',\ sys.argv\[1\].decode\(\'utf-8\'\)\)\ \=\=\ unicodedata.normalize\(\'NFC\',\ sys.argv\[2\].decode\(\'utf-8\'\)\)\) MBProgressHUD MBProgressHUD
+2017-12-11 01:54:33 +0000      /usr/bin/python exited with pid 37782 exit 0
+    Stdout:
+        True
+    
+    Stderr:
+2017-12-11 01:54:34 +0000  /usr/bin/python -c import\ sys\;\ import\ unicodedata\;\ print\(unicodedata.normalize\(\'NFC\',\ sys.argv\[1\].decode\(\'utf-8\'\)\)\ \=\=\ unicodedata.normalize\(\'NFC\',\ sys.argv\[2\].decode\(\'utf-8\'\)\)\) _CodeSignature SnapKit
+2017-12-11 01:54:34 +0000      /usr/bin/python exited with pid 37814 exit 0
+    Stdout:
+        False
+    
+    Stderr:
+2017-12-11 01:54:34 +0000  /usr/bin/python -c import\ sys\;\ import\ unicodedata\;\ print\(unicodedata.normalize\(\'NFC\',\ sys.argv\[1\].decode\(\'utf-8\'\)\)\ \=\=\ unicodedata.normalize\(\'NFC\',\ sys.argv\[2\].decode\(\'utf-8\'\)\)\) Info.plist SnapKit
+2017-12-11 01:54:34 +0000      /usr/bin/python exited with pid 37820 exit 0
+    Stdout:
+        False
+    
+    Stderr:
+2017-12-11 01:54:34 +0000  /usr/bin/python -c import\ sys\;\ import\ unicodedata\;\ print\(unicodedata.normalize\(\'NFC\',\ sys.argv\[1\].decode\(\'utf-8\'\)\)\ \=\=\ unicodedata.normalize\(\'NFC\',\ sys.argv\[2\].decode\(\'utf-8\'\)\)\) SnapKit SnapKit
+2017-12-11 01:54:34 +0000      /usr/bin/python exited with pid 37825 exit 0
+    Stdout:
+        True
+    
+    Stderr:
+2017-12-11 01:54:34 +0000  /usr/bin/python -c import\ sys\;\ import\ unicodedata\;\ print\(unicodedata.normalize\(\'NFC\',\ sys.argv\[1\].decode\(\'utf-8\'\)\)\ \=\=\ unicodedata.normalize\(\'NFC\',\ sys.argv\[2\].decode\(\'utf-8\'\)\)\) _CodeSignature SwiftyJSON
+2017-12-11 01:54:34 +0000      /usr/bin/python exited with pid 37857 exit 0
+    Stdout:
+        False
+    
+    Stderr:
+2017-12-11 01:54:34 +0000  /usr/bin/python -c import\ sys\;\ import\ unicodedata\;\ print\(unicodedata.normalize\(\'NFC\',\ sys.argv\[1\].decode\(\'utf-8\'\)\)\ \=\=\ unicodedata.normalize\(\'NFC\',\ sys.argv\[2\].decode\(\'utf-8\'\)\)\) Info.plist SwiftyJSON
+2017-12-11 01:54:34 +0000      /usr/bin/python exited with pid 37864 exit 0
+    Stdout:
+        False
+    
+    Stderr:
+2017-12-11 01:54:34 +0000  /usr/bin/python -c import\ sys\;\ import\ unicodedata\;\ print\(unicodedata.normalize\(\'NFC\',\ sys.argv\[1\].decode\(\'utf-8\'\)\)\ \=\=\ unicodedata.normalize\(\'NFC\',\ sys.argv\[2\].decode\(\'utf-8\'\)\)\) SwiftyJSON SwiftyJSON
+2017-12-11 01:54:34 +0000      /usr/bin/python exited with pid 37869 exit 0
+    Stdout:
+        True
+    
+    Stderr:
+2017-12-11 01:54:35 +0000  /usr/bin/python -c import\ sys\;\ import\ unicodedata\;\ print\(unicodedata.normalize\(\'NFC\',\ sys.argv\[1\].decode\(\'utf-8\'\)\)\ \=\=\ unicodedata.normalize\(\'NFC\',\ sys.argv\[2\].decode\(\'utf-8\'\)\)\) _CodeSignature LUTEC
+2017-12-11 01:54:35 +0000      /usr/bin/python exited with pid 37961 exit 0
+    Stdout:
+        False
+    
+    Stderr:
+2017-12-11 01:54:35 +0000  /usr/bin/python -c import\ sys\;\ import\ unicodedata\;\ print\(unicodedata.normalize\(\'NFC\',\ sys.argv\[1\].decode\(\'utf-8\'\)\)\ \=\=\ unicodedata.normalize\(\'NFC\',\ sys.argv\[2\].decode\(\'utf-8\'\)\)\) AppIcon60x60@2x.png LUTEC
+2017-12-11 01:54:36 +0000      /usr/bin/python exited with pid 37964 exit 0
+    Stdout:
+        False
+    
+    Stderr:
+2017-12-11 01:54:36 +0000  /usr/bin/python -c import\ sys\;\ import\ unicodedata\;\ print\(unicodedata.normalize\(\'NFC\',\ sys.argv\[1\].decode\(\'utf-8\'\)\)\ \=\=\ unicodedata.normalize\(\'NFC\',\ sys.argv\[2\].decode\(\'utf-8\'\)\)\) AppIcon60x60@3x.png LUTEC
+2017-12-11 01:54:36 +0000      /usr/bin/python exited with pid 37965 exit 0
+    Stdout:
+        False
+    
+    Stderr:
+2017-12-11 01:54:36 +0000  /usr/bin/python -c import\ sys\;\ import\ unicodedata\;\ print\(unicodedata.normalize\(\'NFC\',\ sys.argv\[1\].decode\(\'utf-8\'\)\)\ \=\=\ unicodedata.normalize\(\'NFC\',\ sys.argv\[2\].decode\(\'utf-8\'\)\)\) AppIcon76x76\~ipad.png LUTEC
+2017-12-11 01:54:36 +0000      /usr/bin/python exited with pid 37966 exit 0
+    Stdout:
+        False
+    
+    Stderr:
+2017-12-11 01:54:36 +0000  /usr/bin/python -c import\ sys\;\ import\ unicodedata\;\ print\(unicodedata.normalize\(\'NFC\',\ sys.argv\[1\].decode\(\'utf-8\'\)\)\ \=\=\ unicodedata.normalize\(\'NFC\',\ sys.argv\[2\].decode\(\'utf-8\'\)\)\) archived-expanded-entitlements.xcent LUTEC
+2017-12-11 01:54:36 +0000      /usr/bin/python exited with pid 37968 exit 0
+    Stdout:
+        False
+    
+    Stderr:
+2017-12-11 01:54:36 +0000  /usr/bin/python -c import\ sys\;\ import\ unicodedata\;\ print\(unicodedata.normalize\(\'NFC\',\ sys.argv\[1\].decode\(\'utf-8\'\)\)\ \=\=\ unicodedata.normalize\(\'NFC\',\ sys.argv\[2\].decode\(\'utf-8\'\)\)\) Assets.car LUTEC
+2017-12-11 01:54:36 +0000      /usr/bin/python exited with pid 37969 exit 0
+    Stdout:
+        False
+    
+    Stderr:
+2017-12-11 01:54:36 +0000  /usr/bin/python -c import\ sys\;\ import\ unicodedata\;\ print\(unicodedata.normalize\(\'NFC\',\ sys.argv\[1\].decode\(\'utf-8\'\)\)\ \=\=\ unicodedata.normalize\(\'NFC\',\ sys.argv\[2\].decode\(\'utf-8\'\)\)\) Base.lproj LUTEC
+2017-12-11 01:54:36 +0000  
+2017-12-11 01:54:36 +0000      /usr/bin/python exited with pid 37970 exit 0
+    Stdout:
+        False
+    
+    Stderr:
+2017-12-11 01:54:36 +0000  /usr/bin/python -c import\ sys\;\ import\ unicodedata\;\ print\(unicodedata.normalize\(\'NFC\',\ sys.argv\[1\].decode\(\'utf-8\'\)\)\ \=\=\ unicodedata.normalize\(\'NFC\',\ sys.argv\[2\].decode\(\'utf-8\'\)\)\) de.lproj LUTEC
+2017-12-11 01:54:36 +0000      /usr/bin/python exited with pid 37974 exit 0
+    Stdout:
+        False
+    
+    Stderr:
+2017-12-11 01:54:36 +0000  /usr/bin/python -c import\ sys\;\ import\ unicodedata\;\ print\(unicodedata.normalize\(\'NFC\',\ sys.argv\[1\].decode\(\'utf-8\'\)\)\ \=\=\ unicodedata.normalize\(\'NFC\',\ sys.argv\[2\].decode\(\'utf-8\'\)\)\) DeviceChangePwd.nib LUTEC
+2017-12-11 01:54:36 +0000      /usr/bin/python exited with pid 37978 exit 0
+    Stdout:
+        False
+    
+    Stderr:
+2017-12-11 01:54:36 +0000  /usr/bin/python -c import\ sys\;\ import\ unicodedata\;\ print\(unicodedata.normalize\(\'NFC\',\ sys.argv\[1\].decode\(\'utf-8\'\)\)\ \=\=\ unicodedata.normalize\(\'NFC\',\ sys.argv\[2\].decode\(\'utf-8\'\)\)\) DeviceNameControllerViewController.nib LUTEC
+2017-12-11 01:54:36 +0000      /usr/bin/python exited with pid 37980 exit 0
+    Stdout:
+        False
+    
+    Stderr:
+2017-12-11 01:54:36 +0000  /usr/bin/python -c import\ sys\;\ import\ unicodedata\;\ print\(unicodedata.normalize\(\'NFC\',\ sys.argv\[1\].decode\(\'utf-8\'\)\)\ \=\=\ unicodedata.normalize\(\'NFC\',\ sys.argv\[2\].decode\(\'utf-8\'\)\)\) embedded.mobileprovision LUTEC
+2017-12-11 01:54:36 +0000      /usr/bin/python exited with pid 37984 exit 0
+    Stdout:
+        False
+    
+    Stderr:
+2017-12-11 01:54:36 +0000  /usr/bin/python -c import\ sys\;\ import\ unicodedata\;\ print\(unicodedata.normalize\(\'NFC\',\ sys.argv\[1\].decode\(\'utf-8\'\)\)\ \=\=\ unicodedata.normalize\(\'NFC\',\ sys.argv\[2\].decode\(\'utf-8\'\)\)\) en.lproj LUTEC
+2017-12-11 01:54:36 +0000      /usr/bin/python exited with pid 37988 exit 0
+    Stdout:
+        False
+    
+    Stderr:
+2017-12-11 01:54:36 +0000  /usr/bin/python -c import\ sys\;\ import\ unicodedata\;\ print\(unicodedata.normalize\(\'NFC\',\ sys.argv\[1\].decode\(\'utf-8\'\)\)\ \=\=\ unicodedata.normalize\(\'NFC\',\ sys.argv\[2\].decode\(\'utf-8\'\)\)\) es.lproj LUTEC
+2017-12-11 01:54:37 +0000      /usr/bin/python exited with pid 37990 exit 0
+    Stdout:
+        False
+    
+    Stderr:
+2017-12-11 01:54:37 +0000  /usr/bin/python -c import\ sys\;\ import\ unicodedata\;\ print\(unicodedata.normalize\(\'NFC\',\ sys.argv\[1\].decode\(\'utf-8\'\)\)\ \=\=\ unicodedata.normalize\(\'NFC\',\ sys.argv\[2\].decode\(\'utf-8\'\)\)\) fr.lproj LUTEC
+2017-12-11 01:54:37 +0000      /usr/bin/python exited with pid 37991 exit 0
+    Stdout:
+        False
+    
+    Stderr:
+2017-12-11 01:54:37 +0000  /usr/bin/python -c import\ sys\;\ import\ unicodedata\;\ print\(unicodedata.normalize\(\'NFC\',\ sys.argv\[1\].decode\(\'utf-8\'\)\)\ \=\=\ unicodedata.normalize\(\'NFC\',\ sys.argv\[2\].decode\(\'utf-8\'\)\)\) Frameworks LUTEC
+2017-12-11 01:54:37 +0000      /usr/bin/python exited with pid 37993 exit 0
+    Stdout:
+        False
+    
+    Stderr:
+2017-12-11 01:54:37 +0000  /usr/bin/python -c import\ sys\;\ import\ unicodedata\;\ print\(unicodedata.normalize\(\'NFC\',\ sys.argv\[1\].decode\(\'utf-8\'\)\)\ \=\=\ unicodedata.normalize\(\'NFC\',\ sys.argv\[2\].decode\(\'utf-8\'\)\)\) GuideViewController.nib LUTEC
+2017-12-11 01:54:37 +0000      /usr/bin/python exited with pid 37994 exit 0
+    Stdout:
+        False
+    
+    Stderr:
+2017-12-11 01:54:37 +0000  /usr/bin/python -c import\ sys\;\ import\ unicodedata\;\ print\(unicodedata.normalize\(\'NFC\',\ sys.argv\[1\].decode\(\'utf-8\'\)\)\ \=\=\ unicodedata.normalize\(\'NFC\',\ sys.argv\[2\].decode\(\'utf-8\'\)\)\) hu.lproj LUTEC
+2017-12-11 01:54:37 +0000      /usr/bin/python exited with pid 37995 exit 0
+    Stdout:
+        False
+    
+    Stderr:
+2017-12-11 01:54:37 +0000  /usr/bin/python -c import\ sys\;\ import\ unicodedata\;\ print\(unicodedata.normalize\(\'NFC\',\ sys.argv\[1\].decode\(\'utf-8\'\)\)\ \=\=\ unicodedata.normalize\(\'NFC\',\ sys.argv\[2\].decode\(\'utf-8\'\)\)\) InductionModelCell.nib LUTEC
+2017-12-11 01:54:37 +0000      /usr/bin/python exited with pid 38000 exit 0
+    Stdout:
+        False
+    
+    Stderr:
+2017-12-11 01:54:37 +0000  /usr/bin/python -c import\ sys\;\ import\ unicodedata\;\ print\(unicodedata.normalize\(\'NFC\',\ sys.argv\[1\].decode\(\'utf-8\'\)\)\ \=\=\ unicodedata.normalize\(\'NFC\',\ sys.argv\[2\].decode\(\'utf-8\'\)\)\) InductionSettingController.nib LUTEC
+2017-12-11 01:54:37 +0000      /usr/bin/python exited with pid 38005 exit 0
+    Stdout:
+        False
+    
+    Stderr:
+2017-12-11 01:54:37 +0000  /usr/bin/python -c import\ sys\;\ import\ unicodedata\;\ print\(unicodedata.normalize\(\'NFC\',\ sys.argv\[1\].decode\(\'utf-8\'\)\)\ \=\=\ unicodedata.normalize\(\'NFC\',\ sys.argv\[2\].decode\(\'utf-8\'\)\)\) Info.plist LUTEC
+2017-12-11 01:54:37 +0000      /usr/bin/python exited with pid 38009 exit 0
+    Stdout:
+        False
+    
+    Stderr:
+2017-12-11 01:54:37 +0000  /usr/bin/python -c import\ sys\;\ import\ unicodedata\;\ print\(unicodedata.normalize\(\'NFC\',\ sys.argv\[1\].decode\(\'utf-8\'\)\)\ \=\=\ unicodedata.normalize\(\'NFC\',\ sys.argv\[2\].decode\(\'utf-8\'\)\)\) it.lproj LUTEC
+2017-12-11 01:54:37 +0000      /usr/bin/python exited with pid 38014 exit 0
+    Stdout:
+        False
+    
+    Stderr:
+2017-12-11 01:54:37 +0000  /usr/bin/python -c import\ sys\;\ import\ unicodedata\;\ print\(unicodedata.normalize\(\'NFC\',\ sys.argv\[1\].decode\(\'utf-8\'\)\)\ \=\=\ unicodedata.normalize\(\'NFC\',\ sys.argv\[2\].decode\(\'utf-8\'\)\)\) LaunchImage-568h@2x.png LUTEC
+2017-12-11 01:54:37 +0000      /usr/bin/python exited with pid 38015 exit 0
+    Stdout:
+        False
+    
+    Stderr:
+2017-12-11 01:54:37 +0000  /usr/bin/python -c import\ sys\;\ import\ unicodedata\;\ print\(unicodedata.normalize\(\'NFC\',\ sys.argv\[1\].decode\(\'utf-8\'\)\)\ \=\=\ unicodedata.normalize\(\'NFC\',\ sys.argv\[2\].decode\(\'utf-8\'\)\)\) LaunchImage-700-568h@2x.png LUTEC
+2017-12-11 01:54:37 +0000      /usr/bin/python exited with pid 38017 exit 0
+    Stdout:
+        False
+    
+    Stderr:
+2017-12-11 01:54:37 +0000  /usr/bin/python -c import\ sys\;\ import\ unicodedata\;\ print\(unicodedata.normalize\(\'NFC\',\ sys.argv\[1\].decode\(\'utf-8\'\)\)\ \=\=\ unicodedata.normalize\(\'NFC\',\ sys.argv\[2\].decode\(\'utf-8\'\)\)\) LaunchImage-700-Portrait@2x\~ipad.png LUTEC
+2017-12-11 01:54:37 +0000      /usr/bin/python exited with pid 38018 exit 0
+    Stdout:
+        False
+    
+    Stderr:
+2017-12-11 01:54:37 +0000  /usr/bin/python -c import\ sys\;\ import\ unicodedata\;\ print\(unicodedata.normalize\(\'NFC\',\ sys.argv\[1\].decode\(\'utf-8\'\)\)\ \=\=\ unicodedata.normalize\(\'NFC\',\ sys.argv\[2\].decode\(\'utf-8\'\)\)\) LaunchImage-700-Portrait\~ipad.png LUTEC
+2017-12-11 01:54:37 +0000      /usr/bin/python exited with pid 38019 exit 0
+    Stdout:
+        False
+    
+    Stderr:
+2017-12-11 01:54:37 +0000  /usr/bin/python -c import\ sys\;\ import\ unicodedata\;\ print\(unicodedata.normalize\(\'NFC\',\ sys.argv\[1\].decode\(\'utf-8\'\)\)\ \=\=\ unicodedata.normalize\(\'NFC\',\ sys.argv\[2\].decode\(\'utf-8\'\)\)\) LaunchImage-700@2x.png LUTEC
+2017-12-11 01:54:38 +0000      /usr/bin/python exited with pid 38021 exit 0
+    Stdout:
+        False
+    
+    Stderr:
+2017-12-11 01:54:38 +0000  /usr/bin/python -c import\ sys\;\ import\ unicodedata\;\ print\(unicodedata.normalize\(\'NFC\',\ sys.argv\[1\].decode\(\'utf-8\'\)\)\ \=\=\ unicodedata.normalize\(\'NFC\',\ sys.argv\[2\].decode\(\'utf-8\'\)\)\) LaunchImage-800-667h@2x.png LUTEC
+2017-12-11 01:54:38 +0000      /usr/bin/python exited with pid 38026 exit 0
+    Stdout:
+        False
+    
+    Stderr:
+2017-12-11 01:54:38 +0000  /usr/bin/python -c import\ sys\;\ import\ unicodedata\;\ print\(unicodedata.normalize\(\'NFC\',\ sys.argv\[1\].decode\(\'utf-8\'\)\)\ \=\=\ unicodedata.normalize\(\'NFC\',\ sys.argv\[2\].decode\(\'utf-8\'\)\)\) LaunchImage-800-Portrait-736h@3x.png LUTEC
+2017-12-11 01:54:38 +0000      /usr/bin/python exited with pid 38028 exit 0
+    Stdout:
+        False
+    
+    Stderr:
+2017-12-11 01:54:38 +0000  /usr/bin/python -c import\ sys\;\ import\ unicodedata\;\ print\(unicodedata.normalize\(\'NFC\',\ sys.argv\[1\].decode\(\'utf-8\'\)\)\ \=\=\ unicodedata.normalize\(\'NFC\',\ sys.argv\[2\].decode\(\'utf-8\'\)\)\) LaunchImage.png LUTEC
+2017-12-11 01:54:38 +0000      /usr/bin/python exited with pid 38031 exit 0
+    Stdout:
+        False
+    
+    Stderr:
+2017-12-11 01:54:38 +0000  /usr/bin/python -c import\ sys\;\ import\ unicodedata\;\ print\(unicodedata.normalize\(\'NFC\',\ sys.argv\[1\].decode\(\'utf-8\'\)\)\ \=\=\ unicodedata.normalize\(\'NFC\',\ sys.argv\[2\].decode\(\'utf-8\'\)\)\) LaunchImage@2x.png LUTEC
+2017-12-11 01:54:38 +0000      /usr/bin/python exited with pid 38035 exit 0
+    Stdout:
+        False
+    
+    Stderr:
+2017-12-11 01:54:38 +0000  /usr/bin/python -c import\ sys\;\ import\ unicodedata\;\ print\(unicodedata.normalize\(\'NFC\',\ sys.argv\[1\].decode\(\'utf-8\'\)\)\ \=\=\ unicodedata.normalize\(\'NFC\',\ sys.argv\[2\].decode\(\'utf-8\'\)\)\) LUTEC LUTEC
+2017-12-11 01:54:38 +0000  
+2017-12-11 01:54:38 +0000      /usr/bin/python exited with pid 38038 exit 0
+    Stdout:
+        True
+    
+    Stderr:
+2017-12-11 01:54:41 +0000  Complete LinkageGraph:
+    LUTEC.app/LUTEC armv7 ->
+        LUTEC.app/Frameworks/IQKeyboardManagerSwift.framework/IQKeyboardManagerSwift armv7
+        LUTEC.app/Frameworks/MBProgressHUD.framework/MBProgressHUD armv7
+        LUTEC.app/Frameworks/SnapKit.framework/SnapKit armv7
+        LUTEC.app/Frameworks/SwiftyJSON.framework/SwiftyJSON armv7
+        LUTEC.app/Frameworks/libswiftAVFoundation.dylib armv7
+        LUTEC.app/Frameworks/libswiftCore.dylib armv7
+        LUTEC.app/Frameworks/libswiftCoreAudio.dylib armv7
+        LUTEC.app/Frameworks/libswiftCoreFoundation.dylib armv7
+        LUTEC.app/Frameworks/libswiftCoreGraphics.dylib armv7
+        LUTEC.app/Frameworks/libswiftCoreImage.dylib armv7
+        LUTEC.app/Frameworks/libswiftCoreLocation.dylib armv7
+        LUTEC.app/Frameworks/libswiftCoreMedia.dylib armv7
+        LUTEC.app/Frameworks/libswiftDarwin.dylib armv7
+        LUTEC.app/Frameworks/libswiftDispatch.dylib armv7
+        LUTEC.app/Frameworks/libswiftFoundation.dylib armv7
+        LUTEC.app/Frameworks/libswiftMetal.dylib armv7
+        LUTEC.app/Frameworks/libswiftObjectiveC.dylib armv7
+        LUTEC.app/Frameworks/libswiftQuartzCore.dylib armv7
+        LUTEC.app/Frameworks/libswiftUIKit.dylib armv7
+        LUTEC.app/Frameworks/libswiftsimd.dylib armv7
+    LUTEC.app/Frameworks/IQKeyboardManagerSwift.framework/IQKeyboardManagerSwift armv7 ->
+        LUTEC.app/Frameworks/libswiftCore.dylib armv7
+        LUTEC.app/Frameworks/libswiftCoreFoundation.dylib armv7
+        LUTEC.app/Frameworks/libswiftCoreGraphics.dylib armv7
+        LUTEC.app/Frameworks/libswiftCoreImage.dylib armv7
+        LUTEC.app/Frameworks/libswiftDarwin.dylib armv7
+        LUTEC.app/Frameworks/libswiftDispatch.dylib armv7
+        LUTEC.app/Frameworks/libswiftFoundation.dylib armv7
+        LUTEC.app/Frameworks/libswiftMetal.dylib armv7
+        LUTEC.app/Frameworks/libswiftObjectiveC.dylib armv7
+        LUTEC.app/Frameworks/libswiftQuartzCore.dylib armv7
+        LUTEC.app/Frameworks/libswiftUIKit.dylib armv7
+    LUTEC.app/Frameworks/libswiftCore.dylib armv7 ->
+    
+    LUTEC.app/Frameworks/libswiftCoreFoundation.dylib armv7 ->
+        LUTEC.app/Frameworks/libswiftCore.dylib armv7
+        LUTEC.app/Frameworks/libswiftDarwin.dylib armv7
+        LUTEC.app/Frameworks/libswiftDispatch.dylib armv7
+        LUTEC.app/Frameworks/libswiftObjectiveC.dylib armv7
+    LUTEC.app/Frameworks/libswiftDarwin.dylib armv7 ->
+        LUTEC.app/Frameworks/libswiftCore.dylib armv7
+    LUTEC.app/Frameworks/libswiftDispatch.dylib armv7 ->
+        LUTEC.app/Frameworks/libswiftCore.dylib armv7
+        LUTEC.app/Frameworks/libswiftDarwin.dylib armv7
+        LUTEC.app/Frameworks/libswiftObjectiveC.dylib armv7
+    LUTEC.app/Frameworks/libswiftObjectiveC.dylib armv7 ->
+        LUTEC.app/Frameworks/libswiftCore.dylib armv7
+        LUTEC.app/Frameworks/libswiftDarwin.dylib armv7
+    LUTEC.app/Frameworks/libswiftCoreGraphics.dylib armv7 ->
+        LUTEC.app/Frameworks/libswiftCoreFoundation.dylib armv7
+        LUTEC.app/Frameworks/libswiftDispatch.dylib armv7
+        LUTEC.app/Frameworks/libswiftObjectiveC.dylib armv7
+        LUTEC.app/Frameworks/libswiftCore.dylib armv7
+        LUTEC.app/Frameworks/libswiftDarwin.dylib armv7
+    LUTEC.app/Frameworks/libswiftCoreImage.dylib armv7 ->
+        LUTEC.app/Frameworks/libswiftMetal.dylib armv7
+        LUTEC.app/Frameworks/libswiftFoundation.dylib armv7
+        LUTEC.app/Frameworks/libswiftCoreGraphics.dylib armv7
+        LUTEC.app/Frameworks/libswiftCoreFoundation.dylib armv7
+        LUTEC.app/Frameworks/libswiftCore.dylib armv7
+        LUTEC.app/Frameworks/libswiftDarwin.dylib armv7
+        LUTEC.app/Frameworks/libswiftDispatch.dylib armv7
+        LUTEC.app/Frameworks/libswiftObjectiveC.dylib armv7
+    LUTEC.app/Frameworks/libswiftMetal.dylib armv7 ->
+        LUTEC.app/Frameworks/libswiftFoundation.dylib armv7
+        LUTEC.app/Frameworks/libswiftos.dylib armv7
+        LUTEC.app/Frameworks/libswiftCoreFoundation.dylib armv7
+        LUTEC.app/Frameworks/libswiftCore.dylib armv7
+        LUTEC.app/Frameworks/libswiftDarwin.dylib armv7
+      
+2017-12-11 01:54:41 +0000  Validating IPA structure...
+2017-12-11 01:54:41 +0000    LUTEC.app/Frameworks/libswiftDispatch.dylib armv7
+        LUTEC.app/Frameworks/libswiftObjectiveC.dylib armv7
+    LUTEC.app/Frameworks/libswiftFoundation.dylib armv7 ->
+        LUTEC.app/Frameworks/libswiftCoreGraphics.dylib armv7
+        LUTEC.app/Frameworks/libswiftCoreFoundation.dylib armv7
+        LUTEC.app/Frameworks/libswiftCore.dylib armv7
+        LUTEC.app/Frameworks/libswiftDarwin.dylib armv7
+        LUTEC.app/Frameworks/libswiftDispatch.dylib armv7
+        LUTEC.app/Frameworks/libswiftObjectiveC.dylib armv7
+    LUTEC.app/Frameworks/libswiftos.dylib armv7 ->
+        LUTEC.app/Frameworks/libswiftCore.dylib armv7
+        LUTEC.app/Frameworks/libswiftDarwin.dylib armv7
+        LUTEC.app/Frameworks/libswiftObjectiveC.dylib armv7
+        LUTEC.app/Frameworks/libswiftDispatch.dylib armv7
+    LUTEC.app/Frameworks/libswiftQuartzCore.dylib armv7 ->
+        LUTEC.app/Frameworks/libswiftMetal.dylib armv7
+        LUTEC.app/Frameworks/libswiftFoundation.dylib armv7
+        LUTEC.app/Frameworks/libswiftCoreGraphics.dylib armv7
+        LUTEC.app/Frameworks/libswiftCoreFoundation.dylib armv7
+        LUTEC.app/Frameworks/libswiftCore.dylib armv7
+        LUTEC.app/Frameworks/libswiftDarwin.dylib armv7
+        LUTEC.app/Frameworks/libswiftDispatch.dylib armv7
+        LUTEC.app/Frameworks/libswiftObjectiveC.dylib armv7
+    LUTEC.app/Frameworks/libswiftUIKit.dylib armv7 ->
+        LUTEC.app/Frameworks/libswiftCoreImage.dylib armv7
+        LUTEC.app/Frameworks/libswiftQuartzCore.dylib armv7
+        LUTEC.app/Frameworks/libswiftFoundation.dylib armv7
+        LUTEC.app/Frameworks/libswiftCoreGraphics.dylib armv7
+        LUTEC.app/Frameworks/libswiftCoreFoundation.dylib armv7
+        LUTEC.app/Frameworks/libswiftCore.dylib armv7
+        LUTEC.app/Frameworks/libswiftDarwin.dylib armv7
+        LUTEC.app/Frameworks/libswiftDispatch.dylib armv7
+        LUTEC.app/Frameworks/libswiftObjectiveC.dylib armv7
+        LUTEC.app/Frameworks/libswiftos.dylib armv7
+        LUTEC.app/Frameworks/libswiftMetal.dylib armv7
+    LUTEC.app/Frameworks/MBProgressHUD.framework/MBProgressHUD armv7 ->
+    
+    LUTEC.app/Frameworks/SnapKit.framework/SnapKit armv7 ->
+        LUTEC.app/Frameworks/libswiftCore.dylib armv7
+        LUTEC.app/Frameworks/libswiftCoreFoundation.dylib armv7
+        LUTEC.app/Frameworks/libswiftCoreGraphics.dylib armv7
+        LUTEC.app/Frameworks/libswiftCoreImage.dylib armv7
+        LUTEC.app/Frameworks/libswiftDarwin.dylib armv7
+        LUTEC.app/Frameworks/libswiftDispatch.dylib armv7
+        LUTEC.app/Frameworks/libswiftFoundation.dylib armv7
+        LUTEC.app/Frameworks/libswiftMetal.dylib armv7
+        LUTEC.app/Frameworks/libswiftObjectiveC.dylib armv7
+        LUTEC.app/Frameworks/libswiftQuartzCore.dylib armv7
+        LUTEC.app/Frameworks/libswiftUIKit.dylib armv7
+    LUTEC.app/Frameworks/SwiftyJSON.framework/SwiftyJSON armv7 ->
+        LUTEC.app/Frameworks/libswiftCore.dylib armv7
+        LUTEC.app/Frameworks/libswiftCoreFoundation.dylib armv7
+        LUTEC.app/Frameworks/libswiftCoreGraphics.dylib armv7
+        LUTEC.app/Frameworks/libswiftCoreImage.dylib armv7
+        LUTEC.app/Frameworks/libswiftDarwin.dylib armv7
+        LUTEC.app/Frameworks/libswiftDispatch.dylib armv7
+        LUTEC.app/Frameworks/libswiftFoundation.dylib armv7
+        LUTEC.app/Frameworks/libswiftMetal.dylib armv7
+        LUTEC.app/Frameworks/libswiftObjectiveC.dylib armv7
+        LUTEC.app/Frameworks/libswiftQuartzCore.dylib armv7
+        LUTEC.app/Frameworks/libswiftUIKit.dylib armv7
+    LUTEC.app/Frameworks/libswiftAVFoundation.dylib armv7 ->
+        LUTEC.app/Frameworks/libswiftCoreMedia.dylib armv7
+        LUTEC.app/Frameworks/libswiftQuartzCore.dylib armv7
+        LUTEC.app/Frameworks/libswiftsimd.dylib armv7
+        LUTEC.app/Frameworks/libswiftCoreAudio.dylib armv7
+        LUTEC.app/Frameworks/libswiftFoundation.dylib armv7
+        LUTEC.app/Frameworks/libswiftCoreGraphics.dylib armv7
+        LUTEC.app/Frameworks/libswiftCoreFoundation.dylib armv7
+        LUTEC.app/Frameworks/libswiftCore.dylib armv7
+        LUTEC.app/Frameworks/libswiftDarwin.dyli
+2017-12-11 01:54:41 +0000  b armv7
+        LUTEC.app/Frameworks/libswiftDispatch.dylib armv7
+        LUTEC.app/Frameworks/libswiftObjectiveC.dylib armv7
+        LUTEC.app/Frameworks/libswiftMetal.dylib armv7
+    LUTEC.app/Frameworks/libswiftCoreMedia.dylib armv7 ->
+        LUTEC.app/Frameworks/libswiftCoreAudio.dylib armv7
+        LUTEC.app/Frameworks/libswiftMetal.dylib armv7
+        LUTEC.app/Frameworks/libswiftFoundation.dylib armv7
+        LUTEC.app/Frameworks/libswiftCoreGraphics.dylib armv7
+        LUTEC.app/Frameworks/libswiftCoreFoundation.dylib armv7
+        LUTEC.app/Frameworks/libswiftCore.dylib armv7
+        LUTEC.app/Frameworks/libswiftDarwin.dylib armv7
+        LUTEC.app/Frameworks/libswiftDispatch.dylib armv7
+        LUTEC.app/Frameworks/libswiftObjectiveC.dylib armv7
+    LUTEC.app/Frameworks/libswiftCoreAudio.dylib armv7 ->
+        LUTEC.app/Frameworks/libswiftCoreFoundation.dylib armv7
+        LUTEC.app/Frameworks/libswiftDispatch.dylib armv7
+        LUTEC.app/Frameworks/libswiftObjectiveC.dylib armv7
+        LUTEC.app/Frameworks/libswiftCore.dylib armv7
+        LUTEC.app/Frameworks/libswiftDarwin.dylib armv7
+    LUTEC.app/Frameworks/libswiftsimd.dylib armv7 ->
+        LUTEC.app/Frameworks/libswiftCore.dylib armv7
+        LUTEC.app/Frameworks/libswiftDarwin.dylib armv7
+    LUTEC.app/Frameworks/libswiftCoreLocation.dylib armv7 ->
+        LUTEC.app/Frameworks/libswiftFoundation.dylib armv7
+        LUTEC.app/Frameworks/libswiftCoreGraphics.dylib armv7
+        LUTEC.app/Frameworks/libswiftCoreFoundation.dylib armv7
+        LUTEC.app/Frameworks/libswiftCore.dylib armv7
+        LUTEC.app/Frameworks/libswiftDarwin.dylib armv7
+        LUTEC.app/Frameworks/libswiftDispatch.dylib armv7
+        LUTEC.app/Frameworks/libswiftObjectiveC.dylib armv7
+    LUTEC.app/LUTEC arm64 ->
+        LUTEC.app/Frameworks/IQKeyboardManagerSwift.framework/IQKeyboardManagerSwift arm64
+        LUTEC.app/Frameworks/MBProgressHUD.framework/MBProgressHUD arm64
+        LUTEC.app/Frameworks/SnapKit.framework/SnapKit arm64
+        LUTEC.app/Frameworks/SwiftyJSON.framework/SwiftyJSON arm64
+        LUTEC.app/Frameworks/libswiftAVFoundation.dylib arm64
+        LUTEC.app/Frameworks/libswiftCore.dylib arm64
+        LUTEC.app/Frameworks/libswiftCoreAudio.dylib arm64
+        LUTEC.app/Frameworks/libswiftCoreFoundation.dylib arm64
+        LUTEC.app/Frameworks/libswiftCoreGraphics.dylib arm64
+        LUTEC.app/Frameworks/libswiftCoreImage.dylib arm64
+        LUTEC.app/Frameworks/libswiftCoreLocation.dylib arm64
+        LUTEC.app/Frameworks/libswiftCoreMedia.dylib arm64
+        LUTEC.app/Frameworks/libswiftDarwin.dylib arm64
+        LUTEC.app/Frameworks/libswiftDispatch.dylib arm64
+        LUTEC.app/Frameworks/libswiftFoundation.dylib arm64
+        LUTEC.app/Frameworks/libswiftMetal.dylib arm64
+        LUTEC.app/Frameworks/libswiftObjectiveC.dylib arm64
+        LUTEC.app/Frameworks/libswiftQuartzCore.dylib arm64
+        LUTEC.app/Frameworks/libswiftUIKit.dylib arm64
+        LUTEC.app/Frameworks/libswiftsimd.dylib arm64
+    LUTEC.app/Frameworks/IQKeyboardManagerSwift.framework/IQKeyboardManagerSwift arm64 ->
+        LUTEC.app/Frameworks/libswiftCore.dylib arm64
+        LUTEC.app/Frameworks/libswiftCoreFoundation.dylib arm64
+        LUTEC.app/Frameworks/libswiftCoreGraphics.dylib arm64
+        LUTEC.app/Frameworks/libswiftCoreImage.dylib arm64
+        LUTEC.app/Frameworks/libswiftDarwin.dylib arm64
+        LUTEC.app/Frameworks/libswiftDispatch.dylib arm64
+        LUTEC.app/Frameworks/libswiftFoundation.dylib arm64
+        LUTEC.app/Frameworks/libswiftMetal.dylib arm64
+        LUTEC.app/Frameworks/libswiftObjectiveC.dylib arm64
+        LUTEC.app/Frameworks/libswiftQuartzCore.dylib arm64
+        LUTEC.app/Frameworks/libswiftUIKit.dylib arm64
+    LUTEC.app/Frameworks/libswiftCore.dylib arm64 ->
+    
+    LUTEC.app/Frameworks/libswiftCoreFoundation.dylib arm64 ->
+        LUTEC.app/Frameworks/libswiftCore.dylib arm64
+        LUTEC.app/Frameworks/libswiftDarwin.dylib arm64
+        LUTEC.app/Frameworks/libswiftDispatch.dylib arm64
+        LUTEC.app/Frameworks/libswiftObjectiveC.dylib arm64
+2017-12-11 01:54:41 +0000  
+    LUTEC.app/Frameworks/libswiftDarwin.dylib arm64 ->
+        LUTEC.app/Frameworks/libswiftCore.dylib arm64
+    LUTEC.app/Frameworks/libswiftDispatch.dylib arm64 ->
+        LUTEC.app/Frameworks/libswiftCore.dylib arm64
+        LUTEC.app/Frameworks/libswiftDarwin.dylib arm64
+        LUTEC.app/Frameworks/libswiftObjectiveC.dylib arm64
+    LUTEC.app/Frameworks/libswiftObjectiveC.dylib arm64 ->
+        LUTEC.app/Frameworks/libswiftCore.dylib arm64
+        LUTEC.app/Frameworks/libswiftDarwin.dylib arm64
+    LUTEC.app/Frameworks/libswiftCoreGraphics.dylib arm64 ->
+        LUTEC.app/Frameworks/libswiftCoreFoundation.dylib arm64
+        LUTEC.app/Frameworks/libswiftDispatch.dylib arm64
+        LUTEC.app/Frameworks/libswiftObjectiveC.dylib arm64
+        LUTEC.app/Frameworks/libswiftCore.dylib arm64
+        LUTEC.app/Frameworks/libswiftDarwin.dylib arm64
+    LUTEC.app/Frameworks/libswiftCoreImage.dylib arm64 ->
+        LUTEC.app/Frameworks/libswiftMetal.dylib arm64
+        LUTEC.app/Frameworks/libswiftFoundation.dylib arm64
+        LUTEC.app/Frameworks/libswiftCoreGraphics.dylib arm64
+        LUTEC.app/Frameworks/libswiftCoreFoundation.dylib arm64
+        LUTEC.app/Frameworks/libswiftCore.dylib arm64
+        LUTEC.app/Frameworks/libswiftDarwin.dylib arm64
+        LUTEC.app/Frameworks/libswiftDispatch.dylib arm64
+        LUTEC.app/Frameworks/libswiftObjectiveC.dylib arm64
+    LUTEC.app/Frameworks/libswiftMetal.dylib arm64 ->
+        LUTEC.app/Frameworks/libswiftFoundation.dylib arm64
+        LUTEC.app/Frameworks/libswiftos.dylib arm64
+        LUTEC.app/Frameworks/libswiftCoreFoundation.dylib arm64
+        LUTEC.app/Frameworks/libswiftCore.dylib arm64
+        LUTEC.app/Frameworks/libswiftDarwin.dylib arm64
+        LUTEC.app/Frameworks/libswiftDispatch.dylib arm64
+        LUTEC.app/Frameworks/libswiftObjectiveC.dylib arm64
+    LUTEC.app/Frameworks/libswiftFoundation.dylib arm64 ->
+        LUTEC.app/Frameworks/libswiftCoreGraphics.dylib arm64
+        LUTEC.app/Frameworks/libswiftCoreFoundation.dylib arm64
+        LUTEC.app/Frameworks/libswiftCore.dylib arm64
+        LUTEC.app/Frameworks/libswiftDarwin.dylib arm64
+        LUTEC.app/Frameworks/libswiftDispatch.dylib arm64
+        LUTEC.app/Frameworks/libswiftObjectiveC.dylib arm64
+    LUTEC.app/Frameworks/libswiftos.dylib arm64 ->
+        LUTEC.app/Frameworks/libswiftCore.dylib arm64
+        LUTEC.app/Frameworks/libswiftDarwin.dylib arm64
+        LUTEC.app/Frameworks/libswiftObjectiveC.dylib arm64
+        LUTEC.app/Frameworks/libswiftDispatch.dylib arm64
+    LUTEC.app/Frameworks/libswiftQuartzCore.dylib arm64 ->
+        LUTEC.app/Frameworks/libswiftMetal.dylib arm64
+        LUTEC.app/Frameworks/libswiftFoundation.dylib arm64
+        LUTEC.app/Frameworks/libswiftCoreGraphics.dylib arm64
+        LUTEC.app/Frameworks/libswiftCoreFoundation.dylib arm64
+        LUTEC.app/Frameworks/libswiftCore.dylib arm64
+        LUTEC.app/Frameworks/libswiftDarwin.dylib arm64
+        LUTEC.app/Frameworks/libswiftDispatch.dylib arm64
+        LUTEC.app/Frameworks/libswiftObjectiveC.dylib arm64
+    LUTEC.app/Frameworks/libswiftUIKit.dylib arm64 ->
+        LUTEC.app/Frameworks/libswiftCoreImage.dylib arm64
+        LUTEC.app/Frameworks/libswiftQuartzCore.dylib arm64
+        LUTEC.app/Frameworks/libswiftFoundation.dylib arm64
+        LUTEC.app/Frameworks/libswiftCoreGraphics.dylib arm64
+        LUTEC.app/Frameworks/libswiftCoreFoundation.dylib arm64
+        LUTEC.app/Frameworks/libswiftCore.dylib arm64
+        LUTEC.app/Frameworks/libswiftDarwin.dylib arm64
+        LUTEC.app/Frameworks/libswiftDispatch.dylib arm64
+        LUTEC.app/Frameworks/libswiftObjectiveC.dylib arm64
+        LUTEC.app/Frameworks/libswiftos.dylib arm64
+        LUTEC.app/Frameworks/libswiftMetal.dylib arm64
+    LUTEC.app/Frameworks/MBProgressHUD.framework/MBProgressHUD arm64 ->
+    
+    LUTEC.app/Frameworks/SnapKit.framework/SnapKit arm64 ->
+        LUTEC.app/Frameworks/libswiftCore.dylib arm64
+        LUTEC.app/Frameworks/libswiftCoreFoundation.dylib arm64
+        LUTEC.app/Frameworks/libswiftCoreGraphics.dylib arm64
+        LUTEC.app/Fra
+2017-12-11 01:54:41 +0000  meworks/libswiftCoreImage.dylib arm64
+        LUTEC.app/Frameworks/libswiftDarwin.dylib arm64
+        LUTEC.app/Frameworks/libswiftDispatch.dylib arm64
+        LUTEC.app/Frameworks/libswiftFoundation.dylib arm64
+        LUTEC.app/Frameworks/libswiftMetal.dylib arm64
+        LUTEC.app/Frameworks/libswiftObjectiveC.dylib arm64
+        LUTEC.app/Frameworks/libswiftQuartzCore.dylib arm64
+        LUTEC.app/Frameworks/libswiftUIKit.dylib arm64
+    LUTEC.app/Frameworks/SwiftyJSON.framework/SwiftyJSON arm64 ->
+        LUTEC.app/Frameworks/libswiftCore.dylib arm64
+        LUTEC.app/Frameworks/libswiftCoreFoundation.dylib arm64
+        LUTEC.app/Frameworks/libswiftCoreGraphics.dylib arm64
+        LUTEC.app/Frameworks/libswiftCoreImage.dylib arm64
+        LUTEC.app/Frameworks/libswiftDarwin.dylib arm64
+        LUTEC.app/Frameworks/libswiftDispatch.dylib arm64
+        LUTEC.app/Frameworks/libswiftFoundation.dylib arm64
+        LUTEC.app/Frameworks/libswiftMetal.dylib arm64
+        LUTEC.app/Frameworks/libswiftObjectiveC.dylib arm64
+        LUTEC.app/Frameworks/libswiftQuartzCore.dylib arm64
+        LUTEC.app/Frameworks/libswiftUIKit.dylib arm64
+    LUTEC.app/Frameworks/libswiftAVFoundation.dylib arm64 ->
+        LUTEC.app/Frameworks/libswiftCoreMedia.dylib arm64
+        LUTEC.app/Frameworks/libswiftQuartzCore.dylib arm64
+        LUTEC.app/Frameworks/libswiftsimd.dylib arm64
+        LUTEC.app/Frameworks/libswiftCoreAudio.dylib arm64
+        LUTEC.app/Frameworks/libswiftFoundation.dylib arm64
+        LUTEC.app/Frameworks/libswiftCoreGraphics.dylib arm64
+        LUTEC.app/Frameworks/libswiftCoreFoundation.dylib arm64
+        LUTEC.app/Frameworks/libswiftCore.dylib arm64
+        LUTEC.app/Frameworks/libswiftDarwin.dylib arm64
+        LUTEC.app/Frameworks/libswiftDispatch.dylib arm64
+        LUTEC.app/Frameworks/libswiftObjectiveC.dylib arm64
+        LUTEC.app/Frameworks/libswiftMetal.dylib arm64
+    LUTEC.app/Frameworks/libswiftCoreMedia.dylib arm64 ->
+        LUTEC.app/Frameworks/libswiftCoreAudio.dylib arm64
+        LUTEC.app/Frameworks/libswiftMetal.dylib arm64
+        LUTEC.app/Frameworks/libswiftFoundation.dylib arm64
+        LUTEC.app/Frameworks/libswiftCoreGraphics.dylib arm64
+        LUTEC.app/Frameworks/libswiftCoreFoundation.dylib arm64
+        LUTEC.app/Frameworks/libswiftCore.dylib arm64
+        LUTEC.app/Frameworks/libswiftDarwin.dylib arm64
+        LUTEC.app/Frameworks/libswiftDispatch.dylib arm64
+        LUTEC.app/Frameworks/libswiftObjectiveC.dylib arm64
+    LUTEC.app/Frameworks/libswiftCoreAudio.dylib arm64 ->
+        LUTEC.app/Frameworks/libswiftCoreFoundation.dylib arm64
+        LUTEC.app/Frameworks/libswiftDispatch.dylib arm64
+        LUTEC.app/Frameworks/libswiftObjectiveC.dylib arm64
+        LUTEC.app/Frameworks/libswiftCore.dylib arm64
+        LUTEC.app/Frameworks/libswiftDarwin.dylib arm64
+    LUTEC.app/Frameworks/libswiftsimd.dylib arm64 ->
+        LUTEC.app/Frameworks/libswiftCore.dylib arm64
+        LUTEC.app/Frameworks/libswiftDarwin.dylib arm64
+    LUTEC.app/Frameworks/libswiftCoreLocation.dylib arm64 ->
+        LUTEC.app/Frameworks/libswiftFoundation.dylib arm64
+        LUTEC.app/Frameworks/libswiftCoreGraphics.dylib arm64
+        LUTEC.app/Frameworks/libswiftCoreFoundation.dylib arm64
+        LUTEC.app/Frameworks/libswiftCore.dylib arm64
+        LUTEC.app/Frameworks/libswiftDarwin.dylib arm64
+        LUTEC.app/Frameworks/libswiftDispatch.dylib arm64
+        LUTEC.app/Frameworks/libswiftObjectiveC.dylib arm64
+    LUTEC.app/Frameworks/libswiftAVFoundation.dylib armv7s ->
+        LUTEC.app/Frameworks/libswiftCoreMedia.dylib armv7s
+        LUTEC.app/Frameworks/libswiftQuartzCore.dylib armv7s
+        LUTEC.app/Frameworks/libswiftsimd.dylib armv7s
+        LUTEC.app/Frameworks/libswiftCoreAudio.dylib armv7s
+        LUTEC.app/Frameworks/libswiftFoundation.dylib armv7s
+        LUTEC.app/Frameworks/libswiftCoreGraphics.dylib armv7s
+        LUTEC.app/Frameworks/libswiftCoreFoundation.dylib armv7s
+        LUTEC.app/Frameworks/libswiftCore.dylib armv7s
+        LUTEC.app/Frameworks/libswiftDarwin.dylib armv7s
+        LU
+2017-12-11 01:54:41 +0000  TEC.app/Frameworks/libswiftDispatch.dylib armv7s
+        LUTEC.app/Frameworks/libswiftObjectiveC.dylib armv7s
+        LUTEC.app/Frameworks/libswiftMetal.dylib armv7s
+    LUTEC.app/Frameworks/libswiftCoreMedia.dylib armv7s ->
+        LUTEC.app/Frameworks/libswiftCoreAudio.dylib armv7s
+        LUTEC.app/Frameworks/libswiftMetal.dylib armv7s
+        LUTEC.app/Frameworks/libswiftFoundation.dylib armv7s
+        LUTEC.app/Frameworks/libswiftCoreGraphics.dylib armv7s
+        LUTEC.app/Frameworks/libswiftCoreFoundation.dylib armv7s
+        LUTEC.app/Frameworks/libswiftCore.dylib armv7s
+        LUTEC.app/Frameworks/libswiftDarwin.dylib armv7s
+        LUTEC.app/Frameworks/libswiftDispatch.dylib armv7s
+        LUTEC.app/Frameworks/libswiftObjectiveC.dylib armv7s
+    LUTEC.app/Frameworks/libswiftCoreAudio.dylib armv7s ->
+        LUTEC.app/Frameworks/libswiftCoreFoundation.dylib armv7s
+        LUTEC.app/Frameworks/libswiftDispatch.dylib armv7s
+        LUTEC.app/Frameworks/libswiftObjectiveC.dylib armv7s
+        LUTEC.app/Frameworks/libswiftCore.dylib armv7s
+        LUTEC.app/Frameworks/libswiftDarwin.dylib armv7s
+    LUTEC.app/Frameworks/libswiftCoreFoundation.dylib armv7s ->
+        LUTEC.app/Frameworks/libswiftCore.dylib armv7s
+        LUTEC.app/Frameworks/libswiftDarwin.dylib armv7s
+        LUTEC.app/Frameworks/libswiftDispatch.dylib armv7s
+        LUTEC.app/Frameworks/libswiftObjectiveC.dylib armv7s
+    LUTEC.app/Frameworks/libswiftCore.dylib armv7s ->
+    
+    LUTEC.app/Frameworks/libswiftDarwin.dylib armv7s ->
+        LUTEC.app/Frameworks/libswiftCore.dylib armv7s
+    LUTEC.app/Frameworks/libswiftDispatch.dylib armv7s ->
+        LUTEC.app/Frameworks/libswiftCore.dylib armv7s
+        LUTEC.app/Frameworks/libswiftDarwin.dylib armv7s
+        LUTEC.app/Frameworks/libswiftObjectiveC.dylib armv7s
+    LUTEC.app/Frameworks/libswiftObjectiveC.dylib armv7s ->
+        LUTEC.app/Frameworks/libswiftCore.dylib armv7s
+        LUTEC.app/Frameworks/libswiftDarwin.dylib armv7s
+    LUTEC.app/Frameworks/libswiftMetal.dylib armv7s ->
+        LUTEC.app/Frameworks/libswiftFoundation.dylib armv7s
+        LUTEC.app/Frameworks/libswiftos.dylib armv7s
+        LUTEC.app/Frameworks/libswiftCoreFoundation.dylib armv7s
+        LUTEC.app/Frameworks/libswiftCore.dylib armv7s
+        LUTEC.app/Frameworks/libswiftDarwin.dylib armv7s
+        LUTEC.app/Frameworks/libswiftDispatch.dylib armv7s
+        LUTEC.app/Frameworks/libswiftObjectiveC.dylib armv7s
+    LUTEC.app/Frameworks/libswiftFoundation.dylib armv7s ->
+        LUTEC.app/Frameworks/libswiftCoreGraphics.dylib armv7s
+        LUTEC.app/Frameworks/libswiftCoreFoundation.dylib armv7s
+        LUTEC.app/Frameworks/libswiftCore.dylib armv7s
+        LUTEC.app/Frameworks/libswiftDarwin.dylib armv7s
+        LUTEC.app/Frameworks/libswiftDispatch.dylib armv7s
+        LUTEC.app/Frameworks/libswiftObjectiveC.dylib armv7s
+    LUTEC.app/Frameworks/libswiftCoreGraphics.dylib armv7s ->
+        LUTEC.app/Frameworks/libswiftCoreFoundation.dylib armv7s
+        LUTEC.app/Frameworks/libswiftDispatch.dylib armv7s
+        LUTEC.app/Frameworks/libswiftObjectiveC.dylib armv7s
+        LUTEC.app/Frameworks/libswiftCore.dylib armv7s
+        LUTEC.app/Frameworks/libswiftDarwin.dylib armv7s
+    LUTEC.app/Frameworks/libswiftos.dylib armv7s ->
+        LUTEC.app/Frameworks/libswiftCore.dylib armv7s
+        LUTEC.app/Frameworks/libswiftDarwin.dylib armv7s
+        LUTEC.app/Frameworks/libswiftObjectiveC.dylib armv7s
+        LUTEC.app/Frameworks/libswiftDispatch.dylib armv7s
+    LUTEC.app/Frameworks/libswiftQuartzCore.dylib armv7s ->
+        LUTEC.app/Frameworks/libswiftMetal.dylib armv7s
+        LUTEC.app/Frameworks/libswiftFoundation.dylib armv7s
+        LUTEC.app/Frameworks/libswiftCoreGraphics.dylib armv7s
+        LUTEC.app/Frameworks/libswiftCoreFoundation.dylib armv7s
+        LUTEC.app/Frameworks/libswiftCore.dylib armv7s
+        LUTEC.app/Frameworks/libswiftDarwin.dylib armv7s
+        LUTEC.app/Frameworks/libswiftDispatch.dylib armv7s
+        LUTEC.app/Frameworks/libswiftObjectiveC.dylib armv7s
+    LUTEC.app/Frameworks/libswiftsimd.dylib
+2017-12-11 01:54:41 +0000   armv7s ->
+        LUTEC.app/Frameworks/libswiftCore.dylib armv7s
+        LUTEC.app/Frameworks/libswiftDarwin.dylib armv7s
+    LUTEC.app/Frameworks/libswiftCoreImage.dylib armv7s ->
+        LUTEC.app/Frameworks/libswiftMetal.dylib armv7s
+        LUTEC.app/Frameworks/libswiftFoundation.dylib armv7s
+        LUTEC.app/Frameworks/libswiftCoreGraphics.dylib armv7s
+        LUTEC.app/Frameworks/libswiftCoreFoundation.dylib armv7s
+        LUTEC.app/Frameworks/libswiftCore.dylib armv7s
+        LUTEC.app/Frameworks/libswiftDarwin.dylib armv7s
+        LUTEC.app/Frameworks/libswiftDispatch.dylib armv7s
+        LUTEC.app/Frameworks/libswiftObjectiveC.dylib armv7s
+    LUTEC.app/Frameworks/libswiftCoreLocation.dylib armv7s ->
+        LUTEC.app/Frameworks/libswiftFoundation.dylib armv7s
+        LUTEC.app/Frameworks/libswiftCoreGraphics.dylib armv7s
+        LUTEC.app/Frameworks/libswiftCoreFoundation.dylib armv7s
+        LUTEC.app/Frameworks/libswiftCore.dylib armv7s
+        LUTEC.app/Frameworks/libswiftDarwin.dylib armv7s
+        LUTEC.app/Frameworks/libswiftDispatch.dylib armv7s
+        LUTEC.app/Frameworks/libswiftObjectiveC.dylib armv7s
+    LUTEC.app/Frameworks/libswiftUIKit.dylib armv7s ->
+        LUTEC.app/Frameworks/libswiftCoreImage.dylib armv7s
+        LUTEC.app/Frameworks/libswiftQuartzCore.dylib armv7s
+        LUTEC.app/Frameworks/libswiftFoundation.dylib armv7s
+        LUTEC.app/Frameworks/libswiftCoreGraphics.dylib armv7s
+        LUTEC.app/Frameworks/libswiftCoreFoundation.dylib armv7s
+        LUTEC.app/Frameworks/libswiftCore.dylib armv7s
+        LUTEC.app/Frameworks/libswiftDarwin.dylib armv7s
+        LUTEC.app/Frameworks/libswiftDispatch.dylib armv7s
+        LUTEC.app/Frameworks/libswiftObjectiveC.dylib armv7s
+        LUTEC.app/Frameworks/libswiftos.dylib armv7s
+        LUTEC.app/Frameworks/libswiftMetal.dylib armv7s
+2017-12-11 01:54:44 +0000  Compiling bitcode...
+2017-12-11 01:54:44 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/strip -ST /var/folders/rz/8jbnfm5d1bn2mqs7c842w8240000gn/T/ipatool20171211-37338-fe8km9/thinned/armv7/Payload/LUTEC.app/Frameworks/libswiftAVFoundation.dylib
+2017-12-11 01:54:44 +0000      /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/strip exited with pid 38385 exit 0
+    Stdout:
+    
+    Stderr:
+        /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/strip: changes being made to the file will invalidate the code signature in: /private/var/folders/rz/8jbnfm5d1bn2mqs7c842w8240000gn/T/ipatool20171211-37338-fe8km9/thinned/armv7/Payload/LUTEC.app/Frameworks/libswiftAVFoundation.dylib
+2017-12-11 01:54:44 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/strip -ST /var/folders/rz/8jbnfm5d1bn2mqs7c842w8240000gn/T/ipatool20171211-37338-fe8km9/thinned/arm64/Payload/LUTEC.app/Frameworks/libswiftAVFoundation.dylib
+2017-12-11 01:54:44 +0000      /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/strip exited with pid 38390 exit 0
+    Stdout:
+    
+    Stderr:
+        /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/strip: changes being made to the file will invalidate the code signature in: /private/var/folders/rz/8jbnfm5d1bn2mqs7c842w8240000gn/T/ipatool20171211-37338-fe8km9/thinned/arm64/Payload/LUTEC.app/Frameworks/libswiftAVFoundation.dylib
+2017-12-11 01:54:44 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/strip -ST /var/folders/rz/8jbnfm5d1bn2mqs7c842w8240000gn/T/ipatool20171211-37338-fe8km9/thinned/armv7/Payload/LUTEC.app/Frameworks/libswiftCore.dylib
+2017-12-11 01:54:44 +0000      /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/strip exited with pid 38396 exit 0
+    Stdout:
+    
+    Stderr:
+        /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/strip: changes being made to the file will invalidate the code signature in: /private/var/folders/rz/8jbnfm5d1bn2mqs7c842w8240000gn/T/ipatool20171211-37338-fe8km9/thinned/armv7/Payload/LUTEC.app/Frameworks/libswiftCore.dylib
+2017-12-11 01:54:45 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/strip -ST /var/folders/rz/8jbnfm5d1bn2mqs7c842w8240000gn/T/ipatool20171211-37338-fe8km9/thinned/arm64/Payload/LUTEC.app/Frameworks/libswiftCore.dylib
+2017-12-11 01:54:45 +0000      /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/strip exited with pid 38404 exit 0
+    Stdout:
+    
+    Stderr:
+        /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/strip: changes being made to the file will invalidate the code signature in: /private/var/folders/rz/8jbnfm5d1bn2mqs7c842w8240000gn/T/ipatool20171211-37338-fe8km9/thinned/arm64/Payload/LUTEC.app/Frameworks/libswiftCore.dylib
+2017-12-11 01:54:45 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/strip -ST /var/folders/rz/8jbnfm5d1bn2mqs7c842w8240000gn/T/ipatool20171211-37338-fe8km9/thinned/armv7/Payload/LUTEC.app/Frameworks/libswiftCoreAudio.dylib
+2017-12-11 01:54:45 +0000      /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/strip exited with pid 38410 exit 0
+    Stdout:
+    
+    Stderr:
+        /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/strip: changes being made to the file will invalidate the code signature in: /private/var/folders/rz/8jbnfm5d1bn2mqs7c842w8240000gn/T/ipatool20171211-37338-fe8km9/thinned/armv7/Payload/LUTEC.app/Frameworks/libswiftCoreAudio.dylib
+2017-12-11 01:54:45 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/strip -ST /var/folders/rz/8jbnfm5d1bn2mqs7c842w8240000gn/T/ipatool20171211-37338-fe8km9/thinned/arm64/Payload/LUTEC.app/Frameworks/libswiftCoreAudio.dylib
+2017-12-11 01:54:45 +0000      /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/strip exited with pid 38414 exit 0
+    Stdout:
+    
+    Stderr:
+        /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/strip: changes being made to the file will invalidate the code signature in: /private/var/folders/rz/8jbnfm5d1bn2mqs7c842w8240000gn/T/ipatool20171211-37338-fe8km9/thinned/arm64/Payload/LUTEC.app/Frameworks/libswiftCoreAudio.dylib
+2017-12-11 01:54:45 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/strip -ST /var/folders/rz/8jbnfm5d1bn2mqs7c842w8240000gn/T/ipatool20171211-37338-fe8km9/thinned/armv7/Payload/LUTEC.app/Frameworks/libswiftCoreFoundation.dylib
+2017-12-11 01:54:45 +0000      /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/strip exited with pid 38419 exit 0
+    Stdout:
+    
+    Stderr:
+        /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/strip: changes being made to the file will invalidate the code signature in: /private/var/folders/rz/8jbnfm5d1bn2mqs7c842w8240000gn/T/ipatool20171211-37338-fe8km9/thinned/armv7/Payload/LUTEC.app/Frameworks/libswiftCoreFoundation.dylib
+2017-12-11 01:54:45 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/strip -ST /var/folders/rz/8jbnfm5d1bn2mqs7c842w8240000gn/T/ipatool20171211-37338-fe8km9/thinned/arm64/Payload/LUTEC.app/Frameworks/libswiftCoreFoundation.dylib
+2017-12-11 01:54:45 +0000      /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/strip exited with pid 38424 exit 0
+    Stdout:
+    
+    Stderr:
+        /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/strip: changes being made to the file will invalidate the code signature in: /private/var/folders/rz/8jbnfm5d1bn2mqs7c842w8240000gn/T/ipatool20171211-37338-fe8km9/thinned/arm64/Payload/LUTEC.app/Frameworks/libswiftCoreFoundation.dylib
+2017-12-11 01:54:45 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/strip -ST /var/folders/rz/8jbnfm5d1bn2mqs7c842w8240000gn/T/ipatool20171211-37338-fe8km9/thinned/armv7/Payload/LUTEC.app/Frameworks/libswiftCoreGraphics.dylib
+2017-12-11 01:54:45 +0000      /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/strip exited with pid 38428 exit 0
+    Stdout:
+    
+    Stderr:
+        /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/strip: changes being made to the file will invalidate the code signature in: /private/var/folders/rz/8jbnfm5d1bn2mqs7c842w8240000gn/T/ipatool20171211-37338-fe8km9/thinned/armv7/Payload/LUTEC.app/Frameworks/libswiftCoreGraphics.dylib
+2017-12-11 01:54:45 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/strip -ST /var/folders/rz/8jbnfm5d1bn2mqs7c842w8240000gn/T/ipatool20171211-37338-fe8km9/thinned/arm64/Payload/LUTEC.app/Frameworks/libswiftCoreGraphics.dylib
+2017-12-11 01:54:45 +0000      /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/strip exited with pid 38433 exit 0
+    Stdout:
+    
+    Stderr:
+        /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/strip: changes being made to the file will invalidate the code signature in: /private/var/folders/rz/8jbnfm5d1bn2mqs7c842w8240000gn/T/ipatool20171211-37338-fe8km9/thinned/arm64/Payload/LUTEC.app/Frameworks/libswiftCoreGraphics.dylib
+2017-12-11 01:54:45 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/strip -ST /var/folders/rz/8jbnfm5d1bn2mqs7c842w8240000gn/T/ipatool20171211-37338-fe8km9/thinned/armv7/Payload/LUTEC.app/Frameworks/libswiftCoreImage.dylib
+2017-12-11 01:54:45 +0000      /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/strip exited with pid 38438 exit 0
+    Stdout:
+    
+    Stderr:
+        /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/strip: changes being made to the file will invalidate the code signature in: /private/var/folders/rz/8jbnfm5d1bn2mqs7c842w8240000gn/T/ipatool20171211-37338-fe8km9/thinned/armv7/Payload/LUTEC.app/Frameworks/libswiftCoreImage.dylib
+2017-12-11 01:54:45 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/strip -ST /var/folders/rz/8jbnfm5d1bn2mqs7c842w8240000gn/T/ipatool20171211-37338-fe8km9/thinned/arm64/Payload/LUTEC.app/Frameworks/libswiftCoreImage.dylib
+2017-12-11 01:54:45 +0000      /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/strip exited with pid 38442 exit 0
+    Stdout:
+    
+    Stderr:
+        /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/strip: changes being made to the file will invalidate the code signature in: /private/var/folders/rz/8jbnfm5d1bn2mqs7c842w8240000gn/T/ipatool20171211-37338-fe8km9/thinned/arm64/Payload/LUTEC.app/Frameworks/libswiftCoreImage.dylib
+2017-12-11 01:54:45 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/strip -ST /var/folders/rz/8jbnfm5d1bn2mqs7c842w8240000gn/T/ipatool20171211-37338-fe8km9/thinned/armv7/Payload/LUTEC.app/Frameworks/libswiftCoreLocation.dylib
+2017-12-11 01:54:45 +0000      /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/strip exited with pid 38447 exit 0
+    Stdout:
+    
+    Stderr:
+        /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/strip: changes being made to the file will invalidate the code signature in: /private/var/folders/rz/8jbnfm5d1bn2mqs7c842w8240000gn/T/ipatool20171211-37338-fe8km9/thinned/armv7/Payload/LUTEC.app/Frameworks/libswiftCoreLocation.dylib
+2017-12-11 01:54:45 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/strip -ST /var/folders/rz/8jbnfm5d1bn2mqs7c842w8240000gn/T/ipatool20171211-37338-fe8km9/thinned/arm64/Payload/LUTEC.app/Frameworks/libswiftCoreLocation.dylib
+2017-12-11 01:54:45 +0000      /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/strip exited with pid 38451 exit 0
+    Stdout:
+    
+    Stderr:
+        /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/strip: changes being made to the file will invalidate the code signature in: /private/var/folders/rz/8jbnfm5d1bn2mqs7c842w8240000gn/T/ipatool20171211-37338-fe8km9/thinned/arm64/Payload/LUTEC.app/Frameworks/libswiftCoreLocation.dylib
+2017-12-11 01:54:45 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/strip -ST /var/folders/rz/8jbnfm5d1bn2mqs7c842w8240000gn/T/ipatool20171211-37338-fe8km9/thinned/armv7/Payload/LUTEC.app/Frameworks/libswiftCoreMedia.dylib
+2017-12-11 01:54:45 +0000      /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/strip exited with pid 38456 exit 0
+    Stdout:
+    
+    Stderr:
+        /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/strip: changes being made to the file will invalidate the code signature in: /private/var/folders/rz/8jbnfm5d1bn2mqs7c842w8240000gn/T/ipatool20171211-37338-fe8km9/thinned/armv7/Payload/LUTEC.app/Frameworks/libswiftCoreMedia.dylib
+2017-12-11 01:54:45 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/strip -ST /var/folders/rz/8jbnfm5d1bn2mqs7c842w8240000gn/T/ipatool20171211-37338-fe8km9/thinned/arm64/Payload/LUTEC.app/Frameworks/libswiftCoreMedia.dylib
+2017-12-11 01:54:45 +0000      /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/strip exited with pid 38460 exit 0
+    Stdout:
+    
+    Stderr:
+        /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/strip: changes being made to the file will invalidate the code signature in: /private/var/folders/rz/8jbnfm5d1bn2mqs7c842w8240000gn/T/ipatool20171211-37338-fe8km9/thinned/arm64/Payload/LUTEC.app/Frameworks/libswiftCoreMedia.dylib
+2017-12-11 01:54:45 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/strip -ST /var/folders/rz/8jbnfm5d1bn2mqs7c842w8240000gn/T/ipatool20171211-37338-fe8km9/thinned/armv7/Payload/LUTEC.app/Frameworks/libswiftDarwin.dylib
+2017-12-11 01:54:45 +0000      /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/strip exited with pid 38465 exit 0
+    Stdout:
+    
+    Stderr:
+        /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/strip: changes being made to the file will invalidate the code signature in: /private/var/folders/rz/8jbnfm5d1bn2mqs7c842w8240000gn/T/ipatool20171211-37338-fe8km9/thinned/armv7/Payload/LUTEC.app/Frameworks/libswiftDarwin.dylib
+2017-12-11 01:54:45 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/strip -ST /var/folders/rz/8jbnfm5d1bn2mqs7c842w8240000gn/T/ipatool20171211-37338-fe8km9/thinned/arm64/Payload/LUTEC.app/Frameworks/libswiftDarwin.dylib
+2017-12-11 01:54:45 +0000      /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/strip exited with pid 38469 exit 0
+    Stdout:
+    
+    Stderr:
+        /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/strip: changes being made to the file will invalidate the code signature in: /private/var/folders/rz/8jbnfm5d1bn2mqs7c842w8240000gn/T/ipatool20171211-37338-fe8km9/thinned/arm64/Payload/LUTEC.app/Frameworks/libswiftDarwin.dylib
+2017-12-11 01:54:45 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/strip -ST /var/folders/rz/8jbnfm5d1bn2mqs7c842w8240000gn/T/ipatool20171211-37338-fe8km9/thinned/armv7/Payload/LUTEC.app/Frameworks/libswiftDispatch.dylib
+2017-12-11 01:54:45 +0000      /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/strip exited with pid 38474 exit 0
+    Stdout:
+    
+    Stderr:
+        /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/strip: changes being made to the file will invalidate the code signature in: /private/var/folders/rz/8jbnfm5d1bn2mqs7c842w8240000gn/T/ipatool20171211-37338-fe8km9/thinned/armv7/Payload/LUTEC.app/Frameworks/libswiftDispatch.dylib
+2017-12-11 01:54:45 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/strip -ST /var/folders/rz/8jbnfm5d1bn2mqs7c842w8240000gn/T/ipatool20171211-37338-fe8km9/thinned/arm64/Payload/LUTEC.app/Frameworks/libswiftDispatch.dylib
+2017-12-11 01:54:45 +0000      /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/strip exited with pid 38479 exit 0
+    Stdout:
+    
+    Stderr:
+        /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/strip: changes being made to the file will invalidate the code signature in: /private/var/folders/rz/8jbnfm5d1bn2mqs7c842w8240000gn/T/ipatool20171211-37338-fe8km9/thinned/arm64/Payload/LUTEC.app/Frameworks/libswiftDispatch.dylib
+2017-12-11 01:54:45 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/strip -ST /var/folders/rz/8jbnfm5d1bn2mqs7c842w8240000gn/T/ipatool20171211-37338-fe8km9/thinned/armv7/Payload/LUTEC.app/Frameworks/libswiftFoundation.dylib
+2017-12-11 01:54:45 +0000      /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/strip exited with pid 38483 exit 0
+    Stdout:
+    
+    Stderr:
+        /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/strip: changes being made to the file will invalidate the code signature in: /private/var/folders/rz/8jbnfm5d1bn2mqs7c842w8240000gn/T/ipatool20171211-37338-fe8km9/thinned/armv7/Payload/LUTEC.app/Frameworks/libswiftFoundation.dylib
+2017-12-11 01:54:45 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/strip -ST /var/folders/rz/8jbnfm5d1bn2mqs7c842w8240000gn/T/ipatool20171211-37338-fe8km9/thinned/arm64/Payload/LUTEC.app/Frameworks/libswiftFoundation.dylib
+2017-12-11 01:54:46 +0000      /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/strip exited with pid 38489 exit 0
+    Stdout:
+    
+    Stderr:
+        /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/strip: changes being made to the file will invalidate the code signature in: /private/var/folders/rz/8jbnfm5d1bn2mqs7c842w8240000gn/T/ipatool20171211-37338-fe8km9/thinned/arm64/Payload/LUTEC.app/Frameworks/libswiftFoundation.dylib
+2017-12-11 01:54:46 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/strip -ST /var/folders/rz/8jbnfm5d1bn2mqs7c842w8240000gn/T/ipatool20171211-37338-fe8km9/thinned/armv7/Payload/LUTEC.app/Frameworks/libswiftMetal.dylib
+2017-12-11 01:54:46 +0000      /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/strip exited with pid 38494 exit 0
+    Stdout:
+    
+    Stderr:
+        /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/strip: changes being made to the file will invalidate the code signature in: /private/var/folders/rz/8jbnfm5d1bn2mqs7c842w8240000gn/T/ipatool20171211-37338-fe8km9/thinned/armv7/Payload/LUTEC.app/Frameworks/libswiftMetal.dylib
+2017-12-11 01:54:46 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/strip -ST /var/folders/rz/8jbnfm5d1bn2mqs7c842w8240000gn/T/ipatool20171211-37338-fe8km9/thinned/arm64/Payload/LUTEC.app/Frameworks/libswiftMetal.dylib
+2017-12-11 01:54:46 +0000      /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/strip exited with pid 38498 exit 0
+    Stdout:
+    
+    Stderr:
+        /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/strip: changes being made to the file will invalidate the code signature in: /private/var/folders/rz/8jbnfm5d1bn2mqs7c842w8240000gn/T/ipatool20171211-37338-fe8km9/thinned/arm64/Payload/LUTEC.app/Frameworks/libswiftMetal.dylib
+2017-12-11 01:54:46 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/strip -ST /var/folders/rz/8jbnfm5d1bn2mqs7c842w8240000gn/T/ipatool20171211-37338-fe8km9/thinned/armv7/Payload/LUTEC.app/Frameworks/libswiftObjectiveC.dylib
+2017-12-11 01:54:46 +0000      /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/strip exited with pid 38503 exit 0
+    Stdout:
+    
+    Stderr:
+        /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/strip: changes being made to the file will invalidate the code signature in: /private/var/folders/rz/8jbnfm5d1bn2mqs7c842w8240000gn/T/ipatool20171211-37338-fe8km9/thinned/armv7/Payload/LUTEC.app/Frameworks/libswiftObjectiveC.dylib
+2017-12-11 01:54:46 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/strip -ST /var/folders/rz/8jbnfm5d1bn2mqs7c842w8240000gn/T/ipatool20171211-37338-fe8km9/thinned/arm64/Payload/LUTEC.app/Frameworks/libswiftObjectiveC.dylib
+2017-12-11 01:54:46 +0000      /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/strip exited with pid 38507 exit 0
+    Stdout:
+    
+    Stderr:
+        /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/strip: changes being made to the file will invalidate the code signature in: /private/var/folders/rz/8jbnfm5d1bn2mqs7c842w8240000gn/T/ipatool20171211-37338-fe8km9/thinned/arm64/Payload/LUTEC.app/Frameworks/libswiftObjectiveC.dylib
+2017-12-11 01:54:46 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/strip -ST /var/folders/rz/8jbnfm5d1bn2mqs7c842w8240000gn/T/ipatool20171211-37338-fe8km9/thinned/armv7/Payload/LUTEC.app/Frameworks/libswiftos.dylib
+2017-12-11 01:54:46 +0000      /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/strip exited with pid 38512 exit 0
+    Stdout:
+    
+    Stderr:
+        /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/strip: changes being made to the file will invalidate the code signature in: /private/var/folders/rz/8jbnfm5d1bn2mqs7c842w8240000gn/T/ipatool20171211-37338-fe8km9/thinned/armv7/Payload/LUTEC.app/Frameworks/libswiftos.dylib
+2017-12-11 01:54:46 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/strip -ST /var/folders/rz/8jbnfm5d1bn2mqs7c842w8240000gn/T/ipatool20171211-37338-fe8km9/thinned/arm64/Payload/LUTEC.app/Frameworks/libswiftos.dylib
+2017-12-11 01:54:46 +0000      /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/strip exited with pid 38516 exit 0
+    Stdout:
+    
+    Stderr:
+        /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/strip: changes being made to the file will invalidate the code signature in: /private/var/folders/rz/8jbnfm5d1bn2mqs7c842w8240000gn/T/ipatool20171211-37338-fe8km9/thinned/arm64/Payload/LUTEC.app/Frameworks/libswiftos.dylib
+2017-12-11 01:54:46 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/strip -ST /var/folders/rz/8jbnfm5d1bn2mqs7c842w8240000gn/T/ipatool20171211-37338-fe8km9/thinned/armv7/Payload/LUTEC.app/Frameworks/libswiftQuartzCore.dylib
+2017-12-11 01:54:46 +0000      /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/strip exited with pid 38521 exit 0
+    Stdout:
+    
+    Stderr:
+        /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/strip: changes being made to the file will invalidate the code signature in: /private/var/folders/rz/8jbnfm5d1bn2mqs7c842w8240000gn/T/ipatool20171211-37338-fe8km9/thinned/armv7/Payload/LUTEC.app/Frameworks/libswiftQuartzCore.dylib
+2017-12-11 01:54:46 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/strip -ST /var/folders/rz/8jbnfm5d1bn2mqs7c842w8240000gn/T/ipatool20171211-37338-fe8km9/thinned/arm64/Payload/LUTEC.app/Frameworks/libswiftQuartzCore.dylib
+2017-12-11 01:54:46 +0000      /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/strip exited with pid 38526 exit 0
+    Stdout:
+    
+    Stderr:
+        /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/strip: changes being made to the file will invalidate the code signature in: /private/var/folders/rz/8jbnfm5d1bn2mqs7c842w8240000gn/T/ipatool20171211-37338-fe8km9/thinned/arm64/Payload/LUTEC.app/Frameworks/libswiftQuartzCore.dylib
+2017-12-11 01:54:46 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/strip -ST /var/folders/rz/8jbnfm5d1bn2mqs7c842w8240000gn/T/ipatool20171211-37338-fe8km9/thinned/armv7/Payload/LUTEC.app/Frameworks/libswiftsimd.dylib
+2017-12-11 01:54:46 +0000      /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/strip exited with pid 38530 exit 0
+    Stdout:
+    
+    Stderr:
+        /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/strip: changes being made to the file will invalidate the code signature in: /private/var/folders/rz/8jbnfm5d1bn2mqs7c842w8240000gn/T/ipatool20171211-37338-fe8km9/thinned/armv7/Payload/LUTEC.app/Frameworks/libswiftsimd.dylib
+2017-12-11 01:54:46 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/strip -ST /var/folders/rz/8jbnfm5d1bn2mqs7c842w8240000gn/T/ipatool20171211-37338-fe8km9/thinned/arm64/Payload/LUTEC.app/Frameworks/libswiftsimd.dylib
+2017-12-11 01:54:46 +0000      /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/strip exited with pid 38535 exit 0
+    Stdout:
+    
+    Stderr:
+        /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/strip: changes being made to the file will invalidate the code signature in: /private/var/folders/rz/8jbnfm5d1bn2mqs7c842w8240000gn/T/ipatool20171211-37338-fe8km9/thinned/arm64/Payload/LUTEC.app/Frameworks/libswiftsimd.dylib
+2017-12-11 01:54:46 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/strip -ST /var/folders/rz/8jbnfm5d1bn2mqs7c842w8240000gn/T/ipatool20171211-37338-fe8km9/thinned/armv7/Payload/LUTEC.app/Frameworks/libswiftUIKit.dylib
+2017-12-11 01:54:46 +0000      /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/strip exited with pid 38539 exit 0
+    Stdout:
+    
+    Stderr:
+        /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/strip: changes being made to the file will invalidate the code signature in: /private/var/folders/rz/8jbnfm5d1bn2mqs7c842w8240000gn/T/ipatool20171211-37338-fe8km9/thinned/armv7/Payload/LUTEC.app/Frameworks/libswiftUIKit.dylib
+2017-12-11 01:54:46 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/strip -ST /var/folders/rz/8jbnfm5d1bn2mqs7c842w8240000gn/T/ipatool20171211-37338-fe8km9/thinned/arm64/Payload/LUTEC.app/Frameworks/libswiftUIKit.dylib
+2017-12-11 01:54:46 +0000      /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/strip exited with pid 38544 exit 0
+    Stdout:
+    
+    Stderr:
+        /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/strip: changes being made to the file will invalidate the code signature in: /private/var/folders/rz/8jbnfm5d1bn2mqs7c842w8240000gn/T/ipatool20171211-37338-fe8km9/thinned/arm64/Payload/LUTEC.app/Frameworks/libswiftUIKit.dylib
+2017-12-11 01:54:46 +0000      /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/bitcode_strip -r -o /var/folders/rz/8jbnfm5d1bn2mqs7c842w8240000gn/T/ipatool20171211-37338-fe8km9/thinned/armv7/Payload/LUTEC.app/Frameworks/IQKeyboardManagerSwift.framework/IQKeyboardManagerSwift /var/folders/rz/8jbnfm5d1bn2mqs7c842w8240000gn/T/ipatool20171211-37338-fe8km9/thinned/armv7/Payload/LUTEC.app/Frameworks/IQKeyboardManagerSwift.framework/IQKeyboardManagerSwift
+2017-12-11 01:54:47 +0000          /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/bitcode_strip exited with pid 38559 exit 0
+        Stdout:
+        
+        Stderr:
+2017-12-11 01:54:47 +0000      /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/bitcode_strip -r -o /var/folders/rz/8jbnfm5d1bn2mqs7c842w8240000gn/T/ipatool20171211-37338-fe8km9/thinned/arm64/Payload/LUTEC.app/Frameworks/IQKeyboardManagerSwift.framework/IQKeyboardManagerSwift /var/folders/rz/8jbnfm5d1bn2mqs7c842w8240000gn/T/ipatool20171211-37338-fe8km9/thinned/arm64/Payload/LUTEC.app/Frameworks/IQKeyboardManagerSwift.framework/IQKeyboardManagerSwift
+2017-12-11 01:54:47 +0000          /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/bitcode_strip exited with pid 38563 exit 0
+        Stdout:
+        
+        Stderr:
+2017-12-11 01:54:47 +0000      /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/bitcode_strip -r -o /var/folders/rz/8jbnfm5d1bn2mqs7c842w8240000gn/T/ipatool20171211-37338-fe8km9/thinned/armv7/Payload/LUTEC.app/Frameworks/MBProgressHUD.framework/MBProgressHUD /var/folders/rz/8jbnfm5d1bn2mqs7c842w8240000gn/T/ipatool20171211-37338-fe8km9/thinned/armv7/Payload/LUTEC.app/Frameworks/MBProgressHUD.framework/MBProgressHUD
+2017-12-11 01:54:47 +0000          /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/bitcode_strip exited with pid 38568 exit 0
+        Stdout:
+        
+        Stderr:
+2017-12-11 01:54:47 +0000      /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/bitcode_strip -r -o /var/folders/rz/8jbnfm5d1bn2mqs7c842w8240000gn/T/ipatool20171211-37338-fe8km9/thinned/arm64/Payload/LUTEC.app/Frameworks/MBProgressHUD.framework/MBProgressHUD /var/folders/rz/8jbnfm5d1bn2mqs7c842w8240000gn/T/ipatool20171211-37338-fe8km9/thinned/arm64/Payload/LUTEC.app/Frameworks/MBProgressHUD.framework/MBProgressHUD
+2017-12-11 01:54:47 +0000          /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/bitcode_strip exited with pid 38573 exit 0
+        Stdout:
+        
+        Stderr:
+2017-12-11 01:54:47 +0000      /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/bitcode_strip -r -o /var/folders/rz/8jbnfm5d1bn2mqs7c842w8240000gn/T/ipatool20171211-37338-fe8km9/thinned/armv7/Payload/LUTEC.app/Frameworks/SnapKit.framework/SnapKit /var/folders/rz/8jbnfm5d1bn2mqs7c842w8240000gn/T/ipatool20171211-37338-fe8km9/thinned/armv7/Payload/LUTEC.app/Frameworks/SnapKit.framework/SnapKit
+2017-12-11 01:54:47 +0000          /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/bitcode_strip exited with pid 38577 exit 0
+        Stdout:
+        
+        Stderr:
+2017-12-11 01:54:47 +0000      /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/bitcode_strip -r -o /var/folders/rz/8jbnfm5d1bn2mqs7c842w8240000gn/T/ipatool20171211-37338-fe8km9/thinned/arm64/Payload/LUTEC.app/Frameworks/SnapKit.framework/SnapKit /var/folders/rz/8jbnfm5d1bn2mqs7c842w8240000gn/T/ipatool20171211-37338-fe8km9/thinned/arm64/Payload/LUTEC.app/Frameworks/SnapKit.framework/SnapKit
+2017-12-11 01:54:47 +0000          /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/bitcode_strip exited with pid 38582 exit 0
+        Stdout:
+        
+        Stderr:
+2017-12-11 01:54:47 +0000      /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/bitcode_strip -r -o /var/folders/rz/8jbnfm5d1bn2mqs7c842w8240000gn/T/ipatool20171211-37338-fe8km9/thinned/armv7/Payload/LUTEC.app/Frameworks/SwiftyJSON.framework/SwiftyJSON /var/folders/rz/8jbnfm5d1bn2mqs7c842w8240000gn/T/ipatool20171211-37338-fe8km9/thinned/armv7/Payload/LUTEC.app/Frameworks/SwiftyJSON.framework/SwiftyJSON
+2017-12-11 01:54:47 +0000          /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/bitcode_strip exited with pid 38587 exit 0
+        Stdout:
+        
+        Stderr:
+2017-12-11 01:54:47 +0000      /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/bitcode_strip -r -o /var/folders/rz/8jbnfm5d1bn2mqs7c842w8240000gn/T/ipatool20171211-37338-fe8km9/thinned/arm64/Payload/LUTEC.app/Frameworks/SwiftyJSON.framework/SwiftyJSON /var/folders/rz/8jbnfm5d1bn2mqs7c842w8240000gn/T/ipatool20171211-37338-fe8km9/thinned/arm64/Payload/LUTEC.app/Frameworks/SwiftyJSON.framework/SwiftyJSON
+2017-12-11 01:54:47 +0000          /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/bitcode_strip exited with pid 38592 exit 0
+        Stdout:
+        
+        Stderr:
+2017-12-11 01:54:49 +0000  Creating universal IPA contents for all devices
+  Creating directory /var/folders/rz/8jbnfm5d1bn2mqs7c842w8240000gn/T/IDEIPAProcessor.AppThinning.0Wn/universal
+  Copying LUTEC.app output payload directory
+2017-12-11 01:54:49 +0000  /Applications/Xcode.app/Contents/Developer/usr/bin/ipatool exited with 0
+2017-12-11 01:54:49 +0000  ipatool JSON: {
+    alerts =     (
+                {
+            code = 2817;
+            description = "Configuration issue: platform AppleTVSimulator.platform doesn't have any non-simulator SDKs; ignoring it";
+            info =             {
+            };
+            level = WARN;
+        },
+                {
+            code = 2817;
+            description = "Configuration issue: platform iPhoneSimulator.platform doesn't have any non-simulator SDKs; ignoring it";
+            info =             {
+            };
+            level = WARN;
+        },
+                {
+            code = 2817;
+            description = "Configuration issue: platform WatchSimulator.platform doesn't have any non-simulator SDKs; ignoring it";
+            info =             {
+            };
+            level = WARN;
+        }
+    );
+    thinnableAssetCatalogs =     (
+        "/var/folders/rz/8jbnfm5d1bn2mqs7c842w8240000gn/T/XcodeDistPipeline.qDu/Root/Payload/LUTEC.app/Assets.car"
+    );
+    universalIPA =     {
+        path = "/var/folders/rz/8jbnfm5d1bn2mqs7c842w8240000gn/T/IDEIPAProcessor.AppThinning.0Wn/universal";
+    };
+}
+2017-12-11 01:54:49 +0000  Processing step: IDEDistributionCodeSlimmingStep
+2017-12-11 01:54:49 +0000  Processing step: IDEDistributionCopyBCSymbolMapsStep
+2017-12-11 01:54:50 +0000  Processing step: IDEDistributionSymbolsStep
+2017-12-11 01:54:50 +0000  Skipping step: IDEDistributionSymbolsStep because it said so
+2017-12-11 01:54:50 +0000  Skipping step: IDEDistributionSymbolsStep because it said so
+2017-12-11 01:54:50 +0000  Skipping step: IDEDistributionSymbolsStep because it said so
+2017-12-11 01:54:50 +0000  Skipping step: IDEDistributionSymbolsStep because it said so
+2017-12-11 01:54:50 +0000  Skipping step: IDEDistributionSymbolsStep because it said so
+2017-12-11 01:54:50 +0000  Skipping step: IDEDistributionSymbolsStep because it said so
+2017-12-11 01:54:50 +0000  Skipping step: IDEDistributionSymbolsStep because it said so
+2017-12-11 01:54:50 +0000  Skipping step: IDEDistributionSymbolsStep because it said so
+2017-12-11 01:54:50 +0000  Skipping step: IDEDistributionSymbolsStep because it said so
+2017-12-11 01:54:50 +0000  Skipping step: IDEDistributionSymbolsStep because it said so
+2017-12-11 01:54:50 +0000  Skipping step: IDEDistributionSymbolsStep because it said so
+2017-12-11 01:54:50 +0000  Skipping step: IDEDistributionSymbolsStep because it said so
+2017-12-11 01:54:50 +0000  Skipping step: IDEDistributionSymbolsStep because it said so
+2017-12-11 01:54:50 +0000  Skipping step: IDEDistributionSymbolsStep because it said so
+2017-12-11 01:54:50 +0000  Skipping step: IDEDistributionSymbolsStep because it said so
+2017-12-11 01:54:50 +0000  Skipping step: IDEDistributionSymbolsStep because it said so
+2017-12-11 01:54:50 +0000  Skipping step: IDEDistributionSymbolsStep because it said so
+2017-12-11 01:54:50 +0000  Skipping step: IDEDistributionSymbolsStep because it said so
+2017-12-11 01:54:50 +0000  Skipping step: IDEDistributionSymbolsStep because it said so
+2017-12-11 01:54:50 +0000  Skipping step: IDEDistributionSymbolsStep because it said so
+2017-12-11 01:54:50 +0000  Skipping step: IDEDistributionSymbolsStep because it said so
+2017-12-11 01:54:50 +0000  Skipping step: IDEDistributionSymbolsStep because it said so
+2017-12-11 01:54:50 +0000  Processing step: IDEDistributionAppThinningStep
+2017-12-11 01:54:50 +0000  Skipping step: IDEDistributionAppThinningStep because it said so
+2017-12-11 01:54:50 +0000  Processing step: IDEDistributionODRStep
+2017-12-11 01:54:50 +0000  Processing step: IDEDistributionStripXattrsStep
+2017-12-11 01:54:50 +0000  Skipping stripping extended attributes of item: <IDEDistributionItem: 0x7fc3b68aa550 'org.cocoapods.IQKeyboardManagerSwift' '<DVTFilePath:0x7fc3b4d3a000:'/Users/lhb/Library/Developer/Xcode/Archives/2017-12-11/FunSDKDemo 2017-12-11 上午9.54.xcarchive/Products/Applications/LUTEC.app/Frameworks/IQKeyboardManagerSwift.framework'>'>
+2017-12-11 01:54:50 +0000  Skipping stripping extended attributes of item: <IDEDistributionItem: 0x7fc3cf76e360 'org.cocoapods.MBProgressHUD' '<DVTFilePath:0x7fc3d1011190:'/Users/lhb/Library/Developer/Xcode/Archives/2017-12-11/FunSDKDemo 2017-12-11 上午9.54.xcarchive/Products/Applications/LUTEC.app/Frameworks/MBProgressHUD.framework'>'>
+2017-12-11 01:54:50 +0000  Skipping stripping extended attributes of item: <IDEDistributionItem: 0x7fc3d1149cb0 'org.cocoapods.SnapKit' '<DVTFilePath:0x7fc3cf75a710:'/Users/lhb/Library/Developer/Xcode/Archives/2017-12-11/FunSDKDemo 2017-12-11 上午9.54.xcarchive/Products/Applications/LUTEC.app/Frameworks/SnapKit.framework'>'>
+2017-12-11 01:54:50 +0000  Skipping stripping extended attributes of item: <IDEDistributionItem: 0x7fc3ce3c9690 'org.cocoapods.SwiftyJSON' '<DVTFilePath:0x7fc3d1070740:'/Users/lhb/Library/Developer/Xcode/Archives/2017-12-11/FunSDKDemo 2017-12-11 上午9.54.xcarchive/Products/Applications/LUTEC.app/Frameworks/SwiftyJSON.framework'>'>
+2017-12-11 01:54:50 +0000  Skipping stripping extended attributes of item: <IDEDistributionItem: 0x7fc3b7b80980 'com.apple.dt.runtime.swiftAVFoundation' '<DVTFilePath:0x7fc3b776a030:'/Users/lhb/Library/Developer/Xcode/Archives/2017-12-11/FunSDKDemo 2017-12-11 上午9.54.xcarchive/Products/Applications/LUTEC.app/Frameworks/libswiftAVFoundation.dylib'>'>
+2017-12-11 01:54:50 +0000  Skipping stripping extended attributes of item: <IDEDistributionItem: 0x7fc3cf5b5bf0 'com.apple.dt.runtime.swiftCore' '<DVTFilePath:0x7fc3b78284b0:'/Users/lhb/Library/Developer/Xcode/Archives/2017-12-11/FunSDKDemo 2017-12-11 上午9.54.xcarchive/Products/Applications/LUTEC.app/Frameworks/libswiftCore.dylib'>'>
+2017-12-11 01:54:50 +0000  Skipping stripping extended attributes of item: <IDEDistributionItem: 0x7fc3cf410470 'com.apple.dt.runtime.swiftCoreAudio' '<DVTFilePath:0x7fc3d1387aa0:'/Users/lhb/Library/Developer/Xcode/Archives/2017-12-11/FunSDKDemo 2017-12-11 上午9.54.xcarchive/Products/Applications/LUTEC.app/Frameworks/libswiftCoreAudio.dylib'>'>
+2017-12-11 01:54:50 +0000  Skipping stripping extended attributes of item: <IDEDistributionItem: 0x7fc3d2e73a30 'com.apple.dt.runtime.swiftCoreFoundation' '<DVTFilePath:0x7fc3cf26adc0:'/Users/lhb/Library/Developer/Xcode/Archives/2017-12-11/FunSDKDemo 2017-12-11 上午9.54.xcarchive/Products/Applications/LUTEC.app/Frameworks/libswiftCoreFoundation.dylib'>'>
+2017-12-11 01:54:50 +0000  Skipping stripping extended attributes of item: <IDEDistributionItem: 0x7fc3b7229880 'com.apple.dt.runtime.swiftCoreGraphics' '<DVTFilePath:0x7fc3b76b4510:'/Users/lhb/Library/Developer/Xcode/Archives/2017-12-11/FunSDKDemo 2017-12-11 上午9.54.xcarchive/Products/Applications/LUTEC.app/Frameworks/libswiftCoreGraphics.dylib'>'>
+2017-12-11 01:54:50 +0000  Skipping stripping extended attributes of item: <IDEDistributionItem: 0x7fc3b7e81f20 'com.apple.dt.runtime.swiftCoreImage' '<DVTFilePath:0x7fc3b77e40d0:'/Users/lhb/Library/Developer/Xcode/Archives/2017-12-11/FunSDKDemo 2017-12-11 上午9.54.xcarchive/Products/Applications/LUTEC.app/Frameworks/libswiftCoreImage.dylib'>'>
+2017-12-11 01:54:50 +0000  Skipping stripping extended attributes of item: <IDEDistributionItem: 0x7fc3b767be60 'com.apple.dt.runtime.swiftCoreLocation' '<DVTFilePath:0x7fc3d10cf0f0:'/Users/lhb/Library/Developer/Xcode/Archives/2017-12-11/FunSDKDemo 2017-12-11 上午9.54.xcarchive/Products/Applications/LUTEC.app/Frameworks/libswiftCoreLocation.dylib'>'>
+2017-12-11 01:54:50 +0000  Skipping stripping extended attributes of item: <IDEDistributionItem: 0x7fc3d124f860 'com.apple.dt.runtime.swiftCoreMedia' '<DVTFilePath:0x7fc3b7d6aa40:'/Users/lhb/Library/Developer/Xcode/Archives/2017-12-11/FunSDKDemo 2017-12-11 上午9.54.xcarchive/Products/Applications/LUTEC.app/Frameworks/libswiftCoreMedia.dylib'>'>
+2017-12-11 01:54:50 +0000  Skipping stripping extended attributes of item: <IDEDistributionItem: 0x7fc3d2b90980 'com.apple.dt.runtime.swiftDarwin' '<DVTFilePath:0x7fc3d10dc270:'/Users/lhb/Library/Developer/Xcode/Archives/2017-12-11/FunSDKDemo 2017-12-11 上午9.54.xcarchive/Products/Applications/LUTEC.app/Frameworks/libswiftDarwin.dylib'>'>
+2017-12-11 01:54:50 +0000  Skipping stripping extended attributes of item: <IDEDistributionItem: 0x7fc3b79c8a70 'com.apple.dt.runtime.swiftDispatch' '<DVTFilePath:0x7fc3d106bbf0:'/Users/lhb/Library/Developer/Xcode/Archives/2017-12-11/FunSDKDemo 2017-12-11 上午9.54.xcarchive/Products/Applications/LUTEC.app/Frameworks/libswiftDispatch.dylib'>'>
+2017-12-11 01:54:50 +0000  Skipping stripping extended attributes of item: <IDEDistributionItem: 0x7fc3cf060210 'com.apple.dt.runtime.swiftFoundation' '<DVTFilePath:0x7fc3b73de5f0:'/Users/lhb/Library/Developer/Xcode/Archives/2017-12-11/FunSDKDemo 2017-12-11 上午9.54.xcarchive/Products/Applications/LUTEC.app/Frameworks/libswiftFoundation.dylib'>'>
+2017-12-11 01:54:50 +0000  Skipping stripping extended attributes of item: <IDEDistributionItem: 0x7fc3d1025190 'com.apple.dt.runtime.swiftMetal' '<DVTFilePath:0x7fc3b6ef39d0:'/Users/lhb/Library/Developer/Xcode/Archives/2017-12-11/FunSDKDemo 2017-12-11 上午9.54.xcarchive/Products/Applications/LUTEC.app/Frameworks/libswiftMetal.dylib'>'>
+2017-12-11 01:54:50 +0000  Skipping stripping extended attributes of item: <IDEDistributionItem: 0x7fc3b7e809b0 'com.apple.dt.runtime.swiftObjectiveC' '<DVTFilePath:0x7fc3b73c2b30:'/Users/lhb/Library/Developer/Xcode/Archives/2017-12-11/FunSDKDemo 2017-12-11 上午9.54.xcarchive/Products/Applications/LUTEC.app/Frameworks/libswiftObjectiveC.dylib'>'>
+2017-12-11 01:54:50 +0000  Skipping stripping extended attributes of item: <IDEDistributionItem: 0x7fc3b75ade70 'com.apple.dt.runtime.swiftQuartzCore' '<DVTFilePath:0x7fc3b7db2640:'/Users/lhb/Library/Developer/Xcode/Archives/2017-12-11/FunSDKDemo 2017-12-11 上午9.54.xcarchive/Products/Applications/LUTEC.app/Frameworks/libswiftQuartzCore.dylib'>'>
+2017-12-11 01:54:50 +0000  Skipping stripping extended attributes of item: <IDEDistributionItem: 0x7fc3b69c0a50 'com.apple.dt.runtime.swiftUIKit' '<DVTFilePath:0x7fc3b6e84ea0:'/Users/lhb/Library/Developer/Xcode/Archives/2017-12-11/FunSDKDemo 2017-12-11 上午9.54.xcarchive/Products/Applications/LUTEC.app/Frameworks/libswiftUIKit.dylib'>'>
+2017-12-11 01:54:50 +0000  Skipping stripping extended attributes of item: <IDEDistributionItem: 0x7fc3d2e07310 'com.apple.dt.runtime.swiftos' '<DVTFilePath:0x7fc3b7d989a0:'/Users/lhb/Library/Developer/Xcode/Archives/2017-12-11/FunSDKDemo 2017-12-11 上午9.54.xcarchive/Products/Applications/LUTEC.app/Frameworks/libswiftos.dylib'>'>
+2017-12-11 01:54:50 +0000  Skipping stripping extended attributes of item: <IDEDistributionItem: 0x7fc3cf2ca520 'com.apple.dt.runtime.swiftsimd' '<DVTFilePath:0x7fc3b4d9fe80:'/Users/lhb/Library/Developer/Xcode/Archives/2017-12-11/FunSDKDemo 2017-12-11 上午9.54.xcarchive/Products/Applications/LUTEC.app/Frameworks/libswiftsimd.dylib'>'>
+2017-12-11 01:54:50 +0000  Running /usr/bin/xattr '-crs' '/var/folders/rz/8jbnfm5d1bn2mqs7c842w8240000gn/T/XcodeDistPipeline.qDu/Root/Payload/LUTEC.app'
+2017-12-11 01:54:50 +0000  /usr/bin/xattr exited with 0
+2017-12-11 01:54:50 +0000  Processing step: IDEDistributionCodesignStep
+2017-12-11 01:54:50 +0000  Applying entitlements delta for <IDEDistributionItem: 0x7fc3b68aa550 'org.cocoapods.IQKeyboardManagerSwift' '<DVTFilePath:0x7fc3b4d3a000:'/Users/lhb/Library/Developer/Xcode/Archives/2017-12-11/FunSDKDemo 2017-12-11 上午9.54.xcarchive/Products/Applications/LUTEC.app/Frameworks/IQKeyboardManagerSwift.framework'>'> from <IDEiCloudEntitlementsProcessor: 0x7fc3b77f8ad0>: {
+}
+2017-12-11 01:54:50 +0000  Entitlements for <IDEDistributionItem: 0x7fc3b68aa550 'org.cocoapods.IQKeyboardManagerSwift' '<DVTFilePath:0x7fc3b4d3a000:'/Users/lhb/Library/Developer/Xcode/Archives/2017-12-11/FunSDKDemo 2017-12-11 上午9.54.xcarchive/Products/Applications/LUTEC.app/Frameworks/IQKeyboardManagerSwift.framework'>'>: {
+}
+2017-12-11 01:54:50 +0000  Writing entitlements for <IDEDistributionItem: 0x7fc3b68aa550 'org.cocoapods.IQKeyboardManagerSwift' '<DVTFilePath:0x7fc3b4d3a000:'/Users/lhb/Library/Developer/Xcode/Archives/2017-12-11/FunSDKDemo 2017-12-11 上午9.54.xcarchive/Products/Applications/LUTEC.app/Frameworks/IQKeyboardManagerSwift.framework'>'> to: /var/folders/rz/8jbnfm5d1bn2mqs7c842w8240000gn/T/XcodeDistPipeline.qDu/entitlementsL57veg
+2017-12-11 01:54:50 +0000  Running /usr/bin/codesign '-vvv' '--force' '--sign' 'AACD70E048919ED0AEA8E61410DFA3C19247F0C9' '--preserve-metadata=identifier,flags' '--entitlements' '/var/folders/rz/8jbnfm5d1bn2mqs7c842w8240000gn/T/XcodeDistPipeline.qDu/entitlementsL57veg' '/var/folders/rz/8jbnfm5d1bn2mqs7c842w8240000gn/T/XcodeDistPipeline.qDu/Root/Payload/LUTEC.app/Frameworks/IQKeyboardManagerSwift.framework'
+2017-12-11 01:54:51 +0000  /var/folders/rz/8jbnfm5d1bn2mqs7c842w8240000gn/T/XcodeDistPipeline.qDu/Root/Payload/LUTEC.app/Frameworks/IQKeyboardManagerSwift.framework: signed bundle with Mach-O universal (armv7 arm64) [org.cocoapods.IQKeyboardManagerSwift]
+2017-12-11 01:54:51 +0000  
+2017-12-11 01:54:51 +0000  /usr/bin/codesign exited with 0
+2017-12-11 01:54:51 +0000  Applying entitlements delta for <IDEDistributionItem: 0x7fc3cf76e360 'org.cocoapods.MBProgressHUD' '<DVTFilePath:0x7fc3d1011190:'/Users/lhb/Library/Developer/Xcode/Archives/2017-12-11/FunSDKDemo 2017-12-11 上午9.54.xcarchive/Products/Applications/LUTEC.app/Frameworks/MBProgressHUD.framework'>'> from <IDEiCloudEntitlementsProcessor: 0x7fc3b77f8b30>: {
+}
+2017-12-11 01:54:51 +0000  Entitlements for <IDEDistributionItem: 0x7fc3cf76e360 'org.cocoapods.MBProgressHUD' '<DVTFilePath:0x7fc3d1011190:'/Users/lhb/Library/Developer/Xcode/Archives/2017-12-11/FunSDKDemo 2017-12-11 上午9.54.xcarchive/Products/Applications/LUTEC.app/Frameworks/MBProgressHUD.framework'>'>: {
+}
+2017-12-11 01:54:51 +0000  Writing entitlements for <IDEDistributionItem: 0x7fc3cf76e360 'org.cocoapods.MBProgressHUD' '<DVTFilePath:0x7fc3d1011190:'/Users/lhb/Library/Developer/Xcode/Archives/2017-12-11/FunSDKDemo 2017-12-11 上午9.54.xcarchive/Products/Applications/LUTEC.app/Frameworks/MBProgressHUD.framework'>'> to: /var/folders/rz/8jbnfm5d1bn2mqs7c842w8240000gn/T/XcodeDistPipeline.qDu/entitlementsk7fVFo
+2017-12-11 01:54:51 +0000  Running /usr/bin/codesign '-vvv' '--force' '--sign' 'AACD70E048919ED0AEA8E61410DFA3C19247F0C9' '--preserve-metadata=identifier,flags' '--entitlements' '/var/folders/rz/8jbnfm5d1bn2mqs7c842w8240000gn/T/XcodeDistPipeline.qDu/entitlementsk7fVFo' '/var/folders/rz/8jbnfm5d1bn2mqs7c842w8240000gn/T/XcodeDistPipeline.qDu/Root/Payload/LUTEC.app/Frameworks/MBProgressHUD.framework'
+2017-12-11 01:54:51 +0000  /var/folders/rz/8jbnfm5d1bn2mqs7c842w8240000gn/T/XcodeDistPipeline.qDu/Root/Payload/LUTEC.app/Frameworks/MBProgressHUD.framework: signed bundle with Mach-O universal (armv7 arm64) [org.cocoapods.MBProgressHUD]
+2017-12-11 01:54:51 +0000  /usr/bin/codesign exited with 0
+2017-12-11 01:54:51 +0000  Applying entitlements delta for <IDEDistributionItem: 0x7fc3d1149cb0 'org.cocoapods.SnapKit' '<DVTFilePath:0x7fc3cf75a710:'/Users/lhb/Library/Developer/Xcode/Archives/2017-12-11/FunSDKDemo 2017-12-11 上午9.54.xcarchive/Products/Applications/LUTEC.app/Frameworks/SnapKit.framework'>'> from <IDEiCloudEntitlementsProcessor: 0x7fc3b77f8bc0>: {
+}
+2017-12-11 01:54:51 +0000  Entitlements for <IDEDistributionItem: 0x7fc3d1149cb0 'org.cocoapods.SnapKit' '<DVTFilePath:0x7fc3cf75a710:'/Users/lhb/Library/Developer/Xcode/Archives/2017-12-11/FunSDKDemo 2017-12-11 上午9.54.xcarchive/Products/Applications/LUTEC.app/Frameworks/SnapKit.framework'>'>: {
+}
+2017-12-11 01:54:51 +0000  Writing entitlements for <IDEDistributionItem: 0x7fc3d1149cb0 'org.cocoapods.SnapKit' '<DVTFilePath:0x7fc3cf75a710:'/Users/lhb/Library/Developer/Xcode/Archives/2017-12-11/FunSDKDemo 2017-12-11 上午9.54.xcarchive/Products/Applications/LUTEC.app/Frameworks/SnapKit.framework'>'> to: /var/folders/rz/8jbnfm5d1bn2mqs7c842w8240000gn/T/XcodeDistPipeline.qDu/entitlementsOAE1hA
+2017-12-11 01:54:51 +0000  Running /usr/bin/codesign '-vvv' '--force' '--sign' 'AACD70E048919ED0AEA8E61410DFA3C19247F0C9' '--preserve-metadata=identifier,flags' '--entitlements' '/var/folders/rz/8jbnfm5d1bn2mqs7c842w8240000gn/T/XcodeDistPipeline.qDu/entitlementsOAE1hA' '/var/folders/rz/8jbnfm5d1bn2mqs7c842w8240000gn/T/XcodeDistPipeline.qDu/Root/Payload/LUTEC.app/Frameworks/SnapKit.framework'
+2017-12-11 01:54:52 +0000  /var/folders/rz/8jbnfm5d1bn2mqs7c842w8240000gn/T/XcodeDistPipeline.qDu/Root/Payload/LUTEC.app/Frameworks/SnapKit.framework: signed bundle with Mach-O universal (armv7 arm64) [org.cocoapods.SnapKit]
+2017-12-11 01:54:52 +0000  /usr/bin/codesign exited with 0
+2017-12-11 01:54:52 +0000  Applying entitlements delta for <IDEDistributionItem: 0x7fc3ce3c9690 'org.cocoapods.SwiftyJSON' '<DVTFilePath:0x7fc3d1070740:'/Users/lhb/Library/Developer/Xcode/Archives/2017-12-11/FunSDKDemo 2017-12-11 上午9.54.xcarchive/Products/Applications/LUTEC.app/Frameworks/SwiftyJSON.framework'>'> from <IDEiCloudEntitlementsProcessor: 0x7fc3b7c5f990>: {
+}
+2017-12-11 01:54:52 +0000  Entitlements for <IDEDistributionItem: 0x7fc3ce3c9690 'org.cocoapods.SwiftyJSON' '<DVTFilePath:0x7fc3d1070740:'/Users/lhb/Library/Developer/Xcode/Archives/2017-12-11/FunSDKDemo 2017-12-11 上午9.54.xcarchive/Products/Applications/LUTEC.app/Frameworks/SwiftyJSON.framework'>'>: {
+}
+2017-12-11 01:54:52 +0000  Writing entitlements for <IDEDistributionItem: 0x7fc3ce3c9690 'org.cocoapods.SwiftyJSON' '<DVTFilePath:0x7fc3d1070740:'/Users/lhb/Library/Developer/Xcode/Archives/2017-12-11/FunSDKDemo 2017-12-11 上午9.54.xcarchive/Products/Applications/LUTEC.app/Frameworks/SwiftyJSON.framework'>'> to: /var/folders/rz/8jbnfm5d1bn2mqs7c842w8240000gn/T/XcodeDistPipeline.qDu/entitlements7Kcf3n
+2017-12-11 01:54:52 +0000  Running /usr/bin/codesign '-vvv' '--force' '--sign' 'AACD70E048919ED0AEA8E61410DFA3C19247F0C9' '--preserve-metadata=identifier,flags' '--entitlements' '/var/folders/rz/8jbnfm5d1bn2mqs7c842w8240000gn/T/XcodeDistPipeline.qDu/entitlements7Kcf3n' '/var/folders/rz/8jbnfm5d1bn2mqs7c842w8240000gn/T/XcodeDistPipeline.qDu/Root/Payload/LUTEC.app/Frameworks/SwiftyJSON.framework'
+2017-12-11 01:54:52 +0000  /var/folders/rz/8jbnfm5d1bn2mqs7c842w8240000gn/T/XcodeDistPipeline.qDu/Root/Payload/LUTEC.app/Frameworks/SwiftyJSON.framework: signed bundle with Mach-O universal (armv7 arm64) [org.cocoapods.SwiftyJSON]
+2017-12-11 01:54:52 +0000  /usr/bin/codesign exited with 0
+2017-12-11 01:54:52 +0000  Applying entitlements delta for <IDEDistributionItem: 0x7fc3b7b80980 'com.apple.dt.runtime.swiftAVFoundation' '<DVTFilePath:0x7fc3b776a030:'/Users/lhb/Library/Developer/Xcode/Archives/2017-12-11/FunSDKDemo 2017-12-11 上午9.54.xcarchive/Products/Applications/LUTEC.app/Frameworks/libswiftAVFoundation.dylib'>'> from <IDEiCloudEntitlementsProcessor: 0x7fc3b74cde40>: {
+}
+2017-12-11 01:54:52 +0000  Entitlements for <IDEDistributionItem: 0x7fc3b7b80980 'com.apple.dt.runtime.swiftAVFoundation' '<DVTFilePath:0x7fc3b776a030:'/Users/lhb/Library/Developer/Xcode/Archives/2017-12-11/FunSDKDemo 2017-12-11 上午9.54.xcarchive/Products/Applications/LUTEC.app/Frameworks/libswiftAVFoundation.dylib'>'>: {
+}
+2017-12-11 01:54:52 +0000  Writing entitlements for <IDEDistributionItem: 0x7fc3b7b80980 'com.apple.dt.runtime.swiftAVFoundation' '<DVTFilePath:0x7fc3b776a030:'/Users/lhb/Library/Developer/Xcode/Archives/2017-12-11/FunSDKDemo 2017-12-11 上午9.54.xcarchive/Products/Applications/LUTEC.app/Frameworks/libswiftAVFoundation.dylib'>'> to: /var/folders/rz/8jbnfm5d1bn2mqs7c842w8240000gn/T/XcodeDistPipeline.qDu/entitlementsURaLWA
+2017-12-11 01:54:52 +0000  Running /usr/bin/codesign '-vvv' '--force' '--sign' 'AACD70E048919ED0AEA8E61410DFA3C19247F0C9' '--preserve-metadata=identifier,flags' '--entitlements' '/var/folders/rz/8jbnfm5d1bn2mqs7c842w8240000gn/T/XcodeDistPipeline.qDu/entitlementsURaLWA' '/var/folders/rz/8jbnfm5d1bn2mqs7c842w8240000gn/T/XcodeDistPipeline.qDu/Root/Payload/LUTEC.app/Frameworks/libswiftAVFoundation.dylib'
+2017-12-11 01:54:52 +0000  /var/folders/rz/8jbnfm5d1bn2mqs7c842w8240000gn/T/XcodeDistPipeline.qDu/Root/Payload/LUTEC.app/Frameworks/libswiftAVFoundation.dylib: replacing existing signature
+2017-12-11 01:54:53 +0000  /var/folders/rz/8jbnfm5d1bn2mqs7c842w8240000gn/T/XcodeDistPipeline.qDu/Root/Payload/LUTEC.app/Frameworks/libswiftAVFoundation.dylib: signed Mach-O universal (armv7 arm64) [com.apple.dt.runtime.swiftAVFoundation]
+2017-12-11 01:54:53 +0000  /usr/bin/codesign exited with 0
+2017-12-11 01:54:53 +0000  Applying entitlements delta for <IDEDistributionItem: 0x7fc3cf5b5bf0 'com.apple.dt.runtime.swiftCore' '<DVTFilePath:0x7fc3b78284b0:'/Users/lhb/Library/Developer/Xcode/Archives/2017-12-11/FunSDKDemo 2017-12-11 上午9.54.xcarchive/Products/Applications/LUTEC.app/Frameworks/libswiftCore.dylib'>'> from <IDEiCloudEntitlementsProcessor: 0x7fc3b74cdea0>: {
+}
+2017-12-11 01:54:53 +0000  Entitlements for <IDEDistributionItem: 0x7fc3cf5b5bf0 'com.apple.dt.runtime.swiftCore' '<DVTFilePath:0x7fc3b78284b0:'/Users/lhb/Library/Developer/Xcode/Archives/2017-12-11/FunSDKDemo 2017-12-11 上午9.54.xcarchive/Products/Applications/LUTEC.app/Frameworks/libswiftCore.dylib'>'>: {
+}
+2017-12-11 01:54:53 +0000  Writing entitlements for <IDEDistributionItem: 0x7fc3cf5b5bf0 'com.apple.dt.runtime.swiftCore' '<DVTFilePath:0x7fc3b78284b0:'/Users/lhb/Library/Developer/Xcode/Archives/2017-12-11/FunSDKDemo 2017-12-11 上午9.54.xcarchive/Products/Applications/LUTEC.app/Frameworks/libswiftCore.dylib'>'> to: /var/folders/rz/8jbnfm5d1bn2mqs7c842w8240000gn/T/XcodeDistPipeline.qDu/entitlementsOZmWe7
+2017-12-11 01:54:53 +0000  Running /usr/bin/codesign '-vvv' '--force' '--sign' 'AACD70E048919ED0AEA8E61410DFA3C19247F0C9' '--preserve-metadata=identifier,flags' '--entitlements' '/var/folders/rz/8jbnfm5d1bn2mqs7c842w8240000gn/T/XcodeDistPipeline.qDu/entitlementsOZmWe7' '/var/folders/rz/8jbnfm5d1bn2mqs7c842w8240000gn/T/XcodeDistPipeline.qDu/Root/Payload/LUTEC.app/Frameworks/libswiftCore.dylib'
+2017-12-11 01:54:53 +0000  /var/folders/rz/8jbnfm5d1bn2mqs7c842w8240000gn/T/XcodeDistPipeline.qDu/Root/Payload/LUTEC.app/Frameworks/libswiftCore.dylib: replacing existing signature
+2017-12-11 01:54:53 +0000  /var/folders/rz/8jbnfm5d1bn2mqs7c842w8240000gn/T/XcodeDistPipeline.qDu/Root/Payload/LUTEC.app/Frameworks/libswiftCore.dylib: signed Mach-O universal (armv7 arm64) [com.apple.dt.runtime.swiftCore]
+2017-12-11 01:54:53 +0000  /usr/bin/codesign exited with 0
+2017-12-11 01:54:53 +0000  Applying entitlements delta for <IDEDistributionItem: 0x7fc3cf410470 'com.apple.dt.runtime.swiftCoreAudio' '<DVTFilePath:0x7fc3d1387aa0:'/Users/lhb/Library/Developer/Xcode/Archives/2017-12-11/FunSDKDemo 2017-12-11 上午9.54.xcarchive/Products/Applications/LUTEC.app/Frameworks/libswiftCoreAudio.dylib'>'> from <IDEiCloudEntitlementsProcessor: 0x7fc3b77f8be0>: {
+}
+2017-12-11 01:54:53 +0000  Entitlements for <IDEDistributionItem: 0x7fc3cf410470 'com.apple.dt.runtime.swiftCoreAudio' '<DVTFilePath:0x7fc3d1387aa0:'/Users/lhb/Library/Developer/Xcode/Archives/2017-12-11/FunSDKDemo 2017-12-11 上午9.54.xcarchive/Products/Applications/LUTEC.app/Frameworks/libswiftCoreAudio.dylib'>'>: {
+}
+2017-12-11 01:54:53 +0000  Writing entitlements for <IDEDistributionItem: 0x7fc3cf410470 'com.apple.dt.runtime.swiftCoreAudio' '<DVTFilePath:0x7fc3d1387aa0:'/Users/lhb/Library/Developer/Xcode/Archives/2017-12-11/FunSDKDemo 2017-12-11 上午9.54.xcarchive/Products/Applications/LUTEC.app/Frameworks/libswiftCoreAudio.dylib'>'> to: /var/folders/rz/8jbnfm5d1bn2mqs7c842w8240000gn/T/XcodeDistPipeline.qDu/entitlements22s7wu
+2017-12-11 01:54:53 +0000  Running /usr/bin/codesign '-vvv' '--force' '--sign' 'AACD70E048919ED0AEA8E61410DFA3C19247F0C9' '--preserve-metadata=identifier,flags' '--entitlements' '/var/folders/rz/8jbnfm5d1bn2mqs7c842w8240000gn/T/XcodeDistPipeline.qDu/entitlements22s7wu' '/var/folders/rz/8jbnfm5d1bn2mqs7c842w8240000gn/T/XcodeDistPipeline.qDu/Root/Payload/LUTEC.app/Frameworks/libswiftCoreAudio.dylib'
+2017-12-11 01:54:53 +0000  /var/folders/rz/8jbnfm5d1bn2mqs7c842w8240000gn/T/XcodeDistPipeline.qDu/Root/Payload/LUTEC.app/Frameworks/libswiftCoreAudio.dylib: replacing existing signature
+2017-12-11 01:54:54 +0000  /var/folders/rz/8jbnfm5d1bn2mqs7c842w8240000gn/T/XcodeDistPipeline.qDu/Root/Payload/LUTEC.app/Frameworks/libswiftCoreAudio.dylib: signed Mach-O universal (armv7 arm64) [com.apple.dt.runtime.swiftCoreAudio]
+2017-12-11 01:54:54 +0000  /usr/bin/codesign exited with 0
+2017-12-11 01:54:54 +0000  Applying entitlements delta for <IDEDistributionItem: 0x7fc3d2e73a30 'com.apple.dt.runtime.swiftCoreFoundation' '<DVTFilePath:0x7fc3cf26adc0:'/Users/lhb/Library/Developer/Xcode/Archives/2017-12-11/FunSDKDemo 2017-12-11 上午9.54.xcarchive/Products/Applications/LUTEC.app/Frameworks/libswiftCoreFoundation.dylib'>'> from <IDEiCloudEntitlementsProcessor: 0x7fc3d2a0e270>: {
+}
+2017-12-11 01:54:54 +0000  Entitlements for <IDEDistributionItem: 0x7fc3d2e73a30 'com.apple.dt.runtime.swiftCoreFoundation' '<DVTFilePath:0x7fc3cf26adc0:'/Users/lhb/Library/Developer/Xcode/Archives/2017-12-11/FunSDKDemo 2017-12-11 上午9.54.xcarchive/Products/Applications/LUTEC.app/Frameworks/libswiftCoreFoundation.dylib'>'>: {
+}
+2017-12-11 01:54:54 +0000  Writing entitlements for <IDEDistributionItem: 0x7fc3d2e73a30 'com.apple.dt.runtime.swiftCoreFoundation' '<DVTFilePath:0x7fc3cf26adc0:'/Users/lhb/Library/Developer/Xcode/Archives/2017-12-11/FunSDKDemo 2017-12-11 上午9.54.xcarchive/Products/Applications/LUTEC.app/Frameworks/libswiftCoreFoundation.dylib'>'> to: /var/folders/rz/8jbnfm5d1bn2mqs7c842w8240000gn/T/XcodeDistPipeline.qDu/entitlementszPDtDF
+2017-12-11 01:54:54 +0000  Running /usr/bin/codesign '-vvv' '--force' '--sign' 'AACD70E048919ED0AEA8E61410DFA3C19247F0C9' '--preserve-metadata=identifier,flags' '--entitlements' '/var/folders/rz/8jbnfm5d1bn2mqs7c842w8240000gn/T/XcodeDistPipeline.qDu/entitlementszPDtDF' '/var/folders/rz/8jbnfm5d1bn2mqs7c842w8240000gn/T/XcodeDistPipeline.qDu/Root/Payload/LUTEC.app/Frameworks/libswiftCoreFoundation.dylib'
+2017-12-11 01:54:54 +0000  /var/folders/rz/8jbnfm5d1bn2mqs7c842w8240000gn/T/XcodeDistPipeline.qDu/Root/Payload/LUTEC.app/Frameworks/libswiftCoreFoundation.dylib: replacing existing signature
+2017-12-11 01:54:54 +0000  /var/folders/rz/8jbnfm5d1bn2mqs7c842w8240000gn/T/XcodeDistPipeline.qDu/Root/Payload/LUTEC.app/Frameworks/libswiftCoreFoundation.dylib: signed Mach-O universal (armv7 arm64) [com.apple.dt.runtime.swiftCoreFoundation]
+2017-12-11 01:54:54 +0000  /usr/bin/codesign exited with 0
+2017-12-11 01:54:54 +0000  Applying entitlements delta for <IDEDistributionItem: 0x7fc3b7229880 'com.apple.dt.runtime.swiftCoreGraphics' '<DVTFilePath:0x7fc3b76b4510:'/Users/lhb/Library/Developer/Xcode/Archives/2017-12-11/FunSDKDemo 2017-12-11 上午9.54.xcarchive/Products/Applications/LUTEC.app/Frameworks/libswiftCoreGraphics.dylib'>'> from <IDEiCloudEntitlementsProcessor: 0x7fc3b741c2b0>: {
+}
+2017-12-11 01:54:54 +0000  Entitlements for <IDEDistributionItem: 0x7fc3b7229880 'com.apple.dt.runtime.swiftCoreGraphics' '<DVTFilePath:0x7fc3b76b4510:'/Users/lhb/Library/Developer/Xcode/Archives/2017-12-11/FunSDKDemo 2017-12-11 上午9.54.xcarchive/Products/Applications/LUTEC.app/Frameworks/libswiftCoreGraphics.dylib'>'>: {
+}
+2017-12-11 01:54:54 +0000  Writing entitlements for <IDEDistributionItem: 0x7fc3b7229880 'com.apple.dt.runtime.swiftCoreGraphics' '<DVTFilePath:0x7fc3b76b4510:'/Users/lhb/Library/Developer/Xcode/Archives/2017-12-11/FunSDKDemo 2017-12-11 上午9.54.xcarchive/Products/Applications/LUTEC.app/Frameworks/libswiftCoreGraphics.dylib'>'> to: /var/folders/rz/8jbnfm5d1bn2mqs7c842w8240000gn/T/XcodeDistPipeline.qDu/entitlementsLftIAO
+2017-12-11 01:54:54 +0000  Running /usr/bin/codesign '-vvv' '--force' '--sign' 'AACD70E048919ED0AEA8E61410DFA3C19247F0C9' '--preserve-metadata=identifier,flags' '--entitlements' '/var/folders/rz/8jbnfm5d1bn2mqs7c842w8240000gn/T/XcodeDistPipeline.qDu/entitlementsLftIAO' '/var/folders/rz/8jbnfm5d1bn2mqs7c842w8240000gn/T/XcodeDistPipeline.qDu/Root/Payload/LUTEC.app/Frameworks/libswiftCoreGraphics.dylib'
+2017-12-11 01:54:54 +0000  /var/folders/rz/8jbnfm5d1bn2mqs7c842w8240000gn/T/XcodeDistPipeline.qDu/Root/Payload/LUTEC.app/Frameworks/libswiftCoreGraphics.dylib: replacing existing signature
+2017-12-11 01:54:54 +0000  /var/folders/rz/8jbnfm5d1bn2mqs7c842w8240000gn/T/XcodeDistPipeline.qDu/Root/Payload/LUTEC.app/Frameworks/libswiftCoreGraphics.dylib: signed Mach-O universal (armv7 arm64) [com.apple.dt.runtime.swiftCoreGraphics]
+2017-12-11 01:54:54 +0000  /usr/bin/codesign exited with 0
+2017-12-11 01:54:54 +0000  Applying entitlements delta for <IDEDistributionItem: 0x7fc3b7e81f20 'com.apple.dt.runtime.swiftCoreImage' '<DVTFilePath:0x7fc3b77e40d0:'/Users/lhb/Library/Developer/Xcode/Archives/2017-12-11/FunSDKDemo 2017-12-11 上午9.54.xcarchive/Products/Applications/LUTEC.app/Frameworks/libswiftCoreImage.dylib'>'> from <IDEiCloudEntitlementsProcessor: 0x7fc3b77a6f80>: {
+}
+2017-12-11 01:54:54 +0000  Entitlements for <IDEDistributionItem: 0x7fc3b7e81f20 'com.apple.dt.runtime.swiftCoreImage' '<DVTFilePath:0x7fc3b77e40d0:'/Users/lhb/Library/Developer/Xcode/Archives/2017-12-11/FunSDKDemo 2017-12-11 上午9.54.xcarchive/Products/Applications/LUTEC.app/Frameworks/libswiftCoreImage.dylib'>'>: {
+}
+2017-12-11 01:54:54 +0000  Writing entitlements for <IDEDistributionItem: 0x7fc3b7e81f20 'com.apple.dt.runtime.swiftCoreImage' '<DVTFilePath:0x7fc3b77e40d0:'/Users/lhb/Library/Developer/Xcode/Archives/2017-12-11/FunSDKDemo 2017-12-11 上午9.54.xcarchive/Products/Applications/LUTEC.app/Frameworks/libswiftCoreImage.dylib'>'> to: /var/folders/rz/8jbnfm5d1bn2mqs7c842w8240000gn/T/XcodeDistPipeline.qDu/entitlementsFXLKm8
+2017-12-11 01:54:54 +0000  Running /usr/bin/codesign '-vvv' '--force' '--sign' 'AACD70E048919ED0AEA8E61410DFA3C19247F0C9' '--preserve-metadata=identifier,flags' '--entitlements' '/var/folders/rz/8jbnfm5d1bn2mqs7c842w8240000gn/T/XcodeDistPipeline.qDu/entitlementsFXLKm8' '/var/folders/rz/8jbnfm5d1bn2mqs7c842w8240000gn/T/XcodeDistPipeline.qDu/Root/Payload/LUTEC.app/Frameworks/libswiftCoreImage.dylib'
+2017-12-11 01:54:54 +0000  /var/folders/rz/8jbnfm5d1bn2mqs7c842w8240000gn/T/XcodeDistPipeline.qDu/Root/Payload/LUTEC.app/Frameworks/libswiftCoreImage.dylib: replacing existing signature
+2017-12-11 01:54:54 +0000  /var/folders/rz/8jbnfm5d1bn2mqs7c842w8240000gn/T/XcodeDistPipeline.qDu/Root/Payload/LUTEC.app/Frameworks/libswiftCoreImage.dylib: signed Mach-O universal (armv7 arm64) [com.apple.dt.runtime.swiftCoreImage]
+2017-12-11 01:54:54 +0000  /usr/bin/codesign exited with 0
+2017-12-11 01:54:54 +0000  Applying entitlements delta for <IDEDistributionItem: 0x7fc3b767be60 'com.apple.dt.runtime.swiftCoreLocation' '<DVTFilePath:0x7fc3d10cf0f0:'/Users/lhb/Library/Developer/Xcode/Archives/2017-12-11/FunSDKDemo 2017-12-11 上午9.54.xcarchive/Products/Applications/LUTEC.app/Frameworks/libswiftCoreLocation.dylib'>'> from <IDEiCloudEntitlementsProcessor: 0x7fc3d2a0e220>: {
+}
+2017-12-11 01:54:54 +0000  Entitlements for <IDEDistributionItem: 0x7fc3b767be60 'com.apple.dt.runtime.swiftCoreLocation' '<DVTFilePath:0x7fc3d10cf0f0:'/Users/lhb/Library/Developer/Xcode/Archives/2017-12-11/FunSDKDemo 2017-12-11 上午9.54.xcarchive/Products/Applications/LUTEC.app/Frameworks/libswiftCoreLocation.dylib'>'>: {
+}
+2017-12-11 01:54:54 +0000  Writing entitlements for <IDEDistributionItem: 0x7fc3b767be60 'com.apple.dt.runtime.swiftCoreLocation' '<DVTFilePath:0x7fc3d10cf0f0:'/Users/lhb/Library/Developer/Xcode/Archives/2017-12-11/FunSDKDemo 2017-12-11 上午9.54.xcarchive/Products/Applications/LUTEC.app/Frameworks/libswiftCoreLocation.dylib'>'> to: /var/folders/rz/8jbnfm5d1bn2mqs7c842w8240000gn/T/XcodeDistPipeline.qDu/entitlementskKM9lT
+2017-12-11 01:54:54 +0000  Running /usr/bin/codesign '-vvv' '--force' '--sign' 'AACD70E048919ED0AEA8E61410DFA3C19247F0C9' '--preserve-metadata=identifier,flags' '--entitlements' '/var/folders/rz/8jbnfm5d1bn2mqs7c842w8240000gn/T/XcodeDistPipeline.qDu/entitlementskKM9lT' '/var/folders/rz/8jbnfm5d1bn2mqs7c842w8240000gn/T/XcodeDistPipeline.qDu/Root/Payload/LUTEC.app/Frameworks/libswiftCoreLocation.dylib'
+2017-12-11 01:54:55 +0000  /var/folders/rz/8jbnfm5d1bn2mqs7c842w8240000gn/T/XcodeDistPipeline.qDu/Root/Payload/LUTEC.app/Frameworks/libswiftCoreLocation.dylib: replacing existing signature
+2017-12-11 01:54:55 +0000  /var/folders/rz/8jbnfm5d1bn2mqs7c842w8240000gn/T/XcodeDistPipeline.qDu/Root/Payload/LUTEC.app/Frameworks/libswiftCoreLocation.dylib: signed Mach-O universal (armv7 arm64) [com.apple.dt.runtime.swiftCoreLocation]
+2017-12-11 01:54:55 +0000  /usr/bin/codesign exited with 0
+2017-12-11 01:54:55 +0000  Applying entitlements delta for <IDEDistributionItem: 0x7fc3d124f860 'com.apple.dt.runtime.swiftCoreMedia' '<DVTFilePath:0x7fc3b7d6aa40:'/Users/lhb/Library/Developer/Xcode/Archives/2017-12-11/FunSDKDemo 2017-12-11 上午9.54.xcarchive/Products/Applications/LUTEC.app/Frameworks/libswiftCoreMedia.dylib'>'> from <IDEiCloudEntitlementsProcessor: 0x7fc3b74cdd80>: {
+}
+2017-12-11 01:54:55 +0000  Entitlements for <IDEDistributionItem: 0x7fc3d124f860 'com.apple.dt.runtime.swiftCoreMedia' '<DVTFilePath:0x7fc3b7d6aa40:'/Users/lhb/Library/Developer/Xcode/Archives/2017-12-11/FunSDKDemo 2017-12-11 上午9.54.xcarchive/Products/Applications/LUTEC.app/Frameworks/libswiftCoreMedia.dylib'>'>: {
+}
+2017-12-11 01:54:55 +0000  Writing entitlements for <IDEDistributionItem: 0x7fc3d124f860 'com.apple.dt.runtime.swiftCoreMedia' '<DVTFilePath:0x7fc3b7d6aa40:'/Users/lhb/Library/Developer/Xcode/Archives/2017-12-11/FunSDKDemo 2017-12-11 上午9.54.xcarchive/Products/Applications/LUTEC.app/Frameworks/libswiftCoreMedia.dylib'>'> to: /var/folders/rz/8jbnfm5d1bn2mqs7c842w8240000gn/T/XcodeDistPipeline.qDu/entitlements2D9ZrS
+2017-12-11 01:54:55 +0000  Running /usr/bin/codesign '-vvv' '--force' '--sign' 'AACD70E048919ED0AEA8E61410DFA3C19247F0C9' '--preserve-metadata=identifier,flags' '--entitlements' '/var/folders/rz/8jbnfm5d1bn2mqs7c842w8240000gn/T/XcodeDistPipeline.qDu/entitlements2D9ZrS' '/var/folders/rz/8jbnfm5d1bn2mqs7c842w8240000gn/T/XcodeDistPipeline.qDu/Root/Payload/LUTEC.app/Frameworks/libswiftCoreMedia.dylib'
+2017-12-11 01:54:55 +0000  /var/folders/rz/8jbnfm5d1bn2mqs7c842w8240000gn/T/XcodeDistPipeline.qDu/Root/Payload/LUTEC.app/Frameworks/libswiftCoreMedia.dylib: replacing existing signature
+2017-12-11 01:54:55 +0000  /var/folders/rz/8jbnfm5d1bn2mqs7c842w8240000gn/T/XcodeDistPipeline.qDu/Root/Payload/LUTEC.app/Frameworks/libswiftCoreMedia.dylib: signed Mach-O universal (armv7 arm64) [com.apple.dt.runtime.swiftCoreMedia]
+2017-12-11 01:54:55 +0000  
+2017-12-11 01:54:55 +0000  /usr/bin/codesign exited with 0
+2017-12-11 01:54:55 +0000  Applying entitlements delta for <IDEDistributionItem: 0x7fc3d2b90980 'com.apple.dt.runtime.swiftDarwin' '<DVTFilePath:0x7fc3d10dc270:'/Users/lhb/Library/Developer/Xcode/Archives/2017-12-11/FunSDKDemo 2017-12-11 上午9.54.xcarchive/Products/Applications/LUTEC.app/Frameworks/libswiftDarwin.dylib'>'> from <IDEiCloudEntitlementsProcessor: 0x7fc3ce034680>: {
+}
+2017-12-11 01:54:55 +0000  Entitlements for <IDEDistributionItem: 0x7fc3d2b90980 'com.apple.dt.runtime.swiftDarwin' '<DVTFilePath:0x7fc3d10dc270:'/Users/lhb/Library/Developer/Xcode/Archives/2017-12-11/FunSDKDemo 2017-12-11 上午9.54.xcarchive/Products/Applications/LUTEC.app/Frameworks/libswiftDarwin.dylib'>'>: {
+}
+2017-12-11 01:54:55 +0000  Writing entitlements for <IDEDistributionItem: 0x7fc3d2b90980 'com.apple.dt.runtime.swiftDarwin' '<DVTFilePath:0x7fc3d10dc270:'/Users/lhb/Library/Developer/Xcode/Archives/2017-12-11/FunSDKDemo 2017-12-11 上午9.54.xcarchive/Products/Applications/LUTEC.app/Frameworks/libswiftDarwin.dylib'>'> to: /var/folders/rz/8jbnfm5d1bn2mqs7c842w8240000gn/T/XcodeDistPipeline.qDu/entitlementsnoECBd
+2017-12-11 01:54:55 +0000  Running /usr/bin/codesign '-vvv' '--force' '--sign' 'AACD70E048919ED0AEA8E61410DFA3C19247F0C9' '--preserve-metadata=identifier,flags' '--entitlements' '/var/folders/rz/8jbnfm5d1bn2mqs7c842w8240000gn/T/XcodeDistPipeline.qDu/entitlementsnoECBd' '/var/folders/rz/8jbnfm5d1bn2mqs7c842w8240000gn/T/XcodeDistPipeline.qDu/Root/Payload/LUTEC.app/Frameworks/libswiftDarwin.dylib'
+2017-12-11 01:54:55 +0000  /var/folders/rz/8jbnfm5d1bn2mqs7c842w8240000gn/T/XcodeDistPipeline.qDu/Root/Payload/LUTEC.app/Frameworks/libswiftDarwin.dylib: replacing existing signature
+2017-12-11 01:54:55 +0000  /var/folders/rz/8jbnfm5d1bn2mqs7c842w8240000gn/T/XcodeDistPipeline.qDu/Root/Payload/LUTEC.app/Frameworks/libswiftDarwin.dylib: signed Mach-O universal (armv7 arm64) [com.apple.dt.runtime.swiftDarwin]
+2017-12-11 01:54:55 +0000  /usr/bin/codesign exited with 0
+2017-12-11 01:54:55 +0000  Applying entitlements delta for <IDEDistributionItem: 0x7fc3b79c8a70 'com.apple.dt.runtime.swiftDispatch' '<DVTFilePath:0x7fc3d106bbf0:'/Users/lhb/Library/Developer/Xcode/Archives/2017-12-11/FunSDKDemo 2017-12-11 上午9.54.xcarchive/Products/Applications/LUTEC.app/Frameworks/libswiftDispatch.dylib'>'> from <IDEiCloudEntitlementsProcessor: 0x7fc3ce0346e0>: {
+}
+2017-12-11 01:54:55 +0000  Entitlements for <IDEDistributionItem: 0x7fc3b79c8a70 'com.apple.dt.runtime.swiftDispatch' '<DVTFilePath:0x7fc3d106bbf0:'/Users/lhb/Library/Developer/Xcode/Archives/2017-12-11/FunSDKDemo 2017-12-11 上午9.54.xcarchive/Products/Applications/LUTEC.app/Frameworks/libswiftDispatch.dylib'>'>: {
+}
+2017-12-11 01:54:55 +0000  Writing entitlements for <IDEDistributionItem: 0x7fc3b79c8a70 'com.apple.dt.runtime.swiftDispatch' '<DVTFilePath:0x7fc3d106bbf0:'/Users/lhb/Library/Developer/Xcode/Archives/2017-12-11/FunSDKDemo 2017-12-11 上午9.54.xcarchive/Products/Applications/LUTEC.app/Frameworks/libswiftDispatch.dylib'>'> to: /var/folders/rz/8jbnfm5d1bn2mqs7c842w8240000gn/T/XcodeDistPipeline.qDu/entitlementsha8EEi
+2017-12-11 01:54:55 +0000  Running /usr/bin/codesign '-vvv' '--force' '--sign' 'AACD70E048919ED0AEA8E61410DFA3C19247F0C9' '--preserve-metadata=identifier,flags' '--entitlements' '/var/folders/rz/8jbnfm5d1bn2mqs7c842w8240000gn/T/XcodeDistPipeline.qDu/entitlementsha8EEi' '/var/folders/rz/8jbnfm5d1bn2mqs7c842w8240000gn/T/XcodeDistPipeline.qDu/Root/Payload/LUTEC.app/Frameworks/libswiftDispatch.dylib'
+2017-12-11 01:54:56 +0000  /var/folders/rz/8jbnfm5d1bn2mqs7c842w8240000gn/T/XcodeDistPipeline.qDu/Root/Payload/LUTEC.app/Frameworks/libswiftDispatch.dylib: replacing existing signature
+2017-12-11 01:54:56 +0000  /var/folders/rz/8jbnfm5d1bn2mqs7c842w8240000gn/T/XcodeDistPipeline.qDu/Root/Payload/LUTEC.app/Frameworks/libswiftDispatch.dylib: signed Mach-O universal (armv7 arm64) [com.apple.dt.runtime.swiftDispatch]
+2017-12-11 01:54:56 +0000  /usr/bin/codesign exited with 0
+2017-12-11 01:54:56 +0000  Applying entitlements delta for <IDEDistributionItem: 0x7fc3cf060210 'com.apple.dt.runtime.swiftFoundation' '<DVTFilePath:0x7fc3b73de5f0:'/Users/lhb/Library/Developer/Xcode/Archives/2017-12-11/FunSDKDemo 2017-12-11 上午9.54.xcarchive/Products/Applications/LUTEC.app/Frameworks/libswiftFoundation.dylib'>'> from <IDEiCloudEntitlementsProcessor: 0x7fc3d2a0e150>: {
+}
+2017-12-11 01:54:56 +0000  Entitlements for <IDEDistributionItem: 0x7fc3cf060210 'com.apple.dt.runtime.swiftFoundation' '<DVTFilePath:0x7fc3b73de5f0:'/Users/lhb/Library/Developer/Xcode/Archives/2017-12-11/FunSDKDemo 2017-12-11 上午9.54.xcarchive/Products/Applications/LUTEC.app/Frameworks/libswiftFoundation.dylib'>'>: {
+}
+2017-12-11 01:54:56 +0000  Writing entitlements for <IDEDistributionItem: 0x7fc3cf060210 'com.apple.dt.runtime.swiftFoundation' '<DVTFilePath:0x7fc3b73de5f0:'/Users/lhb/Library/Developer/Xcode/Archives/2017-12-11/FunSDKDemo 2017-12-11 上午9.54.xcarchive/Products/Applications/LUTEC.app/Frameworks/libswiftFoundation.dylib'>'> to: /var/folders/rz/8jbnfm5d1bn2mqs7c842w8240000gn/T/XcodeDistPipeline.qDu/entitlementse5vGYz
+2017-12-11 01:54:56 +0000  Running /usr/bin/codesign '-vvv' '--force' '--sign' 'AACD70E048919ED0AEA8E61410DFA3C19247F0C9' '--preserve-metadata=identifier,flags' '--entitlements' '/var/folders/rz/8jbnfm5d1bn2mqs7c842w8240000gn/T/XcodeDistPipeline.qDu/entitlementse5vGYz' '/var/folders/rz/8jbnfm5d1bn2mqs7c842w8240000gn/T/XcodeDistPipeline.qDu/Root/Payload/LUTEC.app/Frameworks/libswiftFoundation.dylib'
+2017-12-11 01:54:56 +0000  /var/folders/rz/8jbnfm5d1bn2mqs7c842w8240000gn/T/XcodeDistPipeline.qDu/Root/Payload/LUTEC.app/Frameworks/libswiftFoundation.dylib: replacing existing signature
+2017-12-11 01:54:56 +0000  /var/folders/rz/8jbnfm5d1bn2mqs7c842w8240000gn/T/XcodeDistPipeline.qDu/Root/Payload/LUTEC.app/Frameworks/libswiftFoundation.dylib: signed Mach-O universal (armv7 arm64) [com.apple.dt.runtime.swiftFoundation]
+2017-12-11 01:54:56 +0000  /usr/bin/codesign exited with 0
+2017-12-11 01:54:56 +0000  Applying entitlements delta for <IDEDistributionItem: 0x7fc3d1025190 'com.apple.dt.runtime.swiftMetal' '<DVTFilePath:0x7fc3b6ef39d0:'/Users/lhb/Library/Developer/Xcode/Archives/2017-12-11/FunSDKDemo 2017-12-11 上午9.54.xcarchive/Products/Applications/LUTEC.app/Frameworks/libswiftMetal.dylib'>'> from <IDEiCloudEntitlementsProcessor: 0x7fc3d2a0e1b0>: {
+}
+2017-12-11 01:54:56 +0000  Entitlements for <IDEDistributionItem: 0x7fc3d1025190 'com.apple.dt.runtime.swiftMetal' '<DVTFilePath:0x7fc3b6ef39d0:'/Users/lhb/Library/Developer/Xcode/Archives/2017-12-11/FunSDKDemo 2017-12-11 上午9.54.xcarchive/Products/Applications/LUTEC.app/Frameworks/libswiftMetal.dylib'>'>: {
+}
+2017-12-11 01:54:56 +0000  Writing entitlements for <IDEDistributionItem: 0x7fc3d1025190 'com.apple.dt.runtime.swiftMetal' '<DVTFilePath:0x7fc3b6ef39d0:'/Users/lhb/Library/Developer/Xcode/Archives/2017-12-11/FunSDKDemo 2017-12-11 上午9.54.xcarchive/Products/Applications/LUTEC.app/Frameworks/libswiftMetal.dylib'>'> to: /var/folders/rz/8jbnfm5d1bn2mqs7c842w8240000gn/T/XcodeDistPipeline.qDu/entitlementstfRi3Q
+2017-12-11 01:54:56 +0000  Running /usr/bin/codesign '-vvv' '--force' '--sign' 'AACD70E048919ED0AEA8E61410DFA3C19247F0C9' '--preserve-metadata=identifier,flags' '--entitlements' '/var/folders/rz/8jbnfm5d1bn2mqs7c842w8240000gn/T/XcodeDistPipeline.qDu/entitlementstfRi3Q' '/var/folders/rz/8jbnfm5d1bn2mqs7c842w8240000gn/T/XcodeDistPipeline.qDu/Root/Payload/LUTEC.app/Frameworks/libswiftMetal.dylib'
+2017-12-11 01:54:56 +0000  /var/folders/rz/8jbnfm5d1bn2mqs7c842w8240000gn/T/XcodeDistPipeline.qDu/Root/Payload/LUTEC.app/Frameworks/libswiftMetal.dylib: replacing existing signature
+2017-12-11 01:54:56 +0000  /var/folders/rz/8jbnfm5d1bn2mqs7c842w8240000gn/T/XcodeDistPipeline.qDu/Root/Payload/LUTEC.app/Frameworks/libswiftMetal.dylib: signed Mach-O universal (armv7 arm64) [com.apple.dt.runtime.swiftMetal]
+2017-12-11 01:54:56 +0000  /usr/bin/codesign exited with 0
+2017-12-11 01:54:56 +0000  Applying entitlements delta for <IDEDistributionItem: 0x7fc3b7e809b0 'com.apple.dt.runtime.swiftObjectiveC' '<DVTFilePath:0x7fc3b73c2b30:'/Users/lhb/Library/Developer/Xcode/Archives/2017-12-11/FunSDKDemo 2017-12-11 上午9.54.xcarchive/Products/Applications/LUTEC.app/Frameworks/libswiftObjectiveC.dylib'>'> from <IDEiCloudEntitlementsProcessor: 0x7fc3b77b0eb0>: {
+}
+2017-12-11 01:54:56 +0000  Entitlements for <IDEDistributionItem: 0x7fc3b7e809b0 'com.apple.dt.runtime.swiftObjectiveC' '<DVTFilePath:0x7fc3b73c2b30:'/Users/lhb/Library/Developer/Xcode/Archives/2017-12-11/FunSDKDemo 2017-12-11 上午9.54.xcarchive/Products/Applications/LUTEC.app/Frameworks/libswiftObjectiveC.dylib'>'>: {
+}
+2017-12-11 01:54:56 +0000  Writing entitlements for <IDEDistributionItem: 0x7fc3b7e809b0 'com.apple.dt.runtime.swiftObjectiveC' '<DVTFilePath:0x7fc3b73c2b30:'/Users/lhb/Library/Developer/Xcode/Archives/2017-12-11/FunSDKDemo 2017-12-11 上午9.54.xcarchive/Products/Applications/LUTEC.app/Frameworks/libswiftObjectiveC.dylib'>'> to: /var/folders/rz/8jbnfm5d1bn2mqs7c842w8240000gn/T/XcodeDistPipeline.qDu/entitlementsidSQ5L
+2017-12-11 01:54:56 +0000  Running /usr/bin/codesign '-vvv' '--force' '--sign' 'AACD70E048919ED0AEA8E61410DFA3C19247F0C9' '--preserve-metadata=identifier,flags' '--entitlements' '/var/folders/rz/8jbnfm5d1bn2mqs7c842w8240000gn/T/XcodeDistPipeline.qDu/entitlementsidSQ5L' '/var/folders/rz/8jbnfm5d1bn2mqs7c842w8240000gn/T/XcodeDistPipeline.qDu/Root/Payload/LUTEC.app/Frameworks/libswiftObjectiveC.dylib'
+2017-12-11 01:54:56 +0000  /var/folders/rz/8jbnfm5d1bn2mqs7c842w8240000gn/T/XcodeDistPipeline.qDu/Root/Payload/LUTEC.app/Frameworks/libswiftObjectiveC.dylib: replacing existing signature
+2017-12-11 01:54:56 +0000  /var/folders/rz/8jbnfm5d1bn2mqs7c842w8240000gn/T/XcodeDistPipeline.qDu/Root/Payload/LUTEC.app/Frameworks/libswiftObjectiveC.dylib: signed Mach-O universal (armv7 arm64) [com.apple.dt.runtime.swiftObjectiveC]
+2017-12-11 01:54:56 +0000  /usr/bin/codesign exited with 0
+2017-12-11 01:54:56 +0000  Applying entitlements delta for <IDEDistributionItem: 0x7fc3b75ade70 'com.apple.dt.runtime.swiftQuartzCore' '<DVTFilePath:0x7fc3b7db2640:'/Users/lhb/Library/Developer/Xcode/Archives/2017-12-11/FunSDKDemo 2017-12-11 上午9.54.xcarchive/Products/Applications/LUTEC.app/Frameworks/libswiftQuartzCore.dylib'>'> from <IDEiCloudEntitlementsProcessor: 0x7fc3b7c0fee0>: {
+}
+2017-12-11 01:54:56 +0000  Entitlements for <IDEDistributionItem: 0x7fc3b75ade70 'com.apple.dt.runtime.swiftQuartzCore' '<DVTFilePath:0x7fc3b7db2640:'/Users/lhb/Library/Developer/Xcode/Archives/2017-12-11/FunSDKDemo 2017-12-11 上午9.54.xcarchive/Products/Applications/LUTEC.app/Frameworks/libswiftQuartzCore.dylib'>'>: {
+}
+2017-12-11 01:54:56 +0000  Writing entitlements for <IDEDistributionItem: 0x7fc3b75ade70 'com.apple.dt.runtime.swiftQuartzCore' '<DVTFilePath:0x7fc3b7db2640:'/Users/lhb/Library/Developer/Xcode/Archives/2017-12-11/FunSDKDemo 2017-12-11 上午9.54.xcarchive/Products/Applications/LUTEC.app/Frameworks/libswiftQuartzCore.dylib'>'> to: /var/folders/rz/8jbnfm5d1bn2mqs7c842w8240000gn/T/XcodeDistPipeline.qDu/entitlements17MyiI
+2017-12-11 01:54:56 +0000  Running /usr/bin/codesign '-vvv' '--force' '--sign' 'AACD70E048919ED0AEA8E61410DFA3C19247F0C9' '--preserve-metadata=identifier,flags' '--entitlements' '/var/folders/rz/8jbnfm5d1bn2mqs7c842w8240000gn/T/XcodeDistPipeline.qDu/entitlements17MyiI' '/var/folders/rz/8jbnfm5d1bn2mqs7c842w8240000gn/T/XcodeDistPipeline.qDu/Root/Payload/LUTEC.app/Frameworks/libswiftQuartzCore.dylib'
+2017-12-11 01:54:56 +0000  /var/folders/rz/8jbnfm5d1bn2mqs7c842w8240000gn/T/XcodeDistPipeline.qDu/Root/Payload/LUTEC.app/Frameworks/libswiftQuartzCore.dylib: replacing existing signature
+2017-12-11 01:54:56 +0000  /var/folders/rz/8jbnfm5d1bn2mqs7c842w8240000gn/T/XcodeDistPipeline.qDu/Root/Payload/LUTEC.app/Frameworks/libswiftQuartzCore.dylib: signed Mach-O universal (armv7 arm64) [com.apple.dt.runtime.swiftQuartzCore]
+2017-12-11 01:54:56 +0000  /usr/bin/codesign exited with 0
+2017-12-11 01:54:56 +0000  Applying entitlements delta for <IDEDistributionItem: 0x7fc3b69c0a50 'com.apple.dt.runtime.swiftUIKit' '<DVTFilePath:0x7fc3b6e84ea0:'/Users/lhb/Library/Developer/Xcode/Archives/2017-12-11/FunSDKDemo 2017-12-11 上午9.54.xcarchive/Products/Applications/LUTEC.app/Frameworks/libswiftUIKit.dylib'>'> from <IDEiCloudEntitlementsProcessor: 0x7fc3b7c0ff40>: {
+}
+2017-12-11 01:54:56 +0000  Entitlements for <IDEDistributionItem: 0x7fc3b69c0a50 'com.apple.dt.runtime.swiftUIKit' '<DVTFilePath:0x7fc3b6e84ea0:'/Users/lhb/Library/Developer/Xcode/Archives/2017-12-11/FunSDKDemo 2017-12-11 上午9.54.xcarchive/Products/Applications/LUTEC.app/Frameworks/libswiftUIKit.dylib'>'>: {
+}
+2017-12-11 01:54:56 +0000  Writing entitlements for <IDEDistributionItem: 0x7fc3b69c0a50 'com.apple.dt.runtime.swiftUIKit' '<DVTFilePath:0x7fc3b6e84ea0:'/Users/lhb/Library/Developer/Xcode/Archives/2017-12-11/FunSDKDemo 2017-12-11 上午9.54.xcarchive/Products/Applications/LUTEC.app/Frameworks/libswiftUIKit.dylib'>'> to: /var/folders/rz/8jbnfm5d1bn2mqs7c842w8240000gn/T/XcodeDistPipeline.qDu/entitlements7M7feG
+2017-12-11 01:54:56 +0000  Running /usr/bin/codesign '-vvv' '--force' '--sign' 'AACD70E048919ED0AEA8E61410DFA3C19247F0C9' '--preserve-metadata=identifier,flags' '--entitlements' '/var/folders/rz/8jbnfm5d1bn2mqs7c842w8240000gn/T/XcodeDistPipeline.qDu/entitlements7M7feG' '/var/folders/rz/8jbnfm5d1bn2mqs7c842w8240000gn/T/XcodeDistPipeline.qDu/Root/Payload/LUTEC.app/Frameworks/libswiftUIKit.dylib'
+2017-12-11 01:54:56 +0000  /var/folders/rz/8jbnfm5d1bn2mqs7c842w8240000gn/T/XcodeDistPipeline.qDu/Root/Payload/LUTEC.app/Frameworks/libswiftUIKit.dylib: replacing existing signature
+2017-12-11 01:54:57 +0000  /var/folders/rz/8jbnfm5d1bn2mqs7c842w8240000gn/T/XcodeDistPipeline.qDu/Root/Payload/LUTEC.app/Frameworks/libswiftUIKit.dylib: signed Mach-O universal (armv7 arm64) [com.apple.dt.runtime.swiftUIKit]
+2017-12-11 01:54:57 +0000  /usr/bin/codesign exited with 0
+2017-12-11 01:54:57 +0000  Applying entitlements delta for <IDEDistributionItem: 0x7fc3d2e07310 'com.apple.dt.runtime.swiftos' '<DVTFilePath:0x7fc3b7d989a0:'/Users/lhb/Library/Developer/Xcode/Archives/2017-12-11/FunSDKDemo 2017-12-11 上午9.54.xcarchive/Products/Applications/LUTEC.app/Frameworks/libswiftos.dylib'>'> from <IDEiCloudEntitlementsProcessor: 0x7fc3ce0345c0>: {
+}
+2017-12-11 01:54:57 +0000  Entitlements for <IDEDistributionItem: 0x7fc3d2e07310 'com.apple.dt.runtime.swiftos' '<DVTFilePath:0x7fc3b7d989a0:'/Users/lhb/Library/Developer/Xcode/Archives/2017-12-11/FunSDKDemo 2017-12-11 上午9.54.xcarchive/Products/Applications/LUTEC.app/Frameworks/libswiftos.dylib'>'>: {
+}
+2017-12-11 01:54:57 +0000  Writing entitlements for <IDEDistributionItem: 0x7fc3d2e07310 'com.apple.dt.runtime.swiftos' '<DVTFilePath:0x7fc3b7d989a0:'/Users/lhb/Library/Developer/Xcode/Archives/2017-12-11/FunSDKDemo 2017-12-11 上午9.54.xcarchive/Products/Applications/LUTEC.app/Frameworks/libswiftos.dylib'>'> to: /var/folders/rz/8jbnfm5d1bn2mqs7c842w8240000gn/T/XcodeDistPipeline.qDu/entitlements7N6bcs
+2017-12-11 01:54:57 +0000  Running /usr/bin/codesign '-vvv' '--force' '--sign' 'AACD70E048919ED0AEA8E61410DFA3C19247F0C9' '--preserve-metadata=identifier,flags' '--entitlements' '/var/folders/rz/8jbnfm5d1bn2mqs7c842w8240000gn/T/XcodeDistPipeline.qDu/entitlements7N6bcs' '/var/folders/rz/8jbnfm5d1bn2mqs7c842w8240000gn/T/XcodeDistPipeline.qDu/Root/Payload/LUTEC.app/Frameworks/libswiftos.dylib'
+2017-12-11 01:54:57 +0000  /var/folders/rz/8jbnfm5d1bn2mqs7c842w8240000gn/T/XcodeDistPipeline.qDu/Root/Payload/LUTEC.app/Frameworks/libswiftos.dylib: replacing existing signature
+2017-12-11 01:54:57 +0000  /var/folders/rz/8jbnfm5d1bn2mqs7c842w8240000gn/T/XcodeDistPipeline.qDu/Root/Payload/LUTEC.app/Frameworks/libswiftos.dylib: signed Mach-O universal (armv7 arm64) [com.apple.dt.runtime.swiftos]
+2017-12-11 01:54:57 +0000  /usr/bin/codesign exited with 0
+2017-12-11 01:54:57 +0000  Applying entitlements delta for <IDEDistributionItem: 0x7fc3cf2ca520 'com.apple.dt.runtime.swiftsimd' '<DVTFilePath:0x7fc3b4d9fe80:'/Users/lhb/Library/Developer/Xcode/Archives/2017-12-11/FunSDKDemo 2017-12-11 上午9.54.xcarchive/Products/Applications/LUTEC.app/Frameworks/libswiftsimd.dylib'>'> from <IDEiCloudEntitlementsProcessor: 0x7fc3ce034620>: {
+}
+2017-12-11 01:54:57 +0000  Entitlements for <IDEDistributionItem: 0x7fc3cf2ca520 'com.apple.dt.runtime.swiftsimd' '<DVTFilePath:0x7fc3b4d9fe80:'/Users/lhb/Library/Developer/Xcode/Archives/2017-12-11/FunSDKDemo 2017-12-11 上午9.54.xcarchive/Products/Applications/LUTEC.app/Frameworks/libswiftsimd.dylib'>'>: {
+}
+2017-12-11 01:54:57 +0000  Writing entitlements for <IDEDistributionItem: 0x7fc3cf2ca520 'com.apple.dt.runtime.swiftsimd' '<DVTFilePath:0x7fc3b4d9fe80:'/Users/lhb/Library/Developer/Xcode/Archives/2017-12-11/FunSDKDemo 2017-12-11 上午9.54.xcarchive/Products/Applications/LUTEC.app/Frameworks/libswiftsimd.dylib'>'> to: /var/folders/rz/8jbnfm5d1bn2mqs7c842w8240000gn/T/XcodeDistPipeline.qDu/entitlementsbG90jr
+2017-12-11 01:54:57 +0000  Running /usr/bin/codesign '-vvv' '--force' '--sign' 'AACD70E048919ED0AEA8E61410DFA3C19247F0C9' '--preserve-metadata=identifier,flags' '--entitlements' '/var/folders/rz/8jbnfm5d1bn2mqs7c842w8240000gn/T/XcodeDistPipeline.qDu/entitlementsbG90jr' '/var/folders/rz/8jbnfm5d1bn2mqs7c842w8240000gn/T/XcodeDistPipeline.qDu/Root/Payload/LUTEC.app/Frameworks/libswiftsimd.dylib'
+2017-12-11 01:54:57 +0000  /var/folders/rz/8jbnfm5d1bn2mqs7c842w8240000gn/T/XcodeDistPipeline.qDu/Root/Payload/LUTEC.app/Frameworks/libswiftsimd.dylib: replacing existing signature
+2017-12-11 01:54:57 +0000  
+2017-12-11 01:54:57 +0000  /var/folders/rz/8jbnfm5d1bn2mqs7c842w8240000gn/T/XcodeDistPipeline.qDu/Root/Payload/LUTEC.app/Frameworks/libswiftsimd.dylib: signed Mach-O universal (armv7 arm64) [com.apple.dt.runtime.swiftsimd]
+2017-12-11 01:54:57 +0000  /usr/bin/codesign exited with 0
+2017-12-11 01:54:57 +0000  Applying entitlements delta for <IDEDistributionItem: 0x7fc3b7bd72b0 'steniel.com' '<DVTFilePath:0x7fc3d2c70690:'/Users/lhb/Library/Developer/Xcode/Archives/2017-12-11/FunSDKDemo 2017-12-11 上午9.54.xcarchive/Products/Applications/LUTEC.app'>'> from <IDEiCloudEntitlementsProcessor: 0x7fc3b7867530>: {
+}
+2017-12-11 01:54:57 +0000  Entitlements for <IDEDistributionItem: 0x7fc3b7bd72b0 'steniel.com' '<DVTFilePath:0x7fc3d2c70690:'/Users/lhb/Library/Developer/Xcode/Archives/2017-12-11/FunSDKDemo 2017-12-11 上午9.54.xcarchive/Products/Applications/LUTEC.app'>'>: {
+    "application-identifier" = "FN8VZD49EJ.steniel.com";
+    "aps-environment" = production;
+    "com.apple.developer.team-identifier" = FN8VZD49EJ;
+    "get-task-allow" = 0;
+}
+2017-12-11 01:54:57 +0000  Writing entitlements for <IDEDistributionItem: 0x7fc3b7bd72b0 'steniel.com' '<DVTFilePath:0x7fc3d2c70690:'/Users/lhb/Library/Developer/Xcode/Archives/2017-12-11/FunSDKDemo 2017-12-11 上午9.54.xcarchive/Products/Applications/LUTEC.app'>'> to: /var/folders/rz/8jbnfm5d1bn2mqs7c842w8240000gn/T/XcodeDistPipeline.qDu/entitlementsOlzodg
+2017-12-11 01:54:57 +0000  Running /usr/bin/codesign '-vvv' '--force' '--sign' 'AACD70E048919ED0AEA8E61410DFA3C19247F0C9' '--preserve-metadata=identifier,flags' '--entitlements' '/var/folders/rz/8jbnfm5d1bn2mqs7c842w8240000gn/T/XcodeDistPipeline.qDu/entitlementsOlzodg' '/var/folders/rz/8jbnfm5d1bn2mqs7c842w8240000gn/T/XcodeDistPipeline.qDu/Root/Payload/LUTEC.app'
+2017-12-11 01:54:57 +0000  /var/folders/rz/8jbnfm5d1bn2mqs7c842w8240000gn/T/XcodeDistPipeline.qDu/Root/Payload/LUTEC.app: replacing existing signature
+2017-12-11 01:54:58 +0000  /var/folders/rz/8jbnfm5d1bn2mqs7c842w8240000gn/T/XcodeDistPipeline.qDu/Root/Payload/LUTEC.app: signed app bundle with Mach-O universal (armv7 arm64) [steniel.com]
+2017-12-11 01:54:58 +0000  
+2017-12-11 01:54:58 +0000  /usr/bin/codesign exited with 0
+2017-12-11 01:54:58 +0000  Processing step: IDEDistributionStreamingZipItemStep
+2017-12-11 01:54:58 +0000  Skipping step: IDEDistributionStreamingZipItemStep because it said so
+2017-12-11 01:54:58 +0000  Skipping step: IDEDistributionStreamingZipItemStep because it said so
+2017-12-11 01:54:58 +0000  Skipping step: IDEDistributionStreamingZipItemStep because it said so
+2017-12-11 01:54:58 +0000  Skipping step: IDEDistributionStreamingZipItemStep because it said so
+2017-12-11 01:54:58 +0000  Skipping step: IDEDistributionStreamingZipItemStep because it said so
+2017-12-11 01:54:58 +0000  Skipping step: IDEDistributionStreamingZipItemStep because it said so
+2017-12-11 01:54:58 +0000  Skipping step: IDEDistributionStreamingZipItemStep because it said so
+2017-12-11 01:54:58 +0000  Skipping step: IDEDistributionStreamingZipItemStep because it said so
+2017-12-11 01:54:58 +0000  Skipping step: IDEDistributionStreamingZipItemStep because it said so
+2017-12-11 01:54:58 +0000  Skipping step: IDEDistributionStreamingZipItemStep because it said so
+2017-12-11 01:54:58 +0000  Skipping step: IDEDistributionStreamingZipItemStep because it said so
+2017-12-11 01:54:58 +0000  Skipping step: IDEDistributionStreamingZipItemStep because it said so
+2017-12-11 01:54:58 +0000  Skipping step: IDEDistributionStreamingZipItemStep because it said so
+2017-12-11 01:54:58 +0000  Skipping step: IDEDistributionStreamingZipItemStep because it said so
+2017-12-11 01:54:58 +0000  Skipping step: IDEDistributionStreamingZipItemStep because it said so
+2017-12-11 01:54:58 +0000  Skipping step: IDEDistributionStreamingZipItemStep because it said so
+2017-12-11 01:54:58 +0000  Skipping step: IDEDistributionStreamingZipItemStep because it said so
+2017-12-11 01:54:58 +0000  Skipping step: IDEDistributionStreamingZipItemStep because it said so
+2017-12-11 01:54:58 +0000  Skipping step: IDEDistributionStreamingZipItemStep because it said so
+2017-12-11 01:54:58 +0000  Skipping step: IDEDistributionStreamingZipItemStep because it said so
+2017-12-11 01:54:58 +0000  Skipping step: IDEDistributionStreamingZipItemStep because it said so
+2017-12-11 01:54:58 +0000  Skipping step: IDEDistributionStreamingZipItemStep because it said so
+2017-12-11 01:54:58 +0000  Processing step: IDEDistributionCreateIPAStep
+2017-12-11 01:54:58 +0000  Running /usr/bin/ditto '-V' '-c' '-k' '--norsrc' '/var/folders/rz/8jbnfm5d1bn2mqs7c842w8240000gn/T/XcodeDistPipeline.qDu/Root' '/var/folders/rz/8jbnfm5d1bn2mqs7c842w8240000gn/T/XcodeDistPipeline.qDu/Packages/FunSDKDemo.ipa'
+2017-12-11 01:54:58 +0000  >>> Copying /var/folders/rz/8jbnfm5d1bn2mqs7c842w8240000gn/T/XcodeDistPipeline.qDu/Root 
+2017-12-11 01:54:58 +0000  copying file ./Payload/LUTEC.app/_CodeSignature/CodeResources ... 
+31011 bytes for ./Payload/LUTEC.app/_CodeSignature/CodeResources
+copying file ./Payload/LUTEC.app/AppIcon60x60@2x.png ... 
+26559 bytes for ./Payload/LUTEC.app/AppIcon60x60@2x.png
+copying file ./Payload/LUTEC.app/AppIcon60x60@3x.png ... 
+50818 bytes for ./Payload/LUTEC.app/AppIcon60x60@3x.png
+copying file ./Payload/LUTEC.app/AppIcon76x76~ipad.png ... 
+9880 bytes for ./Payload/LUTEC.app/AppIcon76x76~ipad.png
+copying file ./Payload/LUTEC.app/archived-expanded-entitlements.xcent ... 
+246 bytes for ./Payload/LUTEC.app/archived-expanded-entitlements.xcent
+copying file ./Payload/LUTEC.app/Assets.car ... 
+2017-12-11 01:54:59 +0000  7227672 bytes for ./Payload/LUTEC.app/Assets.car
+2017-12-11 01:54:59 +0000  copying file ./Payload/LUTEC.app/Base.lproj/LaunchScreen.storyboardc/01J-lp-oVM-view-Ze5-6b-2t3.nib ... 
+3219 bytes for ./Payload/LUTEC.app/Base.lproj/LaunchScreen.storyboardc/01J-lp-oVM-view-Ze5-6b-2t3.nib
+copying file ./Payload/LUTEC.app/Base.lproj/LaunchScreen.storyboardc/Info.plist ... 
+258 bytes for ./Payload/LUTEC.app/Base.lproj/LaunchScreen.storyboardc/Info.plist
+copying file ./Payload/LUTEC.app/Base.lproj/LaunchScreen.storyboardc/UIViewController-01J-lp-oVM.nib ... 
+2017-12-11 01:54:59 +0000  832 bytes for ./Payload/LUTEC.app/Base.lproj/LaunchScreen.storyboardc/UIViewController-01J-lp-oVM.nib
+copying file ./Payload/LUTEC.app/Base.lproj/Localizable.strings ... 
+2017-12-11 01:54:59 +0000  18168 bytes for ./Payload/LUTEC.app/Base.lproj/Localizable.strings
+copying file ./Payload/LUTEC.app/de.lproj/Localizable.strings ... 
+23242 bytes for ./Payload/LUTEC.app/de.lproj/Localizable.strings
+copying file ./Payload/LUTEC.app/DeviceChangePwd.nib ... 
+2017-12-11 01:54:59 +0000  5559 bytes for ./Payload/LUTEC.app/DeviceChangePwd.nib
+2017-12-11 01:54:59 +0000  copying file ./Payload/LUTEC.app/DeviceNameControllerViewController.nib ... 
+2017-12-11 01:54:59 +0000  5388 bytes for ./Payload/LUTEC.app/DeviceNameControllerViewController.nib
+copying file ./Payload/LUTEC.app/embedded.mobileprovision ... 
+2017-12-11 01:54:59 +0000  12181 bytes for ./Payload/LUTEC.app/embedded.mobileprovision
+copying file ./Payload/LUTEC.app/en.lproj/Localizable.strings ... 
+2017-12-11 01:54:59 +0000  22553 bytes for ./Payload/LUTEC.app/en.lproj/Localizable.strings
+2017-12-11 01:54:59 +0000  copying file ./Payload/LUTEC.app/es.lproj/Localizable.strings ... 
+23396 bytes for ./Payload/LUTEC.app/es.lproj/Localizable.strings
+copying file ./Payload/LUTEC.app/fr.lproj/Localizable.strings ... 
+23320 bytes for ./Payload/LUTEC.app/fr.lproj/Localizable.strings
+copying file ./Payload/LUTEC.app/Frameworks/IQKeyboardManagerSwift.framework/_CodeSignature/CodeResources ... 
+5102 bytes for ./Payload/LUTEC.app/Frameworks/IQKeyboardManagerSwift.framework/_CodeSignature/CodeResources
+copying file ./Payload/LUTEC.app/Frameworks/IQKeyboardManagerSwift.framework/Info.plist ... 
+769 bytes for ./Payload/LUTEC.app/Frameworks/IQKeyboardManagerSwift.framework/Info.plist
+copying file ./Payload/LUTEC.app/Frameworks/IQKeyboardManagerSwift.framework/IQKeyboardManager.bundle/IQButtonBarArrowDown@2x.png ... 
+1764 bytes for ./Payload/LUTEC.app/Frameworks/IQKeyboardManagerSwift.framework/IQKeyboardManager.bundle/IQButtonBarArrowDown@2x.png
+copying file ./Payload/LUTEC.app/Frameworks/IQKeyboardManagerSwift.framework/IQKeyboardManager.bundle/IQButtonBarArrowDown@3x.png ... 
+2177 bytes for ./Payload/LUTEC.app/Frameworks/IQKeyboardManagerSwift.framework/IQKeyboardManager.bundle/IQButtonBarArrowDown@3x.png
+copying file ./Payload/LUTEC.app/Frameworks/IQKeyboardManagerSwift.framework/IQKeyboardManager.bundle/IQButtonBarArrowLeft@2x.png ... 
+1793 bytes for ./Payload/LUTEC.app/Frameworks/IQKeyboardManagerSwift.framework/IQKeyboardManager.bundle/IQButtonBarArrowLeft@2x.png
+copying file ./Payload/LUTEC.app/Frameworks/IQKeyboardManagerSwift.framework/IQKeyboardManager.bundle/IQButtonBarArrowLeft@3x.png ... 
+1815 bytes for ./Payload/LUTEC.app/Frameworks/IQKeyboardManagerSwift.framework/IQKeyboardManager.bundle/IQButtonBarArrowLeft@3x.png
+copying file ./Payload/LUTEC.app/Frameworks/IQKeyboardManagerSwift.framework/IQKeyboardManager.bundle/IQButtonBarArrowRight@2x.png ... 
+1786 bytes for ./Payload/LUTEC.app/Frameworks/IQKeyboardManagerSwift.framework/IQKeyboardManager.bundle/IQButtonBarArrowRight@2x.png
+copying file ./Payload/LUTEC.app/Frameworks/IQKeyboardManagerSwift.framework/IQKeyboardManager.bundle/IQButtonBarArrowRight@3x.png ... 
+1844 bytes for ./Payload/LUTEC.app/Frameworks/IQKeyboardManagerSwift.framework/IQKeyboardManager.bundle/IQButtonBarArrowRight@3x.png
+copying file ./Payload/LUTEC.app/Frameworks/IQKeyboardManagerSwift.framework/IQKeyboardManager.bundle/IQButtonBarArrowUp@2x.png ... 
+1769 bytes for ./Payload/LUTEC.app/Frameworks/IQKeyboardManagerSwift.framework/IQKeyboardManager.bundle/IQButtonBarArrowUp@2x.png
+copying file ./Payload/LUTEC.app/Frameworks/IQKeyboardManagerSwift.framework/IQKeyboardManager.bundle/IQButtonBarArrowUp@3x.png ... 
+2164 bytes for ./Payload/LUTEC.app/Frameworks/IQKeyboardManagerSwift.framework/IQKeyboardManager.bundle/IQButtonBarArrowUp@3x.png
+copying file ./Payload/LUTEC.app/Frameworks/IQKeyboardManagerSwift.framework/IQKeyboardManagerSwift ... 
+2017-12-11 01:54:59 +0000  1497088 bytes for ./Payload/LUTEC.app/Frameworks/IQKeyboardManagerSwift.framework/IQKeyboardManagerSwift
+2017-12-11 01:54:59 +0000  copying file ./Payload/LUTEC.app/Frameworks/libswiftAVFoundation.dylib ... 
+2017-12-11 01:54:59 +0000  272656 bytes for ./Payload/LUTEC.app/Frameworks/libswiftAVFoundation.dylib
+copying file ./Payload/LUTEC.app/Frameworks/libswiftCore.dylib ... 
+2017-12-11 01:55:01 +0000  9552976 bytes for ./Payload/LUTEC.app/Frameworks/libswiftCore.dylib
+copying file ./Payload/LUTEC.app/Frameworks/libswiftCoreAudio.dylib ... 
+2017-12-11 01:55:01 +0000  197952 bytes for ./Payload/LUTEC.app/Frameworks/libswiftCoreAudio.dylib
+copying file ./Payload/LUTEC.app/Frameworks/libswiftCoreFoundation.dylib ... 
+2017-12-11 01:55:01 +0000  142800 bytes for ./Payload/LUTEC.app/Frameworks/libswiftCoreFoundation.dylib
+copying file ./Payload/LUTEC.app/Frameworks/libswiftCoreGraphics.dylib ... 
+2017-12-11 01:55:01 +0000  281968 bytes for ./Payload/LUTEC.app/Frameworks/libswiftCoreGraphics.dylib
+copying file ./Payload/LUTEC.app/Frameworks/libswiftCoreImage.dylib ... 
+2017-12-11 01:55:01 +0000  143696 bytes for ./Payload/LUTEC.app/Frameworks/libswiftCoreImage.dylib
+2017-12-11 01:55:01 +0000  copying file ./Payload/LUTEC.app/Frameworks/libswiftCoreLocation.dylib ... 
+2017-12-11 01:55:01 +0000  164368 bytes for ./Payload/LUTEC.app/Frameworks/libswiftCoreLocation.dylib
+copying file ./Payload/LUTEC.app/Frameworks/libswiftCoreMedia.dylib ... 
+2017-12-11 01:55:01 +0000  164336 bytes for ./Payload/LUTEC.app/Frameworks/libswiftCoreMedia.dylib
+copying file ./Payload/LUTEC.app/Frameworks/libswiftDarwin.dylib ... 
+2017-12-11 01:55:01 +0000  172240 bytes for ./Payload/LUTEC.app/Frameworks/libswiftDarwin.dylib
+copying file ./Payload/LUTEC.app/Frameworks/libswiftDispatch.dylib ... 
+2017-12-11 01:55:01 +0000  450112 bytes for ./Payload/LUTEC.app/Frameworks/libswiftDispatch.dylib
+copying file ./Payload/LUTEC.app/Frameworks/libswiftFoundation.dylib ... 
+2017-12-11 01:55:02 +0000  3700784 bytes for ./Payload/LUTEC.app/Frameworks/libswiftFoundation.dylib
+copying file ./Payload/LUTEC.app/Frameworks/libswiftMetal.dylib ... 
+2017-12-11 01:55:02 +0000  147456 bytes for ./Payload/LUTEC.app/Frameworks/libswiftMetal.dylib
+copying file ./Payload/LUTEC.app/Frameworks/libswiftObjectiveC.dylib ... 
+2017-12-11 01:55:02 +0000  165584 bytes for ./Payload/LUTEC.app/Frameworks/libswiftObjectiveC.dylib
+2017-12-11 01:55:02 +0000  copying file ./Payload/LUTEC.app/Frameworks/libswiftos.dylib ... 
+2017-12-11 01:55:02 +0000  147280 bytes for ./Payload/LUTEC.app/Frameworks/libswiftos.dylib
+2017-12-11 01:55:02 +0000  copying file ./Payload/LUTEC.app/Frameworks/libswiftQuartzCore.dylib ... 
+2017-12-11 01:55:02 +0000  144992 bytes for ./Payload/LUTEC.app/Frameworks/libswiftQuartzCore.dylib
+2017-12-11 01:55:02 +0000  copying file ./Payload/LUTEC.app/Frameworks/libswiftsimd.dylib ... 
+2017-12-11 01:55:02 +0000  564592 bytes for ./Payload/LUTEC.app/Frameworks/libswiftsimd.dylib
+copying file ./Payload/LUTEC.app/Frameworks/libswiftUIKit.dylib ... 
+2017-12-11 01:55:02 +0000  205312 bytes for ./Payload/LUTEC.app/Frameworks/libswiftUIKit.dylib
+2017-12-11 01:55:02 +0000  copying file ./Payload/LUTEC.app/Frameworks/MBProgressHUD.framework/_CodeSignature/CodeResources ... 
+2202 bytes for ./Payload/LUTEC.app/Frameworks/MBProgressHUD.framework/_CodeSignature/CodeResources
+copying file ./Payload/LUTEC.app/Frameworks/MBProgressHUD.framework/Info.plist ... 
+2017-12-11 01:55:02 +0000  749 bytes for ./Payload/LUTEC.app/Frameworks/MBProgressHUD.framework/Info.plist
+copying file ./Payload/LUTEC.app/Frameworks/MBProgressHUD.framework/MBProgressHUD ... 
+2017-12-11 01:55:02 +0000  336352 bytes for ./Payload/LUTEC.app/Frameworks/MBProgressHUD.framework/MBProgressHUD
+2017-12-11 01:55:02 +0000  copying file ./Payload/LUTEC.app/Frameworks/SnapKit.framework/_CodeSignature/CodeResources ... 
+2202 bytes for ./Payload/LUTEC.app/Frameworks/SnapKit.framework/_CodeSignature/CodeResources
+copying file ./Payload/LUTEC.app/Frameworks/SnapKit.framework/Info.plist ... 
+2017-12-11 01:55:02 +0000  737 bytes for ./Payload/LUTEC.app/Frameworks/SnapKit.framework/Info.plist
+copying file ./Payload/LUTEC.app/Frameworks/SnapKit.framework/SnapKit ... 
+2017-12-11 01:55:02 +0000  725424 bytes for ./Payload/LUTEC.app/Frameworks/SnapKit.framework/SnapKit
+2017-12-11 01:55:02 +0000  copying file ./Payload/LUTEC.app/Frameworks/SwiftyJSON.framework/_CodeSignature/CodeResources ... 
+2202 bytes for ./Payload/LUTEC.app/Frameworks/SwiftyJSON.framework/_CodeSignature/CodeResources
+copying file ./Payload/LUTEC.app/Frameworks/SwiftyJSON.framework/Info.plist ... 
+743 bytes for ./Payload/LUTEC.app/Frameworks/SwiftyJSON.framework/Info.plist
+copying file ./Payload/LUTEC.app/Frameworks/SwiftyJSON.framework/SwiftyJSON ... 
+2017-12-11 01:55:02 +0000  859168 bytes for ./Payload/LUTEC.app/Frameworks/SwiftyJSON.framework/SwiftyJSON
+2017-12-11 01:55:02 +0000  copying file ./Payload/LUTEC.app/GuideViewController.nib ... 
+2017-12-11 01:55:02 +0000  2698 bytes for ./Payload/LUTEC.app/GuideViewController.nib
+2017-12-11 01:55:02 +0000  copying file ./Payload/LUTEC.app/hu.lproj/Localizable.strings ... 
+23794 bytes for ./Payload/LUTEC.app/hu.lproj/Localizable.strings
+2017-12-11 01:55:02 +0000  copying file ./Payload/LUTEC.app/InductionModelCell.nib ... 
+4027 bytes for ./Payload/LUTEC.app/InductionModelCell.nib
+copying file ./Payload/LUTEC.app/InductionSettingController.nib ... 
+2017-12-11 01:55:02 +0000  9949 bytes for ./Payload/LUTEC.app/InductionSettingController.nib
+copying file ./Payload/LUTEC.app/Info.plist ... 
+2017-12-11 01:55:02 +0000  5667 bytes for ./Payload/LUTEC.app/Info.plist
+copying file ./Payload/LUTEC.app/it.lproj/Localizable.strings ... 
+2017-12-11 01:55:02 +0000  23050 bytes for ./Payload/LUTEC.app/it.lproj/Localizable.strings
+copying file ./Payload/LUTEC.app/LaunchImage-568h@2x.png ... 
+2017-12-11 01:55:02 +0000  48933 bytes for ./Payload/LUTEC.app/LaunchImage-568h@2x.png
+copying file ./Payload/LUTEC.app/LaunchImage-700-568h@2x.png ... 
+2017-12-11 01:55:02 +0000  48933 bytes for ./Payload/LUTEC.app/LaunchImage-700-568h@2x.png
+copying file ./Payload/LUTEC.app/LaunchImage-700-Portrait@2x~ipad.png ... 
+2017-12-11 01:55:02 +0000  99219 bytes for ./Payload/LUTEC.app/LaunchImage-700-Portrait@2x~ipad.png
+copying file ./Payload/LUTEC.app/LaunchImage-700-Portrait~ipad.png ... 
+2017-12-11 01:55:02 +0000  48632 bytes for ./Payload/LUTEC.app/LaunchImage-700-Portrait~ipad.png
+copying file ./Payload/LUTEC.app/LaunchImage-700@2x.png ... 
+2017-12-11 01:55:02 +0000  49219 bytes for ./Payload/LUTEC.app/LaunchImage-700@2x.png
+copying file ./Payload/LUTEC.app/LaunchImage-800-667h@2x.png ... 
+2017-12-11 01:55:02 +0000  49941 bytes for ./Payload/LUTEC.app/LaunchImage-800-667h@2x.png
+copying file ./Payload/LUTEC.app/LaunchImage-800-Portrait-736h@3x.png ... 
+2017-12-11 01:55:02 +0000  108453 bytes for ./Payload/LUTEC.app/LaunchImage-800-Portrait-736h@3x.png
+copying file ./Payload/LUTEC.app/LaunchImage.png ... 
+2017-12-11 01:55:02 +0000  28736 bytes for ./Payload/LUTEC.app/LaunchImage.png
+copying file ./Payload/LUTEC.app/LaunchImage@2x.png ... 
+2017-12-11 01:55:02 +0000  49219 bytes for ./Payload/LUTEC.app/LaunchImage@2x.png
+copying file ./Payload/LUTEC.app/LUTEC ... 
+2017-12-11 01:55:08 +0000  29325296 bytes for ./Payload/LUTEC.app/LUTEC
+copying file ./Payload/LUTEC.app/Main.storyboardc/BYZ-38-t0r-view-8bC-Xf-vdC.nib ... 
+1790 bytes for ./Payload/LUTEC.app/Main.storyboardc/BYZ-38-t0r-view-8bC-Xf-vdC.nib
+copying file ./Payload/LUTEC.app/Main.storyboardc/Info.plist ... 
+197 bytes for ./Payload/LUTEC.app/Main.storyboardc/Info.plist
+copying file ./Payload/LUTEC.app/Main.storyboardc/ViewController.nib ... 
+977 bytes for ./Payload/LUTEC.app/Main.storyboardc/ViewController.nib
+copying file ./Payload/LUTEC.app/MainController.nib ... 
+5998 bytes for ./Payload/LUTEC.app/MainController.nib
+copying file ./Payload/LUTEC.app/MainViewCell.nib ... 
+15446 bytes for ./Payload/LUTEC.app/MainViewCell.nib
+copying file ./Payload/LUTEC.app/ManualController.nib ... 
+7661 bytes for ./Payload/LUTEC.app/ManualController.nib
+copying file ./Payload/LUTEC.app/MoreViewController.nib ... 
+5300 bytes for ./Payload/LUTEC.app/MoreViewController.nib
+copying file ./Payload/LUTEC.app/NewCameraController.nib ... 
+11946 bytes for ./Payload/LUTEC.app/NewCameraController.nib
+copying file ./Payload/LUTEC.app/nl.lproj/Localizable.strings ... 
+22682 bytes for ./Payload/LUTEC.app/nl.lproj/Localizable.strings
+copying file ./Payload/LUTEC.app/PkgInfo ... 
+8 bytes for ./Payload/LUTEC.app/PkgInfo
+copying file ./Payload/LUTEC.app/QuickConfigController.nib ... 
+6619 bytes for ./Payload/LUTEC.app/QuickConfigController.nib
+copying file ./Payload/LUTEC.app/SettingViewCell.nib ... 
+4306 bytes for ./Payload/LUTEC.app/SettingViewCell.nib
+copying file ./Payload/LUTEC.app/startview.nib ... 
+1227 bytes for ./Payload/LUTEC.app/startview.nib
+copying file ./Payload/LUTEC.app/TimeSelectCell.nib ... 
+3732 bytes for ./Payload/LUTEC.app/TimeSelectCell.nib
+copying file ./Payload/LUTEC.app/TimeSelectCollectonView.nib ... 
+4112 bytes for ./Payload/LUTEC.app/TimeSelectCollectonView.nib
+copying file ./Payload/LUTEC.app/TimeSelectionBar.nib ... 
+4709 bytes for ./Payload/LUTEC.app/TimeSelectionBar.nib
+copying file ./Payload/LUTEC.app/zh-Hans.lproj/Localizable.strings ... 
+2763 bytes for ./Payload/LUTEC.app/zh-Hans.lproj/Localizable.strings
+2017-12-11 01:55:08 +0000  /usr/bin/ditto exited with 0
+2017-12-11 01:55:08 +0000  Processing step: IDEDistributionCreateManifestStep

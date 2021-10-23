@@ -1,0 +1,2554 @@
+2018-07-23 11:03:52.166540+0800 LUTEC[774:263598] [DYMTLInitPlatform] platform initialization successful
+[
+  {
+    "name" : "楼梯口",
+    "highlight" : "z",
+    "level" : "O",
+    "lux" : "w",
+    "hld" : "b",
+    "mode" : "b",
+    "lld" : "f",
+    "il" : 1,
+    "lowlight" : "a",
+    "distance" : "q",
+    "password" : "123",
+    "indicator" : "z",
+    "sn" : "37373fcf27a2a0ce",
+    "alarm" : "z"
+  },
+  {
+    "name" : "左五-升级",
+    "highlight" : "z",
+    "level" : "O",
+    "lux" : "w",
+    "hld" : "b",
+    "mode" : "b",
+    "lld" : "a",
+    "il" : 1,
+    "lowlight" : "a",
+    "distance" : "w",
+    "password" : "",
+    "indicator" : "z",
+    "sn" : "7be9eeecf157d0e5",
+    "alarm" : "z"
+  },
+  {
+    "name" : "后楼梯口1",
+    "highlight" : "z",
+    "level" : "O",
+    "lux" : "w",
+    "hld" : "d",
+    "mode" : "b",
+    "lld" : "f",
+    "il" : 7,
+    "lowlight" : "a",
+    "distance" : "w",
+    "password" : "123",
+    "indicator" : "z",
+    "sn" : "4c364392506954da",
+    "alarm" : "z"
+  },
+  {
+    "name" : "左三",
+    "highlight" : "z",
+    "level" : "O",
+    "lux" : "v",
+    "hld" : "b",
+    "mode" : "b",
+    "lld" : "a",
+    "il" : 7,
+    "lowlight" : "l",
+    "distance" : "w",
+    "password" : "123",
+    "indicator" : "b",
+    "sn" : "9de3b7c747fcd41c",
+    "alarm" : "z"
+  },
+  {
+    "name" : "左四",
+    "highlight" : "z",
+    "level" : "O",
+    "lux" : "w",
+    "hld" : "b",
+    "mode" : "b",
+    "lld" : "a",
+    "il" : 7,
+    "lowlight" : "a",
+    "distance" : "w",
+    "password" : "123",
+    "indicator" : "z",
+    "sn" : "7a9d2e686b90f82b",
+    "alarm" : "a"
+  },
+  {
+    "name" : "左一",
+    "highlight" : "z",
+    "level" : "Y",
+    "lux" : "i",
+    "hld" : "d",
+    "mode" : "b",
+    "lld" : "n",
+    "il" : 7,
+    "lowlight" : "e",
+    "distance" : "u",
+    "password" : "",
+    "indicator" : "b",
+    "sn" : "224a8e17472a1630",
+    "alarm" : "z"
+  },
+  {
+    "name" : "左二",
+    "highlight" : "z",
+    "level" : "O",
+    "lux" : "w",
+    "hld" : "b",
+    "mode" : "b",
+    "lld" : "a",
+    "il" : 7,
+    "lowlight" : "l",
+    "distance" : "w",
+    "password" : "yt***888",
+    "indicator" : "b",
+    "sn" : "0d3487bec52a4efa",
+    "alarm" : "z"
+  },
+  {
+    "name" : "id r o",
+    "highlight" : "z",
+    "level" : "O",
+    "lux" : "w",
+    "hld" : "d",
+    "mode" : "b",
+    "lld" : "a",
+    "il" : 1,
+    "lowlight" : "a",
+    "distance" : "x",
+    "password" : "italia1",
+    "indicator" : "z",
+    "sn" : "bab6d0a9e2c2361f",
+    "alarm" : "z"
+  },
+  {
+    "name" : "车库",
+    "highlight" : "a",
+    "level" : "Y",
+    "lux" : "a",
+    "hld" : "b",
+    "mode" : "b",
+    "lld" : "a",
+    "il" : 1,
+    "lowlight" : "a",
+    "distance" : "a",
+    "password" : "",
+    "indicator" : "a",
+    "sn" : "752e75b3937e6906",
+    "alarm" : "a"
+  },
+  {
+    "name" : "Ｃ1-升级",
+    "highlight" : "h",
+    "level" : "O",
+    "lux" : "a",
+    "hld" : "b",
+    "mode" : "b",
+    "lld" : "f",
+    "il" : 1,
+    "lowlight" : "a",
+    "distance" : "w",
+    "password" : "",
+    "indicator" : "z",
+    "sn" : "bb1d86945fb5db48",
+    "alarm" : "z"
+  },
+  {
+    "name" : "LUTEC 6-升级",
+    "highlight" : "z",
+    "level" : "O",
+    "lux" : "a",
+    "hld" : "b",
+    "mode" : "b",
+    "lld" : "f",
+    "il" : 1,
+    "lowlight" : "a",
+    "distance" : "v",
+    "password" : "",
+    "indicator" : "z",
+    "sn" : "205ea4fe74024798",
+    "alarm" : "z"
+  },
+  {
+    "name" : "1-升级",
+    "highlight" : "z",
+    "level" : "O",
+    "lux" : "w",
+    "hld" : "b",
+    "mode" : "b",
+    "lld" : "f",
+    "il" : 4,
+    "lowlight" : "a",
+    "distance" : "a",
+    "password" : "",
+    "indicator" : "z",
+    "sn" : "f9634e8b17a24de3",
+    "alarm" : "z"
+  },
+  {
+    "name" : "LUTEC UK",
+    "highlight" : "z",
+    "level" : "O",
+    "lux" : "p",
+    "hld" : "b",
+    "mode" : "b",
+    "lld" : "z",
+    "il" : 4,
+    "lowlight" : "i",
+    "distance" : "a",
+    "password" : "mills1",
+    "indicator" : "z",
+    "sn" : "abe9e920b1c072d5",
+    "alarm" : "z"
+  },
+  {
+    "name" : "后楼梯口2-升级",
+    "highlight" : "z",
+    "level" : "O",
+    "lux" : "z",
+    "hld" : "b",
+    "mode" : "b",
+    "lld" : "f",
+    "il" : 1,
+    "lowlight" : "a",
+    "distance" : "w",
+    "password" : "123",
+    "indicator" : "z",
+    "sn" : "4ee48e1310e28839",
+    "alarm" : "z"
+  },
+  {
+    "name" : "s w er n er",
+    "highlight" : "z",
+    "level" : "O",
+    "lux" : "z",
+    "hld" : "k",
+    "mode" : "b",
+    "lld" : "a",
+    "il" : 1,
+    "lowlight" : "c",
+    "distance" : "r",
+    "password" : "",
+    "indicator" : "b",
+    "sn" : "a3202a143b1970a5",
+    "alarm" : "z"
+  },
+  {
+    "name" : "LUTEC",
+    "highlight" : "a",
+    "level" : "O",
+    "lux" : "w",
+    "hld" : "b",
+    "mode" : "b",
+    "lld" : "a",
+    "il" : 1,
+    "lowlight" : "a",
+    "distance" : "w",
+    "password" : "Prinzen1999",
+    "indicator" : "a",
+    "sn" : "16e46468f232ebe8",
+    "alarm" : "z"
+  },
+  {
+    "name" : "ha l p er oliver",
+    "highlight" : "l",
+    "level" : "O",
+    "lux" : "l",
+    "hld" : "b",
+    "mode" : "b",
+    "lld" : "f",
+    "il" : 1,
+    "lowlight" : "a",
+    "distance" : "z",
+    "password" : "1804",
+    "indicator" : "b",
+    "sn" : "b3cf15493db30a7a",
+    "alarm" : "z"
+  },
+  {
+    "name" : "Carlos",
+    "highlight" : "z",
+    "level" : "O",
+    "lux" : "v",
+    "hld" : "b",
+    "mode" : "b",
+    "lld" : "f",
+    "il" : 1,
+    "lowlight" : "a",
+    "distance" : "v",
+    "password" : "Mygaragecam#1",
+    "indicator" : "b",
+    "sn" : "9d989548814c381d",
+    "alarm" : "z"
+  },
+  {
+    "name" : "Brian",
+    "highlight" : "h",
+    "level" : "O",
+    "lux" : "z",
+    "hld" : "b",
+    "mode" : "b",
+    "lld" : "f",
+    "il" : 1,
+    "lowlight" : "a",
+    "distance" : "a",
+    "password" : "goole49",
+    "indicator" : "b",
+    "sn" : "9b72c4835d780094",
+    "alarm" : "z"
+  },
+  {
+    "name" : "LUTEC",
+    "highlight" : "a",
+    "level" : "Y",
+    "lux" : "a",
+    "hld" : "b",
+    "mode" : "b",
+    "lld" : "a",
+    "il" : 4,
+    "lowlight" : "a",
+    "distance" : "a",
+    "password" : "",
+    "indicator" : "a",
+    "sn" : "b3a008b383b7cf01",
+    "alarm" : "z"
+  },
+  {
+    "name" : "方总灯",
+    "highlight" : "z",
+    "level" : "O",
+    "lux" : "w",
+    "hld" : "b",
+    "mode" : "b",
+    "lld" : "a",
+    "il" : 1,
+    "lowlight" : "a",
+    "distance" : "y",
+    "password" : "",
+    "indicator" : "z",
+    "sn" : "f0235c4702c2ab20",
+    "alarm" : "z"
+  }
+]
+XBasic Version Time[Mar 19 2018 13:23:55]
+CRunDriver[5d03950]-->AddWorkThread_0
+CRunDriver[5d03950]-->AddWorkThread_1
+CRunDriver[5d03950]-->AddWorkThread_2
+FunSDK Version Time[Mar 29 2018 19:58:38]
+XBasic Version Time[Mar 19 2018 13:23:55]
+/Users/zyj/Desktop/MoblieLibs2/FunSDK/FunSDK/FunSDK.cpp/FUN_InitNetSDKXBasic Version Time[Mar 19 2018 13:23:55]
+/Users/zyj/Desktop/MoblieLibs2/FunSDK/FunSDK/FunSDK.cpp/FUN_SetFunStrAttr[2//var/mobile/Containers/Data/Application/02045C2D-1208-4807-86C0-E04B7A5F76B2/Library/Caches/Configs/]CKeyValue::SetFile[/var/mobile/Containers/Data/Application/02045C2D-1208-4807-86C0-E04B7A5F76B2/Library/Caches/Configs/KEY_VALUES_1.txt]CKeyValue::SetFile[/var/mobile/Containers/Data/Application/02045C2D-1208-4807-86C0-E04B7A5F76B2/Library/Caches/Configs/KEY_VALUES_2.txt]CKeyValue::SetFile[/var/mobile/Containers/Data/Application/02045C2D-1208-4807-86C0-E04B7A5F76B2/Library/Caches/Configs/KEY_VALUES_4.txt]CKeyValue::SetFile[/var/mobile/Containers/Data/Application/02045C2D-1208-4807-86C0-E04B7A5F76B2/Library/Caches/Configs/KEY_VALUES_3.txt]CKeyValue::SetFile[/var/mobile/Containers/Data/Application/02045C2D-1208-4807-86C0-E04B7A5F76B2/Library/Caches/Configs/KEY_VALUES_5.txt]CKeyValue::SetFile[/var/mobile/Containers/Data/Application/02045C2D-1208-4807-86C0-E04B7A5F76B2/Library/Caches/Configs/KEY_VALUES_6.txt]CKeyValue::SetFile[/var/mobile/Containers/Data/Application/02045C2D-1208-4807-86C0-E04B7A5F76B2/Library/Caches/Configs/KEY_VALUES_7.txt]CKeyValue::SetFile[/var/mobile/Containers/Data/Application/02045C2D-1208-4807-86C0-E04B7A5F76B2/Library/Caches/Configs/KEY_VALUES_8.txt]CKeyValue::SetFile[/var/mobile/Containers/Data/Application/02045C2D-1208-4807-86C0-E04B7A5F76B2/Library/Caches/Configs/ts_keys.txt]CKeyValue::SetFile[/var/mobile/Containers/Data/Application/02045C2D-1208-4807-86C0-E04B7A5F76B2/Library/Caches/Configs/dss_pre_ready.txt]CKeyValue::SetFile[/var/mobile/Containers/Data/Application/02045C2D-1208-4807-86C0-E04B7A5F76B2/Library/Caches/Configs/dss_support_history.txt]/Users/zyj/Desktop/MoblieLibs2/FunSDK/FunSDK/FunSDK.cpp/FUN_SetFunStrAttr[3//var/mobile/Containers/Data/Application/02045C2D-1208-4807-86C0-E04B7A5F76B2/Library/Caches/Updates/]/Users/zyj/Desktop/MoblieLibs2/FunSDK/FunSDK/FunSDK.cpp/FUN_SetFunStrAttr[9//var/mobile/Containers/Data/Application/02045C2D-1208-4807-86C0-E04B7A5F76B2/Library/Caches/Temps/]/Users/zyj/Desktop/MoblieLibs2/FunSDK/FunSDK/FunSDK.cpp/FUN_SetFunStrAttr[10//var/mobile/Containers/Data/Application/02045C2D-1208-4807-86C0-E04B7A5F76B2/Documents/password.txt]CKeyValue::SetFile[/var/mobile/Containers/Data/Application/02045C2D-1208-4807-86C0-E04B7A5F76B2/Documents/password.txt]InitServer-InitServer[223.4.33.127;54.84.132.236;112.124.0.188:15010]
+GetHttpPtl[szHost:rs.xmeye.net:443]2018-07-23 11:03:52-601--StartServer/217
+2018-07-23 11:03:52-601--peerConn_init/274
+干的漂亮success
+libeznat Version[$Build in:Dec 25 2017, 15:00:54]
+CConnectManager::Init()
+\305ж\317\312Ƿ\361\312ǶԳ\306\320ͻ\362\325\337Բ׶\320\316\313\371\273\250ʱ\274\344Ϊ:25
+2018-07-23 11:03:52.921229+0800 LUTEC[774:263303] 发送设置数据:BAzU
+
+2018-07-23 11:03:52.925199+0800 LUTEC[774:263578] TIC TCP Conn Failed [1:0x1d4176b00]: 1:61 Err(61)
+2018-07-23 11:03:52.925300+0800 LUTEC[774:263578] Task <6B212F8A-37F9-4A91-B03E-69DE76043086>.<1> HTTP load failed (error code: -1004 [1:61])
+2018-07-23 11:03:52.925403+0800 LUTEC[774:263576] Task <6B212F8A-37F9-4A91-B03E-69DE76043086>.<1> finished with error - code: -1004
+2018-07-23 11:03:52.925403+0800 LUTEC[774:263578] TIC TCP Conn Failed [2:0x1d4177100]: 1:61 Err(61)
+2018-07-23 11:03:52.925490+0800 LUTEC[774:263578] Task <2F5A720E-D165-4765-AACC-704A9ED6F17B>.<2> HTTP load failed (error code: -1004 [1:61])
+2018-07-23 11:03:52.929379+0800 LUTEC[774:263576] Task <2F5A720E-D165-4765-AACC-704A9ED6F17B>.<2> finished with error - code: -1004
+connection error or data is nill
+connection error or data is nill
+GetHttpPtl[szHost:rs.xmeye.net:443]2018-07-23 11:03:52.966194+0800 LUTEC[774:263303] The behavior of the UICollectionViewFlowLayout is not defined because:
+2018-07-23 11:03:52.966234+0800 LUTEC[774:263303] the item height must be less than the height of the UICollectionView minus the section insets top and bottom values, minus the content insets top and bottom values.
+2018-07-23 11:03:52.966635+0800 LUTEC[774:263303] The relevant UICollectionViewFlowLayout instance is <UICollectionViewFlowLayout: 0x105d25bc0>, and it is attached to <UICollectionView: 0x10884cc00; frame = (0 0; 375 667); autoresize = RM+BM; gestureRecognizers = <NSArray: 0x1d424da40>; layer = <CALayer: 0x1d4223d40>; contentOffset: {0, 0}; contentSize: {0, 667}; adjustedContentInset: {0, 0, 0, 0}> collection view layout: <UICollectionViewFlowLayout: 0x105d25bc0>.
+2018-07-23 11:03:52.966656+0800 LUTEC[774:263303] Make a symbolic breakpoint at UICollectionViewFlowLayoutBreakForInvalidSizes to catch this in the debugger.
+2018-07-23 11:03:52.973606+0800 LUTEC[774:263303] The behavior of the UICollectionViewFlowLayout is not defined because:
+2018-07-23 11:03:52.973643+0800 LUTEC[774:263303] the item height must be less than the height of the UICollectionView minus the section insets top and bottom values, minus the content insets top and bottom values.
+2018-07-23 11:03:52.973841+0800 LUTEC[774:263303] The relevant UICollectionViewFlowLayout instance is <UICollectionViewFlowLayout: 0x105d25bc0>, and it is attached to <UICollectionView: 0x10884cc00; frame = (0 0; 375 724); autoresize = RM+BM; gestureRecognizers = <NSArray: 0x1d424da40>; layer = <CALayer: 0x1d4223d40>; contentOffset: {0, 0}; contentSize: {0, 667}; adjustedContentInset: {0, 0, 34, 0}> collection view layout: <UICollectionViewFlowLayout: 0x105d25bc0>.
+2018-07-23 11:03:52.973865+0800 LUTEC[774:263303] Make a symbolic breakpoint at UICollectionViewFlowLayoutBreakForInvalidSizes to catch this in the debugger.
+2018-07-23 11:03:53.054043+0800 LUTEC[774:263303] [LayoutConstraints] Unable to simultaneously satisfy constraints.
+	Probably at least one of the constraints in the following list is one you don't want. 
+	Try this: 
+		(1) look at each constraint and try to figure out which you don't expect; 
+		(2) find the code that added the unwanted constraint or constraints and fix it. 
+	(Note: If you're seeing NSAutoresizingMaskLayoutConstraints that you don't understand, refer to the documentation for the UIView property translatesAutoresizingMaskIntoConstraints) 
+(
+    "<NSAutoresizingMaskLayoutConstraint:0x1d409f8b0 h=-&- v=-&- LUTEC.TimeSelectionBar:0x105d3fc60.height == UIView:0x105c36940.height - 235.642   (active)>",
+    "<NSAutoresizingMaskLayoutConstraint:0x1d409fb30 h=--& v=--& UIView:0x105c31230.height == 603   (active)>",
+    "<NSLayoutConstraint:0x1d0281680 UIView:0x105c36940.height == 0.373134*UIView:0x105c31230.height   (active)>"
+)
+
+Will attempt to recover by breaking constraint 
+<NSLayoutConstraint:0x1d0281680 UIView:0x105c36940.height == 0.373134*UIView:0x105c31230.height   (active)>
+
+Make a symbolic breakpoint at UIViewAlertForUnsatisfiableConstraints to catch this in the debugger.
+The methods in the UIConstraintBasedLayoutDebugging category on UIView listed in <UIKit/UIView.h> may also be helpful.
+连灯状态 c
+2018-07-23 11:03:53.063552+0800 LUTEC[774:263303] [LayoutConstraints] Unable to simultaneously satisfy constraints.
+	Probably at least one of the constraints in the following list is one you don't want. 
+	Try this: 
+		(1) look at each constraint and try to figure out which you don't expect; 
+		(2) find the code that added the unwanted constraint or constraints and fix it. 
+	(Note: If you're seeing NSAutoresizingMaskLayoutConstraints that you don't understand, refer to the documentation for the UIView property translatesAutoresizingMaskIntoConstraints) 
+(
+    "<NSAutoresizingMaskLayoutConstraint:0x1d409f8b0 h=-&- v=-&- LUTEC.TimeSelectionBar:0x105d3fc60.height == UIView:0x105c36940.height - 235.642   (active)>",
+    "<NSAutoresizingMaskLayoutConstraint:0x1d409fa90 h=--& v=--& UIView:0x105c31230.width == 375   (active)>",
+    "<NSLayoutConstraint:0x1d409e140 UILabel:0x105d3c710'\U622a\U5c4f'.width == 86   (active)>",
+    "<NSLayoutConstraint:0x1d0281680 UIView:0x105c36940.height == 0.373134*UIView:0x105c31230.height   (active)>",
+    "<NSLayoutConstraint:0x1d0281810 UIView:0x105c31420.width == 0.957333*UIView:0x105c31230.width   (active)>",
+    "<NSLayoutConstraint:0x1d0281900 UIButton:0x105d385f0.leading == 0.0533333*UIView:0x105c31230.trailing   (active)>",
+    "<NSLayoutConstraint:0x1d02819a0 UIButton:0x105d385f0.width == 0.0895522*UIView:0x105c31230.height   (active)>",
+    "<NSLayoutConstraint:0x1d0281f40 UIButton:0x105c34ba0.width == UIButton:0x105d385f0.width   (active)>",
+    "<NSLayoutConstraint:0x1d0281fe0 UIButton:0x105c34ba0.leading == UIButton:0x105d385f0.leading   (active)>",
+    "<NSLayoutConstraint:0x1d0282170 UILabel:0x105d3c710'\U622a\U5c4f'.centerX == UIButton:0x105c34ba0.centerX   (active)>",
+    "<NSLayoutConstraint:0x1d0282210 H:|-(4)-[UILabel:0x105d3c710'\U622a\U5c4f']   (active, names: '|':UIView:0x105c31230 )>"
+)
+
+Will attempt to recover by breaking constraint 
+<NSLayoutConstraint:0x1d409e140 UILabel:0x105d3c710'截屏'.width == 86   (active)>
+
+Make a symbolic breakpoint at UIViewAlertForUnsatisfiableConstraints to catch this in the debugger.
+The methods in the UIConstraintBasedLayoutDebugging category on UIView listed in <UIKit/UIView.h> may also be helpful.
+2018-07-23 11:03:53.064520+0800 LUTEC[774:263303] [LayoutConstraints] Unable to simultaneously satisfy constraints.
+	Probably at least one of the constraints in the following list is one you don't want. 
+	Try this: 
+		(1) look at each constraint and try to figure out which you don't expect; 
+		(2) find the code that added the unwanted constraint or constraints and fix it. 
+	(Note: If you're seeing NSAutoresizingMaskLayoutConstraints that you don't understand, refer to the documentation for the UIView property translatesAutoresizingMaskIntoConstraints) 
+(
+    "<NSAutoresizingMaskLayoutConstraint:0x1d409f8b0 h=-&- v=-&- LUTEC.TimeSelectionBar:0x105d3fc60.height == UIView:0x105c36940.height - 235.642   (active)>",
+    "<NSAutoresizingMaskLayoutConstraint:0x1d409fb30 h=--& v=--& UIView:0x105c31230.height == 603   (active)>",
+    "<NSLayoutConstraint:0x1d0281680 UIView:0x105c36940.height == 0.373134*UIView:0x105c31230.height   (active)>"
+)
+
+Will attempt to recover by breaking constraint 
+<NSLayoutConstraint:0x1d0281680 UIView:0x105c36940.height == 0.373134*UIView:0x105c31230.height   (active)>
+
+Make a symbolic breakpoint at UIViewAlertForUnsatisfiableConstraints to catch this in the debugger.
+The methods in the UIConstraintBasedLayoutDebugging category on UIView listed in <UIKit/UIView.h> may also be helpful.
+2018-07-23 11:03:53.248762+0800 LUTEC[774:263303] NO MSG Object.....
+2018-07-23 11:03:53.248836+0800 LUTEC[774:263303] ============[ret] 5000======param1 0==============
+2018-07-23 11:03:53.271507+0800 LUTEC[774:263303] NO MSG Object.....
+2018-07-23 11:03:53.271538+0800 LUTEC[774:263303] NO MSG Object.....
+252bede424c7504d645724c89b451a36f1b148321b3694ff1f014f2f43544998
+2018-07-23 11:03:53.272140+0800 LUTEC[774:263303] 推送:51903748---51903759
+setActove重新进来后响应（APP进入前台）
+AS_AlarmUnSubscribe_HttpContent[{"AlarmCenter":{"Header":{"ErrorString":"Success OK","CSeq":"1","Version":"1.0","MessageType":"MSG_ALARM_UNSUBSCRIBE_RSP","ErrorNum":"200"}}}]AS_AlarmUnSubscribe:[nRet:200]2018-07-23 11:03:53.458586+0800 LUTEC[774:263303] NO MSG Object.....
+2018-07-23 11:03:53.458674+0800 LUTEC[774:263303] ============[ret] 6001======param1 0==============
+2018-07-23 11:03:53.458708+0800 LUTEC[774:263303] 解除推送EMSG_MC_UnlinkDev:0
+2018-07-23 11:03:53.458751+0800 LUTEC[774:263303] ============[ret] 6011======param1 0==============
+2018-07-23 11:03:53.458777+0800 LUTEC[774:263303] ============[ret] 5122======param1 -11502==============
+2018-07-23 11:03:53.458816+0800 LUTEC[774:263303] ============[ret] 5122======param1 -100000==============
+2018-07-23 11:03:53.770332+0800 LUTEC[774:263303] ============[ret] 5128======param1 1==============
+2018-07-23 11:03:53.770423+0800 LUTEC[774:263303] 这个是官方返回的EMSG_DEV_GET_CONFIG_JSON 第一部分:1
+2018-07-23 11:03:53.770450+0800 LUTEC[774:263303] 这个是官方返回的EMSG_DEV_GET_CONFIG_JSON 第二部分:-939292768
+2018-07-23 11:03:53.770496+0800 LUTEC[774:263303] 这个是官方返回的EMSG_DEV_GET_CONFIG_JSON 第三部分:117441536
+这才算完事2018-07-23 11:03:53.771154+0800 LUTEC[774:263303] ============[ret] 5122======param1 0==============
+nConfigID: 1040, SET_CONFIG_JSON: {
+	"Name":	"Detect.MotionDetect.[0]",
+	"Detect.MotionDetect.[0]":	{
+		"Enable":	true,
+		"EventHandler":	{
+			"TimeSection":	[["1 00:00:00-24:00:00", "0 00:00:00-24:00:00", "0 00:00:00-24:00:00", "0 00:00:00-24:00:00", "0 00:00:00-24:00:00", "0 00:00:00-24:00:00"], ["1 00:00:00-24:00:00", "0 00:00:00-24:00:00", "0 00:00:00-24:00:00", "0 00:00:00-24:00:00", "0 00:00:00-24:00:00", "0 00:00:00-24:00:00"], ["1 00:00:00-24:00:00", "0 00:00:00-24:00:00", "0 00:00:00-24:00:00", "0 00:00:00-24:00:00", "0 00:00:00-24:00:00", "0 00:00:00-24:00:00"], ["1 00:00:00-24:00:00", "0 00:00:00-24:00:00", "0 00:00:00-24:00:00", "0 00:00:00-24:00:00", "0 00:00:00-24:00:00", "0 00:00:00-24:00:00"], ["1 00:00:00-24:00:00", "0 00:00:00-24:00:00", "0 00:00:00-24:00:00", "0 00:00:00-24:00:00", "0 00:00:00-24:00:00", "0 00:00:00-24:00:00"], ["1 00:00:00-24:00:00", "0 00:00:00-24:00:00", "0 00:00:00-24:00:00", "0 00:00:00-24:00:00", "0 00:00:00-24:00:00", "0 00:00:00-24:00:00"], ["1 00:00:00-24:00:00", "0 00:00:00-24:00:00", "0 00:00:00-24:00:00", "0 00:00:00-24:00:00", "0 00:00:00-24:00:00", "0 00:00:00-24:00:00"]],
+			"TipEnable":	false,
+			"RecordMask":	"0x00000001000000000000000000000000",
+			"MailEnable":	false,
+			"LogEnable":	false,
+			"ShortMsgEnable":	false,
+			"MatrixEnable":	false,
+			"VoiceEnable":	false,
+			"AlarmOutEnable":	true,
+			"BeepEnable":	false,
+			"MultimediaMsgEnable":	false,
+			"ShowInfo":	false,
+			"EventLatch":	2,
+			"MessageEnable":	true,
+			"RecordEnable":	true,
+			"RecordLatch":	10,
+			"TourMask":	"0x00000000000000000000000000000000",
+			"AlarmInfo":	"",
+			"AlarmOutMask":	"0x00000000",
+			"MatrixMask":	"0x00000000",
+			"FTPEnable":	false,
+			"PtzEnable":	false,
+			"PtzLink":	[["None", 0], ["None", 0], ["None", 0], ["None", 0], ["None", 0], ["None", 0], ["None", 0], ["None", 0], ["None", 0], ["None", 0], ["None", 0], ["None", 0], ["None", 0], ["None", 0], ["None", 0], ["None", 0], ["None", 0], ["None", 0], ["None", 0], ["None", 0], ["None", 0], ["None", 0], ["None", 0], ["None", 0], ["None", 0], ["None", 0], ["None", 0], ["None", 0], ["None", 0], ["None", 0], ["None", 0], ["None", 0], ["None", 0], ["None", 0], ["None", 0], ["None", 0], ["None", 0], ["None", 0], ["None", 0], ["None", 0], ["None", 0], ["None", 0], ["None", 0], ["None", 0], ["None", 0], ["None", 0], ["None", 0], ["None", 0], ["None", 0], ["None", 0], ["None", 0], ["None", 0], ["None", 0], ["None", 0], ["None", 0], ["None", 0], ["None", 0], ["None", 0], ["None", 0], ["None", 0], ["None", 0], ["None", 0], ["None", 0], ["None", 0]],
+			"SnapEnable":	false,
+			"SnapShotMask":	"0x00000000",
+			"TourEnable":	false,
+			"MsgtoNetEnable":	true,
+			"AlarmOutLatch":	10,
+			"ShowInfoMask":	"0x00000000000000000000000000000000"
+		},
+		"Level":	1,
+		"Region":	["0xffffffff", "0xffffffff", "0xffffffff", "0xffffffff", "0xffffffff", "0xffffffff", "0xffffffff", "0xffffffff", "0xffffffff", "0xffffffff", "0xffffffff", "0xffffffff", "0xffffffff", "0xffffffff", "0xffffffff", "0xffffffff", "0xffffffff", "0xffffffff", "0xffffffff", "0xffffffff", "0xffffffff", "0xffffffff", "0xffffffff", "0xffffffff", "0xffffffff", "0xffffffff", "0xffffffff", "0xffffffff", "0xffffffff", "0xffffffff", "0xffffffff", "0xffffffff"]
+	}
+}2018-07-23 11:03:54.013619+0800 LUTEC[774:263303] ============[ret] 5129======param1 1==============
+2018-07-23 11:03:54.013737+0800 LUTEC[774:263303] EMSG_DEV_SET_CONFIG_JSON:1
+2018-07-23 11:03:54.013848+0800 LUTEC[774:263303] 注册推送成功
+2018-07-23 11:03:55.241850+0800 LUTEC[774:263303] ============[ret] 5126======param1 2684==============
+2018-07-23 11:03:55.242019+0800 LUTEC[774:263303] Search[9fe0fe48893f061c],ip[10.10.203.87]
+2018-07-23 11:03:55.242100+0800 LUTEC[774:263303] Search[0d3487bec52a4efa],ip[10.10.203.38]
+2018-07-23 11:03:55.242168+0800 LUTEC[774:263303] Search[37373fcf27a2a0ce],ip[10.10.203.90]
+2018-07-23 11:03:55.242238+0800 LUTEC[774:263303] Search[ba6a22197748a30a],ip[10.10.203.124]
+2018-07-23 11:03:55.242308+0800 LUTEC[774:263303] Search[c5a334e74147afa0],ip[10.10.203.100]
+2018-07-23 11:03:55.242375+0800 LUTEC[774:263303] Search[039e6c529e83e890],ip[10.10.203.76]
+2018-07-23 11:03:55.242441+0800 LUTEC[774:263303] Search[7826bf5d608ee4d2],ip[10.10.203.254]
+2018-07-23 11:03:55.242506+0800 LUTEC[774:263303] Search[4c364392506954da],ip[10.10.203.78]
+2018-07-23 11:03:55.242572+0800 LUTEC[774:263303] Search[224a8e17472a1630],ip[10.10.203.43]
+2018-07-23 11:03:55.242644+0800 LUTEC[774:263303] Search[b01b1c86ba019696],ip[10.10.203.10]
+2018-07-23 11:03:55.242714+0800 LUTEC[774:263303] Search[7be9eeecf157d0e5],ip[10.10.203.39]
+2018-07-23 11:03:55.942785+0800 LUTEC[774:263609] [] tcp_timers tcp[4] retransmit SYN 3
+2018-07-23 11:03:55.943115+0800 LUTEC[774:263609] [] tcp_timers tcp[3] retransmit SYN 3
+\305ж\317\312Ƿ\361\265\330ַ\317\336\326ƻ\271\312Ƕ˿\332\317\336\326\306\313\371\273\250ʱ\274\344Ϊ:1583
+libeznat-NAT type:Port-Restricted cone
+m_initFlag[1], m_serverStatus[1]   CConnectManager success
+CThreadManager::CThreadManager()>>>>>>>>>
+=========g_is_cache_enable[1]===========
+高清：Optional("标清")
+得到了什么？
+2018-07-23 11:03:56.343377+0800 LUTEC[774:263303] 
+[getInterfaceBytes-Total]1270764544,344243200
+37373fcf27a2a0ce
+2018-07-23 11:03:56.354480+0800 LUTEC[774:263576] TIC TCP Conn Failed [5:0x1c0176740]: 1:61 Err(61)
+2018-07-23 11:03:56.354739+0800 LUTEC[774:263576] Task <9D08BDB5-DBA1-4B55-9D9D-EFCAB2F3E01D>.<5> HTTP load failed (error code: -1004 [1:61])
+2018-07-23 11:03:56.355013+0800 LUTEC[774:263609] Task <9D08BDB5-DBA1-4B55-9D9D-EFCAB2F3E01D>.<5> finished with error - code: -1004
+connection error or data is nill
+2018-07-23 11:03:56.444382+0800 LUTEC[774:263303] OnFunSDKResult 5009,p1:64,p2:0,p3:0
+2018-07-23 11:03:56.444419+0800 LUTEC[774:263303] EMSG_SYS_GET_DEV_STATE 5009,p1:64,p2:0,p3:0
+得到数据
+121.161458163662 30.0199205646627 8.99346160888672
+2018-07-23 11:03:56.453127+0800 LUTEC[774:263303] OnFunSDKResult 5139,p1:0,p2:15000,p3:0
+2018-07-23 11:03:56.453158+0800 LUTEC[774:263303] EMSG_DEV_LOGIN 5139,p1:0,p2:15000,p3:0
+取报警全部日期取报警全部日期2018-07-23 11:03:56.474433+0800 LUTEC[774:263723] 发送设置数据:BFbU
+
+2018-07-23 11:03:56.476641+0800 LUTEC[774:263303] 播放 :标清, handler :1048589
+得到数据
+121.161350934071 30.0196544299144 8.99922466278076
+2018-07-23 11:03:56.483496+0800 LUTEC[774:263303] ============[ret] 5122======param1 -100000==============
+得到数据
+121.161415530102 30.0197644737966 8.99922466278076
+得到数据
+121.161458556188 30.0198450968572 8.99922466278076
+得到数据
+121.161480051115 30.0198853651533 8.99922466278076
+得到数据
+121.161490816717 30.0199055425873 8.99922466278076
+2018-07-23 11:03:56.532498+0800 LUTEC[774:263303] NO MSG Object.....
+2018-07-23 11:03:56.532630+0800 LUTEC[774:263303] OnFunSDKResult 5122,p1:0,p2:0,p3:5
+2018-07-23 11:03:56.542820+0800 LUTEC[774:263303] NO MSG Object.....
+2018-07-23 11:03:56.633361+0800 LUTEC[774:263303] NO MSG Object.....
+2018-07-23 11:03:56.744142+0800 LUTEC[774:263303] OnFunSDKResult 5122,p1:0,p2:0,p3:5
+2018-07-23 11:03:56.744198+0800 LUTEC[774:263303] OnFunSDKResult 5122,p1:0,p2:0,p3:5
+2018-07-23 11:03:56.831448+0800 LUTEC[774:263303] OnFunSDKResult 5131,p1:1,p2:138,p3:2026
+取报警日期1month data { "Name" : "OPSCalendar", "OPSCalendar" : { "Mask" : [ 0, 0, 0, 0, 0, 0, 7340032, 0, 0, 0, 0, 0 ] }, "Ret" : 100, "SessionID" : "0x5a" }
+2018-07-23 11:03:56.861783+0800 LUTEC[774:263303] OnFunSDKResult 5131,p1:1,p2:132,p3:2026
+取报警日期0month data { "Name" : "OPSCalendar", "OPSCalendar" : { "Mask" : [ 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 ] }, "Ret" : 100, "SessionID" : "0x5a" }
+2018-07-23 11:03:56.862081+0800 LUTEC[774:263303] ============[ret] 5122======param1 0==============
+2018-07-23 11:03:56.862219+0800 LUTEC[774:263303] OnFunSDKResult 5501,p1:0,p2:0,p3:2
+2018-07-23 11:03:56.862269+0800 LUTEC[774:263303] EMSG_START_PLAY 5501,p1:0,p2:0,DSS:2
+2018-07-23 11:03:56.862331+0800 LUTEC[774:263303] OnFunSDKResult 5516,p1:0,p2:0,p3:0
+Buffering
+2018-07-23 11:03:56.890586+0800 LUTEC[774:263303] ============[ret] 5130======param1 12==============
+2018-07-23 11:03:56.890688+0800 LUTEC[774:263303] 收到串口数据:[BqbwbzazfzOU] from []
+[
+  {
+    "name" : "楼梯口",
+    "highlight" : "z",
+    "level" : "O",
+    "lux" : "w",
+    "hld" : "b",
+    "mode" : "b",
+    "lld" : "f",
+    "il" : 1,
+    "lowlight" : "a",
+    "distance" : "q",
+    "password" : "123",
+    "indicator" : "z",
+    "sn" : "37373fcf27a2a0ce",
+    "alarm" : "z"
+  },
+  {
+    "name" : "左五-升级",
+    "highlight" : "z",
+    "level" : "O",
+    "lux" : "w",
+    "hld" : "b",
+    "mode" : "b",
+    "lld" : "a",
+    "il" : 1,
+    "lowlight" : "a",
+    "distance" : "w",
+    "password" : "",
+    "indicator" : "z",
+    "sn" : "7be9eeecf157d0e5",
+    "alarm" : "z"
+  },
+  {
+    "name" : "后楼梯口1",
+    "highlight" : "z",
+    "level" : "O",
+    "lux" : "w",
+    "hld" : "d",
+    "mode" : "b",
+    "lld" : "f",
+    "il" : 7,
+    "lowlight" : "a",
+    "distance" : "w",
+    "password" : "123",
+    "indicator" : "z",
+    "sn" : "4c364392506954da",
+    "alarm" : "z"
+  },
+  {
+    "name" : "左三",
+    "highlight" : "z",
+    "level" : "O",
+    "lux" : "v",
+    "hld" : "b",
+    "mode" : "b",
+    "lld" : "a",
+    "il" : 7,
+    "lowlight" : "l",
+    "distance" : "w",
+    "password" : "123",
+    "indicator" : "b",
+    "sn" : "9de3b7c747fcd41c",
+    "alarm" : "z"
+  },
+  {
+    "name" : "左四",
+    "highlight" : "z",
+    "level" : "O",
+    "lux" : "w",
+    "hld" : "b",
+    "mode" : "b",
+    "lld" : "a",
+    "il" : 7,
+    "lowlight" : "a",
+    "distance" : "w",
+    "password" : "123",
+    "indicator" : "z",
+    "sn" : "7a9d2e686b90f82b",
+    "alarm" : "a"
+  },
+  {
+    "name" : "左一",
+    "highlight" : "z",
+    "level" : "Y",
+    "lux" : "i",
+    "hld" : "d",
+    "mode" : "b",
+    "lld" : "n",
+    "il" : 7,
+    "lowlight" : "e",
+    "distance" : "u",
+    "password" : "",
+    "indicator" : "b",
+    "sn" : "224a8e17472a1630",
+    "alarm" : "z"
+  },
+  {
+    "name" : "左二",
+    "highlight" : "z",
+    "level" : "O",
+    "lux" : "w",
+    "hld" : "b",
+    "mode" : "b",
+    "lld" : "a",
+    "il" : 7,
+    "lowlight" : "l",
+    "distance" : "w",
+    "password" : "yt***888",
+    "indicator" : "b",
+    "sn" : "0d3487bec52a4efa",
+    "alarm" : "z"
+  },
+  {
+    "name" : "id r o",
+    "highlight" : "z",
+    "level" : "O",
+    "lux" : "w",
+    "hld" : "d",
+    "mode" : "b",
+    "lld" : "a",
+    "il" : 1,
+    "lowlight" : "a",
+    "distance" : "x",
+    "password" : "italia1",
+    "indicator" : "z",
+    "sn" : "bab6d0a9e2c2361f",
+    "alarm" : "z"
+  },
+  {
+    "name" : "车库",
+    "highlight" : "a",
+    "level" : "Y",
+    "lux" : "a",
+    "hld" : "b",
+    "mode" : "b",
+    "lld" : "a",
+    "il" : 1,
+    "lowlight" : "a",
+    "distance" : "a",
+    "password" : "",
+    "indicator" : "a",
+    "sn" : "752e75b3937e6906",
+    "alarm" : "a"
+  },
+  {
+    "name" : "Ｃ1-升级",
+    "highlight" : "h",
+    "level" : "O",
+    "lux" : "a",
+    "hld" : "b",
+    "mode" : "b",
+    "lld" : "f",
+    "il" : 1,
+    "lowlight" : "a",
+    "distance" : "w",
+    "password" : "",
+    "indicator" : "z",
+    "sn" : "bb1d86945fb5db48",
+    "alarm" : "z"
+  },
+  {
+    "name" : "LUTEC 6-升级",
+    "highlight" : "z",
+    "level" : "O",
+    "lux" : "a",
+    "hld" : "b",
+    "mode" : "b",
+    "lld" : "f",
+    "il" : 1,
+    "lowlight" : "a",
+    "distance" : "v",
+    "password" : "",
+    "indicator" : "z",
+    "sn" : "205ea4fe74024798",
+    "alarm" : "z"
+  },
+  {
+    "name" : "1-升级",
+    "highlight" : "z",
+    "level" : "O",
+    "lux" : "w",
+    "hld" : "b",
+    "mode" : "b",
+    "lld" : "f",
+    "il" : 4,
+    "lowlight" : "a",
+    "distance" : "a",
+    "password" : "",
+    "indicator" : "z",
+    "sn" : "f9634e8b17a24de3",
+    "alarm" : "z"
+  },
+  {
+    "name" : "LUTEC UK",
+    "highlight" : "z",
+    "level" : "O",
+    "lux" : "p",
+    "hld" : "b",
+    "mode" : "b",
+    "lld" : "z",
+    "il" : 4,
+    "lowlight" : "i",
+    "distance" : "a",
+    "password" : "mills1",
+    "indicator" : "z",
+    "sn" : "abe9e920b1c072d5",
+    "alarm" : "z"
+  },
+  {
+    "name" : "后楼梯口2-升级",
+    "highlight" : "z",
+    "level" : "O",
+    "lux" : "z",
+    "hld" : "b",
+    "mode" : "b",
+    "lld" : "f",
+    "il" : 1,
+    "lowlight" : "a",
+    "distance" : "w",
+    "password" : "123",
+    "indicator" : "z",
+    "sn" : "4ee48e1310e28839",
+    "alarm" : "z"
+  },
+  {
+    "name" : "s w er n er",
+    "highlight" : "z",
+    "level" : "O",
+    "lux" : "z",
+    "hld" : "k",
+    "mode" : "b",
+    "lld" : "a",
+    "il" : 1,
+    "lowlight" : "c",
+    "distance" : "r",
+    "password" : "",
+    "indicator" : "b",
+    "sn" : "a3202a143b1970a5",
+    "alarm" : "z"
+  },
+  {
+    "name" : "LUTEC",
+    "highlight" : "a",
+    "level" : "O",
+    "lux" : "w",
+    "hld" : "b",
+    "mode" : "b",
+    "lld" : "a",
+    "il" : 1,
+    "lowlight" : "a",
+    "distance" : "w",
+    "password" : "Prinzen1999",
+    "indicator" : "a",
+    "sn" : "16e46468f232ebe8",
+    "alarm" : "z"
+  },
+  {
+    "name" : "ha l p er oliver",
+    "highlight" : "l",
+    "level" : "O",
+    "lux" : "l",
+    "hld" : "b",
+    "mode" : "b",
+    "lld" : "f",
+    "il" : 1,
+    "lowlight" : "a",
+    "distance" : "z",
+    "password" : "1804",
+    "indicator" : "b",
+    "sn" : "b3cf15493db30a7a",
+    "alarm" : "z"
+  },
+  {
+    "name" : "Carlos",
+    "highlight" : "z",
+    "level" : "O",
+    "lux" : "v",
+    "hld" : "b",
+    "mode" : "b",
+    "lld" : "f",
+    "il" : 1,
+    "lowlight" : "a",
+    "distance" : "v",
+    "password" : "Mygaragecam#1",
+    "indicator" : "b",
+    "sn" : "9d989548814c381d",
+    "alarm" : "z"
+  },
+  {
+    "name" : "Brian",
+    "highlight" : "h",
+    "level" : "O",
+    "lux" : "z",
+    "hld" : "b",
+    "mode" : "b",
+    "lld" : "f",
+    "il" : 1,
+    "lowlight" : "a",
+    "distance" : "a",
+    "password" : "goole49",
+    "indicator" : "b",
+    "sn" : "9b72c4835d780094",
+    "alarm" : "z"
+  },
+  {
+    "name" : "LUTEC",
+    "highlight" : "a",
+    "level" : "Y",
+    "lux" : "a",
+    "hld" : "b",
+    "mode" : "b",
+    "lld" : "a",
+    "il" : 4,
+    "lowlight" : "a",
+    "distance" : "a",
+    "password" : "",
+    "indicator" : "a",
+    "sn" : "b3a008b383b7cf01",
+    "alarm" : "z"
+  },
+  {
+    "name" : "方总灯",
+    "highlight" : "z",
+    "level" : "O",
+    "lux" : "w",
+    "hld" : "b",
+    "mode" : "b",
+    "lld" : "a",
+    "il" : 1,
+    "lowlight" : "a",
+    "distance" : "y",
+    "password" : "",
+    "indicator" : "z",
+    "sn" : "f0235c4702c2ab20",
+    "alarm" : "z"
+  }
+]
+连灯状态 c
+2018-07-23 11:03:56.948302+0800 LUTEC[774:263734] [] tcp_timers tcp[4] retransmit SYN 4
+2018-07-23 11:03:56.948373+0800 LUTEC[774:263734] [] tcp_timers tcp[3] retransmit SYN 4
+CRunDriver[aa09c50]-->AddWorkThread_0
+AddTimer_Warning_Not_100*N!
+AddTimer_Warning_Not_100*N!
+2018-07-23 11:03:57.344698+0800 LUTEC[774:263303] Metal GPU Frame Capture Enabled
+2018-07-23 11:03:57.347070+0800 LUTEC[774:263303] Metal API Validation Enabled
+2018-07-23 11:03:58.042091+0800 LUTEC[774:263734] [] tcp_timers tcp[4] retransmit SYN 5
+2018-07-23 11:03:58.042252+0800 LUTEC[774:263723] 发送设置数据:BFbU
+
+2018-07-23 11:03:58.042311+0800 LUTEC[774:263734] [] tcp_timers tcp[3] retransmit SYN 5
+SetXTimerElapse_Warning_Not_100*N!
+2018-07-23 11:03:58.259088+0800 LUTEC[774:263303] OnFunSDKResult 5517,p1:0,p2:0,p3:0
+2018-07-23 11:03:58.260910+0800 LUTEC[774:263303] OnFunSDKResult 5508,p1:0,p2:1532315035,p3:0
+2018-07-23 11:03:58.262455+0800 LUTEC[774:263303] ============[ret] 5122======param1 -100000==============
+2018-07-23 11:03:58.262515+0800 LUTEC[774:263303] OnFunSDKResult 5508,p1:0,p2:1532315035,p3:0
+2018-07-23 11:03:58.262631+0800 LUTEC[774:263303] ============[ret] 5122======param1 0==============
+2018-07-23 11:03:58.262665+0800 LUTEC[774:263303] ============[ret] 5130======param1 12==============
+2018-07-23 11:03:58.262707+0800 LUTEC[774:263303] 收到串口数据:[BqbwbzazfzOU] from []
+[
+  {
+    "name" : "楼梯口",
+    "highlight" : "z",
+    "level" : "O",
+    "lux" : "w",
+    "hld" : "b",
+    "mode" : "b",
+    "lld" : "f",
+    "il" : 1,
+    "lowlight" : "a",
+    "distance" : "q",
+    "password" : "123",
+    "indicator" : "z",
+    "sn" : "37373fcf27a2a0ce",
+    "alarm" : "z"
+  },
+  {
+    "name" : "左五-升级",
+    "highlight" : "z",
+    "level" : "O",
+    "lux" : "w",
+    "hld" : "b",
+    "mode" : "b",
+    "lld" : "a",
+    "il" : 1,
+    "lowlight" : "a",
+    "distance" : "w",
+    "password" : "",
+    "indicator" : "z",
+    "sn" : "7be9eeecf157d0e5",
+    "alarm" : "z"
+  },
+  {
+    "name" : "后楼梯口1",
+    "highlight" : "z",
+    "level" : "O",
+    "lux" : "w",
+    "hld" : "d",
+    "mode" : "b",
+    "lld" : "f",
+    "il" : 7,
+    "lowlight" : "a",
+    "distance" : "w",
+    "password" : "123",
+    "indicator" : "z",
+    "sn" : "4c364392506954da",
+    "alarm" : "z"
+  },
+  {
+    "name" : "左三",
+    "highlight" : "z",
+    "level" : "O",
+    "lux" : "v",
+    "hld" : "b",
+    "mode" : "b",
+    "lld" : "a",
+    "il" : 7,
+    "lowlight" : "l",
+    "distance" : "w",
+    "password" : "123",
+    "indicator" : "b",
+    "sn" : "9de3b7c747fcd41c",
+    "alarm" : "z"
+  },
+  {
+    "name" : "左四",
+    "highlight" : "z",
+    "level" : "O",
+    "lux" : "w",
+    "hld" : "b",
+    "mode" : "b",
+    "lld" : "a",
+    "il" : 7,
+    "lowlight" : "a",
+    "distance" : "w",
+    "password" : "123",
+    "indicator" : "z",
+    "sn" : "7a9d2e686b90f82b",
+    "alarm" : "a"
+  },
+  {
+    "name" : "左一",
+    "highlight" : "z",
+    "level" : "Y",
+    "lux" : "i",
+    "hld" : "d",
+    "mode" : "b",
+    "lld" : "n",
+    "il" : 7,
+    "lowlight" : "e",
+    "distance" : "u",
+    "password" : "",
+    "indicator" : "b",
+    "sn" : "224a8e17472a1630",
+    "alarm" : "z"
+  },
+  {
+    "name" : "左二",
+    "highlight" : "z",
+    "level" : "O",
+    "lux" : "w",
+    "hld" : "b",
+    "mode" : "b",
+    "lld" : "a",
+    "il" : 7,
+    "lowlight" : "l",
+    "distance" : "w",
+    "password" : "yt***888",
+    "indicator" : "b",
+    "sn" : "0d3487bec52a4efa",
+    "alarm" : "z"
+  },
+  {
+    "name" : "id r o",
+    "highlight" : "z",
+    "level" : "O",
+    "lux" : "w",
+    "hld" : "d",
+    "mode" : "b",
+    "lld" : "a",
+    "il" : 1,
+    "lowlight" : "a",
+    "distance" : "x",
+    "password" : "italia1",
+    "indicator" : "z",
+    "sn" : "bab6d0a9e2c2361f",
+    "alarm" : "z"
+  },
+  {
+    "name" : "车库",
+    "highlight" : "a",
+    "level" : "Y",
+    "lux" : "a",
+    "hld" : "b",
+    "mode" : "b",
+    "lld" : "a",
+    "il" : 1,
+    "lowlight" : "a",
+    "distance" : "a",
+    "password" : "",
+    "indicator" : "a",
+    "sn" : "752e75b3937e6906",
+    "alarm" : "a"
+  },
+  {
+    "name" : "Ｃ1-升级",
+    "highlight" : "h",
+    "level" : "O",
+    "lux" : "a",
+    "hld" : "b",
+    "mode" : "b",
+    "lld" : "f",
+    "il" : 1,
+    "lowlight" : "a",
+    "distance" : "w",
+    "password" : "",
+    "indicator" : "z",
+    "sn" : "bb1d86945fb5db48",
+    "alarm" : "z"
+  },
+  {
+    "name" : "LUTEC 6-升级",
+    "highlight" : "z",
+    "level" : "O",
+    "lux" : "a",
+    "hld" : "b",
+    "mode" : "b",
+    "lld" : "f",
+    "il" : 1,
+    "lowlight" : "a",
+    "distance" : "v",
+    "password" : "",
+    "indicator" : "z",
+    "sn" : "205ea4fe74024798",
+    "alarm" : "z"
+  },
+  {
+    "name" : "1-升级",
+    "highlight" : "z",
+    "level" : "O",
+    "lux" : "w",
+    "hld" : "b",
+    "mode" : "b",
+    "lld" : "f",
+    "il" : 4,
+    "lowlight" : "a",
+    "distance" : "a",
+    "password" : "",
+    "indicator" : "z",
+    "sn" : "f9634e8b17a24de3",
+    "alarm" : "z"
+  },
+  {
+    "name" : "LUTEC UK",
+    "highlight" : "z",
+    "level" : "O",
+    "lux" : "p",
+    "hld" : "b",
+    "mode" : "b",
+    "lld" : "z",
+    "il" : 4,
+    "lowlight" : "i",
+    "distance" : "a",
+    "password" : "mills1",
+    "indicator" : "z",
+    "sn" : "abe9e920b1c072d5",
+    "alarm" : "z"
+  },
+  {
+    "name" : "后楼梯口2-升级",
+    "highlight" : "z",
+    "level" : "O",
+    "lux" : "z",
+    "hld" : "b",
+    "mode" : "b",
+    "lld" : "f",
+    "il" : 1,
+    "lowlight" : "a",
+    "distance" : "w",
+    "password" : "123",
+    "indicator" : "z",
+    "sn" : "4ee48e1310e28839",
+    "alarm" : "z"
+  },
+  {
+    "name" : "s w er n er",
+    "highlight" : "z",
+    "level" : "O",
+    "lux" : "z",
+    "hld" : "k",
+    "mode" : "b",
+    "lld" : "a",
+    "il" : 1,
+    "lowlight" : "c",
+    "distance" : "r",
+    "password" : "",
+    "indicator" : "b",
+    "sn" : "a3202a143b1970a5",
+    "alarm" : "z"
+  },
+  {
+    "name" : "LUTEC",
+    "highlight" : "a",
+    "level" : "O",
+    "lux" : "w",
+    "hld" : "b",
+    "mode" : "b",
+    "lld" : "a",
+    "il" : 1,
+    "lowlight" : "a",
+    "distance" : "w",
+    "password" : "Prinzen1999",
+    "indicator" : "a",
+    "sn" : "16e46468f232ebe8",
+    "alarm" : "z"
+  },
+  {
+    "name" : "ha l p er oliver",
+    "highlight" : "l",
+    "level" : "O",
+    "lux" : "l",
+    "hld" : "b",
+    "mode" : "b",
+    "lld" : "f",
+    "il" : 1,
+    "lowlight" : "a",
+    "distance" : "z",
+    "password" : "1804",
+    "indicator" : "b",
+    "sn" : "b3cf15493db30a7a",
+    "alarm" : "z"
+  },
+  {
+    "name" : "Carlos",
+    "highlight" : "z",
+    "level" : "O",
+    "lux" : "v",
+    "hld" : "b",
+    "mode" : "b",
+    "lld" : "f",
+    "il" : 1,
+    "lowlight" : "a",
+    "distance" : "v",
+    "password" : "Mygaragecam#1",
+    "indicator" : "b",
+    "sn" : "9d989548814c381d",
+    "alarm" : "z"
+  },
+  {
+    "name" : "Brian",
+    "highlight" : "h",
+    "level" : "O",
+    "lux" : "z",
+    "hld" : "b",
+    "mode" : "b",
+    "lld" : "f",
+    "il" : 1,
+    "lowlight" : "a",
+    "distance" : "a",
+    "password" : "goole49",
+    "indicator" : "b",
+    "sn" : "9b72c4835d780094",
+    "alarm" : "z"
+  },
+  {
+    "name" : "LUTEC",
+    "highlight" : "a",
+    "level" : "Y",
+    "lux" : "a",
+    "hld" : "b",
+    "mode" : "b",
+    "lld" : "a",
+    "il" : 4,
+    "lowlight" : "a",
+    "distance" : "a",
+    "password" : "",
+    "indicator" : "a",
+    "sn" : "b3a008b383b7cf01",
+    "alarm" : "z"
+  },
+  {
+    "name" : "方总灯",
+    "highlight" : "z",
+    "level" : "O",
+    "lux" : "w",
+    "hld" : "b",
+    "mode" : "b",
+    "lld" : "a",
+    "il" : 1,
+    "lowlight" : "a",
+    "distance" : "y",
+    "password" : "",
+    "indicator" : "z",
+    "sn" : "f0235c4702c2ab20",
+    "alarm" : "z"
+  }
+]
+连灯状态 c
+SetXTimerElapse_Warning_Not_100*N!
+2018-07-23 11:03:59.077654+0800 LUTEC[774:263303] OnFunSDKResult 5508,p1:0,p2:1532315037,p3:0
+得到了什么？
+2018-07-23 11:03:59.964067+0800 LUTEC[774:263303] 
+[getInterfaceBytes-Total]1279927296,344695808
+37373fcf27a2a0ce
+2018-07-23 11:03:59.979466+0800 LUTEC[774:263734] TIC TCP Conn Failed [7:0x1cc176800]: 1:61 Err(61)
+2018-07-23 11:03:59.979680+0800 LUTEC[774:263734] Task <0C4D2840-AFAA-4DDA-8A0A-8F66FCF82353>.<7> HTTP load failed (error code: -1004 [1:61])
+2018-07-23 11:03:59.980857+0800 LUTEC[774:263723] Task <0C4D2840-AFAA-4DDA-8A0A-8F66FCF82353>.<7> finished with error - code: -1004
+connection error or data is nill
+得到数据
+121.161446661972 30.0199346187551 8.80298042297363
+得到数据
+121.161446661972 30.0199346187551 8.80298042297363
+2018-07-23 11:04:00.044137+0800 LUTEC[774:263740] [] tcp_timers tcp[4] retransmit SYN 6
+2018-07-23 11:04:00.044212+0800 LUTEC[774:263740] [] tcp_timers tcp[3] retransmit SYN 6
+2018-07-23 11:04:00.046790+0800 LUTEC[774:263740] [] tcp_timers tcp[6] retransmit SYN 3
+2018-07-23 11:04:00.081733+0800 LUTEC[774:263303] OnFunSDKResult 5102,p1:0,p2:0,p3:0
+2018-07-23 11:04:00.081820+0800 LUTEC[774:263303] EMSG_DEV_FIND_FILE_BY_TIME: 0
+340.212273854713,1.13404091284904,1532293200.92611,1532275200.92611
+350.418642070354,1.13404091284904,1532293740.92611,1532275200.92611
+379.903705804429,1.13404091284904,1532295300.92611,1532275200.92611
+478.565265222296,1.13404091284904,1532300520.92611,1532275200.92611
+496.709919827881,1.13404091284904,1532301480.92611,1532275200.92611
+497.84396074073,1.13404091284904,1532301540.92611,1532275200.92611
+501.246083479277,1.13404091284904,1532301720.92611,1532275200.92611
+503.514165304975,1.13404091284904,1532301840.92611,1532275200.92611
+508.050328956371,1.13404091284904,1532302080.92611,1532275200.92611
+511.452451694919,1.13404091284904,1532302260.92611,1532275200.92611
+512.586492607768,1.13404091284904,1532302320.92611,1532275200.92611
+514.854574433466,1.13404091284904,1532302440.92611,1532275200.92611
+515.988615346315,1.13404091284904,1532302500.92611,1532275200.92611
+517.122656259164,1.13404091284904,1532302560.92611,1532275200.92611
+521.65881991056,1.13404091284904,1532302800.92611,1532275200.92611
+526.194983561956,1.13404091284904,1532303040.92611,1532275200.92611
+527.329024474805,1.13404091284904,1532303100.92611,1532275200.92611
+528.463065387654,1.13404091284904,1532303160.92611,1532275200.92611
+529.597106300503,1.13404091284904,1532303220.92611,1532275200.92611
+530.731147213352,1.13404091284904,1532303280.92611,1532275200.92611
+531.865188126201,1.13404091284904,1532303340.92611,1532275200.92611
+532.99922903905,1.13404091284904,1532303400.92611,1532275200.92611
+534.133269951899,1.13404091284904,1532303460.92611,1532275200.92611
+536.401351777597,1.13404091284904,1532303580.92611,1532275200.92611
+537.535392690447,1.13404091284904,1532303640.92611,1532275200.92611
+538.669433603296,1.13404091284904,1532303700.92611,1532275200.92611
+539.803474516145,1.13404091284904,1532303760.92611,1532275200.92611
+540.937515428994,1.13404091284904,1532303820.92611,1532275200.92611
+542.071556341843,1.13404091284904,1532303880.92611,1532275200.92611
+543.205597254692,1.13404091284904,1532303940.92611,1532275200.92611
+545.47367908039,1.13404091284904,1532304060.92611,1532275200.92611
+547.741760906088,1.13404091284904,1532304180.92611,1532275200.92611
+550.009842731786,1.13404091284904,1532304300.92611,1532275200.92611
+552.277924557484,1.13404091284904,1532304420.92611,1532275200.92611
+554.546006383182,1.13404091284904,1532304540.92611,1532275200.92611
+557.948129121729,1.13404091284904,1532304720.92611,1532275200.92611
+559.082170034578,1.13404091284904,1532304780.92611,1532275200.92611
+560.216210947427,1.13404091284904,1532304840.92611,1532275200.92611
+561.350251860276,1.13404091284904,1532304900.92611,1532275200.92611
+562.484292773126,1.13404091284904,1532304960.92611,1532275200.92611
+563.618333685975,1.13404091284904,1532305020.92611,1532275200.92611
+564.752374598824,1.13404091284904,1532305080.92611,1532275200.92611
+567.020456424522,1.13404091284904,1532305200.92611,1532275200.92611
+571.556620075918,1.13404091284904,1532305440.92611,1532275200.92611
+572.690660988767,1.13404091284904,1532305500.92611,1532275200.92611
+578.360865553012,1.13404091284904,1532305800.92611,1532275200.92611
+579.494906465861,1.13404091284904,1532305860.92611,1532275200.92611
+580.62894737871,1.13404091284904,1532305920.92611,1532275200.92611
+582.897029204408,1.13404091284904,1532306040.92611,1532275200.92611
+585.165111030106,1.13404091284904,1532306160.92611,1532275200.92611
+586.299151942955,1.13404091284904,1532306220.92611,1532275200.92611
+594.237438332899,1.13404091284904,1532306640.92611,1532275200.92611
+596.505520158597,1.13404091284904,1532306760.92611,1532275200.92611
+597.639561071446,1.13404091284904,1532306820.92611,1532275200.92611
+598.773601984295,1.13404091284904,1532306880.92611,1532275200.92611
+601.041683809993,1.13404091284904,1532307000.92611,1532275200.92611
+602.175724722842,1.13404091284904,1532307060.92611,1532275200.92611
+603.309765635691,1.13404091284904,1532307120.92611,1532275200.92611
+604.44380654854,1.13404091284904,1532307180.92611,1532275200.92611
+605.577847461389,1.13404091284904,1532307240.92611,1532275200.92611
+606.711888374238,1.13404091284904,1532307300.92611,1532275200.92611
+607.845929287087,1.13404091284904,1532307360.92611,1532275200.92611
+608.979970199936,1.13404091284904,1532307420.92611,1532275200.92611
+610.114011112785,1.13404091284904,1532307480.92611,1532275200.92611
+611.248052025634,1.13404091284904,1532307540.92611,1532275200.92611
+612.382092938483,1.13404091284904,1532307600.92611,1532275200.92611
+613.516133851332,1.13404091284904,1532307660.92611,1532275200.92611
+618.052297502729,1.13404091284904,1532307900.92611,1532275200.92611
+619.186338415578,1.13404091284904,1532307960.92611,1532275200.92611
+622.588461154125,1.13404091284904,1532308140.92611,1532275200.92611
+625.990583892672,1.13404091284904,1532308320.92611,1532275200.92611
+627.124624805521,1.13404091284904,1532308380.92611,1532275200.92611
+628.25866571837,1.13404091284904,1532308440.92611,1532275200.92611
+629.392706631219,1.13404091284904,1532308500.92611,1532275200.92611
+633.928870282615,1.13404091284904,1532308740.92611,1532275200.92611
+637.330993021162,1.13404091284904,1532308920.92611,1532275200.92611
+638.465033934011,1.13404091284904,1532308980.92611,1532275200.92611
+639.59907484686,1.13404091284904,1532309040.92611,1532275200.92611
+641.867156672559,1.13404091284904,1532309160.92611,1532275200.92611
+643.001197585408,1.13404091284904,1532309220.92611,1532275200.92611
+645.269279411106,1.13404091284904,1532309340.92611,1532275200.92611
+646.403320323955,1.13404091284904,1532309400.92611,1532275200.92611
+648.671402149653,1.13404091284904,1532309520.92611,1532275200.92611
+649.805443062502,1.13404091284904,1532309580.92611,1532275200.92611
+650.939483975351,1.13404091284904,1532309640.92611,1532275200.92611
+652.0735248882,1.13404091284904,1532309700.92611,1532275200.92611
+653.207565801049,1.13404091284904,1532309760.92611,1532275200.92611
+654.341606713898,1.13404091284904,1532309820.92611,1532275200.92611
+656.609688539596,1.13404091284904,1532309940.92611,1532275200.92611
+657.743729452445,1.13404091284904,1532310000.92611,1532275200.92611
+658.877770365294,1.13404091284904,1532310060.92611,1532275200.92611
+660.011811278143,1.13404091284904,1532310120.92611,1532275200.92611
+661.145852190992,1.13404091284904,1532310180.92611,1532275200.92611
+662.279893103841,1.13404091284904,1532310240.92611,1532275200.92611
+663.41393401669,1.13404091284904,1532310300.92611,1532275200.92611
+664.547974929539,1.13404091284904,1532310360.92611,1532275200.92611
+665.682015842388,1.13404091284904,1532310420.92611,1532275200.92611
+666.816056755237,1.13404091284904,1532310480.92611,1532275200.92611
+667.950097668087,1.13404091284904,1532310540.92611,1532275200.92611
+669.084138580936,1.13404091284904,1532310600.92611,1532275200.92611
+670.218179493785,1.13404091284904,1532310660.92611,1532275200.92611
+671.352220406634,1.13404091284904,1532310720.92611,1532275200.92611
+672.486261319483,1.13404091284904,1532310780.92611,1532275200.92611
+677.022424970879,1.13404091284904,1532311020.92611,1532275200.92611
+678.156465883728,1.13404091284904,1532311080.92611,1532275200.92611
+680.424547709426,1.13404091284904,1532311200.92611,1532275200.92611
+683.826670447973,1.13404091284904,1532311380.92611,1532275200.92611
+684.960711360822,1.13404091284904,1532311440.92611,1532275200.92611
+687.22879318652,1.13404091284904,1532311560.92611,1532275200.92611
+689.496875012218,1.13404091284904,1532311680.92611,1532275200.92611
+696.301120489313,1.13404091284904,1532312040.92611,1532275200.92611
+697.435161402162,1.13404091284904,1532312100.92611,1532275200.92611
+699.70324322786,1.13404091284904,1532312220.92611,1532275200.92611
+700.837284140709,1.13404091284904,1532312280.92611,1532275200.92611
+701.971325053558,1.13404091284904,1532312340.92611,1532275200.92611
+703.105365966407,1.13404091284904,1532312400.92611,1532275200.92611
+707.641529617803,1.13404091284904,1532312640.92611,1532275200.92611
+708.775570530652,1.13404091284904,1532312700.92611,1532275200.92611
+711.04365235635,1.13404091284904,1532312820.92611,1532275200.92611
+712.177693269199,1.13404091284904,1532312880.92611,1532275200.92611
+713.311734182048,1.13404091284904,1532312940.92611,1532275200.92611
+714.445775094897,1.13404091284904,1532313000.92611,1532275200.92611
+715.579816007746,1.13404091284904,1532313060.92611,1532275200.92611
+716.713856920595,1.13404091284904,1532313120.92611,1532275200.92611
+717.847897833444,1.13404091284904,1532313180.92611,1532275200.92611
+722.384061484841,1.13404091284904,1532313420.92611,1532275200.92611
+724.652143310539,1.13404091284904,1532313540.92611,1532275200.92611
+725.786184223388,1.13404091284904,1532313600.92611,1532275200.92611
+726.920225136237,1.13404091284904,1532313660.92611,1532275200.92611
+728.054266049086,1.13404091284904,1532313720.92611,1532275200.92611
+730.322347874784,1.13404091284904,1532313840.92611,1532275200.92611
+731.456388787633,1.13404091284904,1532313900.92611,1532275200.92611
+732.590429700482,1.13404091284904,1532313960.92611,1532275200.92611
+733.724470613331,1.13404091284904,1532314020.92611,1532275200.92611
+734.85851152618,1.13404091284904,1532314080.92611,1532275200.92611
+735.992552439029,1.13404091284904,1532314140.92611,1532275200.92611
+737.126593351878,1.13404091284904,1532314200.92611,1532275200.92611
+739.394675177576,1.13404091284904,1532314320.92611,1532275200.92611
+743.930838828972,1.13404091284904,1532314560.92611,1532275200.92611
+745.064879741821,1.13404091284904,1532314620.92611,1532275200.92611
+747.33296156752,1.13404091284904,1532314740.92611,1532275200.92611
+748.467002480369,1.13404091284904,1532314800.92611,1532275200.92611
+751.869125218916,1.13404091284904,1532314980.92611,1532275200.92611
+2018-07-23 11:04:00.293726+0800 LUTEC[774:263303] OnFunSDKResult 5501,p1:0,p2:0,p3:0
+2018-07-23 11:04:00.293788+0800 LUTEC[774:263303] EMSG_START_PLAY 5501,p1:0,p2:0,DSS:0
+2018-07-23 11:04:00.293822+0800 LUTEC[774:263303] OnFunSDKResult 5516,p1:0,p2:0,p3:0
+Buffering
+AddTimer_Warning_Not_100*N!
+AddTimer_Warning_Not_100*N!
+SetXTimerElapse_Warning_Not_100*N!
+2018-07-23 11:04:00.659195+0800 LUTEC[774:263303] OnFunSDKResult 5517,p1:0,p2:0,p3:0
+2018-07-23 11:04:00.660831+0800 LUTEC[774:263303] OnFunSDKResult 5508,p1:1532314980,p2:1532315014,p3:1532361599
+alGenSources error! error = 40964
+2018-07-23 11:04:00.982998+0800 LUTEC[774:263303] 播放 :高清, handler :1048601
+得到了什么？
+2018-07-23 11:04:01.011865+0800 LUTEC[774:263303] 
+[getInterfaceBytes-Total]1282582528,344834048
+37373fcf27a2a0ce
+得到数据
+121.161446919913 30.0199346808393 8.79833316802979
+2018-07-23 11:04:01.039204+0800 LUTEC[774:263609] TIC TCP Conn Failed [9:0x1c0178300]: 1:61 Err(61)
+2018-07-23 11:04:01.039731+0800 LUTEC[774:263609] Task <289970D2-66AF-44E3-8136-3371886D9F18>.<9> HTTP load failed (error code: -1004 [1:61])
+2018-07-23 11:04:01.043867+0800 LUTEC[774:263740] Task <289970D2-66AF-44E3-8136-3371886D9F18>.<9> finished with error - code: -1004
+connection error or data is nill
+2018-07-23 11:04:01.051322+0800 LUTEC[774:263734] [] tcp_timers tcp[6] retransmit SYN 4
+SetXTimerElapse_Warning_Not_100*N!
+2018-07-23 11:04:02.056936+0800 LUTEC[774:263734] [] tcp_timers tcp[6] retransmit SYN 5
+2018-07-23 11:04:02.182563+0800 LUTEC[774:263303] OnFunSDKResult 5501,p1:0,p2:0,p3:2
+2018-07-23 11:04:02.182631+0800 LUTEC[774:263303] EMSG_START_PLAY 5501,p1:0,p2:0,DSS:2
+2018-07-23 11:04:02.182663+0800 LUTEC[774:263303] OnFunSDKResult 5516,p1:0,p2:0,p3:0
+Buffering
+AddTimer_Warning_Not_100*N!
+AddTimer_Warning_Not_100*N!
+SetXTimerElapse_Warning_Not_100*N!
+2018-07-23 11:04:02.466422+0800 LUTEC[774:263303] OnFunSDKResult 5517,p1:0,p2:0,p3:0
+2018-07-23 11:04:02.468041+0800 LUTEC[774:263303] OnFunSDKResult 5508,p1:0,p2:1532315041,p3:0
+alGenSources error! error = 40964
+2018-07-23 11:04:02.955102+0800 LUTEC[774:263303] OnFunSDKResult 5508,p1:0,p2:1532315041,p3:0
+2018-07-23 11:04:03.004015+0800 LUTEC[774:263609] [] tcp_timers tcp[8] retransmit SYN 3
+2018-07-23 11:04:03.354260+0800 LUTEC[774:263303] OnFunSDKResult 5508,p1:0,p2:1532315042,p3:0
+2018-07-23 11:04:04.008902+0800 LUTEC[774:263734] [] tcp_timers tcp[8] retransmit SYN 4
+2018-07-23 11:04:04.052850+0800 LUTEC[774:263609] [] tcp_timers tcp[4] retransmit SYN 7
+2018-07-23 11:04:04.052949+0800 LUTEC[774:263609] [] tcp_timers tcp[3] retransmit SYN 7
+2018-07-23 11:04:04.059907+0800 LUTEC[774:263609] [] tcp_timers tcp[6] retransmit SYN 6
+2018-07-23 11:04:04.383045+0800 LUTEC[774:263303] OnFunSDKResult 5508,p1:0,p2:1532315043,p3:0
+2018-07-23 11:04:04.518463+0800 LUTEC[774:263303] The behavior of the UICollectionViewFlowLayout is not defined because:
+2018-07-23 11:04:04.518496+0800 LUTEC[774:263303] the item height must be less than the height of the UICollectionView minus the section insets top and bottom values, minus the content insets top and bottom values.
+2018-07-23 11:04:04.518681+0800 LUTEC[774:263303] The relevant UICollectionViewFlowLayout instance is <UICollectionViewFlowLayout: 0x105d25bc0>, and it is attached to <UICollectionView: 0x10884cc00; frame = (0 0; 812 343); autoresize = RM+BM; gestureRecognizers = <NSArray: 0x1d424da40>; animations = { bounds.origin=<CABasicAnimation: 0x1cc0393c0>; bounds.size=<CABasicAnimation: 0x1cc0393a0>; bounds.origin-2=<CABasicAnimation: 0x1d4233680>; bounds.size-2=<CABasicAnimation: 0x1d4233280>; position=<CABasicAnimation: 0x1d4233660>; }; layer = <CALayer: 0x1d4223d40>; contentOffset: {-44, 0}; contentSize: {7875, 690}; adjustedContentInset: {0, 44, 21, 44}> collection view layout: <UICollectionViewFlowLayout: 0x105d25bc0>.
+2018-07-23 11:04:04.518695+0800 LUTEC[774:263303] Make a symbolic breakpoint at UICollectionViewFlowLayoutBreakForInvalidSizes to catch this in the debugger.
+2018-07-23 11:04:04.537457+0800 LUTEC[774:263303] [LayoutConstraints] Unable to simultaneously satisfy constraints.
+	Probably at least one of the constraints in the following list is one you don't want. 
+	Try this: 
+		(1) look at each constraint and try to figure out which you don't expect; 
+		(2) find the code that added the unwanted constraint or constraints and fix it. 
+	(Note: If you're seeing NSAutoresizingMaskLayoutConstraints that you don't understand, refer to the documentation for the UIView property translatesAutoresizingMaskIntoConstraints) 
+(
+    "<NSAutoresizingMaskLayoutConstraint:0x1d4290720 h=-&- v=-&- LUTEC.TimeSelectionBar:0x105d74020.height == UIView:0x105d66980.height - 235.642   (active)>",
+    "<NSAutoresizingMaskLayoutConstraint:0x1d42909a0 h=--& v=--& UIView:0x105d18e30.height == 603   (active)>",
+    "<NSLayoutConstraint:0x1d428db60 UIView:0x105d66980.height == 0.373134*UIView:0x105d18e30.height   (active)>"
+)
+
+Will attempt to recover by breaking constraint 
+<NSLayoutConstraint:0x1d428db60 UIView:0x105d66980.height == 0.373134*UIView:0x105d18e30.height   (active)>
+
+Make a symbolic breakpoint at UIViewAlertForUnsatisfiableConstraints to catch this in the debugger.
+The methods in the UIConstraintBasedLayoutDebugging category on UIView listed in <UIKit/UIView.h> may also be helpful.
+连灯状态 c
+2018-07-23 11:04:04.546050+0800 LUTEC[774:263303] [LayoutConstraints] Unable to simultaneously satisfy constraints.
+	Probably at least one of the constraints in the following list is one you don't want. 
+	Try this: 
+		(1) look at each constraint and try to figure out which you don't expect; 
+		(2) find the code that added the unwanted constraint or constraints and fix it. 
+	(Note: If you're seeing NSAutoresizingMaskLayoutConstraints that you don't understand, refer to the documentation for the UIView property translatesAutoresizingMaskIntoConstraints) 
+(
+    "<NSAutoresizingMaskLayoutConstraint:0x1d4290720 h=-&- v=-&- LUTEC.TimeSelectionBar:0x105d74020.height == UIView:0x105d66980.height - 235.642   (active)>",
+    "<NSAutoresizingMaskLayoutConstraint:0x1d4290900 h=--& v=--& UIView:0x105d18e30.width == 375   (active)>",
+    "<NSLayoutConstraint:0x1d428d750 UILabel:0x105d67be0'\U622a\U5c4f'.width == 86   (active)>",
+    "<NSLayoutConstraint:0x1d428db60 UIView:0x105d66980.height == 0.373134*UIView:0x105d18e30.height   (active)>",
+    "<NSLayoutConstraint:0x1d4286090 UIView:0x105d8c820.width == 0.957333*UIView:0x105d18e30.width   (active)>",
+    "<NSLayoutConstraint:0x1d428dde0 UIButton:0x105d89850.leading == 0.0533333*UIView:0x105d18e30.trailing   (active)>",
+    "<NSLayoutConstraint:0x1d428dd40 UIButton:0x105d89850.width == 0.0895522*UIView:0x105d18e30.height   (active)>",
+    "<NSLayoutConstraint:0x1d428e6f0 UIButton:0x105d89b70.width == UIButton:0x105d89850.width   (active)>",
+    "<NSLayoutConstraint:0x1d428e790 UIButton:0x105d89b70.leading == UIButton:0x105d89850.leading   (active)>",
+    "<NSLayoutConstraint:0x1d428e920 UILabel:0x105d67be0'\U622a\U5c4f'.centerX == UIButton:0x105d89b70.centerX   (active)>",
+    "<NSLayoutConstraint:0x1d428e9c0 H:|-(4)-[UILabel:0x105d67be0'\U622a\U5c4f']   (active, names: '|':UIView:0x105d18e30 )>"
+)
+
+Will attempt to recover by breaking constraint 
+<NSLayoutConstraint:0x1d428d750 UILabel:0x105d67be0'截屏'.width == 86   (active)>
+
+Make a symbolic breakpoint at UIViewAlertForUnsatisfiableConstraints to catch this in the debugger.
+The methods in the UIConstraintBasedLayoutDebugging category on UIView listed in <UIKit/UIView.h> may also be helpful.
+2018-07-23 11:04:04.546913+0800 LUTEC[774:263303] [LayoutConstraints] Unable to simultaneously satisfy constraints.
+	Probably at least one of the constraints in the following list is one you don't want. 
+	Try this: 
+		(1) look at each constraint and try to figure out which you don't expect; 
+		(2) find the code that added the unwanted constraint or constraints and fix it. 
+	(Note: If you're seeing NSAutoresizingMaskLayoutConstraints that you don't understand, refer to the documentation for the UIView property translatesAutoresizingMaskIntoConstraints) 
+(
+    "<NSAutoresizingMaskLayoutConstraint:0x1d4290720 h=-&- v=-&- LUTEC.TimeSelectionBar:0x105d74020.height == UIView:0x105d66980.height - 235.642   (active)>",
+    "<NSAutoresizingMaskLayoutConstraint:0x1d42909a0 h=--& v=--& UIView:0x105d18e30.height == 603   (active)>",
+    "<NSLayoutConstraint:0x1d428db60 UIView:0x105d66980.height == 0.373134*UIView:0x105d18e30.height   (active)>"
+)
+
+Will attempt to recover by breaking constraint 
+<NSLayoutConstraint:0x1d428db60 UIView:0x105d66980.height == 0.373134*UIView:0x105d18e30.height   (active)>
+
+Make a symbolic breakpoint at UIViewAlertForUnsatisfiableConstraints to catch this in the debugger.
+The methods in the UIConstraintBasedLayoutDebugging category on UIView listed in <UIKit/UIView.h> may also be helpful.
+2018-07-23 11:04:04.562553+0800 LUTEC[774:263303] [LayoutConstraints] Unable to simultaneously satisfy constraints.
+	Probably at least one of the constraints in the following list is one you don't want. 
+	Try this: 
+		(1) look at each constraint and try to figure out which you don't expect; 
+		(2) find the code that added the unwanted constraint or constraints and fix it. 
+	(Note: If you're seeing NSAutoresizingMaskLayoutConstraints that you don't understand, refer to the documentation for the UIView property translatesAutoresizingMaskIntoConstraints) 
+(
+    "<NSAutoresizingMaskLayoutConstraint:0x1d4297bb0 h=-&- v=-&- LUTEC.TimeSelectionBar:0x105da8f90.height == UIView:0x105da5c50.height - 235.642   (active)>",
+    "<NSAutoresizingMaskLayoutConstraint:0x1d4297e30 h=--& v=--& UIView:0x105da4c50.height == 603   (active)>",
+    "<NSLayoutConstraint:0x1d4295270 UIView:0x105da5c50.height == 0.373134*UIView:0x105da4c50.height   (active)>"
+)
+
+Will attempt to recover by breaking constraint 
+<NSLayoutConstraint:0x1d4295270 UIView:0x105da5c50.height == 0.373134*UIView:0x105da4c50.height   (active)>
+
+Make a symbolic breakpoint at UIViewAlertForUnsatisfiableConstraints to catch this in the debugger.
+The methods in the UIConstraintBasedLayoutDebugging category on UIView listed in <UIKit/UIView.h> may also be helpful.
+连灯状态 c
+2018-07-23 11:04:04.570251+0800 LUTEC[774:263303] [LayoutConstraints] Unable to simultaneously satisfy constraints.
+	Probably at least one of the constraints in the following list is one you don't want. 
+	Try this: 
+		(1) look at each constraint and try to figure out which you don't expect; 
+		(2) find the code that added the unwanted constraint or constraints and fix it. 
+	(Note: If you're seeing NSAutoresizingMaskLayoutConstraints that you don't understand, refer to the documentation for the UIView property translatesAutoresizingMaskIntoConstraints) 
+(
+    "<NSAutoresizingMaskLayoutConstraint:0x1d4297bb0 h=-&- v=-&- LUTEC.TimeSelectionBar:0x105da8f90.height == UIView:0x105da5c50.height - 235.642   (active)>",
+    "<NSAutoresizingMaskLayoutConstraint:0x1d4297d90 h=--& v=--& UIView:0x105da4c50.width == 375   (active)>",
+    "<NSLayoutConstraint:0x1d4294d70 UILabel:0x105da6050'\U622a\U5c4f'.width == 86   (active)>",
+    "<NSLayoutConstraint:0x1d4295270 UIView:0x105da5c50.height == 0.373134*UIView:0x105da4c50.height   (active)>",
+    "<NSLayoutConstraint:0x1d4295400 UIView:0x105d8f9a0.width == 0.957333*UIView:0x105da4c50.width   (active)>",
+    "<NSLayoutConstraint:0x1d42954f0 UIButton:0x105da5250.leading == 0.0533333*UIView:0x105da4c50.trailing   (active)>",
+    "<NSLayoutConstraint:0x1d4295590 UIButton:0x105da5250.width == 0.0895522*UIView:0x105da4c50.height   (active)>",
+    "<NSLayoutConstraint:0x1d4295b30 UIButton:0x105da19a0.width == UIButton:0x105da5250.width   (active)>",
+    "<NSLayoutConstraint:0x1d4295bd0 UIButton:0x105da19a0.leading == UIButton:0x105da5250.leading   (active)>",
+    "<NSLayoutConstraint:0x1d4295d60 UILabel:0x105da6050'\U622a\U5c4f'.centerX == UIButton:0x105da19a0.centerX   (active)>",
+    "<NSLayoutConstraint:0x1d4295e00 H:|-(4)-[UILabel:0x105da6050'\U622a\U5c4f']   (active, names: '|':UIView:0x105da4c50 )>"
+)
+
+Will attempt to recover by breaking constraint 
+<NSLayoutConstraint:0x1d4294d70 UILabel:0x105da6050'截屏'.width == 86   (active)>
+
+Make a symbolic breakpoint at UIViewAlertForUnsatisfiableConstraints to catch this in the debugger.
+The methods in the UIConstraintBasedLayoutDebugging category on UIView listed in <UIKit/UIView.h> may also be helpful.
+2018-07-23 11:04:04.571259+0800 LUTEC[774:263303] [LayoutConstraints] Unable to simultaneously satisfy constraints.
+	Probably at least one of the constraints in the following list is one you don't want. 
+	Try this: 
+		(1) look at each constraint and try to figure out which you don't expect; 
+		(2) find the code that added the unwanted constraint or constraints and fix it. 
+	(Note: If you're seeing NSAutoresizingMaskLayoutConstraints that you don't understand, refer to the documentation for the UIView property translatesAutoresizingMaskIntoConstraints) 
+(
+    "<NSAutoresizingMaskLayoutConstraint:0x1d4297bb0 h=-&- v=-&- LUTEC.TimeSelectionBar:0x105da8f90.height == UIView:0x105da5c50.height - 235.642   (active)>",
+    "<NSAutoresizingMaskLayoutConstraint:0x1d4297e30 h=--& v=--& UIView:0x105da4c50.height == 603   (active)>",
+    "<NSLayoutConstraint:0x1d4295270 UIView:0x105da5c50.height == 0.373134*UIView:0x105da4c50.height   (active)>"
+)
+
+Will attempt to recover by breaking constraint 
+<NSLayoutConstraint:0x1d4295270 UIView:0x105da5c50.height == 0.373134*UIView:0x105da4c50.height   (active)>
+
+Make a symbolic breakpoint at UIViewAlertForUnsatisfiableConstraints to catch this in the debugger.
+The methods in the UIConstraintBasedLayoutDebugging category on UIView listed in <UIKit/UIView.h> may also be helpful.
+2018-07-23 11:04:04.601087+0800 LUTEC[774:263303] [LayoutConstraints] Unable to simultaneously satisfy constraints.
+	Probably at least one of the constraints in the following list is one you don't want. 
+	Try this: 
+		(1) look at each constraint and try to figure out which you don't expect; 
+		(2) find the code that added the unwanted constraint or constraints and fix it. 
+	(Note: If you're seeing NSAutoresizingMaskLayoutConstraints that you don't understand, refer to the documentation for the UIView property translatesAutoresizingMaskIntoConstraints) 
+(
+    "<NSAutoresizingMaskLayoutConstraint:0x1d009f9a0 h=--& v=--& UIView:0x105d17950.height == 44   (active)>",
+    "<NSLayoutConstraint:0x1d4098150 UIImageView:0x105d230f0.top == UIImageView:0x105d08600.top   (active)>",
+    "<NSLayoutConstraint:0x1d40981a0 V:[UIImageView:0x105d230f0]-(0)-|   (active, names: '|':UIView:0x105d17950 )>",
+    "<NSLayoutConstraint:0x1d4099c30 UILabel:0x105d2c900'\U697c\U68af\U53e3'.top == UIView:0x105d17950.topMargin   (active)>",
+    "<NSLayoutConstraint:0x1d4099cd0 UILabel:0x105d2c900'\U697c\U68af\U53e3'.centerY == UIImageView:0x105d230f0.centerY   (active)>",
+    "<NSLayoutConstraint:0x1d409a180 V:|-(0)-[UIImageView:0x105d08600]   (active, names: '|':UIView:0x105d17950 )>"
+)
+
+Will attempt to recover by breaking constraint 
+<NSLayoutConstraint:0x1d4099cd0 UILabel:0x105d2c900'楼梯口'.centerY == UIImageView:0x105d230f0.centerY   (active)>
+
+Make a symbolic breakpoint at UIViewAlertForUnsatisfiableConstraints to catch this in the debugger.
+The methods in the UIConstraintBasedLayoutDebugging category on UIView listed in <UIKit/UIView.h> may also be helpful.
+2018-07-23 11:04:04.602157+0800 LUTEC[774:263303] [LayoutConstraints] Unable to simultaneously satisfy constraints.
+	Probably at least one of the constraints in the following list is one you don't want. 
+	Try this: 
+		(1) look at each constraint and try to figure out which you don't expect; 
+		(2) find the code that added the unwanted constraint or constraints and fix it. 
+(
+    "<NSLayoutConstraint:0x1d4095900 UILayoutGuide:0x1d41b5460'TrailingBarGuide(0x105d0b5c0)'.height == 32   (active)>",
+    "<NSLayoutConstraint:0x1d4098ba0 _UIButtonBarStackView:0x105d18c20.top == UILayoutGuide:0x1d41b5460'TrailingBarGuide(0x105d0b5c0)'.top   (active)>",
+    "<NSLayoutConstraint:0x1d4098bf0 _UIButtonBarStackView:0x105d18c20.bottom == UILayoutGuide:0x1d41b5460'TrailingBarGuide(0x105d0b5c0)'.bottom   (active)>",
+    "<NSLayoutConstraint:0x1d4098dd0 UIButton:0x105d13d60.height == 36   (active)>",
+    "<NSLayoutConstraint:0x1d009f590 'UISV-canvas-connection' UILayoutGuide:0x1d41b5ee0'UIViewLayoutMarginsGuide'.top <= UIButton:0x105d13d60.top   (active)>",
+    "<NSLayoutConstraint:0x1d009f630 'UISV-canvas-connection' UILayoutGuide:0x1d41b5ee0'UIViewLayoutMarginsGuide'.centerY == UIButton:0x105d13d60.centerY   (active)>",
+    "<NSLayoutConstraint:0x1d4098a10 'UIView-bottomMargin-guide-constraint' V:[UILayoutGuide:0x1d41b5ee0'UIViewLayoutMarginsGuide']-(0)-|   (active, names: '|':_UIButtonBarStackView:0x105d18c20 )>",
+    "<NSLayoutConstraint:0x1d4098970 'UIView-topMargin-guide-constraint' V:|-(0)-[UILayoutGuide:0x1d41b5ee0'UIViewLayoutMarginsGuide']   (active, names: '|':_UIButtonBarStackView:0x105d18c20 )>"
+)
+
+Will attempt to recover by breaking constraint 
+<NSLayoutConstraint:0x1d4098dd0 UIButton:0x105d13d60.height == 36   (active)>
+
+Make a symbolic breakpoint at UIViewAlertForUnsatisfiableConstraints to catch this in the debugger.
+The methods in the UIConstraintBasedLayoutDebugging category on UIView listed in <UIKit/UIView.h> may also be helpful.
+添加所有的手势
+2018-07-23 11:04:04.669110+0800 LUTEC[774:263303] [LayoutConstraints] Unable to simultaneously satisfy constraints.
+	Probably at least one of the constraints in the following list is one you don't want. 
+	Try this: 
+		(1) look at each constraint and try to figure out which you don't expect; 
+		(2) find the code that added the unwanted constraint or constraints and fix it. 
+	(Note: If you're seeing NSAutoresizingMaskLayoutConstraints that you don't understand, refer to the documentation for the UIView property translatesAutoresizingMaskIntoConstraints) 
+(
+    "<NSAutoresizingMaskLayoutConstraint:0x1d409fa90 h=--& v=--& UIView:0x105c31230.width == 375   (active)>",
+    "<NSAutoresizingMaskLayoutConstraint:0x1d028a140 h=--& v=--& DisplayView:0x105c36b30.midX == 406   (active)>",
+    "<NSLayoutConstraint:0x1d0281450 H:|-(0)-[DisplayView:0x105c36b30]   (active, names: '|':UIView:0x105c36940 )>",
+    "<NSLayoutConstraint:0x1d02814a0 H:[DisplayView:0x105c36b30]-(0)-|   (active, names: '|':UIView:0x105c36940 )>",
+    "<NSLayoutConstraint:0x1d0281720 UIView:0x105c36940.width == 0.957333*UIView:0x105c31230.width   (active)>"
+)
+
+Will attempt to recover by breaking constraint 
+<NSLayoutConstraint:0x1d02814a0 H:[DisplayView:0x105c36b30]-(0)-|   (active, names: '|':UIView:0x105c36940 )>
+
+Make a symbolic breakpoint at UIViewAlertForUnsatisfiableConstraints to catch this in the debugger.
+The methods in the UIConstraintBasedLayoutDebugging category on UIView listed in <UIKit/UIView.h> may also be helpful.
+2018-07-23 11:04:04.669656+0800 LUTEC[774:263303] [LayoutConstraints] Unable to simultaneously satisfy constraints.
+	Probably at least one of the constraints in the following list is one you don't want. 
+	Try this: 
+		(1) look at each constraint and try to figure out which you don't expect; 
+		(2) find the code that added the unwanted constraint or constraints and fix it. 
+	(Note: If you're seeing NSAutoresizingMaskLayoutConstraints that you don't understand, refer to the documentation for the UIView property translatesAutoresizingMaskIntoConstraints) 
+(
+    "<NSAutoresizingMaskLayoutConstraint:0x1d409fa90 h=--& v=--& UIView:0x105c31230.width == 375   (active)>",
+    "<NSAutoresizingMaskLayoutConstraint:0x1d02881b0 h=--& v=--& UIView:0x105c36940.midX == 187.333   (active)>",
+    "<NSLayoutConstraint:0x1d02816d0 UIView:0x105c36940.centerX == UIView:0x105c31230.centerX   (active)>"
+)
+
+Will attempt to recover by breaking constraint 
+<NSLayoutConstraint:0x1d02816d0 UIView:0x105c36940.centerX == UIView:0x105c31230.centerX   (active)>
+
+Make a symbolic breakpoint at UIViewAlertForUnsatisfiableConstraints to catch this in the debugger.
+The methods in the UIConstraintBasedLayoutDebugging category on UIView listed in <UIKit/UIView.h> may also be helpful.
+2018-07-23 11:04:04.670160+0800 LUTEC[774:263303] [LayoutConstraints] Unable to simultaneously satisfy constraints.
+	Probably at least one of the constraints in the following list is one you don't want. 
+	Try this: 
+		(1) look at each constraint and try to figure out which you don't expect; 
+		(2) find the code that added the unwanted constraint or constraints and fix it. 
+	(Note: If you're seeing NSAutoresizingMaskLayoutConstraints that you don't understand, refer to the documentation for the UIView property translatesAutoresizingMaskIntoConstraints) 
+(
+    "<NSAutoresizingMaskLayoutConstraint:0x1d409fa90 h=--& v=--& UIView:0x105c31230.width == 375   (active)>",
+    "<NSAutoresizingMaskLayoutConstraint:0x1d0288160 h=--& v=--& UIView:0x105c36940.width == 812   (active)>",
+    "<NSLayoutConstraint:0x1d0281720 UIView:0x105c36940.width == 0.957333*UIView:0x105c31230.width   (active)>"
+)
+
+Will attempt to recover by breaking constraint 
+<NSLayoutConstraint:0x1d0281720 UIView:0x105c36940.width == 0.957333*UIView:0x105c31230.width   (active)>
+
+Make a symbolic breakpoint at UIViewAlertForUnsatisfiableConstraints to catch this in the debugger.
+The methods in the UIConstraintBasedLayoutDebugging category on UIView listed in <UIKit/UIView.h> may also be helpful.
+2018-07-23 11:04:04.670569+0800 LUTEC[774:263303] [LayoutConstraints] Unable to simultaneously satisfy constraints.
+	Probably at least one of the constraints in the following list is one you don't want. 
+	Try this: 
+		(1) look at each constraint and try to figure out which you don't expect; 
+		(2) find the code that added the unwanted constraint or constraints and fix it. 
+	(Note: If you're seeing NSAutoresizingMaskLayoutConstraints that you don't understand, refer to the documentation for the UIView property translatesAutoresizingMaskIntoConstraints) 
+(
+    "<NSAutoresizingMaskLayoutConstraint:0x1d0289100 h=--& v=--& DisplayView:0x105c36b30.midY == 187.5   (active)>",
+    "<NSAutoresizingMaskLayoutConstraint:0x1d009ee10 h=--& v=--& UIView:0x105c36940.midY == 406.167   (active)>",
+    "<NSLayoutConstraint:0x1d02814f0 V:|-(0)-[DisplayView:0x105c36b30]   (active, names: '|':UIView:0x105c36940 )>",
+    "<NSLayoutConstraint:0x1d0281540 V:[DisplayView:0x105c36b30]-(0)-|   (active, names: '|':UIView:0x105c36940 )>",
+    "<NSLayoutConstraint:0x1d0281770 V:|-(8)-[UIView:0x105c36940]   (active, names: '|':UIView:0x105c31230 )>"
+)
+
+Will attempt to recover by breaking constraint 
+<NSLayoutConstraint:0x1d0281540 V:[DisplayView:0x105c36b30]-(0)-|   (active, names: '|':UIView:0x105c36940 )>
+
+Make a symbolic breakpoint at UIViewAlertForUnsatisfiableConstraints to catch this in the debugger.
+The methods in the UIConstraintBasedLayoutDebugging category on UIView listed in <UIKit/UIView.h> may also be helpful.
+2018-07-23 11:04:04.670950+0800 LUTEC[774:263303] [LayoutConstraints] Unable to simultaneously satisfy constraints.
+	Probably at least one of the constraints in the following list is one you don't want. 
+	Try this: 
+		(1) look at each constraint and try to figure out which you don't expect; 
+		(2) find the code that added the unwanted constraint or constraints and fix it. 
+	(Note: If you're seeing NSAutoresizingMaskLayoutConstraints that you don't understand, refer to the documentation for the UIView property translatesAutoresizingMaskIntoConstraints) 
+(
+    "<NSAutoresizingMaskLayoutConstraint:0x1d009ee10 h=--& v=--& UIView:0x105c36940.midY == 406.167   (active)>",
+    "<NSAutoresizingMaskLayoutConstraint:0x1d009eeb0 h=--& v=--& UIView:0x105c36940.height == 375   (active)>",
+    "<NSLayoutConstraint:0x1d0281770 V:|-(8)-[UIView:0x105c36940]   (active, names: '|':UIView:0x105c31230 )>"
+)
+
+Will attempt to recover by breaking constraint 
+<NSLayoutConstraint:0x1d0281770 V:|-(8)-[UIView:0x105c36940]   (active, names: '|':UIView:0x105c31230 )>
+
+Make a symbolic breakpoint at UIViewAlertForUnsatisfiableConstraints to catch this in the debugger.
+The methods in the UIConstraintBasedLayoutDebugging category on UIView listed in <UIKit/UIView.h> may also be helpful.
+2018-07-23 11:04:04.671329+0800 LUTEC[774:263303] The behavior of the UICollectionViewFlowLayout is not defined because:
+2018-07-23 11:04:04.671349+0800 LUTEC[774:263303] the item height must be less than the height of the UICollectionView minus the section insets top and bottom values, minus the content insets top and bottom values.
+2018-07-23 11:04:04.671504+0800 LUTEC[774:263303] The relevant UICollectionViewFlowLayout instance is <UICollectionViewFlowLayout: 0x105d25bc0>, and it is attached to <UICollectionView: 0x10884cc00; frame = (0 0; 812 343); autoresize = RM+BM; gestureRecognizers = <NSArray: 0x1d424da40>; animations = { bounds.origin=<CABasicAnimation: 0x1cc0393c0>; bounds.size=<CABasicAnimation: 0x1cc0393a0>; bounds.origin-2=<CABasicAnimation: 0x1d4233680>; bounds.size-2=<CABasicAnimation: 0x1d4233280>; position=<CABasicAnimation: 0x1d4233660>; }; layer = <CALayer: 0x1d4223d40>; contentOffset: {0, 0}; contentSize: {7875, 322}; adjustedContentInset: {0, 0, 21, 0}> collection view layout: <UICollectionViewFlowLayout: 0x105d25bc0>.
+2018-07-23 11:04:04.671531+0800 LUTEC[774:263303] Make a symbolic breakpoint at UICollectionViewFlowLayoutBreakForInvalidSizes to catch this in the debugger.
+2018-07-23 11:04:04.697785+0800 LUTEC[774:263303] [App] if we're in the real pre-commit handler we can't actually add any new fences due to CA restriction
+2018-07-23 11:04:04.700008+0800 LUTEC[774:263303] [App] if we're in the real pre-commit handler we can't actually add any new fences due to CA restriction
+2018-07-23 11:04:05.014894+0800 LUTEC[774:263734] [] tcp_timers tcp[8] retransmit SYN 5
+2018-07-23 11:04:05.346251+0800 LUTEC[774:263303] OnFunSDKResult 5508,p1:0,p2:1532315044,p3:0
+2018-07-23 11:04:06.373701+0800 LUTEC[774:263303] OnFunSDKResult 5508,p1:0,p2:1532315045,p3:0
+2018-07-23 11:04:07.020110+0800 LUTEC[774:263734] [] tcp_timers tcp[8] retransmit SYN 6
+2018-07-23 11:04:07.336719+0800 LUTEC[774:263303] OnFunSDKResult 5508,p1:0,p2:1532315046,p3:0
+2018-07-23 11:04:08.064894+0800 LUTEC[774:263609] [] tcp_timers tcp[6] retransmit SYN 7
+2018-07-23 11:04:08.382767+0800 LUTEC[774:263303] OnFunSDKResult 5508,p1:0,p2:1532315047,p3:0
+2018-07-23 11:04:08.711989+0800 LUTEC[774:263303] The behavior of the UICollectionViewFlowLayout is not defined because:
+2018-07-23 11:04:08.712035+0800 LUTEC[774:263303] the item height must be less than the height of the UICollectionView minus the section insets top and bottom values, minus the content insets top and bottom values.
+2018-07-23 11:04:08.712223+0800 LUTEC[774:263303] The relevant UICollectionViewFlowLayout instance is <UICollectionViewFlowLayout: 0x105d25bc0>, and it is attached to <UICollectionView: 0x10884cc00; frame = (0 0; 375 812); autoresize = RM+BM; gestureRecognizers = <NSArray: 0x1d424da40>; animations = { bounds.origin=<CABasicAnimation: 0x1c40359a0>; bounds.size=<CABasicAnimation: 0x1c40351a0>; bounds.origin-2=<CABasicAnimation: 0x1c4036200>; bounds.size-2=<CABasicAnimation: 0x1c4035fe0>; bounds.origin-3=<CABasicAnimation: 0x1d0427600>; bounds.size-3=<CABasicAnimation: 0x1d0430940>; position=<CABasicAnimation: 0x1d042a6c0>; }; layer = <CALayer: 0x1d4223d40>; contentOffset: {0, -44}; contentSize: {7875, 322}; adjustedContentInset: {44, 0, 34, 0}> collection view layout: <UICollectionViewFlowLayout: 0x105d25bc0>.
+2018-07-23 11:04:08.712246+0800 LUTEC[774:263303] Make a symbolic breakpoint at UICollectionViewFlowLayoutBreakForInvalidSizes to catch this in the debugger.
+2018-07-23 11:04:08.755934+0800 LUTEC[774:263303] [App] if we're in the real pre-commit handler we can't actually add any new fences due to CA restriction
+2018-07-23 11:04:08.755978+0800 LUTEC[774:263303] [App] if we're in the real pre-commit handler we can't actually add any new fences due to CA restriction
+2018-07-23 11:04:09.355237+0800 LUTEC[774:263303] OnFunSDKResult 5508,p1:0,p2:1532315048,p3:0
+2018-07-23 11:04:10.221042+0800 LUTEC[774:263303] The behavior of the UICollectionViewFlowLayout is not defined because:
+2018-07-23 11:04:10.221104+0800 LUTEC[774:263303] the item height must be less than the height of the UICollectionView minus the section insets top and bottom values, minus the content insets top and bottom values.
+2018-07-23 11:04:10.221366+0800 LUTEC[774:263303] The relevant UICollectionViewFlowLayout instance is <UICollectionViewFlowLayout: 0x105d25bc0>, and it is attached to <UICollectionView: 0x10884cc00; frame = (0 0; 812 343); autoresize = RM+BM; gestureRecognizers = <NSArray: 0x1d424da40>; animations = { bounds.origin=<CABasicAnimation: 0x1c4034800>; bounds.size=<CABasicAnimation: 0x1c40341a0>; bounds.origin-2=<CABasicAnimation: 0x1c80397a0>; bounds.size-2=<CABasicAnimation: 0x1c8037e00>; position=<CABasicAnimation: 0x1c8039aa0>; }; layer = <CALayer: 0x1d4223d40>; contentOffset: {-44, 0}; contentSize: {7875, 734}; adjustedContentInset: {0, 44, 21, 44}> collection view layout: <UICollectionViewFlowLayout: 0x105d25bc0>.
+2018-07-23 11:04:10.221405+0800 LUTEC[774:263303] Make a symbolic breakpoint at UICollectionViewFlowLayoutBreakForInvalidSizes to catch this in the debugger.
+添加所有的手势
+2018-07-23 11:04:10.247679+0800 LUTEC[774:263303] The behavior of the UICollectionViewFlowLayout is not defined because:
+2018-07-23 11:04:10.247733+0800 LUTEC[774:263303] the item height must be less than the height of the UICollectionView minus the section insets top and bottom values, minus the content insets top and bottom values.
+2018-07-23 11:04:10.248011+0800 LUTEC[774:263303] The relevant UICollectionViewFlowLayout instance is <UICollectionViewFlowLayout: 0x105d25bc0>, and it is attached to <UICollectionView: 0x10884cc00; frame = (0 0; 812 343); autoresize = RM+BM; gestureRecognizers = <NSArray: 0x1d424da40>; animations = { bounds.origin=<CABasicAnimation: 0x1c4034800>; bounds.size=<CABasicAnimation: 0x1c40341a0>; bounds.origin-2=<CABasicAnimation: 0x1c80397a0>; bounds.size-2=<CABasicAnimation: 0x1c8037e00>; position=<CABasicAnimation: 0x1c8039aa0>; }; layer = <CALayer: 0x1d4223d40>; contentOffset: {0, 0}; contentSize: {7875, 322}; adjustedContentInset: {0, 0, 21, 0}> collection view layout: <UICollectionViewFlowLayout: 0x105d25bc0>.
+2018-07-23 11:04:10.249048+0800 LUTEC[774:263303] Make a symbolic breakpoint at UICollectionViewFlowLayoutBreakForInvalidSizes to catch this in the debugger.
+2018-07-23 11:04:10.260584+0800 LUTEC[774:263303] [App] if we're in the real pre-commit handler we can't actually add any new fences due to CA restriction
+2018-07-23 11:04:10.260627+0800 LUTEC[774:263303] [App] if we're in the real pre-commit handler we can't actually add any new fences due to CA restriction
+2018-07-23 11:04:10.364494+0800 LUTEC[774:263303] OnFunSDKResult 5508,p1:0,p2:1532315049,p3:0
+2018-07-23 11:04:11.023043+0800 LUTEC[774:263578] [] tcp_timers tcp[8] retransmit SYN 7
+2018-07-23 11:04:11.322861+0800 LUTEC[774:263303] OnFunSDKResult 5508,p1:0,p2:1532315050,p3:0
+2018-07-23 11:04:12.056878+0800 LUTEC[774:263609] [] tcp_timers tcp[4] retransmit SYN 8
+2018-07-23 11:04:12.057045+0800 LUTEC[774:263609] [] tcp_timers tcp[3] retransmit SYN 8
+2018-07-23 11:04:12.407410+0800 LUTEC[774:263303] OnFunSDKResult 5508,p1:0,p2:1532315051,p3:0
+2018-07-23 11:04:12.755223+0800 LUTEC[774:263303] The behavior of the UICollectionViewFlowLayout is not defined because:
+2018-07-23 11:04:12.755301+0800 LUTEC[774:263303] the item height must be less than the height of the UICollectionView minus the section insets top and bottom values, minus the content insets top and bottom values.
+2018-07-23 11:04:12.755550+0800 LUTEC[774:263303] The relevant UICollectionViewFlowLayout instance is <UICollectionViewFlowLayout: 0x105d25bc0>, and it is attached to <UICollectionView: 0x10884cc00; frame = (0 0; 812 375); autoresize = RM+BM; gestureRecognizers = <NSArray: 0x1d424da40>; animations = { bounds.origin=<CABasicAnimation: 0x1c40371a0>; bounds.size=<CABasicAnimation: 0x1c4035be0>; position=<CABasicAnimation: 0x1c4034e00>; }; layer = <CALayer: 0x1d4223d40>; contentOffset: {0, 0}; contentSize: {7875, 322}; adjustedContentInset: {0, 0, 21, 0}> collection view layout: <UICollectionViewFlowLayout: 0x105d25bc0>.
+2018-07-23 11:04:12.755625+0800 LUTEC[774:263303] Make a symbolic breakpoint at UICollectionViewFlowLayoutBreakForInvalidSizes to catch this in the debugger.
+2018-07-23 11:04:12.787920+0800 LUTEC[774:263303] [App] if we're in the real pre-commit handler we can't actually add any new fences due to CA restriction
+2018-07-23 11:04:12.787999+0800 LUTEC[774:263303] [App] if we're in the real pre-commit handler we can't actually add any new fences due to CA restriction
+2018-07-23 11:04:13.335756+0800 LUTEC[774:263303] OnFunSDKResult 5508,p1:0,p2:1532315052,p3:0
+2018-07-23 11:04:14.368533+0800 LUTEC[774:263303] OnFunSDKResult 5508,p1:0,p2:1532315053,p3:0
+2018-07-23 11:04:14.838500+0800 LUTEC[774:263303] The behavior of the UICollectionViewFlowLayout is not defined because:
+2018-07-23 11:04:14.838573+0800 LUTEC[774:263303] the item height must be less than the height of the UICollectionView minus the section insets top and bottom values, minus the content insets top and bottom values.
+2018-07-23 11:04:14.838870+0800 LUTEC[774:263303] The relevant UICollectionViewFlowLayout instance is <UICollectionViewFlowLayout: 0x105d25bc0>, and it is attached to <UICollectionView: 0x10884cc00; frame = (0 0; 375 812); autoresize = RM+BM; gestureRecognizers = <NSArray: 0x1d424da40>; animations = { bounds.origin=<CABasicAnimation: 0x1c4034720>; bounds.size=<CABasicAnimation: 0x1c40344e0>; bounds.origin-2=<CABasicAnimation: 0x1c4036a20>; bounds.size-2=<CABasicAnimation: 0x1c4036b40>; position=<CABasicAnimation: 0x1c4034700>; }; layer = <CALayer: 0x1d4223d40>; contentOffset: {0, -44}; contentSize: {7875, 354}; adjustedContentInset: {44, 0, 34, 0}> collection view layout: <UICollectionViewFlowLayout: 0x105d25bc0>.
+2018-07-23 11:04:14.838917+0800 LUTEC[774:263303] Make a symbolic breakpoint at UICollectionViewFlowLayoutBreakForInvalidSizes to catch this in the debugger.
+2018-07-23 11:04:14.890487+0800 LUTEC[774:263303] [App] if we're in the real pre-commit handler we can't actually add any new fences due to CA restriction
+2018-07-23 11:04:14.890533+0800 LUTEC[774:263303] [App] if we're in the real pre-commit handler we can't actually add any new fences due to CA restriction
+2018-07-23 11:04:15.343611+0800 LUTEC[774:263303] OnFunSDKResult 5508,p1:0,p2:1532315054,p3:0
+2018-07-23 11:04:16.069305+0800 LUTEC[774:263578] [] tcp_timers tcp[6] retransmit SYN 8
+2018-07-23 11:04:16.367819+0800 LUTEC[774:263303] OnFunSDKResult 5508,p1:0,p2:1532315055,p3:0
+2018-07-23 11:04:17.350778+0800 LUTEC[774:263303] OnFunSDKResult 5508,p1:0,p2:1532315056,p3:0
+2018-07-23 11:04:17.816050+0800 LUTEC[774:263303] The behavior of the UICollectionViewFlowLayout is not defined because:
+2018-07-23 11:04:17.816112+0800 LUTEC[774:263303] the item height must be less than the height of the UICollectionView minus the section insets top and bottom values, minus the content insets top and bottom values.
+2018-07-23 11:04:17.816371+0800 LUTEC[774:263303] The relevant UICollectionViewFlowLayout instance is <UICollectionViewFlowLayout: 0x105d25bc0>, and it is attached to <UICollectionView: 0x10884cc00; frame = (0 0; 812 343); autoresize = RM+BM; gestureRecognizers = <NSArray: 0x1d424da40>; animations = { bounds.origin=<CABasicAnimation: 0x1c8039820>; bounds.size=<CABasicAnimation: 0x1c8039b40>; bounds.origin-2=<CABasicAnimation: 0x1c8039c80>; bounds.size-2=<CABasicAnimation: 0x1c80383a0>; position=<CABasicAnimation: 0x1c8036d80>; }; layer = <CALayer: 0x1d4223d40>; contentOffset: {-44, 0}; contentSize: {7875, 734}; adjustedContentInset: {0, 44, 21, 44}> collection view layout: <UICollectionViewFlowLayout: 0x105d25bc0>.
+2018-07-23 11:04:17.816411+0800 LUTEC[774:263303] Make a symbolic breakpoint at UICollectionViewFlowLayoutBreakForInvalidSizes to catch this in the debugger.
+添加所有的手势
+2018-07-23 11:04:17.847204+0800 LUTEC[774:263303] The behavior of the UICollectionViewFlowLayout is not defined because:
+2018-07-23 11:04:17.847236+0800 LUTEC[774:263303] the item height must be less than the height of the UICollectionView minus the section insets top and bottom values, minus the content insets top and bottom values.
+2018-07-23 11:04:17.847370+0800 LUTEC[774:263303] The relevant UICollectionViewFlowLayout instance is <UICollectionViewFlowLayout: 0x105d25bc0>, and it is attached to <UICollectionView: 0x10884cc00; frame = (0 0; 812 343); autoresize = RM+BM; gestureRecognizers = <NSArray: 0x1d424da40>; animations = { bounds.origin=<CABasicAnimation: 0x1c8039820>; bounds.size=<CABasicAnimation: 0x1c8039b40>; bounds.origin-2=<CABasicAnimation: 0x1c8039c80>; bounds.size-2=<CABasicAnimation: 0x1c80383a0>; position=<CABasicAnimation: 0x1c8036d80>; }; layer = <CALayer: 0x1d4223d40>; contentOffset: {0, 0}; contentSize: {7875, 322}; adjustedContentInset: {0, 0, 21, 0}> collection view layout: <UICollectionViewFlowLayout: 0x105d25bc0>.
+2018-07-23 11:04:17.847519+0800 LUTEC[774:263303] Make a symbolic breakpoint at UICollectionViewFlowLayoutBreakForInvalidSizes to catch this in the debugger.
+2018-07-23 11:04:17.861527+0800 LUTEC[774:263303] [App] if we're in the real pre-commit handler we can't actually add any new fences due to CA restriction
+2018-07-23 11:04:17.861569+0800 LUTEC[774:263303] [App] if we're in the real pre-commit handler we can't actually add any new fences due to CA restriction
+2018-07-23 11:04:18.375059+0800 LUTEC[774:263303] OnFunSDKResult 5508,p1:0,p2:1532315057,p3:0
+2018-07-23 11:04:19.025658+0800 LUTEC[774:263734] [] tcp_timers tcp[8] retransmit SYN 8
+2018-07-23 11:04:19.335226+0800 LUTEC[774:263303] OnFunSDKResult 5508,p1:0,p2:1532315058,p3:0
+2018-07-23 11:04:20.232519+0800 LUTEC[774:263303] The behavior of the UICollectionViewFlowLayout is not defined because:
+2018-07-23 11:04:20.232601+0800 LUTEC[774:263303] the item height must be less than the height of the UICollectionView minus the section insets top and bottom values, minus the content insets top and bottom values.
+2018-07-23 11:04:20.232974+0800 LUTEC[774:263303] The relevant UICollectionViewFlowLayout instance is <UICollectionViewFlowLayout: 0x105d25bc0>, and it is attached to <UICollectionView: 0x10884cc00; frame = (0 0; 375 812); autoresize = RM+BM; gestureRecognizers = <NSArray: 0x1d424da40>; animations = { bounds.origin=<CABasicAnimation: 0x1c4035360>; bounds.size=<CABasicAnimation: 0x1c4033c00>; bounds.origin-2=<CABasicAnimation: 0x1c4035b40>; bounds.size-2=<CABasicAnimation: 0x1c4035b00>; bounds.origin-3=<CABasicAnimation: 0x1cc037980>; bounds.size-3=<CABasicAnimation: 0x1cc039620>; position=<CABasicAnimation: 0x1cc0392e0>; }; layer = <CALayer: 0x1d4223d40>; contentOffset: {0, -44}; contentSize: {7875, 322}; adjustedContentInset: {44, 0, 34, 0}> collection view layout: <UICollectionViewFlowLayout: 0x105d25bc0>.
+2018-07-23 11:04:20.233028+0800 LUTEC[774:263303] Make a symbolic breakpoint at UICollectionViewFlowLayoutBreakForInvalidSizes to catch this in the debugger.
+2018-07-23 11:04:20.280679+0800 LUTEC[774:263303] [App] if we're in the real pre-commit handler we can't actually add any new fences due to CA restriction
+2018-07-23 11:04:20.280725+0800 LUTEC[774:263303] [App] if we're in the real pre-commit handler we can't actually add any new fences due to CA restriction
+2018-07-23 11:04:20.374345+0800 LUTEC[774:263303] OnFunSDKResult 5508,p1:0,p2:1532315059,p3:0
+2018-07-23 11:04:21.335085+0800 LUTEC[774:263303] OnFunSDKResult 5508,p1:0,p2:1532315060,p3:0
+2018-07-23 11:04:21.813445+0800 LUTEC[774:263303] The behavior of the UICollectionViewFlowLayout is not defined because:
+2018-07-23 11:04:21.813508+0800 LUTEC[774:263303] the item height must be less than the height of the UICollectionView minus the section insets top and bottom values, minus the content insets top and bottom values.
+2018-07-23 11:04:21.813792+0800 LUTEC[774:263303] The relevant UICollectionViewFlowLayout instance is <UICollectionViewFlowLayout: 0x105d25bc0>, and it is attached to <UICollectionView: 0x10884cc00; frame = (0 0; 812 343); autoresize = RM+BM; gestureRecognizers = <NSArray: 0x1d424da40>; animations = { bounds.origin=<CABasicAnimation: 0x1c80375c0>; bounds.size=<CABasicAnimation: 0x1c8038460>; bounds.origin-2=<CABasicAnimation: 0x1c4035080>; bounds.size-2=<CABasicAnimation: 0x1c4035b40>; position=<CABasicAnimation: 0x1c4034ec0>; }; layer = <CALayer: 0x1d4223d40>; contentOffset: {-44, 0}; contentSize: {7875, 734}; adjustedContentInset: {0, 44, 21, 44}> collection view layout: <UICollectionViewFlowLayout: 0x105d25bc0>.
+2018-07-23 11:04:21.813851+0800 LUTEC[774:263303] Make a symbolic breakpoint at UICollectionViewFlowLayoutBreakForInvalidSizes to catch this in the debugger.
+添加所有的手势
+2018-07-23 11:04:21.846475+0800 LUTEC[774:263303] The behavior of the UICollectionViewFlowLayout is not defined because:
+2018-07-23 11:04:21.846500+0800 LUTEC[774:263303] the item height must be less than the height of the UICollectionView minus the section insets top and bottom values, minus the content insets top and bottom values.
+2018-07-23 11:04:21.846625+0800 LUTEC[774:263303] The relevant UICollectionViewFlowLayout instance is <UICollectionViewFlowLayout: 0x105d25bc0>, and it is attached to <UICollectionView: 0x10884cc00; frame = (0 0; 812 343); autoresize = RM+BM; gestureRecognizers = <NSArray: 0x1d424da40>; animations = { bounds.origin=<CABasicAnimation: 0x1c80375c0>; bounds.size=<CABasicAnimation: 0x1c8038460>; bounds.origin-2=<CABasicAnimation: 0x1c4035080>; bounds.size-2=<CABasicAnimation: 0x1c4035b40>; position=<CABasicAnimation: 0x1c4034ec0>; }; layer = <CALayer: 0x1d4223d40>; contentOffset: {0, 0}; contentSize: {7875, 322}; adjustedContentInset: {0, 0, 21, 0}> collection view layout: <UICollectionViewFlowLayout: 0x105d25bc0>.
+2018-07-23 11:04:21.847009+0800 LUTEC[774:263303] Make a symbolic breakpoint at UICollectionViewFlowLayoutBreakForInvalidSizes to catch this in the debugger.
+2018-07-23 11:04:21.859491+0800 LUTEC[774:263303] [App] if we're in the real pre-commit handler we can't actually add any new fences due to CA restriction
+2018-07-23 11:04:21.859533+0800 LUTEC[774:263303] [App] if we're in the real pre-commit handler we can't actually add any new fences due to CA restriction
+2018-07-23 11:04:22.381032+0800 LUTEC[774:263303] OnFunSDKResult 5508,p1:0,p2:1532315061,p3:0
+2018-07-23 11:04:23.342295+0800 LUTEC[774:263303] OnFunSDKResult 5508,p1:0,p2:1532315062,p3:0
+2018-07-23 11:04:24.369691+0800 LUTEC[774:263303] OnFunSDKResult 5508,p1:0,p2:1532315063,p3:0
+2018-07-23 11:04:24.491075+0800 LUTEC[774:263303] The behavior of the UICollectionViewFlowLayout is not defined because:
+2018-07-23 11:04:24.491138+0800 LUTEC[774:263303] the item height must be less than the height of the UICollectionView minus the section insets top and bottom values, minus the content insets top and bottom values.
+2018-07-23 11:04:24.491379+0800 LUTEC[774:263303] The relevant UICollectionViewFlowLayout instance is <UICollectionViewFlowLayout: 0x105d25bc0>, and it is attached to <UICollectionView: 0x10884cc00; frame = (0 0; 812 375); autoresize = RM+BM; gestureRecognizers = <NSArray: 0x1d424da40>; animations = { bounds.origin=<CABasicAnimation: 0x1c4034580>; bounds.size=<CABasicAnimation: 0x1c4035cc0>; position=<CABasicAnimation: 0x1c4034800>; }; layer = <CALayer: 0x1d4223d40>; contentOffset: {0, 0}; contentSize: {7875, 322}; adjustedContentInset: {0, 0, 21, 0}> collection view layout: <UICollectionViewFlowLayout: 0x105d25bc0>.
+2018-07-23 11:04:24.491418+0800 LUTEC[774:263303] Make a symbolic breakpoint at UICollectionViewFlowLayoutBreakForInvalidSizes to catch this in the debugger.
+2018-07-23 11:04:24.522026+0800 LUTEC[774:263303] [App] if we're in the real pre-commit handler we can't actually add any new fences due to CA restriction
+2018-07-23 11:04:24.522147+0800 LUTEC[774:263303] [App] if we're in the real pre-commit handler we can't actually add any new fences due to CA restriction
+2018-07-23 11:04:25.349884+0800 LUTEC[774:263303] OnFunSDKResult 5508,p1:0,p2:1532315064,p3:0
+2018-07-23 11:04:26.275377+0800 LUTEC[774:263303] The behavior of the UICollectionViewFlowLayout is not defined because:
+2018-07-23 11:04:26.275471+0800 LUTEC[774:263303] the item height must be less than the height of the UICollectionView minus the section insets top and bottom values, minus the content insets top and bottom values.
+2018-07-23 11:04:26.275830+0800 LUTEC[774:263303] The relevant UICollectionViewFlowLayout instance is <UICollectionViewFlowLayout: 0x105d25bc0>, and it is attached to <UICollectionView: 0x10884cc00; frame = (0 0; 375 812); autoresize = RM+BM; gestureRecognizers = <NSArray: 0x1d424da40>; animations = { bounds.origin=<CABasicAnimation: 0x1cc038c00>; bounds.size=<CABasicAnimation: 0x1cc0397a0>; bounds.origin-2=<CABasicAnimation: 0x1c4031760>; bounds.size-2=<CABasicAnimation: 0x1c40350e0>; position=<CABasicAnimation: 0x1c4036b40>; }; layer = <CALayer: 0x1d4223d40>; contentOffset: {0, -44}; contentSize: {7875, 354}; adjustedContentInset: {44, 0, 34, 0}> collection view layout: <UICollectionViewFlowLayout: 0x105d25bc0>.
+2018-07-23 11:04:26.275886+0800 LUTEC[774:263303] Make a symbolic breakpoint at UICollectionViewFlowLayoutBreakForInvalidSizes to catch this in the debugger.
+2018-07-23 11:04:26.323550+0800 LUTEC[774:263303] [App] if we're in the real pre-commit handler we can't actually add any new fences due to CA restriction
+2018-07-23 11:04:26.323616+0800 LUTEC[774:263303] [App] if we're in the real pre-commit handler we can't actually add any new fences due to CA restriction
+2018-07-23 11:04:26.386396+0800 LUTEC[774:263303] OnFunSDKResult 5508,p1:0,p2:1532315065,p3:0
+2018-07-23 11:04:27.342238+0800 LUTEC[774:263303] OnFunSDKResult 5508,p1:0,p2:1532315066,p3:0
+2018-07-23 11:04:27.570352+0800 LUTEC[774:263303] The behavior of the UICollectionViewFlowLayout is not defined because:
+2018-07-23 11:04:27.570408+0800 LUTEC[774:263303] the item height must be less than the height of the UICollectionView minus the section insets top and bottom values, minus the content insets top and bottom values.
+2018-07-23 11:04:27.570651+0800 LUTEC[774:263303] The relevant UICollectionViewFlowLayout instance is <UICollectionViewFlowLayout: 0x105d25bc0>, and it is attached to <UICollectionView: 0x10884cc00; frame = (0 0; 812 343); autoresize = RM+BM; gestureRecognizers = <NSArray: 0x1d424da40>; animations = { bounds.origin=<CABasicAnimation: 0x1cc039400>; bounds.size=<CABasicAnimation: 0x1cc0368a0>; bounds.origin-2=<CABasicAnimation: 0x1cc039b40>; bounds.size-2=<CABasicAnimation: 0x1cc039bc0>; position=<CABasicAnimation: 0x1cc038180>; }; layer = <CALayer: 0x1d4223d40>; contentOffset: {-44, 0}; contentSize: {7875, 734}; adjustedContentInset: {0, 44, 21, 44}> collection view layout: <UICollectionViewFlowLayout: 0x105d25bc0>.
+2018-07-23 11:04:27.570686+0800 LUTEC[774:263303] Make a symbolic breakpoint at UICollectionViewFlowLayoutBreakForInvalidSizes to catch this in the debugger.
+添加所有的手势
+2018-07-23 11:04:27.602293+0800 LUTEC[774:263303] The behavior of the UICollectionViewFlowLayout is not defined because:
+2018-07-23 11:04:27.602317+0800 LUTEC[774:263303] the item height must be less than the height of the UICollectionView minus the section insets top and bottom values, minus the content insets top and bottom values.
+2018-07-23 11:04:27.602435+0800 LUTEC[774:263303] The relevant UICollectionViewFlowLayout instance is <UICollectionViewFlowLayout: 0x105d25bc0>, and it is attached to <UICollectionView: 0x10884cc00; frame = (0 0; 812 343); autoresize = RM+BM; gestureRecognizers = <NSArray: 0x1d424da40>; animations = { bounds.origin=<CABasicAnimation: 0x1cc039400>; bounds.size=<CABasicAnimation: 0x1cc0368a0>; bounds.origin-2=<CABasicAnimation: 0x1cc039b40>; bounds.size-2=<CABasicAnimation: 0x1cc039bc0>; position=<CABasicAnimation: 0x1cc038180>; }; layer = <CALayer: 0x1d4223d40>; contentOffset: {0, 0}; contentSize: {7875, 322}; adjustedContentInset: {0, 0, 21, 0}> collection view layout: <UICollectionViewFlowLayout: 0x105d25bc0>.
+2018-07-23 11:04:27.602462+0800 LUTEC[774:263303] Make a symbolic breakpoint at UICollectionViewFlowLayoutBreakForInvalidSizes to catch this in the debugger.
+2018-07-23 11:04:27.615116+0800 LUTEC[774:263303] [App] if we're in the real pre-commit handler we can't actually add any new fences due to CA restriction
+2018-07-23 11:04:27.615167+0800 LUTEC[774:263303] [App] if we're in the real pre-commit handler we can't actually add any new fences due to CA restriction
+2018-07-23 11:04:28.062947+0800 LUTEC[774:263609] [] tcp_timers tcp[4] retransmit SYN 9
+2018-07-23 11:04:28.063073+0800 LUTEC[774:263609] [] tcp_timers tcp[3] retransmit SYN 9
+2018-07-23 11:04:28.375514+0800 LUTEC[774:263303] OnFunSDKResult 5508,p1:0,p2:1532315067,p3:0
+2018-07-23 11:04:29.175882+0800 LUTEC[774:263303] The behavior of the UICollectionViewFlowLayout is not defined because:
+2018-07-23 11:04:29.175968+0800 LUTEC[774:263303] the item height must be less than the height of the UICollectionView minus the section insets top and bottom values, minus the content insets top and bottom values.
+2018-07-23 11:04:29.176304+0800 LUTEC[774:263303] The relevant UICollectionViewFlowLayout instance is <UICollectionViewFlowLayout: 0x105d25bc0>, and it is attached to <UICollectionView: 0x10884cc00; frame = (0 0; 375 812); autoresize = RM+BM; gestureRecognizers = <NSArray: 0x1d424da40>; animations = { bounds.origin=<CABasicAnimation: 0x1c00378a0>; bounds.size=<CABasicAnimation: 0x1c003d820>; bounds.origin-2=<CABasicAnimation: 0x1c003a8a0>; bounds.size-2=<CABasicAnimation: 0x1c003df20>; bounds.origin-3=<CABasicAnimation: 0x1c0038200>; bounds.size-3=<CABasicAnimation: 0x1c003ba20>; position=<CABasicAnimation: 0x1c003b600>; }; layer = <CALayer: 0x1d4223d40>; contentOffset: {0, -44}; contentSize: {7875, 322}; adjustedContentInset: {44, 0, 34, 0}> collection view layout: <UICollectionViewFlowLayout: 0x105d25bc0>.
+2018-07-23 11:04:29.176354+0800 LUTEC[774:263303] Make a symbolic breakpoint at UICollectionViewFlowLayoutBreakForInvalidSizes to catch this in the debugger.
+2018-07-23 11:04:29.222437+0800 LUTEC[774:263303] [App] if we're in the real pre-commit handler we can't actually add any new fences due to CA restriction
+2018-07-23 11:04:29.222498+0800 LUTEC[774:263303] [App] if we're in the real pre-commit handler we can't actually add any new fences due to CA restriction
+2018-07-23 11:04:29.349473+0800 LUTEC[774:263303] OnFunSDKResult 5508,p1:0,p2:1532315068,p3:0
+2018-07-23 11:04:30.212523+0800 LUTEC[774:263303] The behavior of the UICollectionViewFlowLayout is not defined because:
+2018-07-23 11:04:30.212607+0800 LUTEC[774:263303] the item height must be less than the height of the UICollectionView minus the section insets top and bottom values, minus the content insets top and bottom values.
+2018-07-23 11:04:30.212975+0800 LUTEC[774:263303] The relevant UICollectionViewFlowLayout instance is <UICollectionViewFlowLayout: 0x105d25bc0>, and it is attached to <UICollectionView: 0x10884cc00; frame = (0 0; 812 343); autoresize = RM+BM; gestureRecognizers = <NSArray: 0x1d424da40>; animations = { bounds.origin=<CABasicAnimation: 0x1c003dee0>; bounds.size=<CABasicAnimation: 0x1c003b7c0>; bounds.origin-2=<CABasicAnimation: 0x1c003ca60>; bounds.size-2=<CABasicAnimation: 0x1c0039440>; position=<CABasicAnimation: 0x1c003bce0>; }; layer = <CALayer: 0x1d4223d40>; contentOffset: {-44, 0}; contentSize: {7875, 734}; adjustedContentInset: {0, 44, 21, 44}> collection view layout: <UICollectionViewFlowLayout: 0x105d25bc0>.
+2018-07-23 11:04:30.213029+0800 LUTEC[774:263303] Make a symbolic breakpoint at UICollectionViewFlowLayoutBreakForInvalidSizes to catch this in the debugger.
+添加所有的手势
+2018-07-23 11:04:30.245036+0800 LUTEC[774:263303] The behavior of the UICollectionViewFlowLayout is not defined because:
+2018-07-23 11:04:30.245060+0800 LUTEC[774:263303] the item height must be less than the height of the UICollectionView minus the section insets top and bottom values, minus the content insets top and bottom values.
+2018-07-23 11:04:30.245168+0800 LUTEC[774:263303] The relevant UICollectionViewFlowLayout instance is <UICollectionViewFlowLayout: 0x105d25bc0>, and it is attached to <UICollectionView: 0x10884cc00; frame = (0 0; 812 343); autoresize = RM+BM; gestureRecognizers = <NSArray: 0x1d424da40>; animations = { bounds.origin=<CABasicAnimation: 0x1c003dee0>; bounds.size=<CABasicAnimation: 0x1c003b7c0>; bounds.origin-2=<CABasicAnimation: 0x1c003ca60>; bounds.size-2=<CABasicAnimation: 0x1c0039440>; position=<CABasicAnimation: 0x1c003bce0>; }; layer = <CALayer: 0x1d4223d40>; contentOffset: {0, 0}; contentSize: {7875, 322}; adjustedContentInset: {0, 0, 21, 0}> collection view layout: <UICollectionViewFlowLayout: 0x105d25bc0>.
+2018-07-23 11:04:30.245183+0800 LUTEC[774:263303] Make a symbolic breakpoint at UICollectionViewFlowLayoutBreakForInvalidSizes to catch this in the debugger.
+2018-07-23 11:04:30.257247+0800 LUTEC[774:263303] [App] if we're in the real pre-commit handler we can't actually add any new fences due to CA restriction
+2018-07-23 11:04:30.257304+0800 LUTEC[774:263303] [App] if we're in the real pre-commit handler we can't actually add any new fences due to CA restriction
+2018-07-23 11:04:30.382817+0800 LUTEC[774:263303] OnFunSDKResult 5508,p1:0,p2:1532315069,p3:0
+2018-07-23 11:04:31.348553+0800 LUTEC[774:263303] OnFunSDKResult 5508,p1:0,p2:1532315070,p3:0
+2018-07-23 11:04:32.073034+0800 LUTEC[774:263609] [] tcp_timers tcp[6] retransmit SYN 9
+2018-07-23 11:04:32.374888+0800 LUTEC[774:263303] OnFunSDKResult 5508,p1:0,p2:1532315071,p3:0
+2018-07-23 11:04:32.774357+0800 LUTEC[774:263303] The behavior of the UICollectionViewFlowLayout is not defined because:
+2018-07-23 11:04:32.774442+0800 LUTEC[774:263303] the item height must be less than the height of the UICollectionView minus the section insets top and bottom values, minus the content insets top and bottom values.
+2018-07-23 11:04:32.774901+0800 LUTEC[774:263303] The relevant UICollectionViewFlowLayout instance is <UICollectionViewFlowLayout: 0x105d25bc0>, and it is attached to <UICollectionView: 0x10884cc00; frame = (0 0; 375 812); autoresize = RM+BM; gestureRecognizers = <NSArray: 0x1d424da40>; animations = { bounds.origin=<CABasicAnimation: 0x1cc032f00>; bounds.size=<CABasicAnimation: 0x1cc0396a0>; bounds.origin-2=<CABasicAnimation: 0x1c8036ae0>; bounds.size-2=<CABasicAnimation: 0x1c8036700>; bounds.origin-3=<CABasicAnimation: 0x1c8038c40>; bounds.size-3=<CABasicAnimation: 0x1c8039ce0>; position=<CABasicAnimation: 0x1c8036140>; }; layer = <CALayer: 0x1d4223d40>; contentOffset: {0, -44}; contentSize: {7875, 322}; adjustedContentInset: {44, 0, 34, 0}> collection view layout: <UICollectionViewFlowLayout: 0x105d25bc0>.
+2018-07-23 11:04:32.775005+0800 LUTEC[774:263303] Make a symbolic breakpoint at UICollectionViewFlowLayoutBreakForInvalidSizes to catch this in the debugger.
+2018-07-23 11:04:32.815753+0800 LUTEC[774:263303] [App] if we're in the real pre-commit handler we can't actually add any new fences due to CA restriction
+2018-07-23 11:04:32.815816+0800 LUTEC[774:263303] [App] if we're in the real pre-commit handler we can't actually add any new fences due to CA restriction
+2018-07-23 11:04:33.342402+0800 LUTEC[774:263303] OnFunSDKResult 5508,p1:0,p2:1532315072,p3:0
+XB_SetActive[0]
+setActove触发home按下（APP进入后台）
+2018-07-23 11:04:35.030360+0800 LUTEC[774:263578] [] tcp_timers tcp[8] retransmit SYN 9
+2018-07-23 11:04:44.480840+0800 LUTEC[774:263578] TIC TCP Conn Failed [6:0x1c4176080]: 1:50 Err(50)
+CRunDriver[aa09c50]-->OnWorkThreadStop_0
+2018-07-23 11:04:44.482932+0800 LUTEC[774:263578] Task <06BD4CAE-19A1-4B5F-8639-76C6E5881513>.<6> HTTP load failed (error code: -1009 [1:50])
+2018-07-23 11:04:44.483181+0800 LUTEC[774:264674] Task <06BD4CAE-19A1-4B5F-8639-76C6E5881513>.<6> finished with error - code: -1009
+2018-07-23 11:04:44.483542+0800 LUTEC[774:263578] TIC TCP Conn Failed [3:0x1d0177d00]: 1:50 Err(50)
+2018-07-23 11:04:44.484336+0800 LUTEC[774:263578] Task <25BFF645-4260-4E84-8AA6-B66D6305CD22>.<3> HTTP load failed (error code: -1009 [1:50])
+2018-07-23 11:04:44.484501+0800 LUTEC[774:264674] Task <25BFF645-4260-4E84-8AA6-B66D6305CD22>.<3> finished with error - code: -1009
+2018-07-23 11:04:44.484640+0800 LUTEC[774:263578] TIC TCP Conn Failed [8:0x1d017f980]: 1:50 Err(50)
+2018-07-23 11:04:44.485202+0800 LUTEC[774:263578] Task <79D08C60-9DE8-4202-B41D-FD5331880F99>.<8> HTTP load failed (error code: -1009 [1:50])
+2018-07-23 11:04:44.485547+0800 LUTEC[774:264674] Task <79D08C60-9DE8-4202-B41D-FD5331880F99>.<8> finished with error - code: -1009
+2018-07-23 11:04:44.485898+0800 LUTEC[774:263578] TIC TCP Conn Failed [4:0x1d017a640]: 1:50 Err(50)
+2018-07-23 11:04:44.486202+0800 LUTEC[774:263578] Task <9AAEFBF1-B02F-48DC-81C3-AA84477F01AC>.<4> HTTP load failed (error code: -1009 [1:50])
+2018-07-23 11:04:44.486339+0800 LUTEC[774:264674] Task <9AAEFBF1-B02F-48DC-81C3-AA84477F01AC>.<4> finished with error - code: -1009
+XB_SetActive[1]
+setActove重新进来后响应（APP进入前台）
+高清：Optional("高清")
+得到了什么？
+2018-07-23 11:04:45.583615+0800 LUTEC[774:263303] 
+[getInterfaceBytes-Total]1391528960,348912640
+37373fcf27a2a0ce
+2018-07-23 11:04:45.597381+0800 LUTEC[774:264674] TIC TCP Conn Failed [11:0x1c8176680]: 1:61 Err(61)
+2018-07-23 11:04:45.597672+0800 LUTEC[774:264674] Task <63C14874-F1EF-4DA7-BAE5-E19FB84E8EC5>.<11> HTTP load failed (error code: -1004 [1:61])
+2018-07-23 11:04:45.597872+0800 LUTEC[774:263578] Task <63C14874-F1EF-4DA7-BAE5-E19FB84E8EC5>.<11> finished with error - code: -1004
+connection error or data is nill
+得到数据
+121.161470203712 30.0199527201936 8.78770542144775
+得到数据
+121.161470203712 30.0199527201936 8.78770542144775
+得到数据
+121.161477336704 30.0199585166961 8.78770542144775
+2018-07-23 11:04:45.726770+0800 LUTEC[774:263303] OnFunSDKResult 5139,p1:0,p2:15000,p3:0
+2018-07-23 11:04:45.726818+0800 LUTEC[774:263303] EMSG_DEV_LOGIN 5139,p1:0,p2:15000,p3:0
+2018-07-23 11:04:45.747981+0800 LUTEC[774:264674] 发送设置数据:BFbU
+
+2018-07-23 11:04:45.751086+0800 LUTEC[774:263303] 播放 :高清, handler :1048612
+2018-07-23 11:04:45.757955+0800 LUTEC[774:263303] ============[ret] 5122======param1 -11502==============
+2018-07-23 11:04:45.758017+0800 LUTEC[774:263303] ============[ret] 5122======param1 -100000==============
+SetXTimerElapse_Warning_Not_100*N!
+2018-07-23 11:04:46.125240+0800 LUTEC[774:263303] OnFunSDKResult 5122,p1:0,p2:0,p3:5
+2018-07-23 11:04:46.125435+0800 LUTEC[774:263303] OnFunSDKResult 5122,p1:0,p2:0,p3:5
+2018-07-23 11:04:46.125508+0800 LUTEC[774:263303] OnFunSDKResult 5122,p1:0,p2:0,p3:5
+2018-07-23 11:04:46.125761+0800 LUTEC[774:263303] ============[ret] 5122======param1 0==============
+2018-07-23 11:04:46.155255+0800 LUTEC[774:263303] OnFunSDKResult 5501,p1:0,p2:0,p3:2
+2018-07-23 11:04:46.155361+0800 LUTEC[774:263303] EMSG_START_PLAY 5501,p1:0,p2:0,DSS:2
+2018-07-23 11:04:46.155429+0800 LUTEC[774:263303] OnFunSDKResult 5516,p1:0,p2:0,p3:0
+Buffering
+CRunDriver[ab157f0]-->AddWorkThread_0
+AddTimer_Warning_Not_100*N!
+AddTimer_Warning_Not_100*N!
+SetXTimerElapse_Warning_Not_100*N!
+2018-07-23 11:04:46.523272+0800 LUTEC[774:263303] OnFunSDKResult 5517,p1:0,p2:0,p3:0
+2018-07-23 11:04:46.525048+0800 LUTEC[774:263303] OnFunSDKResult 5508,p1:0,p2:1532315085,p3:0
+alGenSources error! error = 40964
+2018-07-23 11:04:46.753167+0800 LUTEC[774:264674] 发送设置数据:BFbU
+
+2018-07-23 11:04:46.760117+0800 LUTEC[774:263303] ============[ret] 5122======param1 -100000==============
+2018-07-23 11:04:46.801395+0800 LUTEC[774:263303] ============[ret] 5122======param1 0==============
+2018-07-23 11:04:46.821536+0800 LUTEC[774:263303] ============[ret] 5130======param1 12==============
+2018-07-23 11:04:46.821631+0800 LUTEC[774:263303] 收到串口数据:[BqbwbzazfzOU] from []
+[
+  {
+    "name" : "楼梯口",
+    "highlight" : "z",
+    "level" : "O",
+    "lux" : "w",
+    "hld" : "b",
+    "mode" : "b",
+    "lld" : "f",
+    "il" : 1,
+    "lowlight" : "a",
+    "distance" : "q",
+    "password" : "123",
+    "indicator" : "z",
+    "sn" : "37373fcf27a2a0ce",
+    "alarm" : "z"
+  },
+  {
+    "name" : "左五-升级",
+    "highlight" : "z",
+    "level" : "O",
+    "lux" : "w",
+    "hld" : "b",
+    "mode" : "b",
+    "lld" : "a",
+    "il" : 1,
+    "lowlight" : "a",
+    "distance" : "w",
+    "password" : "",
+    "indicator" : "z",
+    "sn" : "7be9eeecf157d0e5",
+    "alarm" : "z"
+  },
+  {
+    "name" : "后楼梯口1",
+    "highlight" : "z",
+    "level" : "O",
+    "lux" : "w",
+    "hld" : "d",
+    "mode" : "b",
+    "lld" : "f",
+    "il" : 7,
+    "lowlight" : "a",
+    "distance" : "w",
+    "password" : "123",
+    "indicator" : "z",
+    "sn" : "4c364392506954da",
+    "alarm" : "z"
+  },
+  {
+    "name" : "左三",
+    "highlight" : "z",
+    "level" : "O",
+    "lux" : "v",
+    "hld" : "b",
+    "mode" : "b",
+    "lld" : "a",
+    "il" : 7,
+    "lowlight" : "l",
+    "distance" : "w",
+    "password" : "123",
+    "indicator" : "b",
+    "sn" : "9de3b7c747fcd41c",
+    "alarm" : "z"
+  },
+  {
+    "name" : "左四",
+    "highlight" : "z",
+    "level" : "O",
+    "lux" : "w",
+    "hld" : "b",
+    "mode" : "b",
+    "lld" : "a",
+    "il" : 7,
+    "lowlight" : "a",
+    "distance" : "w",
+    "password" : "123",
+    "indicator" : "z",
+    "sn" : "7a9d2e686b90f82b",
+    "alarm" : "a"
+  },
+  {
+    "name" : "左一",
+    "highlight" : "z",
+    "level" : "Y",
+    "lux" : "i",
+    "hld" : "d",
+    "mode" : "b",
+    "lld" : "n",
+    "il" : 7,
+    "lowlight" : "e",
+    "distance" : "u",
+    "password" : "",
+    "indicator" : "b",
+    "sn" : "224a8e17472a1630",
+    "alarm" : "z"
+  },
+  {
+    "name" : "左二",
+    "highlight" : "z",
+    "level" : "O",
+    "lux" : "w",
+    "hld" : "b",
+    "mode" : "b",
+    "lld" : "a",
+    "il" : 7,
+    "lowlight" : "l",
+    "distance" : "w",
+    "password" : "yt***888",
+    "indicator" : "b",
+    "sn" : "0d3487bec52a4efa",
+    "alarm" : "z"
+  },
+  {
+    "name" : "id r o",
+    "highlight" : "z",
+    "level" : "O",
+    "lux" : "w",
+    "hld" : "d",
+    "mode" : "b",
+    "lld" : "a",
+    "il" : 1,
+    "lowlight" : "a",
+    "distance" : "x",
+    "password" : "italia1",
+    "indicator" : "z",
+    "sn" : "bab6d0a9e2c2361f",
+    "alarm" : "z"
+  },
+  {
+    "name" : "车库",
+    "highlight" : "a",
+    "level" : "Y",
+    "lux" : "a",
+    "hld" : "b",
+    "mode" : "b",
+    "lld" : "a",
+    "il" : 1,
+    "lowlight" : "a",
+    "distance" : "a",
+    "password" : "",
+    "indicator" : "a",
+    "sn" : "752e75b3937e6906",
+    "alarm" : "a"
+  },
+  {
+    "name" : "Ｃ1-升级",
+    "highlight" : "h",
+    "level" : "O",
+    "lux" : "a",
+    "hld" : "b",
+    "mode" : "b",
+    "lld" : "f",
+    "il" : 1,
+    "lowlight" : "a",
+    "distance" : "w",
+    "password" : "",
+    "indicator" : "z",
+    "sn" : "bb1d86945fb5db48",
+    "alarm" : "z"
+  },
+  {
+    "name" : "LUTEC 6-升级",
+    "highlight" : "z",
+    "level" : "O",
+    "lux" : "a",
+    "hld" : "b",
+    "mode" : "b",
+    "lld" : "f",
+    "il" : 1,
+    "lowlight" : "a",
+    "distance" : "v",
+    "password" : "",
+    "indicator" : "z",
+    "sn" : "205ea4fe74024798",
+    "alarm" : "z"
+  },
+  {
+    "name" : "1-升级",
+    "highlight" : "z",
+    "level" : "O",
+    "lux" : "w",
+    "hld" : "b",
+    "mode" : "b",
+    "lld" : "f",
+    "il" : 4,
+    "lowlight" : "a",
+    "distance" : "a",
+    "password" : "",
+    "indicator" : "z",
+    "sn" : "f9634e8b17a24de3",
+    "alarm" : "z"
+  },
+  {
+    "name" : "LUTEC UK",
+    "highlight" : "z",
+    "level" : "O",
+    "lux" : "p",
+    "hld" : "b",
+    "mode" : "b",
+    "lld" : "z",
+    "il" : 4,
+    "lowlight" : "i",
+    "distance" : "a",
+    "password" : "mills1",
+    "indicator" : "z",
+    "sn" : "abe9e920b1c072d5",
+    "alarm" : "z"
+  },
+  {
+    "name" : "后楼梯口2-升级",
+    "highlight" : "z",
+    "level" : "O",
+    "lux" : "z",
+    "hld" : "b",
+    "mode" : "b",
+    "lld" : "f",
+    "il" : 1,
+    "lowlight" : "a",
+    "distance" : "w",
+    "password" : "123",
+    "indicator" : "z",
+    "sn" : "4ee48e1310e28839",
+    "alarm" : "z"
+  },
+  {
+    "name" : "s w er n er",
+    "highlight" : "z",
+    "level" : "O",
+    "lux" : "z",
+    "hld" : "k",
+    "mode" : "b",
+    "lld" : "a",
+    "il" : 1,
+    "lowlight" : "c",
+    "distance" : "r",
+    "password" : "",
+    "indicator" : "b",
+    "sn" : "a3202a143b1970a5",
+    "alarm" : "z"
+  },
+  {
+    "name" : "LUTEC",
+    "highlight" : "a",
+    "level" : "O",
+    "lux" : "w",
+    "hld" : "b",
+    "mode" : "b",
+    "lld" : "a",
+    "il" : 1,
+    "lowlight" : "a",
+    "distance" : "w",
+    "password" : "Prinzen1999",
+    "indicator" : "a",
+    "sn" : "16e46468f232ebe8",
+    "alarm" : "z"
+  },
+  {
+    "name" : "ha l p er oliver",
+    "highlight" : "l",
+    "level" : "O",
+    "lux" : "l",
+    "hld" : "b",
+    "mode" : "b",
+    "lld" : "f",
+    "il" : 1,
+    "lowlight" : "a",
+    "distance" : "z",
+    "password" : "1804",
+    "indicator" : "b",
+    "sn" : "b3cf15493db30a7a",
+    "alarm" : "z"
+  },
+  {
+    "name" : "Carlos",
+    "highlight" : "z",
+    "level" : "O",
+    "lux" : "v",
+    "hld" : "b",
+    "mode" : "b",
+    "lld" : "f",
+    "il" : 1,
+    "lowlight" : "a",
+    "distance" : "v",
+    "password" : "Mygaragecam#1",
+    "indicator" : "b",
+    "sn" : "9d989548814c381d",
+    "alarm" : "z"
+  },
+  {
+    "name" : "Brian",
+    "highlight" : "h",
+    "level" : "O",
+    "lux" : "z",
+    "hld" : "b",
+    "mode" : "b",
+    "lld" : "f",
+    "il" : 1,
+    "lowlight" : "a",
+    "distance" : "a",
+    "password" : "goole49",
+    "indicator" : "b",
+    "sn" : "9b72c4835d780094",
+    "alarm" : "z"
+  },
+  {
+    "name" : "LUTEC",
+    "highlight" : "a",
+    "level" : "Y",
+    "lux" : "a",
+    "hld" : "b",
+    "mode" : "b",
+    "lld" : "a",
+    "il" : 4,
+    "lowlight" : "a",
+    "distance" : "a",
+    "password" : "",
+    "indicator" : "a",
+    "sn" : "b3a008b383b7cf01",
+    "alarm" : "z"
+  },
+  {
+    "name" : "方总灯",
+    "highlight" : "z",
+    "level" : "O",
+    "lux" : "w",
+    "hld" : "b",
+    "mode" : "b",
+    "lld" : "a",
+    "il" : 1,
+    "lowlight" : "a",
+    "distance" : "y",
+    "password" : "",
+    "indicator" : "z",
+    "sn" : "f0235c4702c2ab20",
+    "alarm" : "z"
+  }
+]
+连灯状态 c
+SetXTimerElapse_Warning_Not_100*N!
+2018-07-23 11:04:46.957853+0800 LUTEC[774:263303] OnFunSDKResult 5508,p1:0,p2:1532315085,p3:0
+2018-07-23 11:04:47.340594+0800 LUTEC[774:263303] OnFunSDKResult 5508,p1:0,p2:1532315086,p3:0
+2018-07-23 11:04:47.505601+0800 LUTEC[774:264674] [] tcp_timers tcp[10] retransmit SYN 3
+2018-07-23 11:04:48.395629+0800 LUTEC[774:263303] The behavior of the UICollectionViewFlowLayout is not defined because:
+2018-07-23 11:04:48.395661+0800 LUTEC[774:263303] the item height must be less than the height of the UICollectionView minus the section insets top and bottom values, minus the content insets top and bottom values.
+2018-07-23 11:04:48.395838+0800 LUTEC[774:263303] The relevant UICollectionViewFlowLayout instance is <UICollectionViewFlowLayout: 0x105d25bc0>, and it is attached to <UICollectionView: 0x10884cc00; frame = (0 0; 812 375); autoresize = RM+BM; gestureRecognizers = <NSArray: 0x1d424da40>; animations = { bounds.origin=<CABasicAnimation: 0x1c4037200>; bounds.size=<CABasicAnimation: 0x1c4032f20>; bounds.origin-2=<CABasicAnimation: 0x1d46257c0>; bounds.size-2=<CABasicAnimation: 0x1d4427ae0>; position=<CABasicAnimation: 0x1d44388a0>; }; layer = <CALayer: 0x1d4223d40>; contentOffset: {-44, 0}; contentSize: {7875, 734}; adjustedContentInset: {0, 44, 21, 44}> collection view layout: <UICollectionViewFlowLayout: 0x105d25bc0>.
+2018-07-23 11:04:48.395865+0800 LUTEC[774:263303] Make a symbolic breakpoint at UICollectionViewFlowLayoutBreakForInvalidSizes to catch this in the debugger.
+添加所有的手势
+2018-07-23 11:04:48.424829+0800 LUTEC[774:263303] [LayoutConstraints] Unable to simultaneously satisfy constraints.
+	Probably at least one of the constraints in the following list is one you don't want. 
+	Try this: 
+		(1) look at each constraint and try to figure out which you don't expect; 
+		(2) find the code that added the unwanted constraint or constraints and fix it. 
+	(Note: If you're seeing NSAutoresizingMaskLayoutConstraints that you don't understand, refer to the documentation for the UIView property translatesAutoresizingMaskIntoConstraints) 
+(
+    "<NSAutoresizingMaskLayoutConstraint:0x1d009b170 h=--& v=--& UIView:0x105c36940.midY == 406   (active)>",
+    "<NSAutoresizingMaskLayoutConstraint:0x1d028b900 h=--& v=--& UIView:0x105c36940.height == 812   (active)>",
+    "<NSLayoutConstraint:0x1d0281770 V:|-(8)-[UIView:0x105c36940]   (active, names: '|':UIView:0x105c31230 )>"
+)
+
+Will attempt to recover by breaking constraint 
+<NSLayoutConstraint:0x1d0281770 V:|-(8)-[UIView:0x105c36940]   (active, names: '|':UIView:0x105c31230 )>
+
+Make a symbolic breakpoint at UIViewAlertForUnsatisfiableConstraints to catch this in the debugger.
+The methods in the UIConstraintBasedLayoutDebugging category on UIView listed in <UIKit/UIView.h> may also be helpful.
+2018-07-23 11:04:48.439058+0800 LUTEC[774:263303] [App] if we're in the real pre-commit handler we can't actually add any new fences due to CA restriction
+2018-07-23 11:04:48.439113+0800 LUTEC[774:263303] [App] if we're in the real pre-commit handler we can't actually add any new fences due to CA restriction
+2018-07-23 11:04:48.449010+0800 LUTEC[774:263303] OnFunSDKResult 5508,p1:0,p2:1532315087,p3:0
+2018-07-23 11:04:48.508434+0800 LUTEC[774:264678] [] tcp_timers tcp[10] retransmit SYN 4
+2018-07-23 11:04:48.614414+0800 LUTEC[774:264678] [] tcp_timers tcp[12] retransmit SYN 3
+2018-07-23 11:04:48.740522+0800 LUTEC[774:263303] The behavior of the UICollectionViewFlowLayout is not defined because:
+2018-07-23 11:04:48.740592+0800 LUTEC[774:263303] the item height must be less than the height of the UICollectionView minus the section insets top and bottom values, minus the content insets top and bottom values.
+2018-07-23 11:04:48.740866+0800 LUTEC[774:263303] The relevant UICollectionViewFlowLayout instance is <UICollectionViewFlowLayout: 0x105d25bc0>, and it is attached to <UICollectionView: 0x10884cc00; frame = (0 0; 812 375); autoresize = RM+BM; gestureRecognizers = <NSArray: 0x1d424da40>; animations = { bounds.origin=<CABasicAnimation: 0x1c4037200>; bounds.size=<CABasicAnimation: 0x1c4032f20>; bounds.origin-2=<CABasicAnimation: 0x1d46257c0>; bounds.size-2=<CABasicAnimation: 0x1d4427ae0>; position=<CABasicAnimation: 0x1d44388a0>; }; layer = <CALayer: 0x1d4223d40>; contentOffset: {0, 0}; contentSize: {7875, 354}; adjustedContentInset: {0, 44, 21, 44}> collection view layout: <UICollectionViewFlowLayout: 0x105d25bc0>.
+2018-07-23 11:04:48.740924+0800 LUTEC[774:263303] Make a symbolic breakpoint at UICollectionViewFlowLayoutBreakForInvalidSizes to catch this in the debugger.
+2018-07-23 11:04:48.875552+0800 LUTEC[774:263303] The behavior of the UICollectionViewFlowLayout is not defined because:
+2018-07-23 11:04:48.875583+0800 LUTEC[774:263303] the item height must be less than the height of the UICollectionView minus the section insets top and bottom values, minus the content insets top and bottom values.
+2018-07-23 11:04:48.875705+0800 LUTEC[774:263303] The relevant UICollectionViewFlowLayout instance is <UICollectionViewFlowLayout: 0x105d25bc0>, and it is attached to <UICollectionView: 0x10884cc00; frame = (0 0; 375 724); autoresize = RM+BM; gestureRecognizers = <NSArray: 0x1d424da40>; animations = { bounds.origin=<CABasicAnimation: 0x1d4220fa0>; bounds.size=<CABasicAnimation: 0x1d4432520>; bounds.origin-2=<CABasicAnimation: 0x1d42261a0>; bounds.size-2=<CABasicAnimation: 0x1d0420fa0>; bounds.origin-3=<CABasicAnimation: 0x1d04243a0>; bounds.size-3=<CABasicAnimation: 0x1d04212e0>; position=<CABasicAnimation: 0x1d022ef60>; }; layer = <CALayer: 0x1d4223d40>; contentOffset: {44, 0}; contentSize: {7875, 354}; adjustedContentInset: {0, 0, 34, 0}> collection view layout: <UICollectionViewFlowLayout: 0x105d25bc0>.
+2018-07-23 11:04:48.875719+0800 LUTEC[774:263303] Make a symbolic breakpoint at UICollectionViewFlowLayoutBreakForInvalidSizes to catch this in the debugger.
+2018-07-23 11:04:48.930890+0800 LUTEC[774:263303] [App] if we're in the real pre-commit handler we can't actually add any new fences due to CA restriction
+2018-07-23 11:04:48.930929+0800 LUTEC[774:263303] [App] if we're in the real pre-commit handler we can't actually add any new fences due to CA restriction
+2018-07-23 11:04:49.361986+0800 LUTEC[774:263303] OnFunSDKResult 5508,p1:0,p2:1532315088,p3:0
+2018-07-23 11:04:49.514799+0800 LUTEC[774:264678] [] tcp_timers tcp[10] retransmit SYN 5
+2018-07-23 11:04:49.617025+0800 LUTEC[774:264678] [] tcp_timers tcp[12] retransmit SYN 4
+2018-07-23 11:04:50.387035+0800 LUTEC[774:263303] OnFunSDKResult 5508,p1:0,p2:1532315089,p3:0
+2018-07-23 11:04:50.550537+0800 LUTEC[774:263303] The behavior of the UICollectionViewFlowLayout is not defined because:
+2018-07-23 11:04:50.550591+0800 LUTEC[774:263303] the item height must be less than the height of the UICollectionView minus the section insets top and bottom values, minus the content insets top and bottom values.
+2018-07-23 11:04:50.550836+0800 LUTEC[774:263303] The relevant UICollectionViewFlowLayout instance is <UICollectionViewFlowLayout: 0x105d25bc0>, and it is attached to <UICollectionView: 0x10884cc00; frame = (0 0; 812 343); autoresize = RM+BM; gestureRecognizers = <NSArray: 0x1d424da40>; animations = { bounds.origin=<CABasicAnimation: 0x1c003b500>; bounds.size=<CABasicAnimation: 0x1c003a340>; bounds.origin-2=<CABasicAnimation: 0x1cc0385a0>; bounds.size-2=<CABasicAnimation: 0x1cc039940>; position=<CABasicAnimation: 0x1cc03afe0>; }; layer = <CALayer: 0x1d4223d40>; contentOffset: {0, 0}; contentSize: {7875, 690}; adjustedContentInset: {0, 44, 21, 44}> collection view layout: <UICollectionViewFlowLayout: 0x105d25bc0>.
+2018-07-23 11:04:50.550870+0800 LUTEC[774:263303] Make a symbolic breakpoint at UICollectionViewFlowLayoutBreakForInvalidSizes to catch this in the debugger.
+添加所有的手势
+2018-07-23 11:04:50.579648+0800 LUTEC[774:263303] The behavior of the UICollectionViewFlowLayout is not defined because:
+2018-07-23 11:04:50.579672+0800 LUTEC[774:263303] the item height must be less than the height of the UICollectionView minus the section insets top and bottom values, minus the content insets top and bottom values.
+2018-07-23 11:04:50.579783+0800 LUTEC[774:263303] The relevant UICollectionViewFlowLayout instance is <UICollectionViewFlowLayout: 0x105d25bc0>, and it is attached to <UICollectionView: 0x10884cc00; frame = (0 0; 812 343); autoresize = RM+BM; gestureRecognizers = <NSArray: 0x1d424da40>; animations = { bounds.origin=<CABasicAnimation: 0x1c003b500>; bounds.size=<CABasicAnimation: 0x1c003a340>; bounds.origin-2=<CABasicAnimation: 0x1cc0385a0>; bounds.size-2=<CABasicAnimation: 0x1cc039940>; position=<CABasicAnimation: 0x1cc03afe0>; }; layer = <CALayer: 0x1d4223d40>; contentOffset: {0, 0}; contentSize: {7875, 322}; adjustedContentInset: {0, 0, 21, 0}> collection view layout: <UICollectionViewFlowLayout: 0x105d25bc0>.
+2018-07-23 11:04:50.579798+0800 LUTEC[774:263303] Make a symbolic breakpoint at UICollectionViewFlowLayoutBreakForInvalidSizes to catch this in the debugger.
+2018-07-23 11:04:50.592130+0800 LUTEC[774:263303] [App] if we're in the real pre-commit handler we can't actually add any new fences due to CA restriction
+2018-07-23 11:04:50.592183+0800 LUTEC[774:263303] [App] if we're in the real pre-commit handler we can't actually add any new fences due to CA restriction
+2018-07-23 11:04:50.621407+0800 LUTEC[774:264538] [] tcp_timers tcp[12] retransmit SYN 5
+2018-07-23 11:04:51.358106+0800 LUTEC[774:263303] OnFunSDKResult 5508,p1:0,p2:1532315090,p3:0
+2018-07-23 11:04:51.518082+0800 LUTEC[774:264678] [] tcp_timers tcp[10] retransmit SYN 6
+2018-07-23 11:04:51.763675+0800 LUTEC[774:263303] The behavior of the UICollectionViewFlowLayout is not defined because:
+2018-07-23 11:04:51.763754+0800 LUTEC[774:263303] the item height must be less than the height of the UICollectionView minus the section insets top and bottom values, minus the content insets top and bottom values.
+2018-07-23 11:04:51.764112+0800 LUTEC[774:263303] The relevant UICollectionViewFlowLayout instance is <UICollectionViewFlowLayout: 0x105d25bc0>, and it is attached to <UICollectionView: 0x10884cc00; frame = (0 0; 375 812); autoresize = RM+BM; gestureRecognizers = <NSArray: 0x1d424da40>; animations = { bounds.origin=<CABasicAnimation: 0x1c003df20>; bounds.size=<CABasicAnimation: 0x1c003b640>; bounds.origin-2=<CABasicAnimation: 0x1c003cc80>; bounds.size-2=<CABasicAnimation: 0x1c003c420>; bounds.origin-3=<CABasicAnimation: 0x1c8038480>; bounds.size-3=<CABasicAnimation: 0x1c8036ac0>; position=<CABasicAnimation: 0x1c80362a0>; }; layer = <CALayer: 0x1d4223d40>; contentOffset: {0, -44}; contentSize: {7875, 322}; adjustedContentInset: {44, 0, 34, 0}> collection view layout: <UICollectionViewFlowLayout: 0x105d25bc0>.
+2018-07-23 11:04:51.764213+0800 LUTEC[774:263303] Make a symbolic breakpoint at UICollectionViewFlowLayoutBreakForInvalidSizes to catch this in the debugger.
+2018-07-23 11:04:51.814660+0800 LUTEC[774:263303] [App] if we're in the real pre-commit handler we can't actually add any new fences due to CA restriction
+2018-07-23 11:04:51.814711+0800 LUTEC[774:263303] [App] if we're in the real pre-commit handler we can't actually add any new fences due to CA restriction
+2018-07-23 11:04:52.386460+0800 LUTEC[774:263303] OnFunSDKResult 5508,p1:0,p2:1532315091,p3:0
+2018-07-23 11:04:52.627392+0800 LUTEC[774:264538] [] tcp_timers tcp[12] retransmit SYN 6
+2018-07-23 11:04:53.339385+0800 LUTEC[774:263303] OnFunSDKResult 5508,p1:0,p2:1532315092,p3:0
+2018-07-23 11:04:53.630924+0800 LUTEC[774:263303] The behavior of the UICollectionViewFlowLayout is not defined because:
+2018-07-23 11:04:53.630993+0800 LUTEC[774:263303] the item height must be less than the height of the UICollectionView minus the section insets top and bottom values, minus the content insets top and bottom values.
+2018-07-23 11:04:53.631296+0800 LUTEC[774:263303] The relevant UICollectionViewFlowLayout instance is <UICollectionViewFlowLayout: 0x105d25bc0>, and it is attached to <UICollectionView: 0x10884cc00; frame = (0 0; 812 343); autoresize = RM+BM; gestureRecognizers = <NSArray: 0x1d424da40>; animations = { bounds.origin=<CABasicAnimation: 0x1c0038320>; bounds.size=<CABasicAnimation: 0x1c0038540>; bounds.origin-2=<CABasicAnimation: 0x1cc037900>; bounds.size-2=<CABasicAnimation: 0x1cc03a900>; position=<CABasicAnimation: 0x1cc03a300>; }; layer = <CALayer: 0x1d4223d40>; contentOffset: {-44, 0}; contentSize: {7875, 734}; adjustedContentInset: {0, 44, 21, 44}> collection view layout: <UICollectionViewFlowLayout: 0x105d25bc0>.
+2018-07-23 11:04:53.631339+0800 LUTEC[774:263303] Make a symbolic breakpoint at UICollectionViewFlowLayoutBreakForInvalidSizes to catch this in the debugger.
+添加所有的手势
+2018-07-23 11:04:53.662415+0800 LUTEC[774:263303] The behavior of the UICollectionViewFlowLayout is not defined because:
+2018-07-23 11:04:53.662447+0800 LUTEC[774:263303] the item height must be less than the height of the UICollectionView minus the section insets top and bottom values, minus the content insets top and bottom values.
+2018-07-23 11:04:53.662620+0800 LUTEC[774:263303] The relevant UICollectionViewFlowLayout instance is <UICollectionViewFlowLayout: 0x105d25bc0>, and it is attached to <UICollectionView: 0x10884cc00; frame = (0 0; 812 343); autoresize = RM+BM; gestureRecognizers = <NSArray: 0x1d424da40>; animations = { bounds.origin=<CABasicAnimation: 0x1c0038320>; bounds.size=<CABasicAnimation: 0x1c0038540>; bounds.origin-2=<CABasicAnimation: 0x1cc037900>; bounds.size-2=<CABasicAnimation: 0x1cc03a900>; position=<CABasicAnimation: 0x1cc03a300>; }; layer = <CALayer: 0x1d4223d40>; contentOffset: {0, 0}; contentSize: {7875, 322}; adjustedContentInset: {0, 0, 21, 0}> collection view layout: <UICollectionViewFlowLayout: 0x105d25bc0>.
+2018-07-23 11:04:53.663716+0800 LUTEC[774:263303] Make a symbolic breakpoint at UICollectionViewFlowLayoutBreakForInvalidSizes to catch this in the debugger.
+2018-07-23 11:04:53.680114+0800 LUTEC[774:263303] [App] if we're in the real pre-commit handler we can't actually add any new fences due to CA restriction
+2018-07-23 11:04:53.680167+0800 LUTEC[774:263303] [App] if we're in the real pre-commit handler we can't actually add any new fences due to CA restriction
+2018-07-23 11:04:54.372226+0800 LUTEC[774:263303] OnFunSDKResult 5508,p1:0,p2:1532315093,p3:0
+2018-07-23 11:04:55.157658+0800 LUTEC[774:263303] The behavior of the UICollectionViewFlowLayout is not defined because:
+2018-07-23 11:04:55.157755+0800 LUTEC[774:263303] the item height must be less than the height of the UICollectionView minus the section insets top and bottom values, minus the content insets top and bottom values.
+2018-07-23 11:04:55.158183+0800 LUTEC[774:263303] The relevant UICollectionViewFlowLayout instance is <UICollectionViewFlowLayout: 0x105d25bc0>, and it is attached to <UICollectionView: 0x10884cc00; frame = (0 0; 812 375); autoresize = RM+BM; gestureRecognizers = <NSArray: 0x1d424da40>; animations = { bounds.origin=<CABasicAnimation: 0x1c003cee0>; bounds.size=<CABasicAnimation: 0x1c003d740>; position=<CABasicAnimation: 0x1c003c200>; }; layer = <CALayer: 0x1d4223d40>; contentOffset: {0, 0}; contentSize: {7875, 322}; adjustedContentInset: {0, 0, 21, 0}> collection view layout: <UICollectionViewFlowLayout: 0x105d25bc0>.
+2018-07-23 11:04:55.158261+0800 LUTEC[774:263303] Make a symbolic breakpoint at UICollectionViewFlowLayoutBreakForInvalidSizes to catch this in the debugger.
+2018-07-23 11:04:55.205656+0800 LUTEC[774:263303] [App] if we're in the real pre-commit handler we can't actually add any new fences due to CA restriction
+2018-07-23 11:04:55.205727+0800 LUTEC[774:263303] [App] if we're in the real pre-commit handler we can't actually add any new fences due to CA restriction
+2018-07-23 11:04:55.340421+0800 LUTEC[774:263303] OnFunSDKResult 5508,p1:0,p2:1532315094,p3:0
+2018-07-23 11:04:55.523609+0800 LUTEC[774:263734] [] tcp_timers tcp[10] retransmit SYN 7
+2018-07-23 11:04:56.388991+0800 LUTEC[774:263303] OnFunSDKResult 5508,p1:0,p2:1532315095,p3:0
+2018-07-23 11:04:56.630687+0800 LUTEC[774:264538] [] tcp_timers tcp[12] retransmit SYN 7
+2018-07-23 11:04:57.245758+0800 LUTEC[774:263303] The behavior of the UICollectionViewFlowLayout is not defined because:
+2018-07-23 11:04:57.245868+0800 LUTEC[774:263303] the item height must be less than the height of the UICollectionView minus the section insets top and bottom values, minus the content insets top and bottom values.
+2018-07-23 11:04:57.246330+0800 LUTEC[774:263303] The relevant UICollectionViewFlowLayout instance is <UICollectionViewFlowLayout: 0x105d25bc0>, and it is attached to <UICollectionView: 0x10884cc00; frame = (0 0; 375 812); autoresize = RM+BM; gestureRecognizers = <NSArray: 0x1d424da40>; animations = { bounds.origin=<CABasicAnimation: 0x1c40357a0>; bounds.size=<CABasicAnimation: 0x1c40371a0>; bounds.origin-2=<CABasicAnimation: 0x1cc0396c0>; bounds.size-2=<CABasicAnimation: 0x1cc036d40>; position=<CABasicAnimation: 0x1cc039e80>; }; layer = <CALayer: 0x1d4223d40>; contentOffset: {0, -44}; contentSize: {7875, 354}; adjustedContentInset: {44, 0, 34, 0}> collection view layout: <UICollectionViewFlowLayout: 0x105d25bc0>.
+2018-07-23 11:04:57.246386+0800 LUTEC[774:263303] Make a symbolic breakpoint at UICollectionViewFlowLayoutBreakForInvalidSizes to catch this in the debugger.
+2018-07-23 11:04:57.283890+0800 LUTEC[774:263303] [App] if we're in the real pre-commit handler we can't actually add any new fences due to CA restriction
+2018-07-23 11:04:57.283941+0800 LUTEC[774:263303] [App] if we're in the real pre-commit handler we can't actually add any new fences due to CA restriction
+2018-07-23 11:04:57.324942+0800 LUTEC[774:263303] OnFunSDKResult 5508,p1:0,p2:1532315096,p3:0
+2018-07-23 11:04:58.378966+0800 LUTEC[774:263303] OnFunSDKResult 5508,p1:0,p2:1532315097,p3:0
+2018-07-23 11:04:58.587618+0800 LUTEC[774:263303] The behavior of the UICollectionViewFlowLayout is not defined because:
+2018-07-23 11:04:58.587695+0800 LUTEC[774:263303] the item height must be less than the height of the UICollectionView minus the section insets top and bottom values, minus the content insets top and bottom values.
+2018-07-23 11:04:58.587964+0800 LUTEC[774:263303] The relevant UICollectionViewFlowLayout instance is <UICollectionViewFlowLayout: 0x105d25bc0>, and it is attached to <UICollectionView: 0x10884cc00; frame = (0 0; 812 343); autoresize = RM+BM; gestureRecognizers = <NSArray: 0x1d424da40>; animations = { bounds.origin=<CABasicAnimation: 0x1c4032ac0>; bounds.size=<CABasicAnimation: 0x1c4032e00>; bounds.origin-2=<CABasicAnimation: 0x1c4035fa0>; bounds.size-2=<CABasicAnimation: 0x1c40356c0>; position=<CABasicAnimation: 0x1c40349e0>; }; layer = <CALayer: 0x1d4223d40>; contentOffset: {-44, 0}; contentSize: {7875, 734}; adjustedContentInset: {0, 44, 21, 44}> collection view layout: <UICollectionViewFlowLayout: 0x105d25bc0>.
+2018-07-23 11:04:58.588002+0800 LUTEC[774:263303] Make a symbolic breakpoint at UICollectionViewFlowLayoutBreakForInvalidSizes to catch this in the debugger.
+添加所有的手势
+2018-07-23 11:04:58.618343+0800 LUTEC[774:263303] The behavior of the UICollectionViewFlowLayout is not defined because:
+2018-07-23 11:04:58.618369+0800 LUTEC[774:263303] the item height must be less than the height of the UICollectionView minus the section insets top and bottom values, minus the content insets top and bottom values.
+2018-07-23 11:04:58.618492+0800 LUTEC[774:263303] The relevant UICollectionViewFlowLayout instance is <UICollectionViewFlowLayout: 0x105d25bc0>, and it is attached to <UICollectionView: 0x10884cc00; frame = (0 0; 812 343); autoresize = RM+BM; gestureRecognizers = <NSArray: 0x1d424da40>; animations = { bounds.origin=<CABasicAnimation: 0x1c4032ac0>; bounds.size=<CABasicAnimation: 0x1c4032e00>; bounds.origin-2=<CABasicAnimation: 0x1c4035fa0>; bounds.size-2=<CABasicAnimation: 0x1c40356c0>; position=<CABasicAnimation: 0x1c40349e0>; }; layer = <CALayer: 0x1d4223d40>; contentOffset: {0, 0}; contentSize: {7875, 322}; adjustedContentInset: {0, 0, 21, 0}> collection view layout: <UICollectionViewFlowLayout: 0x105d25bc0>.
+2018-07-23 11:04:58.618509+0800 LUTEC[774:263303] Make a symbolic breakpoint at UICollectionViewFlowLayoutBreakForInvalidSizes to catch this in the debugger.
+2018-07-23 11:04:58.631834+0800 LUTEC[774:263303] [App] if we're in the real pre-commit handler we can't actually add any new fences due to CA restriction
+2018-07-23 11:04:58.631893+0800 LUTEC[774:263303] [App] if we're in the real pre-commit handler we can't actually add any new fences due to CA restriction
+2018-07-23 11:04:59.337324+0800 LUTEC[774:263303] OnFunSDKResult 5508,p1:0,p2:1532315098,p3:0
+2018-07-23 11:05:00.382107+0800 LUTEC[774:263303] OnFunSDKResult 5508,p1:0,p2:1532315099,p3:0
+2018-07-23 11:05:00.592018+0800 LUTEC[774:263303] The behavior of the UICollectionViewFlowLayout is not defined because:
+2018-07-23 11:05:00.592088+0800 LUTEC[774:263303] the item height must be less than the height of the UICollectionView minus the section insets top and bottom values, minus the content insets top and bottom values.
+2018-07-23 11:05:00.592406+0800 LUTEC[774:263303] The relevant UICollectionViewFlowLayout instance is <UICollectionViewFlowLayout: 0x105d25bc0>, and it is attached to <UICollectionView: 0x10884cc00; frame = (0 0; 375 812); autoresize = RM+BM; gestureRecognizers = <NSArray: 0x1d424da40>; animations = { bounds.origin=<CABasicAnimation: 0x1c0038580>; bounds.size=<CABasicAnimation: 0x1c003c2c0>; bounds.origin-2=<CABasicAnimation: 0x1c003e140>; bounds.size-2=<CABasicAnimation: 0x1c003c6e0>; bounds.origin-3=<CABasicAnimation: 0x1c4036e00>; bounds.size-3=<CABasicAnimation: 0x1c4035b20>; position=<CABasicAnimation: 0x1c4033cc0>; }; layer = <CALayer: 0x1d4223d40>; contentOffset: {0, -44}; contentSize: {7875, 322}; adjustedContentInset: {44, 0, 34, 0}> collection view layout: <UICollectionViewFlowLayout: 0x105d25bc0>.
+2018-07-23 11:05:00.592455+0800 LUTEC[774:263303] Make a symbolic breakpoint at UICollectionViewFlowLayoutBreakForInvalidSizes to catch this in the debugger.
+2018-07-23 11:05:00.636655+0800 LUTEC[774:263303] [App] if we're in the real pre-commit handler we can't actually add any new fences due to CA restriction
+2018-07-23 11:05:00.636727+0800 LUTEC[774:263303] [App] if we're in the real pre-commit handler we can't actually add any new fences due to CA restriction
+2018-07-23 11:05:01.342257+0800 LUTEC[774:263303] OnFunSDKResult 5508,p1:0,p2:1532315100,p3:0
+2018-07-23 11:05:01.872421+0800 LUTEC[774:263578] Task <CF9DE4C7-C96A-4175-806B-A2366D800ECD>.<10> finished with error - code: -1001
+2018-07-23 11:05:01.873302+0800 LUTEC[774:263578] Task <CF9DE4C7-C96A-4175-806B-A2366D800ECD>.<10> HTTP load failed (error code: -999 [1:89])
+2018-07-23 11:05:02.377743+0800 LUTEC[774:263303] OnFunSDKResult 5508,p1:0,p2:1532315101,p3:0
+2018-07-23 11:05:03.331004+0800 LUTEC[774:263303] OnFunSDKResult 5508,p1:0,p2:1532315102,p3:0
+2018-07-23 11:05:04.388736+0800 LUTEC[774:263303] OnFunSDKResult 5508,p1:0,p2:1532315103,p3:0
+2018-07-23 11:05:04.634780+0800 LUTEC[774:264674] [] tcp_timers tcp[12] retransmit SYN 8
+2018-07-23 11:05:04.824779+0800 LUTEC[774:263303] The behavior of the UICollectionViewFlowLayout is not defined because:
+2018-07-23 11:05:04.824853+0800 LUTEC[774:263303] the item height must be less than the height of the UICollectionView minus the section insets top and bottom values, minus the content insets top and bottom values.
+2018-07-23 11:05:04.825160+0800 LUTEC[774:263303] The relevant UICollectionViewFlowLayout instance is <UICollectionViewFlowLayout: 0x105d25bc0>, and it is attached to <UICollectionView: 0x10884cc00; frame = (0 0; 812 343); autoresize = RM+BM; gestureRecognizers = <NSArray: 0x1d424da40>; animations = { bounds.origin=<CABasicAnimation: 0x1c4035c00>; bounds.size=<CABasicAnimation: 0x1c4032520>; bounds.origin-2=<CABasicAnimation: 0x1c4035840>; bounds.size-2=<CABasicAnimation: 0x1c4036460>; position=<CABasicAnimation: 0x1c4035be0>; }; layer = <CALayer: 0x1d4223d40>; contentOffset: {-44, 0}; contentSize: {7875, 734}; adjustedContentInset: {0, 44, 21, 44}> collection view layout: <UICollectionViewFlowLayout: 0x105d25bc0>.
+2018-07-23 11:05:04.825230+0800 LUTEC[774:263303] Make a symbolic breakpoint at UICollectionViewFlowLayoutBreakForInvalidSizes to catch this in the debugger.
+添加所有的手势
+2018-07-23 11:05:04.856726+0800 LUTEC[774:263303] The behavior of the UICollectionViewFlowLayout is not defined because:
+2018-07-23 11:05:04.856754+0800 LUTEC[774:263303] the item height must be less than the height of the UICollectionView minus the section insets top and bottom values, minus the content insets top and bottom values.
+2018-07-23 11:05:04.856890+0800 LUTEC[774:263303] The relevant UICollectionViewFlowLayout instance is <UICollectionViewFlowLayout: 0x105d25bc0>, and it is attached to <UICollectionView: 0x10884cc00; frame = (0 0; 812 343); autoresize = RM+BM; gestureRecognizers = <NSArray: 0x1d424da40>; animations = { bounds.origin=<CABasicAnimation: 0x1c4035c00>; bounds.size=<CABasicAnimation: 0x1c4032520>; bounds.origin-2=<CABasicAnimation: 0x1c4035840>; bounds.size-2=<CABasicAnimation: 0x1c4036460>; position=<CABasicAnimation: 0x1c4035be0>; }; layer = <CALayer: 0x1d4223d40>; contentOffset: {0, 0}; contentSize: {7875, 322}; adjustedContentInset: {0, 0, 21, 0}> collection view layout: <UICollectionViewFlowLayout: 0x105d25bc0>.
+2018-07-23 11:05:04.857381+0800 LUTEC[774:263303] Make a symbolic breakpoint at UICollectionViewFlowLayoutBreakForInvalidSizes to catch this in the debugger.
+2018-07-23 11:05:04.869715+0800 LUTEC[774:263303] [App] if we're in the real pre-commit handler we can't actually add any new fences due to CA restriction
+2018-07-23 11:05:04.869761+0800 LUTEC[774:263303] [App] if we're in the real pre-commit handler we can't actually add any new fences due to CA restriction
+2018-07-23 11:05:05.343047+0800 LUTEC[774:263303] OnFunSDKResult 5508,p1:0,p2:1532315104,p3:0
+2018-07-23 11:05:06.381903+0800 LUTEC[774:263303] OnFunSDKResult 5508,p1:0,p2:1532315105,p3:0
+2018-07-23 11:05:06.840469+0800 LUTEC[774:263303] The behavior of the UICollectionViewFlowLayout is not defined because:
+2018-07-23 11:05:06.840554+0800 LUTEC[774:263303] the item height must be less than the height of the UICollectionView minus the section insets top and bottom values, minus the content insets top and bottom values.
+2018-07-23 11:05:06.840910+0800 LUTEC[774:263303] The relevant UICollectionViewFlowLayout instance is <UICollectionViewFlowLayout: 0x105d25bc0>, and it is attached to <UICollectionView: 0x10884cc00; frame = (0 0; 375 812); autoresize = RM+BM; gestureRecognizers = <NSArray: 0x1d424da40>; animations = { bounds.origin=<CABasicAnimation: 0x1cc036d40>; bounds.size=<CABasicAnimation: 0x1cc03c500>; bounds.origin-2=<CABasicAnimation: 0x1c4035b40>; bounds.size-2=<CABasicAnimation: 0x1c4032ec0>; bounds.origin-3=<CABasicAnimation: 0x1c4036600>; bounds.size-3=<CABasicAnimation: 0x1c4034dc0>; position=<CABasicAnimation: 0x1c4036280>; }; layer = <CALayer: 0x1d4223d40>; contentOffset: {0, -44}; contentSize: {7875, 322}; adjustedContentInset: {44, 0, 34, 0}> collection view layout: <UICollectionViewFlowLayout: 0x105d25bc0>.
+2018-07-23 11:05:06.840961+0800 LUTEC[774:263303] Make a symbolic breakpoint at UICollectionViewFlowLayoutBreakForInvalidSizes to catch this in the debugger.
+2018-07-23 11:05:06.889609+0800 LUTEC[774:263303] [App] if we're in the real pre-commit handler we can't actually add any new fences due to CA restriction
+2018-07-23 11:05:06.889669+0800 LUTEC[774:263303] [App] if we're in the real pre-commit handler we can't actually add any new fences due to CA restriction
+2018-07-23 11:05:07.330521+0800 LUTEC[774:263303] OnFunSDKResult 5508,p1:0,p2:1532315106,p3:0
+2018-07-23 11:05:08.366007+0800 LUTEC[774:263303] OnFunSDKResult 5508,p1:0,p2:1532315107,p3:0
+2018-07-23 11:05:08.511391+0800 LUTEC[774:263303] The behavior of the UICollectionViewFlowLayout is not defined because:
+2018-07-23 11:05:08.511494+0800 LUTEC[774:263303] the item height must be less than the height of the UICollectionView minus the section insets top and bottom values, minus the content insets top and bottom values.
+2018-07-23 11:05:08.512117+0800 LUTEC[774:263303] The relevant UICollectionViewFlowLayout instance is <UICollectionViewFlowLayout: 0x105d25bc0>, and it is attached to <UICollectionView: 0x10884cc00; frame = (0 0; 812 343); autoresize = RM+BM; gestureRecognizers = <NSArray: 0x1d424da40>; animations = { bounds.origin=<CABasicAnimation: 0x1c4036360>; bounds.size=<CABasicAnimation: 0x1c4035d20>; bounds.origin-2=<CABasicAnimation: 0x1cc036920>; bounds.size-2=<CABasicAnimation: 0x1cc03a800>; position=<CABasicAnimation: 0x1cc037540>; }; layer = <CALayer: 0x1d4223d40>; contentOffset: {-44, 0}; contentSize: {7875, 734}; adjustedContentInset: {0, 44, 21, 44}> collection view layout: <UICollectionViewFlowLayout: 0x105d25bc0>.
+2018-07-23 11:05:08.512206+0800 LUTEC[774:263303] Make a symbolic breakpoint at UICollectionViewFlowLayoutBreakForInvalidSizes to catch this in the debugger.
+添加所有的手势
+2018-07-23 11:05:08.538210+0800 LUTEC[774:263303] The behavior of the UICollectionViewFlowLayout is not defined because:
+2018-07-23 11:05:08.538233+0800 LUTEC[774:263303] the item height must be less than the height of the UICollectionView minus the section insets top and bottom values, minus the content insets top and bottom values.
+2018-07-23 11:05:08.538343+0800 LUTEC[774:263303] The relevant UICollectionViewFlowLayout instance is <UICollectionViewFlowLayout: 0x105d25bc0>, and it is attached to <UICollectionView: 0x10884cc00; frame = (0 0; 812 343); autoresize = RM+BM; gestureRecognizers = <NSArray: 0x1d424da40>; animations = { bounds.origin=<CABasicAnimation: 0x1c4036360>; bounds.size=<CABasicAnimation: 0x1c4035d20>; bounds.origin-2=<CABasicAnimation: 0x1cc036920>; bounds.size-2=<CABasicAnimation: 0x1cc03a800>; position=<CABasicAnimation: 0x1cc037540>; }; layer = <CALayer: 0x1d4223d40>; contentOffset: {0, 0}; contentSize: {7875, 322}; adjustedContentInset: {0, 0, 21, 0}> collection view layout: <UICollectionViewFlowLayout: 0x105d25bc0>.
+2018-07-23 11:05:08.538357+0800 LUTEC[774:263303] Make a symbolic breakpoint at UICollectionViewFlowLayoutBreakForInvalidSizes to catch this in the debugger.
+2018-07-23 11:05:08.550203+0800 LUTEC[774:263303] [App] if we're in the real pre-commit handler we can't actually add any new fences due to CA restriction
+2018-07-23 11:05:08.550243+0800 LUTEC[774:263303] [App] if we're in the real pre-commit handler we can't actually add any new fences due to CA restriction
+2018-07-23 11:05:09.345133+0800 LUTEC[774:263303] OnFunSDKResult 5508,p1:0,p2:1532315108,p3:0
+2018-07-23 11:05:10.118658+0800 LUTEC[774:263303] The behavior of the UICollectionViewFlowLayout is not defined because:
+2018-07-23 11:05:10.118763+0800 LUTEC[774:263303] the item height must be less than the height of the UICollectionView minus the section insets top and bottom values, minus the content insets top and bottom values.
+2018-07-23 11:05:10.119313+0800 LUTEC[774:263303] The relevant UICollectionViewFlowLayout instance is <UICollectionViewFlowLayout: 0x105d25bc0>, and it is attached to <UICollectionView: 0x10884cc00; frame = (0 0; 375 812); autoresize = RM+BM; gestureRecognizers = <NSArray: 0x1d424da40>; animations = { bounds.origin=<CABasicAnimation: 0x1c00386e0>; bounds.size=<CABasicAnimation: 0x1c003ac40>; bounds.origin-2=<CABasicAnimation: 0x1c80375c0>; bounds.size-2=<CABasicAnimation: 0x1c8036be0>; bounds.origin-3=<CABasicAnimation: 0x1c80373c0>; bounds.size-3=<CABasicAnimation: 0x1c8039920>; position=<CABasicAnimation: 0x1c8038740>; }; layer = <CALayer: 0x1d4223d40>; contentOffset: {0, -44}; contentSize: {7875, 322}; adjustedContentInset: {44, 0, 34, 0}> collection view layout: <UICollectionViewFlowLayout: 0x105d25bc0>.
+2018-07-23 11:05:10.119394+0800 LUTEC[774:263303] Make a symbolic breakpoint at UICollectionViewFlowLayoutBreakForInvalidSizes to catch this in the debugger.
+2018-07-23 11:05:10.168796+0800 LUTEC[774:263303] [App] if we're in the real pre-commit handler we can't actually add any new fences due to CA restriction
+2018-07-23 11:05:10.168860+0800 LUTEC[774:263303] [App] if we're in the real pre-commit handler we can't actually add any new fences due to CA restriction
+2018-07-23 11:05:10.421676+0800 LUTEC[774:263303] OnFunSDKResult 5508,p1:0,p2:1532315109,p3:0
+2018-07-23 11:05:11.101021+0800 LUTEC[774:263303] The behavior of the UICollectionViewFlowLayout is not defined because:
+2018-07-23 11:05:11.101075+0800 LUTEC[774:263303] the item height must be less than the height of the UICollectionView minus the section insets top and bottom values, minus the content insets top and bottom values.
+2018-07-23 11:05:11.101319+0800 LUTEC[774:263303] The relevant UICollectionViewFlowLayout instance is <UICollectionViewFlowLayout: 0x105d25bc0>, and it is attached to <UICollectionView: 0x10884cc00; frame = (0 0; 812 343); autoresize = RM+BM; gestureRecognizers = <NSArray: 0x1d424da40>; animations = { bounds.origin=<CABasicAnimation: 0x1cc039e80>; bounds.size=<CABasicAnimation: 0x1cc036fc0>; bounds.origin-2=<CABasicAnimation: 0x1cc03ad20>; bounds.size-2=<CABasicAnimation: 0x1cc037460>; position=<CABasicAnimation: 0x1cc03a360>; }; layer = <CALayer: 0x1d4223d40>; contentOffset: {-44, 0}; contentSize: {7875, 734}; adjustedContentInset: {0, 44, 21, 44}> collection view layout: <UICollectionViewFlowLayout: 0x105d25bc0>.
+2018-07-23 11:05:11.101355+0800 LUTEC[774:263303] Make a symbolic breakpoint at UICollectionViewFlowLayoutBreakForInvalidSizes to catch this in the debugger.
+添加所有的手势
+2018-07-23 11:05:11.132358+0800 LUTEC[774:263303] The behavior of the UICollectionViewFlowLayout is not defined because:
+2018-07-23 11:05:11.132382+0800 LUTEC[774:263303] the item height must be less than the height of the UICollectionView minus the section insets top and bottom values, minus the content insets top and bottom values.
+2018-07-23 11:05:11.132496+0800 LUTEC[774:263303] The relevant UICollectionViewFlowLayout instance is <UICollectionViewFlowLayout: 0x105d25bc0>, and it is attached to <UICollectionView: 0x10884cc00; frame = (0 0; 812 343); autoresize = RM+BM; gestureRecognizers = <NSArray: 0x1d424da40>; animations = { bounds.origin=<CABasicAnimation: 0x1cc039e80>; bounds.size=<CABasicAnimation: 0x1cc036fc0>; bounds.origin-2=<CABasicAnimation: 0x1cc03ad20>; bounds.size-2=<CABasicAnimation: 0x1cc037460>; position=<CABasicAnimation: 0x1cc03a360>; }; layer = <CALayer: 0x1d4223d40>; contentOffset: {0, 0}; contentSize: {7875, 322}; adjustedContentInset: {0, 0, 21, 0}> collection view layout: <UICollectionViewFlowLayout: 0x105d25bc0>.
+2018-07-23 11:05:11.132510+0800 LUTEC[774:263303] Make a symbolic breakpoint at UICollectionViewFlowLayoutBreakForInvalidSizes to catch this in the debugger.
+2018-07-23 11:05:11.146339+0800 LUTEC[774:263303] [App] if we're in the real pre-commit handler we can't actually add any new fences due to CA restriction
+2018-07-23 11:05:11.146386+0800 LUTEC[774:263303] [App] if we're in the real pre-commit handler we can't actually add any new fences due to CA restriction
+2018-07-23 11:05:11.366588+0800 LUTEC[774:263303] OnFunSDKResult 5508,p1:0,p2:1532315110,p3:0
+2018-07-23 11:05:12.404557+0800 LUTEC[774:263303] OnFunSDKResult 5508,p1:0,p2:1532315111,p3:0
+2018-07-23 11:05:13.327618+0800 LUTEC[774:263303] OnFunSDKResult 5508,p1:0,p2:1532315112,p3:0
+2018-07-23 11:05:14.367109+0800 LUTEC[774:263303] OnFunSDKResult 5508,p1:0,p2:1532315113,p3:0
+2018-07-23 11:05:15.330698+0800 LUTEC[774:263303] OnFunSDKResult 5508,p1:0,p2:1532315114,p3:0
+2018-07-23 11:05:15.707011+0800 LUTEC[774:263303] The behavior of the UICollectionViewFlowLayout is not defined because:
+2018-07-23 11:05:15.707099+0800 LUTEC[774:263303] the item height must be less than the height of the UICollectionView minus the section insets top and bottom values, minus the content insets top and bottom values.
+2018-07-23 11:05:15.707503+0800 LUTEC[774:263303] The relevant UICollectionViewFlowLayout instance is <UICollectionViewFlowLayout: 0x105d25bc0>, and it is attached to <UICollectionView: 0x10884cc00; frame = (0 0; 375 812); autoresize = RM+BM; gestureRecognizers = <NSArray: 0x1d424da40>; animations = { bounds.origin=<CABasicAnimation: 0x1cc03a860>; bounds.size=<CABasicAnimation: 0x1cc0378a0>; bounds.origin-2=<CABasicAnimation: 0x1cc03a080>; bounds.size-2=<CABasicAnimation: 0x1cc032dc0>; bounds.origin-3=<CABasicAnimation: 0x1cc0367a0>; bounds.size-3=<CABasicAnimation: 0x1cc037ba0>; position=<CABasicAnimation: 0x1cc038960>; }; layer = <CALayer: 0x1d4223d40>; contentOffset: {0, -44}; contentSize: {7875, 322}; adjustedContentInset: {44, 0, 34, 0}> collection view layout: <UICollectionViewFlowLayout: 0x105d25bc0>.
+2018-07-23 11:05:15.707571+0800 LUTEC[774:263303] Make a symbolic breakpoint at UICollectionViewFlowLayoutBreakForInvalidSizes to catch this in the debugger.
+2018-07-23 11:05:15.764124+0800 LUTEC[774:263303] [App] if we're in the real pre-commit handler we can't actually add any new fences due to CA restriction
+2018-07-23 11:05:15.764184+0800 LUTEC[774:263303] [App] if we're in the real pre-commit handler we can't actually add any new fences due to CA restriction
+2018-07-23 11:05:16.367555+0800 LUTEC[774:263303] OnFunSDKResult 5508,p1:0,p2:1532315115,p3:0
+2018-07-23 11:05:17.340788+0800 LUTEC[774:263303] OnFunSDKResult 5508,p1:0,p2:1532315116,p3:0
+2018-07-23 11:05:17.378494+0800 LUTEC[774:263303] The behavior of the UICollectionViewFlowLayout is not defined because:
+2018-07-23 11:05:17.378585+0800 LUTEC[774:263303] the item height must be less than the height of the UICollectionView minus the section insets top and bottom values, minus the content insets top and bottom values.
+2018-07-23 11:05:17.378848+0800 LUTEC[774:263303] The relevant UICollectionViewFlowLayout instance is <UICollectionViewFlowLayout: 0x105d25bc0>, and it is attached to <UICollectionView: 0x10884cc00; frame = (0 0; 812 343); autoresize = RM+BM; gestureRecognizers = <NSArray: 0x1d424da40>; animations = { bounds.origin=<CABasicAnimation: 0x1cc0369e0>; bounds.size=<CABasicAnimation: 0x1cc0380a0>; bounds.origin-2=<CABasicAnimation: 0x1cc03b4c0>; bounds.size-2=<CABasicAnimation: 0x1cc03b780>; position=<CABasicAnimation: 0x1cc03a6a0>; }; layer = <CALayer: 0x1d4223d40>; contentOffset: {-44, 0}; contentSize: {7875, 734}; adjustedContentInset: {0, 44, 21, 44}> collection view layout: <UICollectionViewFlowLayout: 0x105d25bc0>.
+2018-07-23 11:05:17.378909+0800 LUTEC[774:263303] Make a symbolic breakpoint at UICollectionViewFlowLayoutBreakForInvalidSizes to catch this in the debugger.
+添加所有的手势
+2018-07-23 11:05:17.412738+0800 LUTEC[774:263303] The behavior of the UICollectionViewFlowLayout is not defined because:
+2018-07-23 11:05:17.412776+0800 LUTEC[774:263303] the item height must be less than the height of the UICollectionView minus the section insets top and bottom values, minus the content insets top and bottom values.
+2018-07-23 11:05:17.412995+0800 LUTEC[774:263303] The relevant UICollectionViewFlowLayout instance is <UICollectionViewFlowLayout: 0x105d25bc0>, and it is attached to <UICollectionView: 0x10884cc00; frame = (0 0; 812 343); autoresize = RM+BM; gestureRecognizers = <NSArray: 0x1d424da40>; animations = { bounds.origin=<CABasicAnimation: 0x1cc0369e0>; bounds.size=<CABasicAnimation: 0x1cc0380a0>; bounds.origin-2=<CABasicAnimation: 0x1cc03b4c0>; bounds.size-2=<CABasicAnimation: 0x1cc03b780>; position=<CABasicAnimation: 0x1cc03a6a0>; }; layer = <CALayer: 0x1d4223d40>; contentOffset: {0, 0}; contentSize: {7875, 322}; adjustedContentInset: {0, 0, 21, 0}> collection view layout: <UICollectionViewFlowLayout: 0x105d25bc0>.
+2018-07-23 11:05:17.414453+0800 LUTEC[774:263303] Make a symbolic breakpoint at UICollectionViewFlowLayoutBreakForInvalidSizes to catch this in the debugger.
+2018-07-23 11:05:17.431674+0800 LUTEC[774:263303] [App] if we're in the real pre-commit handler we can't actually add any new fences due to CA restriction
+2018-07-23 11:05:17.431737+0800 LUTEC[774:263303] [App] if we're in the real pre-commit handler we can't actually add any new fences due to CA restriction
+2018-07-23 11:05:18.372290+0800 LUTEC[774:263303] OnFunSDKResult 5508,p1:0,p2:1532315117,p3:0
+2018-07-23 11:05:19.261268+0800 LUTEC[774:263303] The behavior of the UICollectionViewFlowLayout is not defined because:
+2018-07-23 11:05:19.261327+0800 LUTEC[774:263303] the item height must be less than the height of the UICollectionView minus the section insets top and bottom values, minus the content insets top and bottom values.
+2018-07-23 11:05:19.261597+0800 LUTEC[774:263303] The relevant UICollectionViewFlowLayout instance is <UICollectionViewFlowLayout: 0x105d25bc0>, and it is attached to <UICollectionView: 0x10884cc00; frame = (0 0; 375 812); autoresize = RM+BM; gestureRecognizers = <NSArray: 0x1d424da40>; animations = { bounds.origin=<CABasicAnimation: 0x1cc039700>; bounds.size=<CABasicAnimation: 0x1cc03a040>; bounds.origin-2=<CABasicAnimation: 0x1cc036920>; bounds.size-2=<CABasicAnimation: 0x1cc031d60>; bounds.origin-3=<CABasicAnimation: 0x1c4032ec0>; bounds.size-3=<CABasicAnimation: 0x1c4036aa0>; position=<CABasicAnimation: 0x1c4036540>; }; layer = <CALayer: 0x1d4223d40>; contentOffset: {0, -44}; contentSize: {7875, 322}; adjustedContentInset: {44, 0, 34, 0}> collection view layout: <UICollectionViewFlowLayout: 0x105d25bc0>.
+2018-07-23 11:05:19.261638+0800 LUTEC[774:263303] Make a symbolic breakpoint at UICollectionViewFlowLayoutBreakForInvalidSizes to catch this in the debugger.
+2018-07-23 11:05:19.301282+0800 LUTEC[774:263303] [App] if we're in the real pre-commit handler we can't actually add any new fences due to CA restriction
+2018-07-23 11:05:19.301326+0800 LUTEC[774:263303] [App] if we're in the real pre-commit handler we can't actually add any new fences due to CA restriction
+2018-07-23 11:05:19.337850+0800 LUTEC[774:263303] OnFunSDKResult 5508,p1:0,p2:1532315118,p3:0
+2018-07-23 11:05:20.345774+0800 LUTEC[774:263303] OnFunSDKResult 5508,p1:0,p2:1532315119,p3:0
+2018-07-23 11:05:20.639844+0800 LUTEC[774:264538] [] tcp_timers tcp[12] retransmit SYN 9
+2018-07-23 11:05:21.096579+0800 LUTEC[774:263303] The behavior of the UICollectionViewFlowLayout is not defined because:
+2018-07-23 11:05:21.096641+0800 LUTEC[774:263303] the item height must be less than the height of the UICollectionView minus the section insets top and bottom values, minus the content insets top and bottom values.
+2018-07-23 11:05:21.096941+0800 LUTEC[774:263303] The relevant UICollectionViewFlowLayout instance is <UICollectionViewFlowLayout: 0x105d25bc0>, and it is attached to <UICollectionView: 0x10884cc00; frame = (0 0; 812 343); autoresize = RM+BM; gestureRecognizers = <NSArray: 0x1d424da40>; animations = { bounds.origin=<CABasicAnimation: 0x1c4034000>; bounds.size=<CABasicAnimation: 0x1c4036f80>; bounds.origin-2=<CABasicAnimation: 0x1c4036860>; bounds.size-2=<CABasicAnimation: 0x1c4036b00>; position=<CABasicAnimation: 0x1c4033c80>; }; layer = <CALayer: 0x1d4223d40>; contentOffset: {-44, 0}; contentSize: {7875, 734}; adjustedContentInset: {0, 44, 21, 44}> collection view layout: <UICollectionViewFlowLayout: 0x105d25bc0>.
+2018-07-23 11:05:21.097017+0800 LUTEC[774:263303] Make a symbolic breakpoint at UICollectionViewFlowLayoutBreakForInvalidSizes to catch this in the debugger.
+添加所有的手势
+2018-07-23 11:05:21.129061+0800 LUTEC[774:263303] The behavior of the UICollectionViewFlowLayout is not defined because:
+2018-07-23 11:05:21.129089+0800 LUTEC[774:263303] the item height must be less than the height of the UICollectionView minus the section insets top and bottom values, minus the content insets top and bottom values.
+2018-07-23 11:05:21.129220+0800 LUTEC[774:263303] The relevant UICollectionViewFlowLayout instance is <UICollectionViewFlowLayout: 0x105d25bc0>, and it is attached to <UICollectionView: 0x10884cc00; frame = (0 0; 812 343); autoresize = RM+BM; gestureRecognizers = <NSArray: 0x1d424da40>; animations = { bounds.origin=<CABasicAnimation: 0x1c4034000>; bounds.size=<CABasicAnimation: 0x1c4036f80>; bounds.origin-2=<CABasicAnimation: 0x1c4036860>; bounds.size-2=<CABasicAnimation: 0x1c4036b00>; position=<CABasicAnimation: 0x1c4033c80>; }; layer = <CALayer: 0x1d4223d40>; contentOffset: {0, 0}; contentSize: {7875, 322}; adjustedContentInset: {0, 0, 21, 0}> collection view layout: <UICollectionViewFlowLayout: 0x105d25bc0>.
+2018-07-23 11:05:21.130645+0800 LUTEC[774:263303] Make a symbolic breakpoint at UICollectionViewFlowLayoutBreakForInvalidSizes to catch this in the debugger.
+2018-07-23 11:05:21.143482+0800 LUTEC[774:263303] [App] if we're in the real pre-commit handler we can't actually add any new fences due to CA restriction
+2018-07-23 11:05:21.143528+0800 LUTEC[774:263303] [App] if we're in the real pre-commit handler we can't actually add any new fences due to CA restriction
+2018-07-23 11:05:21.339744+0800 LUTEC[774:263303] OnFunSDKResult 5508,p1:0,p2:1532315120,p3:0
+2018-07-23 11:05:22.368822+0800 LUTEC[774:263303] OnFunSDKResult 5508,p1:0,p2:1532315121,p3:0
+2018-07-23 11:05:22.818874+0800 LUTEC[774:263303] The behavior of the UICollectionViewFlowLayout is not defined because:
+2018-07-23 11:05:22.818970+0800 LUTEC[774:263303] the item height must be less than the height of the UICollectionView minus the section insets top and bottom values, minus the content insets top and bottom values.
+2018-07-23 11:05:22.819300+0800 LUTEC[774:263303] The relevant UICollectionViewFlowLayout instance is <UICollectionViewFlowLayout: 0x105d25bc0>, and it is attached to <UICollectionView: 0x10884cc00; frame = (0 0; 812 375); autoresize = RM+BM; gestureRecognizers = <NSArray: 0x1d424da40>; animations = { bounds.origin=<CABasicAnimation: 0x1c0036e80>; bounds.size=<CABasicAnimation: 0x1c0032700>; position=<CABasicAnimation: 0x1c003d8e0>; }; layer = <CALayer: 0x1d4223d40>; contentOffset: {0, 0}; contentSize: {7875, 322}; adjustedContentInset: {0, 0, 21, 0}> collection view layout: <UICollectionViewFlowLayout: 0x105d25bc0>.
+2018-07-23 11:05:22.819353+0800 LUTEC[774:263303] Make a symbolic breakpoint at UICollectionViewFlowLayoutBreakForInvalidSizes to catch this in the debugger.
+2018-07-23 11:05:22.867014+0800 LUTEC[774:263303] [App] if we're in the real pre-commit handler we can't actually add any new fences due to CA restriction
+2018-07-23 11:05:22.867140+0800 LUTEC[774:263303] [App] if we're in the real pre-commit handler we can't actually add any new fences due to CA restriction
+2018-07-23 11:05:23.340065+0800 LUTEC[774:263303] OnFunSDKResult 5508,p1:0,p2:1532315122,p3:0
+2018-07-23 11:05:24.351617+0800 LUTEC[774:263303] OnFunSDKResult 5508,p1:0,p2:1532315123,p3:0
+2018-07-23 11:05:24.900464+0800 LUTEC[774:263303] [App] if we're in the real pre-commit handler we can't actually add any new fences due to CA restriction
+2018-07-23 11:05:24.900570+0800 LUTEC[774:263303] [App] if we're in the real pre-commit handler we can't actually add any new fences due to CA restriction
+2018-07-23 11:05:25.342376+0800 LUTEC[774:263303] OnFunSDKResult 5508,p1:0,p2:1532315124,p3:0
+2018-07-23 11:05:26.359168+0800 LUTEC[774:263303] OnFunSDKResult 5508,p1:0,p2:1532315125,p3:0
+2018-07-23 11:05:26.819446+0800 LUTEC[774:263303] [App] if we're in the real pre-commit handler we can't actually add any new fences due to CA restriction
+2018-07-23 11:05:26.819544+0800 LUTEC[774:263303] [App] if we're in the real pre-commit handler we can't actually add any new fences due to CA restriction
+2018-07-23 11:05:27.343066+0800 LUTEC[774:263303] OnFunSDKResult 5508,p1:0,p2:1532315126,p3:0
+2018-07-23 11:05:28.378609+0800 LUTEC[774:263303] OnFunSDKResult 5508,p1:0,p2:1532315127,p3:0
+2018-07-23 11:05:28.638373+0800 LUTEC[774:263303] The behavior of the UICollectionViewFlowLayout is not defined because:
+2018-07-23 11:05:28.638452+0800 LUTEC[774:263303] the item height must be less than the height of the UICollectionView minus the section insets top and bottom values, minus the content insets top and bottom values.
+2018-07-23 11:05:28.638803+0800 LUTEC[774:263303] The relevant UICollectionViewFlowLayout instance is <UICollectionViewFlowLayout: 0x105d25bc0>, and it is attached to <UICollectionView: 0x10884cc00; frame = (0 0; 375 812); autoresize = RM+BM; gestureRecognizers = <NSArray: 0x1d424da40>; animations = { bounds.origin=<CABasicAnimation: 0x1c003b660>; bounds.size=<CABasicAnimation: 0x1c003a500>; bounds.origin-2=<CABasicAnimation: 0x1c4035dc0>; bounds.size-2=<CABasicAnimation: 0x1c4036fe0>; position=<CABasicAnimation: 0x1c4035fe0>; }; layer = <CALayer: 0x1d4223d40>; contentOffset: {0, -44}; contentSize: {7875, 354}; adjustedContentInset: {44, 0, 34, 0}> collection view layout: <UICollectionViewFlowLayout: 0x105d25bc0>.
+2018-07-23 11:05:28.638864+0800 LUTEC[774:263303] Make a symbolic breakpoint at UICollectionViewFlowLayoutBreakForInvalidSizes to catch this in the debugger.
+2018-07-23 11:05:28.693178+0800 LUTEC[774:263303] [App] if we're in the real pre-commit handler we can't actually add any new fences due to CA restriction
+2018-07-23 11:05:28.693243+0800 LUTEC[774:263303] [App] if we're in the real pre-commit handler we can't actually add any new fences due to CA restriction
+2018-07-23 11:05:29.332458+0800 LUTEC[774:263303] OnFunSDKResult 5508,p1:0,p2:1532315128,p3:0
+2018-07-23 11:05:29.934298+0800 LUTEC[774:263303] The behavior of the UICollectionViewFlowLayout is not defined because:
+2018-07-23 11:05:29.934357+0800 LUTEC[774:263303] the item height must be less than the height of the UICollectionView minus the section insets top and bottom values, minus the content insets top and bottom values.
+2018-07-23 11:05:29.934615+0800 LUTEC[774:263303] The relevant UICollectionViewFlowLayout instance is <UICollectionViewFlowLayout: 0x105d25bc0>, and it is attached to <UICollectionView: 0x10884cc00; frame = (0 0; 812 343); autoresize = RM+BM; gestureRecognizers = <NSArray: 0x1d424da40>; animations = { bounds.origin=<CABasicAnimation: 0x1cc038ae0>; bounds.size=<CABasicAnimation: 0x1cc03b2c0>; bounds.origin-2=<CABasicAnimation: 0x1cc03b920>; bounds.size-2=<CABasicAnimation: 0x1cc0398a0>; position=<CABasicAnimation: 0x1cc038340>; }; layer = <CALayer: 0x1d4223d40>; contentOffset: {-44, 0}; contentSize: {7875, 734}; adjustedContentInset: {0, 44, 21, 44}> collection view layout: <UICollectionViewFlowLayout: 0x105d25bc0>.
+2018-07-23 11:05:29.934655+0800 LUTEC[774:263303] Make a symbolic breakpoint at UICollectionViewFlowLayoutBreakForInvalidSizes to catch this in the debugger.
+添加所有的手势
+2018-07-23 11:05:29.966974+0800 LUTEC[774:263303] The behavior of the UICollectionViewFlowLayout is not defined because:
+2018-07-23 11:05:29.966998+0800 LUTEC[774:263303] the item height must be less than the height of the UICollectionView minus the section insets top and bottom values, minus the content insets top and bottom values.
+2018-07-23 11:05:29.967111+0800 LUTEC[774:263303] The relevant UICollectionViewFlowLayout instance is <UICollectionViewFlowLayout: 0x105d25bc0>, and it is attached to <UICollectionView: 0x10884cc00; frame = (0 0; 812 343); autoresize = RM+BM; gestureRecognizers = <NSArray: 0x1d424da40>; animations = { bounds.origin=<CABasicAnimation: 0x1cc038ae0>; bounds.size=<CABasicAnimation: 0x1cc03b2c0>; bounds.origin-2=<CABasicAnimation: 0x1cc03b920>; bounds.size-2=<CABasicAnimation: 0x1cc0398a0>; position=<CABasicAnimation: 0x1cc038340>; }; layer = <CALayer: 0x1d4223d40>; contentOffset: {0, 0}; contentSize: {7875, 322}; adjustedContentInset: {0, 0, 21, 0}> collection view layout: <UICollectionViewFlowLayout: 0x105d25bc0>.
+2018-07-23 11:05:29.967127+0800 LUTEC[774:263303] Make a symbolic breakpoint at UICollectionViewFlowLayoutBreakForInvalidSizes to catch this in the debugger.
+2018-07-23 11:05:29.980129+0800 LUTEC[774:263303] [App] if we're in the real pre-commit handler we can't actually add any new fences due to CA restriction
+2018-07-23 11:05:29.980200+0800 LUTEC[774:263303] [App] if we're in the real pre-commit handler we can't actually add any new fences due to CA restriction
+2018-07-23 11:05:30.364901+0800 LUTEC[774:263303] OnFunSDKResult 5508,p1:0,p2:1532315129,p3:0
+2018-07-23 11:05:31.113697+0800 LUTEC[774:263303] The behavior of the UICollectionViewFlowLayout is not defined because:
+2018-07-23 11:05:31.113736+0800 LUTEC[774:263303] the item height must be less than the height of the UICollectionView minus the section insets top and bottom values, minus the content insets top and bottom values.
+2018-07-23 11:05:31.113886+0800 LUTEC[774:263303] The relevant UICollectionViewFlowLayout instance is <UICollectionViewFlowLayout: 0x105d25bc0>, and it is attached to <UICollectionView: 0x10884cc00; frame = (0 0; 375 812); autoresize = RM+BM; gestureRecognizers = <NSArray: 0x1d424da40>; animations = { bounds.origin=<CABasicAnimation: 0x1d4232240>; bounds.size=<CABasicAnimation: 0x1d4427180>; bounds.origin-2=<CABasicAnimation: 0x1d4428740>; bounds.size-2=<CABasicAnimation: 0x1d403a980>; bounds.origin-3=<CABasicAnimation: 0x1d4428d80>; bounds.size-3=<CABasicAnimation: 0x1d4428e20>; position=<CABasicAnimation: 0x1d4428e60>; }; layer = <CALayer: 0x1d4223d40>; contentOffset: {0, -44}; contentSize: {7875, 322}; adjustedContentInset: {44, 0, 34, 0}> collection view layout: <UICollectionViewFlowLayout: 0x105d25bc0>.
+2018-07-23 11:05:31.127875+0800 LUTEC[774:263303] Make a symbolic breakpoint at UICollectionViewFlowLayoutBreakForInvalidSizes to catch this in the debugger.
+2018-07-23 11:05:31.175228+0800 LUTEC[774:263303] [App] if we're in the real pre-commit handler we can't actually add any new fences due to CA restriction
+2018-07-23 11:05:31.175277+0800 LUTEC[774:263303] [App] if we're in the real pre-commit handler we can't actually add any new fences due to CA restriction
+2018-07-23 11:05:31.329402+0800 LUTEC[774:263303] OnFunSDKResult 5508,p1:0,p2:1532315130,p3:0
+2018-07-23 11:05:32.292883+0800 LUTEC[774:263303] The behavior of the UICollectionViewFlowLayout is not defined because:
+2018-07-23 11:05:32.292950+0800 LUTEC[774:263303] the item height must be less than the height of the UICollectionView minus the section insets top and bottom values, minus the content insets top and bottom values.
+2018-07-23 11:05:32.293327+0800 LUTEC[774:263303] The relevant UICollectionViewFlowLayout instance is <UICollectionViewFlowLayout: 0x105d25bc0>, and it is attached to <UICollectionView: 0x10884cc00; frame = (0 0; 812 343); autoresize = RM+BM; gestureRecognizers = <NSArray: 0x1d424da40>; animations = { bounds.origin=<CABasicAnimation: 0x1c4034a40>; bounds.size=<CABasicAnimation: 0x1c4031a80>; bounds.origin-2=<CABasicAnimation: 0x1c4034020>; bounds.size-2=<CABasicAnimation: 0x1c4035620>; position=<CABasicAnimation: 0x1c4032b00>; }; layer = <CALayer: 0x1d4223d40>; contentOffset: {-44, 0}; contentSize: {7875, 734}; adjustedContentInset: {0, 44, 21, 44}> collection view layout: <UICollectionViewFlowLayout: 0x105d25bc0>.
+2018-07-23 11:05:32.293378+0800 LUTEC[774:263303] Make a symbolic breakpoint at UICollectionViewFlowLayoutBreakForInvalidSizes to catch this in the debugger.
+添加所有的手势
+2018-07-23 11:05:32.326870+0800 LUTEC[774:263303] The behavior of the UICollectionViewFlowLayout is not defined because:
+2018-07-23 11:05:32.326896+0800 LUTEC[774:263303] the item height must be less than the height of the UICollectionView minus the section insets top and bottom values, minus the content insets top and bottom values.
+2018-07-23 11:05:32.327014+0800 LUTEC[774:263303] The relevant UICollectionViewFlowLayout instance is <UICollectionViewFlowLayout: 0x105d25bc0>, and it is attached to <UICollectionView: 0x10884cc00; frame = (0 0; 812 343); autoresize = RM+BM; gestureRecognizers = <NSArray: 0x1d424da40>; animations = { bounds.origin=<CABasicAnimation: 0x1c4034a40>; bounds.size=<CABasicAnimation: 0x1c4031a80>; bounds.origin-2=<CABasicAnimation: 0x1c4034020>; bounds.size-2=<CABasicAnimation: 0x1c4035620>; position=<CABasicAnimation: 0x1c4032b00>; }; layer = <CALayer: 0x1d4223d40>; contentOffset: {0, 0}; contentSize: {7875, 322}; adjustedContentInset: {0, 0, 21, 0}> collection view layout: <UICollectionViewFlowLayout: 0x105d25bc0>.
+2018-07-23 11:05:32.328340+0800 LUTEC[774:263303] Make a symbolic breakpoint at UICollectionViewFlowLayoutBreakForInvalidSizes to catch this in the debugger.
+2018-07-23 11:05:32.339278+0800 LUTEC[774:263303] [App] if we're in the real pre-commit handler we can't actually add any new fences due to CA restriction
+2018-07-23 11:05:32.339319+0800 LUTEC[774:263303] [App] if we're in the real pre-commit handler we can't actually add any new fences due to CA restriction
+2018-07-23 11:05:32.369143+0800 LUTEC[774:263303] OnFunSDKResult 5508,p1:0,p2:1532315131,p3:0
+2018-07-23 11:05:33.345968+0800 LUTEC[774:263303] OnFunSDKResult 5508,p1:0,p2:1532315132,p3:0
+2018-07-23 11:05:34.360422+0800 LUTEC[774:263303] OnFunSDKResult 5508,p1:0,p2:1532315133,p3:0
+
+
+
+
+
+
+
+
+
+
+the item height must be less than the height of the UICollectionView minus the section insets top and bottom values, minus the content insets top and bottom values.
+2018-07-23 18:42:08.758216+0800 LUTEC[11742:275595] The relevant UICollectionViewFlowLayout instance is <UICollectionViewFlowLayout: 0x11e1333e0>, and it is attached to <UICollectionView: 0x11e88e200; frame = (0 0; 812 343); autoresize = RM+BM; gestureRecognizers = <NSArray: 0x6040002419e0>; animations = { bounds.origin=<CABasicAnimation: 0x60400043c3a0>; bounds.size=<CABasicAnimation: 0x6040006268a0>; bounds.origin-2=<CABasicAnimation: 0x6000004283c0>; bounds.size-2=<CABasicAnimation: 0x600000428400>; position=<CABasicAnimation: 0x600000428440>; }; layer = <CALayer: 0x6000002270e0>; contentOffset: {0, 0}; contentSize: {5250, 322}; adjustedContentInset: {0, 0, 21, 0}> collection view layout: <UICollectionViewFlowLayout: 0x11e1333e0>.
+2018-07-23 18:42:08.759048+0800 LUTEC[11742:275595] Make a symbolic breakpoint at UICollectionViewFlowLayoutBreakForInvalidSizes to catch this in the debugger.
+2018-07-23 18:42:08.796033+0800 LUTEC[11742:275595] [Common] _BSMachError: port f543; (os/kern) invalid capability (0x14) "Unable to insert COPY_SEND"
+

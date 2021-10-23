@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="14113" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES">
+    <device id="retina5_5" orientation="portrait">
+        <adaptation id="fullscreen"/>
+    </device>
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="14088"/>
+        <capability name="Safe area layout guides" minToolsVersion="9.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner"/>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <view alpha="0.59999999999999998" contentMode="scaleToFill" id="iN0-l3-epB" customClass="TimeSelectionBar" customModule="CAM_light" customModuleProvider="target">
+            <rect key="frame" x="0.0" y="0.0" width="375" height="36"/>
+            <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+            <subviews>
+                <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="y6G-2W-aCG">
+                    <rect key="frame" x="285" y="0.0" width="90" height="36"/>
+                    <constraints>
+                        <constraint firstAttribute="width" constant="90" id="hQH-82-12p"/>
+                    </constraints>
+                    <fontDescription key="fontDescription" type="system" pointSize="14"/>
+                    <inset key="titleEdgeInsets" minX="15" minY="0.0" maxX="0.0" maxY="2"/>
+                    <inset key="imageEdgeInsets" minX="75" minY="0.0" maxX="0.0" maxY="0.0"/>
+                    <state key="normal" title="Next" image="right_arrow">
+                        <color key="titleColor" red="0.88235294117647056" green="0.90196078431372551" blue="0.94901960784313721" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                    </state>
+                    <state key="disabled">
+                        <color key="titleColor" red="0.88235294119999996" green="0.90196078430000004" blue="0.94901960780000005" alpha="0.30248798076923078" colorSpace="custom" customColorSpace="sRGB"/>
+                    </state>
+                    <state key="highlighted">
+                        <color key="titleColor" red="0.88235294119999996" green="0.90196078430000004" blue="0.94901960780000005" alpha="0.30248798076923078" colorSpace="custom" customColorSpace="sRGB"/>
+                    </state>
+                    <connections>
+                        <action selector="nextBtnClick:" destination="iN0-l3-epB" eventType="touchUpInside" id="MDK-k1-h9R"/>
+                    </connections>
+                </button>
+                <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="left" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="hQL-tT-FkB">
+                    <rect key="frame" x="0.0" y="0.0" width="90" height="36"/>
+                    <constraints>
+                        <constraint firstAttribute="width" constant="90" id="QV3-gO-O1b"/>
+                    </constraints>
+                    <fontDescription key="fontDescription" type="system" pointSize="14"/>
+                    <inset key="contentEdgeInsets" minX="10" minY="0.0" maxX="0.0" maxY="0.0"/>
+                    <inset key="titleEdgeInsets" minX="3" minY="0.0" maxX="0.0" maxY="2"/>
+                    <state key="normal" title="Previous" image="left_arrow">
+                        <color key="titleColor" red="0.88235294119999996" green="0.90196078430000004" blue="0.94901960780000005" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                    </state>
+                    <state key="disabled">
+                        <color key="titleColor" red="1" green="1" blue="1" alpha="0.35021634615384617" colorSpace="custom" customColorSpace="sRGB"/>
+                    </state>
+                    <state key="selected">
+                        <color key="titleColor" red="0.88235294119999996" green="0.90196078430000004" blue="0.94901960780000005" alpha="0.30248798076923078" colorSpace="custom" customColorSpace="sRGB"/>
+                    </state>
+                    <state key="highlighted">
+                        <color key="titleColor" red="0.88235294119999996" green="0.90196078430000004" blue="0.94901960780000005" alpha="0.30248798076923078" colorSpace="custom" customColorSpace="sRGB"/>
+                    </state>
+                    <connections>
+                        <action selector="previousBtnClick:" destination="iN0-l3-epB" eventType="touchUpInside" id="trF-1I-P3u"/>
+                    </connections>
+                </button>
+                <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="YVC-VC-cGr">
+                    <rect key="frame" x="138" y="5" width="99" height="26"/>
+                    <constraints>
+                        <constraint firstAttribute="width" constant="99" id="3bH-cX-TYA"/>
+                        <constraint firstAttribute="height" constant="26" id="zFK-X1-76Q"/>
+                    </constraints>
+                    <fontDescription key="fontDescription" type="system" pointSize="14"/>
+                    <inset key="titleEdgeInsets" minX="0.0" minY="0.0" maxX="20" maxY="0.0"/>
+                    <inset key="imageEdgeInsets" minX="70" minY="2" maxX="0.0" maxY="0.0"/>
+                    <state key="normal" title="8月12日" image="time_arrow" backgroundImage="time_btn_bg">
+                        <color key="titleColor" red="1" green="1" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                    </state>
+                    <state key="selected">
+                        <color key="titleColor" red="0.88235294119999996" green="0.90196078430000004" blue="0.94901960780000005" alpha="0.30248798076923078" colorSpace="custom" customColorSpace="sRGB"/>
+                    </state>
+                    <state key="highlighted">
+                        <color key="titleColor" red="0.88235294119999996" green="0.90196078430000004" blue="0.94901960780000005" alpha="0.30248798076923078" colorSpace="custom" customColorSpace="sRGB"/>
+                    </state>
+                    <connections>
+                        <action selector="timeSwitchBtnClick:" destination="iN0-l3-epB" eventType="touchUpInside" id="Jq3-rs-tMr"/>
+                    </connections>
+                </button>
+                <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="tti-HE-Dmq">
+                    <rect key="frame" x="241" y="0.0" width="36" height="36"/>
+                    <constraints>
+                        <constraint firstAttribute="height" constant="36" id="r6Q-xA-dIg"/>
+                        <constraint firstAttribute="width" constant="36" id="rc7-xW-jww"/>
+                    </constraints>
+                    <state key="normal" image="time_scale"/>
+                    <connections>
+                        <action selector="timeScaleBtnClick:" destination="iN0-l3-epB" eventType="touchUpInside" id="Dw8-ns-jMf"/>
+                    </connections>
+                </button>
+            </subviews>
+            <constraints>
+                <constraint firstItem="hQL-tT-FkB" firstAttribute="top" secondItem="iN0-l3-epB" secondAttribute="top" id="1dV-nF-m1b"/>
+                <constraint firstAttribute="bottom" secondItem="y6G-2W-aCG" secondAttribute="bottom" id="B3a-hX-ugx"/>
+                <constraint firstItem="tti-HE-Dmq" firstAttribute="leading" secondItem="YVC-VC-cGr" secondAttribute="trailing" constant="4" id="BQI-ej-bU7"/>
+                <constraint firstAttribute="bottom" secondItem="hQL-tT-FkB" secondAttribute="bottom" id="H7t-2P-Mva"/>
+                <constraint firstItem="hQL-tT-FkB" firstAttribute="leading" secondItem="iN0-l3-epB" secondAttribute="leading" id="RT9-H1-C1C"/>
+                <constraint firstItem="y6G-2W-aCG" firstAttribute="top" secondItem="iN0-l3-epB" secondAttribute="top" id="XKb-4Z-4gZ"/>
+                <constraint firstItem="YVC-VC-cGr" firstAttribute="centerY" secondItem="iN0-l3-epB" secondAttribute="centerY" id="Z9R-sg-F6G"/>
+                <constraint firstAttribute="trailing" secondItem="y6G-2W-aCG" secondAttribute="trailing" id="gEq-3J-aGY"/>
+                <constraint firstItem="YVC-VC-cGr" firstAttribute="centerX" secondItem="iN0-l3-epB" secondAttribute="centerX" id="hul-gg-Ate"/>
+                <constraint firstItem="tti-HE-Dmq" firstAttribute="centerY" secondItem="iN0-l3-epB" secondAttribute="centerY" id="hwO-FQ-XHw"/>
+            </constraints>
+            <nil key="simulatedStatusBarMetrics"/>
+            <freeformSimulatedSizeMetrics key="simulatedDestinationMetrics"/>
+            <viewLayoutGuide key="safeArea" id="yMM-0T-hYH"/>
+            <connections>
+                <outlet property="nextBtn" destination="y6G-2W-aCG" id="Jwc-uE-PpM"/>
+                <outlet property="previousBtn" destination="hQL-tT-FkB" id="AXn-CF-Tpq"/>
+                <outlet property="timeScaleBtn" destination="tti-HE-Dmq" id="LIN-zu-c86"/>
+                <outlet property="timeSwitchBtn" destination="YVC-VC-cGr" id="2kf-AP-Wlx"/>
+            </connections>
+            <point key="canvasLocation" x="428.5" y="285"/>
+        </view>
+    </objects>
+    <resources>
+        <image name="left_arrow" width="6" height="11"/>
+        <image name="right_arrow" width="6" height="11"/>
+        <image name="time_arrow" width="10" height="6"/>
+        <image name="time_btn_bg" width="99" height="26"/>
+        <image name="time_scale" width="24" height="24"/>
+    </resources>
+</document>

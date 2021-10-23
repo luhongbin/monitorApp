@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="13771" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES">
+    <device id="retina4_7" orientation="portrait">
+        <adaptation id="fullscreen"/>
+    </device>
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="13772"/>
+        <capability name="Safe area layout guides" minToolsVersion="9.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner" customClass="BootViewController" customModule="LUTEC" customModuleProvider="target">
+            <connections>
+                <outlet property="process" destination="4EU-Na-qrm" id="XFf-8B-RLS"/>
+                <outlet property="view" destination="i5M-Pr-FkT" id="sfx-zR-JGt"/>
+            </connections>
+        </placeholder>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <view clearsContextBeforeDrawing="NO" contentMode="scaleToFill" id="i5M-Pr-FkT">
+            <rect key="frame" x="0.0" y="0.0" width="375" height="667"/>
+            <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+            <subviews>
+                <imageView clearsContextBeforeDrawing="NO" userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="Launch_image" translatesAutoresizingMaskIntoConstraints="NO" id="hcV-Nh-6ug">
+                    <rect key="frame" x="0.0" y="0.0" width="375" height="667"/>
+                </imageView>
+                <progressView opaque="NO" contentMode="scaleToFill" verticalHuggingPriority="750" progress="0.5" translatesAutoresizingMaskIntoConstraints="NO" id="4EU-Na-qrm">
+                    <rect key="frame" x="30" y="620" width="307" height="2"/>
+                    <color key="backgroundColor" cocoaTouchSystemColor="darkTextColor"/>
+                    <color key="progressTintColor" red="0.93714004760000003" green="0.48931664229999999" blue="0.00057870609449999996" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                    <color key="trackTintColor" red="0.1450980392" green="0.16078431369999999" blue="0.20392156859999999" alpha="1" colorSpace="calibratedRGB"/>
+                </progressView>
+                <switch opaque="NO" contentMode="scaleToFill" horizontalHuggingPriority="750" verticalHuggingPriority="750" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" on="YES" translatesAutoresizingMaskIntoConstraints="NO" id="vPO-z4-OcQ">
+                    <rect key="frame" x="144" y="216" width="49" height="31"/>
+                    <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                </switch>
+            </subviews>
+            <color key="backgroundColor" red="1" green="1" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+            <constraints>
+                <constraint firstAttribute="trailing" secondItem="4EU-Na-qrm" secondAttribute="trailing" constant="38" id="GqM-Qf-5UP"/>
+                <constraint firstItem="hcV-Nh-6ug" firstAttribute="top" secondItem="i5M-Pr-FkT" secondAttribute="top" id="Hnz-IM-6SB"/>
+                <constraint firstItem="4EU-Na-qrm" firstAttribute="leading" secondItem="i5M-Pr-FkT" secondAttribute="leading" constant="30" id="RtN-Hh-qom"/>
+                <constraint firstAttribute="trailing" secondItem="hcV-Nh-6ug" secondAttribute="trailing" id="TKY-Mf-xby"/>
+                <constraint firstAttribute="bottom" secondItem="4EU-Na-qrm" secondAttribute="bottom" constant="45" id="iCn-ts-1qC"/>
+                <constraint firstAttribute="bottom" secondItem="hcV-Nh-6ug" secondAttribute="bottom" id="wxu-cf-NSE"/>
+                <constraint firstItem="hcV-Nh-6ug" firstAttribute="leading" secondItem="i5M-Pr-FkT" secondAttribute="leading" id="xrO-RL-Bok"/>
+            </constraints>
+            <viewLayoutGuide key="safeArea" id="MqW-xf-aZi"/>
+            <point key="canvasLocation" x="24.5" y="52.5"/>
+        </view>
+    </objects>
+    <resources>
+        <image name="Launch_image" width="691" height="1174"/>
+    </resources>
+</document>

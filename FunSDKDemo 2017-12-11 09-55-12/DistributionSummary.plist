@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>FunSDKDemo.ipa</key>
+	<array>
+		<dict>
+			<key>architectures</key>
+			<array>
+				<string>armv7</string>
+				<string>arm64</string>
+			</array>
+			<key>certificate</key>
+			<dict>
+				<key>SHA1</key>
+				<string>AACD70E048919ED0AEA8E61410DFA3C19247F0C9</string>
+				<key>dateExpires</key>
+				<string>2018/9/14</string>
+				<key>type</key>
+				<string>iOS Distribution</string>
+			</dict>
+			<key>embeddedBinaries</key>
+			<array>
+				<dict>
+					<key>architectures</key>
+					<array>
+						<string>armv7</string>
+						<string>arm64</string>
+					</array>
+					<key>certificate</key>
+					<dict>
+						<key>SHA1</key>
+						<string>AACD70E048919ED0AEA8E61410DFA3C19247F0C9</string>
+						<key>dateExpires</key>
+						<string>2018/9/14</string>
+						<key>type</key>
+						<string>iOS Distribution</string>
+					</dict>
+					<key>name</key>
+					<string>IQKeyboardManagerSwift.framework</string>
+					<key>team</key>
+					<dict>
+						<key>id</key>
+						<string>FN8VZD49EJ</string>
+						<key>name</key>
+						<string>NINGBO UTEC ELECTRIC CO.,LTD</string>
+					</dict>
+				</dict>
+				<dict>
+					<key>architectures</key>
+					<array>
+						<string>armv7</string>
+						<string>arm64</string>
+					</array>
+					<key>certificate</key>
+					<dict>
+						<key>SHA1</key>
+						<string>AACD70E048919ED0AEA8E61410DFA3C19247F0C9</string>
+						<key>dateExpires</key>
+						<string>2018/9/14</string>
+						<key>type</key>
+						<string>iOS Distribution</string>
+					</dict>
+					<key>name</key>
+					<string>MBProgressHUD.framework</string>
+					<key>team</key>
+					<dict>
+						<key>id</key>
+						<string>FN8VZD49EJ</string>
+						<key>name</key>
+						<string>NINGBO UTEC ELECTRIC CO.,LTD</string>
+					</dict>
+				</dict>
+				<dict>
+					<key>architectures</key>
+					<array>
+						<string>armv7</string>
+						<string>arm64</string>
+					</array>
+					<key>certificate</key>
+					<dict>
+						<key>SHA1</key>
+						<string>AACD70E048919ED0AEA8E61410DFA3C19247F0C9</string>
+						<key>dateExpires</key>
+						<string>2018/9/14</string>
+						<key>type</key>
+						<string>iOS Distribution</string>
+					</dict>
+					<key>name</key>
+					<string>SnapKit.framework</string>
+					<key>team</key>
+					<dict>
+						<key>id</key>
+						<string>FN8VZD49EJ</string>
+						<key>name</key>
+						<string>NINGBO UTEC ELECTRIC CO.,LTD</string>
+					</dict>
+				</dict>
+				<dict>
+					<key>architectures</key>
+					<array>
+						<string>armv7</string>
+						<string>arm64</string>
+					</array>
+					<key>certificate</key>
+					<dict>
+						<key>SHA1</key>
+						<string>AACD70E048919ED0AEA8E61410DFA3C19247F0C9</string>
+						<key>dateExpires</key>
+						<string>2018/9/14</string>
+						<key>type</key>
+						<string>iOS Distribution</string>
+					</dict>
+					<key>name</key>
+					<string>SwiftyJSON.framework</string>
+					<key>team</key>
+					<dict>
+						<key>id</key>
+						<string>FN8VZD49EJ</string>
+						<key>name</key>
+						<string>NINGBO UTEC ELECTRIC CO.,LTD</string>
+					</dict>
+				</dict>
+			</array>
+			<key>entitlements</key>
+			<dict>
+				<key>application-identifier</key>
+				<string>FN8VZD49EJ.steniel.com</string>
+				<key>aps-environment</key>
+				<string>production</string>
+				<key>com.apple.developer.team-identifier</key>
+				<string>FN8VZD49EJ</string>
+				<key>get-task-allow</key>
+				<false/>
+			</dict>
+			<key>name</key>
+			<string>LUTEC.app</string>
+			<key>profile</key>
+			<dict>
+				<key>UUID</key>
+				<string>26a98082-fb70-4c2e-88c1-fd7517416622</string>
+				<key>name</key>
+				<string>iOS Team Ad Hoc Provisioning Profile: steniel.com</string>
+			</dict>
+			<key>team</key>
+			<dict>
+				<key>id</key>
+				<string>FN8VZD49EJ</string>
+				<key>name</key>
+				<string>NINGBO UTEC ELECTRIC CO.,LTD</string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>
